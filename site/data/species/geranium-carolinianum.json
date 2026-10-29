@@ -1,0 +1,17 @@
+{
+  "id": "geranium-carolinianum",
+  "family": "Geraniaceae",
+  "genus": "Geranium",
+  "scientific_name": "Geranium carolinianum",
+  "common_name": "Carolina geranium",
+  "look_here_first": "Deeply palmately lobed leaves, small five-petaled pinkish flowers and slender pointed beaklike fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "df2f7ca972fdd1532008f606033fcf79664264c640f1875b79a9c6271d5190d3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

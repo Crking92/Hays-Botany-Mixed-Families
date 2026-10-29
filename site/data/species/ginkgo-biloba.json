@@ -1,0 +1,38 @@
+{
+  "id": "ginkgo-biloba",
+  "family": "Ginkgoaceae",
+  "genus": "Ginkgo",
+  "scientific_name": "Ginkgo biloba",
+  "common_name": "Ginkgo / maidenhair tree",
+  "look_here_first": "LOOK HERE FIRST: Single fan-shaped leaves with repeatedly FORKING (dichotomous) veins, often notched at tip; leaves cluster on short spur shoots. Female trees bear fleshy-coated naked seeds, not berries or drupes.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous ornamental tree, crown narrow to spreading with age."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Simple fan-shaped long-petioled leaves with dichotomously forked veins; notch variable; short spur shoots often carry clusters."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Gymnosperm: male pollen cones and female stalked ovules; no true flowers."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Fleshy-coated seeds borne on female trees, not enclosed in a fruit ovary."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Short spur shoots plus longer extension shoots; rough furrowed bark with age."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e61b3e1e32f7cf45d4d3eebbeecbc2623a9ae38271835842163cc58d01c55aa4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

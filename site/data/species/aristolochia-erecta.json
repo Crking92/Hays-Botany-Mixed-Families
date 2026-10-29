@@ -1,0 +1,70 @@
+{
+  "id": "aristolochia-erecta",
+  "family": "Aristolochiaceae",
+  "genus": "Aristolochia",
+  "scientific_name": "Aristolochia erecta",
+  "common_name": "Swanflower",
+  "look_here_first": "Look low in grasses and open sandy ground. Swanflower is a tiny erect-to-sprawling perennial with very narrow grasslike leaves and a strange brown-purple curved flower arising near the stem. The showy tube is a petaloid fused calyx/perianth, not a normal petal corolla.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small perennial herb, erect to sprawling, often hidden among grasses"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves narrow linear-lanceolate and grasslike"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers solitary in leaf axils on slender peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "petals absent; showy structure is a curved brown-purple fused petaloid calyx/perianth"
+    },
+    {
+      "label": "Identification",
+      "text": "perianth tube curved upward with a single strap-like limb"
+    },
+    {
+      "label": "Identification",
+      "text": "gynostemium present with 5 anthers"
+    },
+    {
+      "label": "Identification",
+      "text": "ovary inferior and 5-locular"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit an ovoid 5-valved capsule with many flat triangular seeds"
+    },
+    {
+      "label": "Leaves",
+      "text": "Narrow grasslike leaves are a major local gestalt cue but should not be used alone."
+    },
+    {
+      "label": "Flower",
+      "text": "The brown-purple flower is built from a fused petaloid calyx/perianth, not a separate corolla. The curved tube and single limb are highly distinctive."
+    },
+    {
+      "label": "Ovary",
+      "text": "Inferior; the compact gynostemium carries the anthers and styles in the flower center."
+    },
+    {
+      "label": "Fruit",
+      "text": "Ovoid capsule opening by five valves; many flat triangular seeds."
+    },
+    {
+      "label": "Ecology",
+      "text": "Central and South Texas sandy/open habitats; larval host for the pipevine swallowtail."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "df71393fe7cacc2a2689cada10244a1c927f5fcb76b6d644a0fbc2e3b24cc91d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

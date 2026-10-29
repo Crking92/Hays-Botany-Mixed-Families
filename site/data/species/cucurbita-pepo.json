@@ -1,0 +1,38 @@
+{
+  "id": "cucurbita-pepo",
+  "family": "Cucurbitaceae",
+  "genus": "Cucurbita",
+  "scientific_name": "Cucurbita pepo",
+  "common_name": "Pumpkin / summer squash",
+  "look_here_first": "LOOK HERE FIRST: Check an annual coarse squash vine or bush with alternate often deeply 5–7-lobed rough leaves. At stem nodes inspect stiff hairs and their swollen pustulate bases; on a mature fruit look for a firm, five-ribbed stalk. The staged image shows a cultivated straightneck squash plant, flowers and lobed leaves, NOT a stem-hair macro or a measured fruiting stalk.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual cultivated or escaped squash; sprawling vines or compact bush cultivars, variable growth form."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Alternate broad rough blades, often 5–7-lobed; cultivars vary in lobing, markings and size."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Large yellow unisexual flowers, with male and female flowers borne separately on same plant; female flower has swollen inferior ovary."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Very variable pepo fruit among pumpkin, zucchini and summer squash cultivars; fruiting peduncle often hard, five-angled/ribbed and not or gradually expanded at fruit."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Rough annual stems with commonly persistent hairs on strong pustulate bases; tendrils and nodes help separate from unrelated broad-leaved crops."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "24c6a7a71236f439c3dbcdcc25a7863dd5617f55b34bea7556a028e968290895",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

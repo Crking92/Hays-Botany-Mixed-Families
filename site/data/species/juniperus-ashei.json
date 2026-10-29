@@ -1,0 +1,50 @@
+{
+  "id": "juniperus-ashei",
+  "family": "Cupressaceae",
+  "genus": "Juniperus",
+  "scientific_name": "Juniperus ashei",
+  "common_name": "Ashe Juniper",
+  "look_here_first": "On adult foliage, inspect the tiny scale leaves for a darker raised, nearly circular to hemispheric resin gland. Then confirm with dark-blue glaucous seed cones and thin shredding bark.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Evergreen dioecious shrub to small tree, often irregular to rounded and sometimes multistemmed."
+    },
+    {
+      "label": "Bark",
+      "text": "Brown to gray bark exfoliating in thin fibrous or shredding strips."
+    },
+    {
+      "label": "Leaves",
+      "text": "Adult leaves are tiny appressed scales; typical blades about 1 mm long with finely toothed margins and a darker raised circular resin gland. Vigorous whip shoots may carry longer awl-like leaves."
+    },
+    {
+      "label": "Reproductive",
+      "text": "Pollen cones are small and terminal. Mature seed cones are berrylike, dark purplish-blue and glaucous, typically 6–9 mm and commonly one-seeded."
+    },
+    {
+      "label": "Identification",
+      "text": "raised rounded scale-leaf gland"
+    },
+    {
+      "label": "Identification",
+      "text": "finely toothed scale-leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "dark blue glaucous seed cones"
+    },
+    {
+      "label": "Identification",
+      "text": "shredding fibrous bark"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "48d6328af7dd46f264ab0fadd884860e217f1ef8d28b340c6cc18702fa8bba4e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

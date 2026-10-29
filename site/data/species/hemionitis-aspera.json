@@ -1,0 +1,17 @@
+{
+  "id": "hemionitis-aspera",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "scientific_name": "Hemionitis aspera",
+  "common_name": "Rough lip fern",
+  "look_here_first": "Check frond hairiness and mature sporangia along the folded pinnule margins.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "850e938231928c5fea3a925b2932c1a33952578dee5d6e070ffc1f570d4d3135",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

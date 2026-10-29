@@ -1,0 +1,38 @@
+{
+  "id": "cucurbita-foetidissima",
+  "family": "Cucurbitaceae",
+  "genus": "Cucurbita",
+  "scientific_name": "Cucurbita foetidissima",
+  "common_name": "Buffalo gourd",
+  "look_here_first": "LOOK HERE FIRST: Find the rough triangular to broadly ovate leaf blades, usually unlobed or only shallowly lobed, on a long trailing vine. Look for small round, often striped young gourds. This is a perennial from a substantial tuberous rootstock; do not excavate plants merely to verify it. The staged photo shows the leaves, vines and striped fruits, not the underground root.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Long-running, coarse, trailing perennial vine from a large perennial rootstock; stems rough and bearing tendrils."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Alternate, simple, rough leaves, typically triangular to broad-ovate, mostly unlobed or shallowly lobed; do not diagnose by odor alone."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Separate male and female large yellow flowers on the same plant; inspect female inferior ovary below corolla and the calyx/corolla from the side."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Usually small globose gourds around 5–10 cm, green-striped when young and yellowing as mature; compare fruiting peduncle and seed with other Cucurbita."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Trailing rough stems with axillary tendrils; perennial rootstock is a distinguishing life-history character but not safely visible in a normal field photograph."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5d6fd15e55e326160b155f2b03b9c289e62d3e8209ca854879b486d54a263d71",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

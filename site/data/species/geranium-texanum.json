@@ -1,0 +1,17 @@
+{
+  "id": "geranium-texanum",
+  "family": "Geraniaceae",
+  "genus": "Geranium",
+  "scientific_name": "Geranium texanum",
+  "common_name": "Texas cranesbill",
+  "look_here_first": "Inspect palmately divided leaves and five-petaled flowers; confirm with beak-shaped seed capsules and mature fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "eaedef440188a57819a8c155694a917138025cc23e444af98b0470b8fc4d3cf0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

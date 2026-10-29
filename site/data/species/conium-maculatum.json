@@ -1,0 +1,17 @@
+{
+  "id": "conium-maculatum",
+  "family": "Apiaceae",
+  "genus": "Conium",
+  "scientific_name": "Conium maculatum",
+  "common_name": "Poison hemlock",
+  "look_here_first": "LOOK HERE FIRST: Check for a smooth green stem with irregular purple blotches, then finely divided leaves and compound umbels of tiny white flowers. Confirm several structures together rather than relying on stem color alone.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "088f2143d1df91b6f82db92f1417675c4da77d21391ab0036a55614400936d0e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

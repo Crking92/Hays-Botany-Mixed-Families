@@ -1,0 +1,17 @@
+{
+  "id": "ephedra-antisyphilitica",
+  "family": "Ephedraceae",
+  "genus": "Ephedra",
+  "scientific_name": "Ephedra antisyphilitica",
+  "common_name": "Mormon tea",
+  "look_here_first": "Look for a low, broomlike shrub of jointed green photosynthetic stems with leaves reduced to minute scales; examine seed cones.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9569a07ad62ebfbc2a616495e36c5de042e5d81f64024789f45cc4000262268a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

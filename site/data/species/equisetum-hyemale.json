@@ -1,0 +1,17 @@
+{
+  "id": "equisetum-hyemale",
+  "family": "Equisetaceae",
+  "genus": "Equisetum",
+  "scientific_name": "Equisetum hyemale",
+  "common_name": "Scouringrush horsetail",
+  "look_here_first": "Hollow jointed green stems with dark nodes and terminal conelike strobili; spore-bearing not flowering.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "52204c9788c669ed706200de3fac914901651324b5f03441d97c09e9aa9154c7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

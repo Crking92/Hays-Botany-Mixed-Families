@@ -1,0 +1,42 @@
+{
+  "id": "eryngium-yuccifolium",
+  "family": "Apiaceae",
+  "genus": "Eryngium",
+  "scientific_name": "Eryngium yuccifolium",
+  "common_name": "Rattlesnake master",
+  "look_here_first": "Start with the leaves: long stiff yucca-like linear leaves with spiny margins, topped by pale greenish-white globose heads. It lacks the vivid purple canopy and broad divided leaves of E. leavenworthii.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial from thickened rootstock"
+    },
+    {
+      "label": "Identification",
+      "text": "long linear yucca-like basal leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "parallel-looking venation"
+    },
+    {
+      "label": "Identification",
+      "text": "spiny leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "globose to ovoid pale heads"
+    },
+    {
+      "label": "Identification",
+      "text": "no conspicuous purple terminal bract crown"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "E. leavenworthii is annual, purple, and broad/divided-leaved; E. yuccifolium is perennial and yucca-leaved."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cea7d67902ae0ccad3e8b78a9cf31effe35d7e0a9f9bc07019add2521e32baed",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

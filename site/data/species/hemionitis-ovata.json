@@ -1,0 +1,17 @@
+{
+  "id": "hemionitis-ovata",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "scientific_name": "Hemionitis ovata",
+  "common_name": "Ovalleaf cliffbrake",
+  "look_here_first": "Examine frond shape, pinnules, and fertile margins with sporangia.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f03551dcc26892685d491ac82b5bc0a1287647c5f5364d97105b636dbdd0ac03",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

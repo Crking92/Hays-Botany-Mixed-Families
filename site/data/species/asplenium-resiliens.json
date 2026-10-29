@@ -1,0 +1,38 @@
+{
+  "id": "asplenium-resiliens",
+  "family": "Aspleniaceae",
+  "genus": "Asplenium",
+  "scientific_name": "Asplenium resiliens",
+  "common_name": "Blackstem spleenwort",
+  "look_here_first": "LOOK HERE FIRST: Follow the glossy black stipe into the black rachis all the way through the narrow once-pinnate blade. Check the many small oblong pinnae, usually with a tiny upper-side basal ear (acroscopic auricle). Turn a fertile pinna over to look for 2–5 pairs of elongated sori.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small perennial fern rooted in shaded rock cracks and limestone or other basic rock; fronds narrow, commonly 9–20 cm long."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Frond once pinnate throughout, with roughly 20–40 pairs of oblong pinnae; margins entire to shallowly scalloped; small acroscopic auricle often present at pinna base."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Ferns lack flowers. Mature pinnae bear usually 2–5 pairs of elongate sori along veins on the underside; a thin indusium covers young sori."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "No fruit or seeds; spores develop in sporangia inside the underside sori."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Petiole (stipe) and leaf axis (rachis) are glossy black throughout, unlike relatives with green upper rachises."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "734dfa012eb40bceac46b71848b189703a0a5fd7c56b51415897d64c19f60abb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

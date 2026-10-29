@@ -1,0 +1,42 @@
+{
+  "id": "eryngium-leavenworthii",
+  "family": "Apiaceae",
+  "genus": "Eryngium",
+  "scientific_name": "Eryngium leavenworthii",
+  "common_name": "Leavenworth's Eryngo / False Purple Thistle",
+  "look_here_first": "Start with color and leaf shape. Leavenworth's eryngo is an annual that turns dramatically purple in the flowering canopy; its upper leaves are broad, deeply palmately divided, and sharply spiny. The flowering heads are elongated and topped by a conspicuous crown of spiny bracts.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual taprooted herb"
+    },
+    {
+      "label": "Identification",
+      "text": "upper plant often vividly purple"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaves broad and palmately divided into spiny lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "elongated headlike spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuous terminal crown/coma of spiny bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "late-summer to fall flowering"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Eryngium yuccifolium is a perennial with long yucca-like linear leaves and pale greenish-white globose heads, lacking the purple palmately divided canopy."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a412248bf1f37d892322b55d3223901d575c226be38444b5933a392b7d9b9430",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

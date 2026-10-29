@@ -1,0 +1,46 @@
+{
+  "id": "adiantum-capillus-veneris",
+  "family": "Pteridaceae",
+  "genus": "Adiantum",
+  "scientific_name": "Adiantum capillus-veneris",
+  "common_name": "Southern Maidenhair / Venus-hair Fern",
+  "look_here_first": "Start with the glossy black wiry rachis and delicate fan-shaped pinnules. Southern maidenhair grows from moist limestone seeps, springs, and shaded cliffs, with sori tucked beneath reflexed flap-like false indusia along the pinnule margins.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial rhizomatous fern"
+    },
+    {
+      "label": "Identification",
+      "text": "glossy dark reddish-brown to black stipes and rachises"
+    },
+    {
+      "label": "Identification",
+      "text": "fronds 1–3 pinnate"
+    },
+    {
+      "label": "Identification",
+      "text": "small fan- to wedge-shaped pinnules"
+    },
+    {
+      "label": "Identification",
+      "text": "veins repeatedly forked"
+    },
+    {
+      "label": "Identification",
+      "text": "marginal sori covered by reflexed false indusia"
+    },
+    {
+      "label": "Identification",
+      "text": "strong association with moist limestone seeps and springs"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Black wiry rachis + fan-shaped pinnules + moist limestone seep habitat is the Central Texas maidenhair package."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "345309ff0715ff418d0169a5f81503f1837d6bac99f451a61142657e4fc836eb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

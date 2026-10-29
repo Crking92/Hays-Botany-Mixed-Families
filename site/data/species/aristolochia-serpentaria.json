@@ -1,0 +1,58 @@
+{
+  "id": "aristolochia-serpentaria",
+  "family": "Aristolochiaceae",
+  "genus": "Aristolochia",
+  "scientific_name": "Aristolochia serpentaria",
+  "common_name": "Virginia snakeroot / Virginia Dutchman's pipe",
+  "look_here_first": "Start low on the plant, near the lowest nodes and leaf litter. The strange brown-purple flower has no ordinary petal whorl: the showy structure is a bent, tubular petaloid calyx/perianth. Then confirm the variable lanceolate-to-cordate leaves and the nearly spherical dry capsule.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial herb, often inconspicuous in woodland litter"
+    },
+    {
+      "label": "Identification",
+      "text": "stems erect to sprawling"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves variable from lanceolate to heart-shaped"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers solitary on slender scaly peduncles from low nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "petals absent; showy structure is a tubular S-shaped petaloid calyx/perianth"
+    },
+    {
+      "label": "Identification",
+      "text": "perianth brownish purple, enlarged basally and distally, with an unevenly three-lobed tip"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior ovary"
+    },
+    {
+      "label": "Identification",
+      "text": "dry nearly spherical capsule with numerous seeds"
+    },
+    {
+      "label": "Family training",
+      "text": "Use A. serpentaria to teach that Aristolochia's bizarre flower is not a normal corolla. The perianth/calyx tube, inferior ovary, low flower position and capsule matter more than leaf shape alone."
+    },
+    {
+      "label": "Ecology",
+      "text": "Moist to mesic woodland and shaded calcareous sites in Central Texas; larval host for pipevine swallowtail."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7cfdf8eaf90dc7116b5d776e6943abff43755a0e0fcaa2e1204749694208db98",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

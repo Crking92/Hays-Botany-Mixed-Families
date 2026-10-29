@@ -1,0 +1,70 @@
+{
+  "id": "juniperus-virginiana",
+  "family": "Cupressaceae",
+  "genus": "Juniperus",
+  "scientific_name": "Juniperus virginiana",
+  "common_name": "Eastern Redcedar",
+  "look_here_first": "If a female tree has cones, start there: eastern redcedar has small glaucous blue-black cones about 4.5–5 mm across, commonly with 1–2(–3) seeds. Then inspect an adult scale leaf: the resin gland is pit-like/depressed near the base rather than a raised rounded mid-blade gland. Ashe juniper usually has larger 6.5–9.6 mm cones with one seed and a raised circular-to-hemispheric gland.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Evergreen dioecious small to medium tree, often single-trunked and conic/columnar when young."
+    },
+    {
+      "label": "Bark",
+      "text": "Red-brown bark exfoliating or shredding in thin strips."
+    },
+    {
+      "label": "Leaves",
+      "text": "Adult leaves tiny and appressed in four-ranked sprays; resin gland pit-like/depressed near the basal-central part of the scale. Vigorous shoots can bear longer awl-shaped leaves."
+    },
+    {
+      "label": "Reproductive",
+      "text": "Mature seed cones berrylike, glaucous blue-black, about 4.5–5 mm and commonly 1–2(–3)-seeded."
+    },
+    {
+      "label": "Identification",
+      "text": "evergreen dioecious small to medium tree, often with a single trunk and conic/columnar crown when young"
+    },
+    {
+      "label": "Identification",
+      "text": "adult foliage shoots slender, approximately four-sided, with closely appressed opposite scale leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "adult scale leaves about 1 mm long, dark green and often slightly glossy"
+    },
+    {
+      "label": "Identification",
+      "text": "resin gland expressed as a small pit/depression near the basal-central part of the scale leaf"
+    },
+    {
+      "label": "Identification",
+      "text": "vigorous juvenile/whip shoots may carry longer sharp awl-shaped leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "bark red-brown, thin and exfoliating/shredding in strips"
+    },
+    {
+      "label": "Identification",
+      "text": "mature berrylike seed cones small, about 4.5–5 mm, glaucous blue-black"
+    },
+    {
+      "label": "Identification",
+      "text": "seed cones commonly 1–2(–3)-seeded, often with one seed larger"
+    },
+    {
+      "label": "Identification",
+      "text": "more associated with Blackland Prairie/Post Oak/eastern or mesic sites than the dry limestone cedar-break dominance of Ashe juniper"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fb1a5209d8d033b00fc81a2ae0e7dbf1c1f21b6477762d4cb60274a44fe83dd8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

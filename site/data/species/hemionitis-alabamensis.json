@@ -1,0 +1,17 @@
+{
+  "id": "hemionitis-alabamensis",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "scientific_name": "Hemionitis alabamensis",
+  "common_name": "Alabama lip fern",
+  "look_here_first": "Inspect the finely divided frond and its mature spore-bearing underside, focusing on leaflet shape and scales.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "223acd4a1d5989a1a428048271bcbb2492bd3257a825334bb9dc43207eec6af3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

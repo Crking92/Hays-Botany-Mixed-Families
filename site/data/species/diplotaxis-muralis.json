@@ -1,0 +1,17 @@
+{
+  "id": "diplotaxis-muralis",
+  "family": "Brassicaceae",
+  "genus": "Diplotaxis",
+  "scientific_name": "Diplotaxis muralis",
+  "common_name": "Wallrocket",
+  "look_here_first": "Inspect four yellow petals in a cross, basal deeply lobed leaves, and slender siliques (seedpods) on ascending stalks.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e4989b530f437074eb0ff723f65ae71d0ee9c85fdd1f28a04e57dfa1a3802a45",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

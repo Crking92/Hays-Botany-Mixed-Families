@@ -1,0 +1,17 @@
+{
+  "id": "daucus-pusillus",
+  "family": "Apiaceae",
+  "genus": "Daucus",
+  "scientific_name": "Daucus pusillus",
+  "common_name": "American wild carrot",
+  "look_here_first": "Finely divided carrot-like leaves, compact compound umbels of tiny pale flowers and bristly seed fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bc78a7b39724e5d476e4c71abbf28112dbf19a74f3341c9aca8f8d1c9cb6c351",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "adiantum-pedatum",
+  "family": "Pteridaceae",
+  "genus": "Adiantum",
+  "scientific_name": "Adiantum pedatum",
+  "common_name": "Northern maidenhair fern",
+  "look_here_first": "Look at the overall frond architecture: pinnae spread in a broad, fanlike or horseshoe arrangement from the upper end of a slender dark stipe. Contrast this with the elongated, repeatedly branching triangular fronds of the locally relevant Adiantum capillus-veneris; do not identify by black stalk alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Terrestrial rhizomatous perennial fern, not a flowering plant."
+    },
+    {
+      "label": "Identification",
+      "text": "Slender glossy dark brown to black stipe; pinnae radiate or curve in a fanlike arrangement from the distal stipe."
+    },
+    {
+      "label": "Identification",
+      "text": "Small asymmetrical fan- to wedge-shaped pinnules with repeatedly forked veins."
+    },
+    {
+      "label": "Identification",
+      "text": "Fertile pinnule margins roll back to form false indusia over marginal sori."
+    },
+    {
+      "label": "Identification",
+      "text": "Spore-bearing structures, not flowers or seeds, are the reproductive characters to inspect."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Frond branching pattern first; then fertile pinnule margins and pinna arrangement."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "762252d52a5e07127fd907b45e0e974b645e6cdb4306a088677d300f18754ad9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

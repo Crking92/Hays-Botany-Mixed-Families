@@ -1,0 +1,17 @@
+{
+  "id": "cleome-dodecandra",
+  "family": "Cleomaceae",
+  "genus": "Cleome",
+  "scientific_name": "Cleome dodecandra",
+  "common_name": "Clammyweed",
+  "look_here_first": "Inspect sticky glandular hairs, long floral stamens and narrow seedpods.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cde4f008010ae5aed05b29a1d8a09f2b558771583fd2ea74129ff6aff94bc4f3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

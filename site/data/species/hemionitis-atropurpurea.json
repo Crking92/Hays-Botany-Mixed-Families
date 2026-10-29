@@ -1,0 +1,17 @@
+{
+  "id": "hemionitis-atropurpurea",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "scientific_name": "Hemionitis atropurpurea",
+  "common_name": "Purple-stem cliffbrake",
+  "look_here_first": "Look for dark purplish leaf stalks and distinctly stalked leaf segments; inspect sori along the edges.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "18bb9f715beac33749394be0c3eb1d69767b54ad1a9e1194ee9e474f3839f087",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

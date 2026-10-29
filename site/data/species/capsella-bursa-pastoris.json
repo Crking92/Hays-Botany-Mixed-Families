@@ -1,0 +1,17 @@
+{
+  "id": "capsella-bursa-pastoris",
+  "family": "Brassicaceae",
+  "genus": "Capsella",
+  "scientific_name": "Capsella bursa-pastoris",
+  "common_name": "Shepherd's purse",
+  "look_here_first": "Basal rosette of deeply lobed leaves, small four-petaled white flowers and strongly triangular to heart-shaped seedpods.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "533c147b06b34f22fe5a75507aede22b15799613037768202b09377679a023be",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "daucosma-laciniata",
+  "family": "Apiaceae",
+  "genus": "Daucosma",
+  "scientific_name": "Daucosma laciniata",
+  "common_name": "Meadow daucosma",
+  "look_here_first": "Look closely at the finely divided leaves and compound umbels, then examine the ribs and wings of mature fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7f900f2fd0dd231f62fb7889332cc55e897b038eb0724120956eb8d03931b73a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

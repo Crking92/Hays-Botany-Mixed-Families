@@ -1,0 +1,17 @@
+{
+  "id": "cevallia-sinuata",
+  "family": "Loasaceae",
+  "genus": "Cevallia",
+  "scientific_name": "Cevallia sinuata",
+  "common_name": "Cevallia",
+  "look_here_first": "Look closely at hairy, often lobed leaves and stems; examine the tiny clustered flowers and their bracts rather than relying on growth habit alone.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "69d419b3306cadfc94c8b5b847cde6fb37719882abb728cc92ff07fb6cf3267b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

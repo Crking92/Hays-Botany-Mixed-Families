@@ -1,0 +1,17 @@
+{
+  "id": "atrema-americanum",
+  "family": "Apiaceae",
+  "genus": "Atrema",
+  "scientific_name": "Atrema americanum",
+  "common_name": "American bifora",
+  "look_here_first": "Look for finely dissected leaves and compound umbels; use the paired mature mericarps for confirmation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fb93744b209d213f8cf2f32765cf8f7904c8991979bf77c7fe1e323b9b3ea5ed",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

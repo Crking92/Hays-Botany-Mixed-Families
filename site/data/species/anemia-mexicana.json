@@ -1,0 +1,38 @@
+{
+  "id": "anemia-mexicana",
+  "family": "Schizaeaceae",
+  "genus": "Anemia",
+  "scientific_name": "Anemia mexicana",
+  "common_name": "Mexican flowering fern",
+  "look_here_first": "LOOK HERE FIRST: Find the upright, narrow spore-bearing pair of basal pinnae that rises above the broad green sterile part of the frond. These are fertile fern leaf divisions, NOT flowers. Check the straw-colored stalk and once-pinnate blade with 4–7 pairs of mostly lanceolate pinnae.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Terrestrial fern of lightly shaded limestone rock habitats; fronds arise along a creeping rhizome, rather than from a single tight crown."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Sterile green blade roughly triangular to lanceolate and once pinnate, typically 4–7 pairs of lanceolate pinnae with finely serrulate edges; straw-colored petiole."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Ferns have no flowers or seeds. Sporangia are concentrated on a distinctive erect pair of narrow fertile pinnae near the base of the blade; these can project above the sterile blade."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "No fruit or seed; examine mature sporangia and ridged spores on fertile pinnae."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Creeping rhizome with dark hairs; inspect the long straw-colored frond stalk."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fb6e03a6d88d1f248fb0903089eb29f661e3dc4ce938a9489c23ba8e5e1f7eb3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

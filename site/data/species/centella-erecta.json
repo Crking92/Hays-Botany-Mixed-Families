@@ -1,0 +1,17 @@
+{
+  "id": "centella-erecta",
+  "family": "Apiaceae",
+  "genus": "Centella",
+  "scientific_name": "Centella erecta",
+  "common_name": "Upright marshpennywort",
+  "look_here_first": "Check the rounded scalloped leaf blades on long petioles and small clustered flowers close to the ground; inspect where the petiole attaches.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4f1029dafe8b508af11bed4c7e02bd736679ef890bf0610b9adea084980021e6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

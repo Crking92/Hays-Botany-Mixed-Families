@@ -1,0 +1,17 @@
+{
+  "id": "hemionitis-artax",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "scientific_name": "Hemionitis artax",
+  "common_name": "Powdery cloak fern",
+  "look_here_first": "Check frond division and the pale farinose coating on the underside, then look at the spore-bearing margins.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d9d4e3751694dd012f8653d74ddae211405c0371dd75ce181493f06ca3bae228",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

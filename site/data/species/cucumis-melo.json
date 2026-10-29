@@ -1,0 +1,17 @@
+{
+  "id": "cucumis-melo",
+  "family": "Cucurbitaceae",
+  "genus": "Cucumis",
+  "scientific_name": "Cucumis melo",
+  "common_name": "Muskmelon",
+  "look_here_first": "LOOK HERE FIRST: Find a trailing, rough-hairy vine with curling tendrils, broad heart-shaped to shallowly lobed leaves with toothed edges, and five-lobed yellow flowers. Male flowers may cluster, while female flowers have a small developing melon behind the petals. Fruit form is variable among cultivated melons; use flower, leaf and tendril features together.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "712db746a7710648e63f66fc1f774bfecfb9014e26a666ec9994e5d2049001c5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

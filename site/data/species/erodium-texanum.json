@@ -1,0 +1,17 @@
+{
+  "id": "erodium-texanum",
+  "family": "Geraniaceae",
+  "genus": "Erodium",
+  "scientific_name": "Erodium texanum",
+  "common_name": "Texas filaree",
+  "look_here_first": "Low spreading plant with rounded heart-shaped leaves, magenta-pink five-petal flowers and elongated beaked fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0a2a27446e058e0f4d660cfd73c14578e1fd66a73310dbc8e19eb070af1a3418",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
