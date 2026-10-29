@@ -1,0 +1,17 @@
+{
+  "id": "torilis-arvensis",
+  "family": "Apiaceae",
+  "genus": "Torilis",
+  "scientific_name": "Torilis arvensis",
+  "common_name": "Hedge parsley",
+  "look_here_first": "Small umbels and hooked bristly fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bcca0cee1583b2a906a6c5f36615ff2c7e22f1bcaf6f2987e3a61a334d6ac0be",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

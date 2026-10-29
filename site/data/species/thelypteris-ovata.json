@@ -1,0 +1,17 @@
+{
+  "id": "thelypteris-ovata",
+  "family": "Thelypteridaceae",
+  "genus": "Thelypteris",
+  "scientific_name": "Thelypteris ovata",
+  "common_name": "Ovate maiden fern",
+  "look_here_first": "Examine frond pinnae, veination and underside sori; exclude the distinct Lindheimer's fern concept.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b5120faeb8a73c3ab5bcdf23416c5a0d3f76c8b447ac3f04efe269c17e14df8e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

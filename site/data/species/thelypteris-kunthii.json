@@ -1,0 +1,17 @@
+{
+  "id": "thelypteris-kunthii",
+  "family": "Thelypteridaceae",
+  "genus": "Thelypteris",
+  "scientific_name": "Thelypteris kunthii",
+  "common_name": "Southern shield fern",
+  "look_here_first": "Turn over a mature frond and inspect the sori and indusia; compare arrangement of pinnae and deeply lobed pinnules along the rachis.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e0ffe07d61f4784c2298119e432c8eac4012ec2bb719dbd9dcca9043596d6c62",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
