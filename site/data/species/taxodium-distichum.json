@@ -39,8 +39,48 @@
     "names": [],
     "differences": "Deciduous conifer + feathery two-ranked foliage + wet-site buttressed trunk/knees + round cones is the core field package."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/taxodium-distichum/01-texas-habit.jpg",
+      "creator": "Thomas & Dianne Jones",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Taxodium_distichum_Caddo_Lake_TX_1.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "23b3f9e556834eb28176f753e4fdbbbb5a9639e9",
+      "role": "Tree habit / wetland trunks and crowns",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/taxodium-distichum/02-foliage-cones.jpg",
+      "creator": "Jamain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Taxodium_distichum_cones_J1.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "6aec5ed03f07192f1c18115724062206120e1dbf",
+      "role": "Leafy branchlets and rounded seed cones",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/taxodium-distichum/03-bark.jpg",
+      "creator": "MONGO",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bald_Cypress_(Taxodium_distichum)_bark_detail.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "435cb0f40bb8e010c9ad6ad1663f7929272f8942",
+      "role": "Bark detail / fibrous ridges and furrows",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "32991b75defdfd1d3157cd659f5def8c0dd387171c50ccd836b4dafa199382a1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

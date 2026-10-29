@@ -51,8 +51,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/samolus-parviflorus/01-cultivated-leaf-rosette.jpg",
+      "creator": "Agnieszka Kwiecień, Nova",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Samolus_valerandi_subsp._parviflorus_2019-04-28_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d1fc7d90831242ff6cf5df41dc729cba09bb183c",
+      "role": "Cultivated aquarium leaf rosette: spoon-shaped leaves; flowering diagnostic structures not visible",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "89afec23d3e2fb52889b61981f151d53e583d19d3fef0d18a0c0288fa24fca8a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
