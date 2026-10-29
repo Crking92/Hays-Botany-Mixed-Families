@@ -1,0 +1,54 @@
+{
+  "id": "physaria-engelmannii",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "scientific_name": "Physaria engelmannii",
+  "common_name": "Engelmann's bladderpod",
+  "look_here_first": "Densely hairy perennial bladderpod with several stems from the base, bright yellow flowers in tight clusters, and small globose to ellipsoid fruits.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "few to several stems from base"
+    },
+    {
+      "label": "Identification",
+      "text": "dense stellate pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "bright yellow flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "dense subumbellate racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "globose to ellipsoid fruits"
+    },
+    {
+      "label": "Identification",
+      "text": "short ascending fruiting pedicels"
+    },
+    {
+      "label": "Identification",
+      "text": "limestone prairie/outcrop habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The key split is perennial + dense compact flower cluster. P. densiflora is an annual; P. gracilis is more open, delicate, and spreading."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cec6673fda176f27433d391437f31bab6f08b4f1e4a81c075e626e0efb6c89f0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

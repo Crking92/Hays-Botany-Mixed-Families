@@ -1,0 +1,17 @@
+{
+  "id": "malpighia-glabra",
+  "family": "Malpighiaceae",
+  "genus": "Malpighia",
+  "scientific_name": "Malpighia glabra",
+  "common_name": "Barbados cherry",
+  "look_here_first": "Look for opposite glossy simple leaves and flowers with five clawed petals; inspect fruits and leaf undersides.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "97037211e76a21f49f4d2b40037bea69f44f16e8401e266a3723d6ea1014cbf2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

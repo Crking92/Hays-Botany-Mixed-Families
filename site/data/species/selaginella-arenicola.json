@@ -1,0 +1,17 @@
+{
+  "id": "selaginella-arenicola",
+  "family": "Selaginellaceae",
+  "genus": "Selaginella",
+  "scientific_name": "Selaginella arenicola",
+  "common_name": "Sand spikemoss",
+  "look_here_first": "Low creeping spikemoss with tiny overlapping scale-like leaves and upright spore-bearing tips; examine leaf rows and strobili using a hand lens.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "30f9a78a0a88668f54da4b2f8b4e2d36e3b89ebc145cf3df71a5a6db3d8f448e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

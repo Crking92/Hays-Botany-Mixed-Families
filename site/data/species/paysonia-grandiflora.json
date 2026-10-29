@@ -1,0 +1,46 @@
+{
+  "id": "paysonia-grandiflora",
+  "family": "Brassicaceae",
+  "genus": "Paysonia",
+  "scientific_name": "Paysonia grandiflora",
+  "common_name": "Bigflower bladderpod",
+  "look_here_first": "Showy bladderpod relative with relatively large yellow flowers; it belongs in Paysonia rather than Physaria under the modern split.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID."
+    },
+    {
+      "label": "Identification",
+      "text": "annual mustard-family herb"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow flowers relatively large for the group"
+    },
+    {
+      "label": "Identification",
+      "text": "stellate pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "inflated bladderpod-type fruits"
+    },
+    {
+      "label": "Identification",
+      "text": "Texas-native Paysonia lineage"
+    },
+    {
+      "label": "Identification",
+      "text": "legacy Lesquerella source concept"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The major learner cue here is taxonomic: this one is Paysonia, not Physaria. It is the 'bigflower' member of the old Lesquerella set."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3f83d626d86a507f4c4633a02df8e8964e4b27ba2382ce04f943cc48c713f4f9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

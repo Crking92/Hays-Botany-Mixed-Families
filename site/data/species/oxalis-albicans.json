@@ -1,0 +1,17 @@
+{
+  "id": "oxalis-albicans",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "scientific_name": "Oxalis albicans",
+  "common_name": "Pale woodsorrel",
+  "look_here_first": "Check the three heart-notched leaflets and their attachment point, then count the five flower petals and examine seed capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "47158c498fbb5cd976ca9005bf2446cca29d7897c982be60bfb19615147730db",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

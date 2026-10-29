@@ -1,0 +1,58 @@
+{
+  "id": "samolus-parviflorus",
+  "family": "Primulaceae",
+  "genus": "Samolus",
+  "scientific_name": "Samolus parviflorus",
+  "common_name": "Seaside brookweed / water pimpernel",
+  "look_here_first": "Inspect the tiny bract halfway along each flower stalk (pedicel), then the short raceme peduncle and flower center. Five sterile stamens (staminodes) help separate this species from bractless Samolus ebracteatus. A leaf rosette alone cannot settle the identification.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Minute bract at the midpoint of each flower pedicel."
+    },
+    {
+      "label": "Identification",
+      "text": "Racemose inflorescence with peduncle to 0.7 cm."
+    },
+    {
+      "label": "Identification",
+      "text": "Five fertile stamens opposite the corolla lobes and five staminodes."
+    },
+    {
+      "label": "Identification",
+      "text": "Small corolla, 1.2–3 mm long; mature capsules 2–3 mm."
+    },
+    {
+      "label": "Habit",
+      "text": "Light-green herbaceous perennial, about 0.7–8.2 dm tall in FNA; stems erect or ascending."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple, alternate; basal and stem leaves or all stem leaves. Blades obovate, broadly spatulate to elliptic, 1.5–15 cm, with rounded to obtuse tips."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Usually racemose, terminal or terminal and axillary, with short peduncle to 0.7 cm; pedicels 1.5–14 mm and bracteate at midlength."
+    },
+    {
+      "label": "Flower",
+      "text": "Corolla 1.2–3 mm long with five lobes; five fertile stamens opposite lobes, plus five staminodes."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small capsule 2–3 mm long."
+    },
+    {
+      "label": "Lookalike separators",
+      "text": "Samolus ebracteatus: no pedicel bracts, longer peduncle about 5–10 cm, no staminodes, and larger corolla (3–7.5 mm). Do not use flower color, moist habitat, or leaf rosette alone. Broad Samolus valerandi is an alternative taxonomic treatment; only subsp. parviflorus is mapped here."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "89afec23d3e2fb52889b61981f151d53e583d19d3fef0d18a0c0288fa24fca8a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

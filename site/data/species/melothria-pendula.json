@@ -1,0 +1,17 @@
+{
+  "id": "melothria-pendula",
+  "family": "Cucurbitaceae",
+  "genus": "Melothria",
+  "scientific_name": "Melothria pendula",
+  "common_name": "Creeping cucumber",
+  "look_here_first": "Delicate climbing vine with tendrils, tiny yellow five-petaled flowers, shallowly lobed leaves and small melon-like berries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "29286409adcda750455fe682d3f21bc739b69a6eaeaa629a419502aafb805cdb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

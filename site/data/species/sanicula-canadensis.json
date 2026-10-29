@@ -1,0 +1,17 @@
+{
+  "id": "sanicula-canadensis",
+  "family": "Apiaceae",
+  "genus": "Sanicula",
+  "scientific_name": "Sanicula canadensis",
+  "common_name": "Canada snakeroot",
+  "look_here_first": "Small woodland herb with palmately divided leaves and inconspicuous greenish flowers in tight umbels; inspect hooked bristly fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "06a94329d95442bda12c96f5d6419db2581c690329146434a3f4b1b521eb237d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

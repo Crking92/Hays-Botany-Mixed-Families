@@ -1,0 +1,17 @@
+{
+  "id": "marsilea-macropoda",
+  "family": "Marsileaceae",
+  "genus": "Marsilea",
+  "scientific_name": "Marsilea macropoda",
+  "common_name": "Bigfoot waterclover",
+  "look_here_first": "Look for wetland fern leaves with four wedge-shaped leaflets like a clover; identify stalked beanlike sporocarps for confirmation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fbf96aa6cc7da2998c82530570d16309027d1c4e223d7db83e405ac9d1826583",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

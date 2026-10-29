@@ -1,0 +1,34 @@
+{
+  "id": "oxalis-violacea",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "scientific_name": "Oxalis violacea",
+  "common_name": "Violet woodsorrel",
+  "look_here_first": "Confirm BULB-origin basal trifoliolate leaves and separate LEAFLESS flowering scapes. Examine the small, relatively shallow-notched leaflets (usually 8–15 mm, notch ~1/4–1/3 depth): OXALATE LINES along the notch margins help distinguish O. violacea from O. drummondii. Flower color is not a reliable separator.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Stemless bulbous perennial, basal leaves and separate leafless scapes."
+    },
+    {
+      "label": "Leaves",
+      "text": "Basal trifoliolate leaves; 3 obcordate leaflets commonly (5–)8–15(–20) mm, notch ~1/4–1/3 length; oxalate deposits/lines often evident along notch margins."
+    },
+    {
+      "label": "Flowers",
+      "text": "Five petals, often pink to violet; flowering stems are leafless scapes, not leafy aerial stems. Inspect sepals and inflorescence, not just color."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsules produced on scapes; check mature fruit and bulb for positive ID."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a8e2c81b5f8d199cda23a05b41c6ed4a65d5e07239aacf696971c513f220ffe1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

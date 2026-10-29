@@ -1,0 +1,17 @@
+{
+  "id": "nasturtium-officinale",
+  "family": "Brassicaceae",
+  "genus": "Nasturtium",
+  "scientific_name": "Nasturtium officinale",
+  "common_name": "Watercress",
+  "look_here_first": "Find fleshy creeping stems in wet sites, pinnate leaves with a larger terminal leaflet and clusters of four-petaled white flowers; examine seed pods before final identity.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a312c33a941a5caaa8726cdb8a017e14710a4f1494a3575b547bb8ce06737266",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

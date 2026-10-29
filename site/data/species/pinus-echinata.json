@@ -1,0 +1,17 @@
+{
+  "id": "pinus-echinata",
+  "family": "Pinaceae",
+  "genus": "Pinus",
+  "scientific_name": "Pinus echinata",
+  "common_name": "Shortleaf pine",
+  "look_here_first": "Inspect needles commonly two per fascicle, relatively short cones with small prickles, and bark resin pockets. Compare with other Pinus using needle length and cones.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f53597a676b81bc351e10a11a155bd7d6d75ea3a898e16a2732cae02c6b4dcb8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

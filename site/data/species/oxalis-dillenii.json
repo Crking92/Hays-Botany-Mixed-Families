@@ -1,0 +1,38 @@
+{
+  "id": "oxalis-dillenii",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "scientific_name": "Oxalis dillenii",
+  "common_name": "Dillen's yellow woodsorrel",
+  "look_here_first": "Inspect stem hairs with a hand lens: numerous straight, forward-pointing, closely appressed NONSEPTATE hairs distinguish this from the spreading, partly septate hairs of O. stricta. Then check upright/ascending stems, usually 1–3 flowers per stalk, and mature capsules (often 12–20 mm).",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual or short-lived herb, stems erect to ascending; rooting pattern and stature variable."
+    },
+    {
+      "label": "Leaves",
+      "text": "Palmately trifoliolate, each leaflet obcordate with a shallow to pronounced apical notch; petiole bases and stipule shape worth checking."
+    },
+    {
+      "label": "Stems",
+      "text": "Stem hairs usually dense, straight, forward-directed and closely appressed; hairs nonseptate (contrast O. stricta)."
+    },
+    {
+      "label": "Flowers",
+      "text": "Yellow, 5-petaled; often 1–3 flowers per inflorescence; petals commonly 4–8 mm, but overlap requires multiple characters."
+    },
+    {
+      "label": "Fruit",
+      "text": "Slender capsule commonly 12–20 mm, sometimes to 25 mm; inspect fully mature fruit and seed ridges."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fc1984f95e72474fd2b50aff522b639c18cd9bf3ca791bf31ae10f4c59bf2d38",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

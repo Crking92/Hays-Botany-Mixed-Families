@@ -1,0 +1,54 @@
+{
+  "id": "physaria-gracilis",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "scientific_name": "Physaria gracilis",
+  "common_name": "Spreading bladderpod / cloth-of-gold",
+  "look_here_first": "Delicate upright-to-sprawling annual with yellow-orange flowers and round to ellipsoid inflated capsules on straight or slightly curved pedicels.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID."
+    },
+    {
+      "label": "Identification",
+      "text": "annual"
+    },
+    {
+      "label": "Identification",
+      "text": "delicate to wiry branching stems"
+    },
+    {
+      "label": "Identification",
+      "text": "pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "basal leaves oblanceolate to obovate"
+    },
+    {
+      "label": "Identification",
+      "text": "stem leaves narrow and often sessile"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow to orange flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "round to ellipsoid capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "fruiting pedicels straight to slightly curved"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "More open and wiry than low dense P. densiflora. Fruit is inflated but the plant usually looks taller, looser, and more sprawling."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "73709d55d73aa1f598a9ccf54bdfae3bb7fdb8f479e6ba5cc193f3c167524d15",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

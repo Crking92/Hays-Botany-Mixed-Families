@@ -1,0 +1,17 @@
+{
+  "id": "larrea-tridentata",
+  "family": "Zygophyllaceae",
+  "genus": "Larrea",
+  "scientific_name": "Larrea tridentata",
+  "common_name": "Creosote bush",
+  "look_here_first": "Small resinous paired leaflets, bright five-petaled yellow flowers and fuzzy pale seed capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "38f57b8f9f709b1f8854aefa0271a05476f4b1c75dc069671061a93ffbba5b93",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

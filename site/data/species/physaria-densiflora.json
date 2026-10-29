@@ -1,0 +1,50 @@
+{
+  "id": "physaria-densiflora",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "scientific_name": "Physaria densiflora",
+  "common_name": "Denseflower bladderpod / low bladderpod",
+  "look_here_first": "Low annual bladderpod with dense yellow flower clusters, stellate-scaly hairs, and round to obovoid inflated capsules on spreading pedicels.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID."
+    },
+    {
+      "label": "Identification",
+      "text": "annual with taproot"
+    },
+    {
+      "label": "Identification",
+      "text": "low rosette-forming habit"
+    },
+    {
+      "label": "Identification",
+      "text": "dense appressed stellate/scalelike hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow to orange dense terminal racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "basal leaves often lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "round to obovoid inflated capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "fruiting pedicels spreading to nearly horizontal"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Low, compact, densely flowered annual. Compared with P. gracilis, it is shorter and denser; compared with P. engelmannii, it is annual rather than perennial."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "68fde8934701b41e80e0dc8dc95359085232079c88e686df434568daeebad5c6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

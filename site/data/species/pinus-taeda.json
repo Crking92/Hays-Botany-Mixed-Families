@@ -1,0 +1,17 @@
+{
+  "id": "pinus-taeda",
+  "family": "Pinaceae",
+  "genus": "Pinus",
+  "scientific_name": "Pinus taeda",
+  "common_name": "Loblolly pine",
+  "look_here_first": "Look for long needles usually in bundles of three, large spiny cones, and rough plated bark. Count needles per fascicle and measure cone scales to distinguish other pines.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "062a9a9baaeddf13111cacd630d67e3cebe8875b460cbd5e5bfee6aa50616d4d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

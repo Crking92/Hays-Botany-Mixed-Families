@@ -1,0 +1,34 @@
+{
+  "id": "oxalis-drummondii",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "scientific_name": "Oxalis drummondii",
+  "common_name": "Drummond's woodsorrel",
+  "look_here_first": "Find the underground BULB and basal trifoliolate leaves: the flowering scapes are separate, LEAFLESS stalks. Compare the broad, deeply notched leaflets (usually 14–34 mm, notch reaching 1/4–4/5 leaflet length) and ABSENCE of oxalate lines by the notch with the smaller, shallowly notched O. violacea. Inspect orange sepal-tip tubercles with a hand lens.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Stemless bulbous perennial; solitary bulb; leaves basal, flowering stalks (scapes) separate and leafless."
+    },
+    {
+      "label": "Leaves",
+      "text": "Three basal leaflets, obtriangular to obcordate, (6–)14–34 mm, notched 1/4–4/5 of length; oxalate lines near notch absent; blades usually glabrous."
+    },
+    {
+      "label": "Flowers",
+      "text": "Scapes generally 11–23 cm; cymes 3–10-flowered; petals white/greenish near base and pink/violet distally, (8–)15–23 mm; 5 sepals with usually 2 orange apical tubercles."
+    },
+    {
+      "label": "Fruit",
+      "text": "Hairy cylindrical capsules 4–12 mm; inspect mature capsules rather than color alone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d0e4bed8a7f415fe00b47bf12c90fa8a2a890309ec0ad37509b63f0a3db5550c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

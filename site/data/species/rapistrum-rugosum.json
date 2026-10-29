@@ -1,0 +1,17 @@
+{
+  "id": "rapistrum-rugosum",
+  "family": "Brassicaceae",
+  "genus": "Rapistrum",
+  "scientific_name": "Rapistrum rugosum",
+  "common_name": "Bastard cabbage",
+  "look_here_first": "Observe small four-petaled yellow mustard flowers and distinctly two-parted fruit with a swollen upper segment; inspect leaves and fruiting stems.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b10ff30632d11ad5cd2af1209d3c6ab5d4550eaabb85d552d7085fd3e0f4e3c5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

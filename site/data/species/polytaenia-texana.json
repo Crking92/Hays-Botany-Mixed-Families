@@ -1,0 +1,17 @@
+{
+  "id": "polytaenia-texana",
+  "family": "Apiaceae",
+  "genus": "Polytaenia",
+  "scientific_name": "Polytaenia texana",
+  "common_name": "Texas prairie parsley",
+  "look_here_first": "Recognize an upright parsley-family wildflower with dissected leaves and broad clusters of tiny yellowish flowers; inspect compound umbels, developing fruits and leaf segmentation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fd72c8419aacfee226d951dedaf5b7a9a0218592f6228edc473b4d857136a307",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

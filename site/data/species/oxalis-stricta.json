@@ -1,0 +1,38 @@
+{
+  "id": "oxalis-stricta",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "scientific_name": "Oxalis stricta",
+  "common_name": "Common yellow woodsorrel",
+  "look_here_first": "Examine stem and node hairs with magnification: O. stricta often shows spreading hairs, including SEPTATE hairs at nodes, rather than the densely straight, forward-appressed NONSEPTATE hairs of O. dillenii. Check flower-cluster size and mature capsules only as supporting traits.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Herbaceous woodsorrel with upright to spreading leafy stems; habit overlaps O. dillenii and can be altered by mowing."
+    },
+    {
+      "label": "Leaves",
+      "text": "Trifoliolate with notched, heartlike leaflets; leaf outline alone does not distinguish similar yellow Oxalis."
+    },
+    {
+      "label": "Stems",
+      "text": "Hairs often spreading, with a mix of septate and nonseptate hairs; septate hairs particularly informative at stem nodes."
+    },
+    {
+      "label": "Flowers",
+      "text": "Yellow five-petaled flowers, often several per inflorescence (frequently 5–7); petals typically 8–11 mm but variable."
+    },
+    {
+      "label": "Fruit",
+      "text": "Slender capsule commonly 8–15 mm; fruit length alone is not decisive."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4b1bf50dbc0747905fb3c99568868cfb0e93d22fe02424a27b5f06523a423739",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

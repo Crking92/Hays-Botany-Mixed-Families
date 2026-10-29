@@ -1,0 +1,46 @@
+{
+  "id": "taxodium-distichum",
+  "family": "Cupressaceae",
+  "genus": "Taxodium",
+  "scientific_name": "Taxodium distichum",
+  "common_name": "Baldcypress / Bald Cypress",
+  "look_here_first": "Start with the deciduous feathery branchlets and buttressed wet-site trunk. Baldcypress is a large deciduous conifer with flat two-ranked leaves on many lateral shoots, fibrous reddish-brown bark, round woody cones, and often knees or a swollen fluted base near water.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large deciduous conifer"
+    },
+    {
+      "label": "Identification",
+      "text": "feathery two-ranked leaves on many lateral shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage turns coppery and sheds in winter"
+    },
+    {
+      "label": "Identification",
+      "text": "fibrous reddish-brown to gray bark"
+    },
+    {
+      "label": "Identification",
+      "text": "swollen/fluted trunk base in wet sites"
+    },
+    {
+      "label": "Identification",
+      "text": "pneumatophores or 'knees' may occur"
+    },
+    {
+      "label": "Identification",
+      "text": "round woody seed cones"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Deciduous conifer + feathery two-ranked foliage + wet-site buttressed trunk/knees + round cones is the core field package."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "32991b75defdfd1d3157cd659f5def8c0dd387171c50ccd836b4dafa199382a1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

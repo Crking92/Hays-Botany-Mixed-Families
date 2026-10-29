@@ -1,0 +1,17 @@
+{
+  "id": "leucodon-julaceus",
+  "family": "Leucodontaceae",
+  "genus": "Leucodon",
+  "scientific_name": "Leucodon julaceus",
+  "common_name": "Leucodon moss",
+  "look_here_first": "Examine the tightly appressed overlapping leaves of dry shoots and branching habit; inspect leaf cells with magnification.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "66424340fa17c5e72ea8f0e4d43b3d48867b1909e73539c6decac272859bbddc",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

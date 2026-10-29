@@ -1,0 +1,46 @@
+{
+  "id": "physaria-recurvata",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "scientific_name": "Physaria recurvata",
+  "common_name": "Gaslight bladderpod / slender bladderpod",
+  "look_here_first": "Slender yellow-flowered bladderpod distinguished by recurved fruiting structures and inflated capsules.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID."
+    },
+    {
+      "label": "Identification",
+      "text": "slender mustard-family herb"
+    },
+    {
+      "label": "Identification",
+      "text": "stellate pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow 4-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "inflated bladderpod capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "fruiting pedicels or fruits characteristically recurved"
+    },
+    {
+      "label": "Identification",
+      "text": "dry prairie or rocky open habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The name is the memory cue: recurvata = recurved. Look for backward-curving fruiting posture rather than the straighter fruit stalks of P. gracilis."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8a6a501882b261d3281cb8c1fd9e2f4db7224aae4206e6db51f83d754cc732f7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
