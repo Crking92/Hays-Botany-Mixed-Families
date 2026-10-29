@@ -1,0 +1,9 @@
+Source-pool Phase3 accepted/preflight concept Polytaenia texana; reference row(s) 917
+Accepted-name query: https://powo.science.kew.org/results?q=Polytaenia%20texana
+Photograph original: https://commons.wikimedia.org/wiki/File:Polytaenia_texana_-_Texas_Prairie_Parsley.jpg
+Image direct Commons redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Polytaenia%20texana%20-%20Texas%20Prairie%20Parsley.jpg
+Photographer: Ben Clement (benclement)
+Individual file license: CC0 1.0
+Photo role: Provisional Texas prairie parsley plant recognition; photo does not certify individual umbellets or fruit ribs.
+Caution: Central Texas iNaturalist photo 40333604, observation 25999580, original image CC0.
+Original Commons page licensing checked before staging. One visual provisional learner only; no Hays or target-county nativity assertion.

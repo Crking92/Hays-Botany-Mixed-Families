@@ -1,0 +1,48 @@
+{
+  "id": "bowlesia-incana",
+  "entry_type": "species",
+  "family": "Apiaceae",
+  "genus": "Bowlesia",
+  "species": "incana",
+  "scientific_name": "Bowlesia incana",
+  "authority": "Ruiz & Pav.",
+  "common_name": "Hoary bowlesia",
+  "look_here_first": "LOOK HERE FIRST: find small greenish axillary umbels beside mostly opposite, shallowly lobed leaves; check for star-branched hairs with a hand lens.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 156",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/bowlesia-incana-sonnia-hill.jpg",
+      "role": "habit",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bowlesia_incana_(2020).jpg",
+      "study_use": "private_educational",
+      "public_reuse": "attribution_required"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "stellate hair macro",
+    "node and axillary umbel close-up",
+    "mericarps"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

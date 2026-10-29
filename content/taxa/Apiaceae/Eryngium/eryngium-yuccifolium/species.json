@@ -1,0 +1,117 @@
+{
+  "id": "eryngium-yuccifolium",
+  "entry_type": "species",
+  "family": "Apiaceae",
+  "genus": "Eryngium",
+  "species": "yuccifolium",
+  "scientific_name": "Eryngium yuccifolium",
+  "authority": "Michx.",
+  "common_name": "Rattlesnake master",
+  "synonyms": [],
+  "taxonomic_note": "Current Kew accepts the species and recognizes infraspecific variation.",
+  "look_here_first": "Start with the leaves: long stiff yucca-like linear leaves with spiny margins, topped by pale greenish-white globose heads. It lacks the vivid purple canopy and broad divided leaves of E. leavenworthii.",
+  "county_occurrences_target_zone": [
+    "Bexar",
+    "Gillespie"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Bexar and Gillespie are the two exact project target-zone counties currently locked. Broad Blackland/Edwards regional presence is not converted into a third county.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial from thickened rootstock",
+      "long linear yucca-like basal leaves",
+      "parallel-looking venation",
+      "spiny leaf margins",
+      "globose to ovoid pale heads",
+      "no conspicuous purple terminal bract crown"
+    ],
+    "comparison_training": "E. leavenworthii is annual, purple, and broad/divided-leaved; E. yuccifolium is perennial and yucca-leaved."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Eryngium leavenworthii"
+    ],
+    "key_distinctions": "Perennial yucca-like leaves plus pale globose heads versus annual purple divided-leaf architecture."
+  },
+  "tags": [
+    "Apiaceae",
+    "Eryngium",
+    "Rattlesnake master",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "yucca-like basal leaf",
+    "spiny margin",
+    "pale globose head",
+    "E. leavenworthii comparison"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/eryngium-yuccifolium-provisional-face.jpg",
+      "role": "Whole flowering habit, spiny clustered globular heads, strap-shaped basal leaves",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eryngium_yuccifolium.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/gbif-manual-6479685932-6f6ae7a51.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Spiny strap-like leaf margin and pale round heads in close-up",
+      "creator": "Tim Ackerman",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6479685932",
+      "gbif_occurrence_id": "6479685932",
+      "source_determination": "Eryngium yuccifolium Michx.",
+      "accepted_target": "Eryngium yuccifolium",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606291262/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

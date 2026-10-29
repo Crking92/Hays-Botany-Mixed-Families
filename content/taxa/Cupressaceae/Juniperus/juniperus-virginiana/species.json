@@ -1,0 +1,139 @@
+{
+  "id": "juniperus-virginiana",
+  "entry_type": "species",
+  "family": "Cupressaceae",
+  "genus": "Juniperus",
+  "species": "virginiana",
+  "scientific_name": "Juniperus virginiana",
+  "authority": "L.",
+  "common_name": "Eastern Redcedar",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Kew also accepts Juniperus virginiana var. virginiana; the Central Texas/Williamson treatment uses var. virginiana. The learner remains at species rank for consistency.",
+  "field_group": "Evergreen juniper / cedar",
+  "look_here_first": "If a female tree has cones, start there: eastern redcedar has small glaucous blue-black cones about 4.5–5 mm across, commonly with 1–2(–3) seeds. Then inspect an adult scale leaf: the resin gland is pit-like/depressed near the base rather than a raised rounded mid-blade gland. Ashe juniper usually has larger 6.5–9.6 mm cones with one seed and a raised circular-to-hemispheric gland.",
+  "project_tracker_diagnostic": "Evergreen redcedar with pit-like adult scale-leaf gland and small 4.5–5 mm glaucous blue-black cones commonly containing 1–2(–3) seeds; often single-trunked/conic and more eastern/mesic than Ashe juniper.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Juniperus virginiana as native to Texas. Travis County — the Travis County flora treats J. virginiana as a native tree, common in the eastern half of the county, with numerous TEX-LL sheets. Williamson County — UT Plant Resources Center provides a detailed local treatment of J. virginiana var. virginiana. Bexar County — a U.S. EPA ecological risk assessment for Live Oak, Bexar County describes an adjacent wooded area of native trees and grasses and explicitly lists eastern red cedar (J. virginiana) among the larger trees.",
+    "range_guardrail": "Eastern redcedar is widely planted. County proof uses county flora/local ecological documentation, not ornamental plantings or the user's observations."
+  },
+  "morphology_keys": {
+    "habit": "Evergreen dioecious small to medium tree, often single-trunked and conic/columnar when young.",
+    "bark": "Red-brown bark exfoliating or shredding in thin strips.",
+    "leaves": "Adult leaves tiny and appressed in four-ranked sprays; resin gland pit-like/depressed near the basal-central part of the scale. Vigorous shoots can bear longer awl-shaped leaves.",
+    "reproductive": "Mature seed cones berrylike, glaucous blue-black, about 4.5–5 mm and commonly 1–2(–3)-seeded.",
+    "best_field_traits": [
+      "evergreen dioecious small to medium tree, often with a single trunk and conic/columnar crown when young",
+      "adult foliage shoots slender, approximately four-sided, with closely appressed opposite scale leaves",
+      "adult scale leaves about 1 mm long, dark green and often slightly glossy",
+      "resin gland expressed as a small pit/depression near the basal-central part of the scale leaf",
+      "vigorous juvenile/whip shoots may carry longer sharp awl-shaped leaves",
+      "bark red-brown, thin and exfoliating/shredding in strips",
+      "mature berrylike seed cones small, about 4.5–5 mm, glaucous blue-black",
+      "seed cones commonly 1–2(–3)-seeded, often with one seed larger",
+      "more associated with Blackland Prairie/Post Oak/eastern or mesic sites than the dry limestone cedar-break dominance of Ashe juniper"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Juniperus ashei",
+      "Juniperus ashei var. ovata",
+      "Juniperus pinchotii"
+    ],
+    "key_distinctions": "Best split: J. virginiana has a pit-like scale-leaf gland and smaller 4.5–5 mm cones commonly with 1–2(–3) seeds; J. ashei has a raised rounded/hemispheric gland and larger 6.5–9.6 mm cones usually with one seed. Habit/ecology support the ID: redcedar is often single-trunked/conic and more eastern/mesic, while Ashe juniper dominates dry Edwards Plateau limestone. Kew currently treats var. ovata within J. ashei. It can be multi-seeded and complicates seed-count-only IDs, so confirm leaf-gland form and the full cone/foliage package rather than using seed number alone. Redberry juniper has coppery to reddish-brown mature cones rather than the dark glaucous blue-black cones of eastern redcedar and Ashe juniper."
+  },
+  "ecological_notes": {
+    "habitat": "Fence rows, woodland edges, prairie and disturbed openings, especially Blackland Prairie/Post Oak/eastern or mesic sites in the project region.",
+    "learning_note": "Use cone size/seed number and leaf-gland form first; tree shape, bark and habitat support the ID but overlap."
+  },
+  "tags": [
+    "Cupressaceae",
+    "Juniperus",
+    "Evergreen tree",
+    "Blackland Prairie",
+    "Woody ID",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-b024",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "joey_enhanced": true,
+    "video_study_media_count": 1,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Saved Joey Santore foliage frame installed locally for private learning. It focuses on mature scale-like foliage; public-reuse restrictions are preserved. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "19:20",
+      "record_id": "N4yq5Z1_0Eo-27",
+      "role": "Appressed scale-like foliage on branch sprays.",
+      "source_taxon": "Juniperus virginiana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/juniperus-virginiana_scale-foliage-source-label_19-20.jpg"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/juniperus-virginiana_scale-foliage-source-label_19-20.jpg",
+      "role": "Appressed scale-like foliage on branch sprays.",
+      "caption": "Source-labeled Juniperus virginiana showing mature appressed scale-like foliage on the branch sprays, a useful vegetative cue for eastern redcedar.",
+      "diagnostic_roles": [
+        "scale-like leaves",
+        "branch spray",
+        "mature foliage"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-27",
+      "timestamp": "19:20",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/gbif-manual-5938127638-d53f00e30.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Blue-black seed cones, depressed resin glands on appressed scale foliage versus Ashe juniper",
+      "creator": "Luke",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938127638",
+      "gbif_occurrence_id": "5938127638",
+      "source_determination": "Juniperus virginiana L.",
+      "accepted_target": "Juniperus virginiana",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605498557/original.jpg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Berry-like seed cones, bark, whole-tree form, and a juvenile needle-leaf comparison."
+  ]
+}

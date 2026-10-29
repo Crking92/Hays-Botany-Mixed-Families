@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Leucobryum%20albidum
+Source research-grade observation: https://www.inaturalist.org/observations/62816787
+Photo: https://www.inaturalist.org/photos/100711770
+Attribution: (c) fiper, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

@@ -1,0 +1,117 @@
+{
+  "id": "paysonia-grandiflora",
+  "entry_type": "provisional_species",
+  "family": "Brassicaceae",
+  "genus": "Paysonia",
+  "species": "grandiflora",
+  "scientific_name": "Paysonia grandiflora",
+  "authority": "(Hook.) O'Kane & Al-Shehbaz",
+  "common_name": "Bigflower bladderpod",
+  "synonyms": [
+    "Lesquerella grandiflora"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Lesquerella grandiflora normalized to current accepted Paysonia grandiflora.",
+  "look_here_first": "Showy bladderpod relative with relatively large yellow flowers; it belongs in Paysonia rather than Physaria under the modern split.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy source; modern Lesquerella split places L. grandiflora in Paysonia; GRIN treats Paysonia grandiflora as native in Texas.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID.",
+    "best_field_traits": [
+      "annual mustard-family herb",
+      "yellow flowers relatively large for the group",
+      "stellate pubescence",
+      "inflated bladderpod-type fruits",
+      "Texas-native Paysonia lineage",
+      "legacy Lesquerella source concept"
+    ],
+    "comparison_training": "The major learner cue here is taxonomic: this one is Paysonia, not Physaria. It is the 'bigflower' member of the old Lesquerella set."
+  },
+  "curation_status": {
+    "version": "1.0-b110-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/paysonia-grandiflora-provisional-face.jpg",
+      "role": "Botanical illustration / recognizable face",
+      "creator": "Biodiversity Heritage Library / Curtis's Botanical Magazine",
+      "license": "CC BY 2.0; original public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Curtis%27s_botanical_magazine_(Plate_3464)_(8043217099).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-265390543.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/265390543",
+      "observation_url": "https://www.inaturalist.org/observations/153642245",
+      "observation_id": "153642245",
+      "photo_id": "265390543",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/265390543/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-265390565.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/265390565",
+      "observation_url": "https://www.inaturalist.org/observations/153642245",
+      "observation_id": "153642245",
+      "photo_id": "265390565",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/265390565/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

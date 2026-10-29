@@ -2,6 +2,955 @@
   "schema_version": 1,
   "collection_id": "mixed-families",
   "authority": "STAGING_ONLY",
-  "entries": [],
-  "note": "Empty until individually verified source import. Do not add names or URLs without matching actual records."
+  "entries": [
+    {
+      "id": "atrema-americanum",
+      "scientific_name": "Atrema americanum",
+      "common_name": "American bifora",
+      "family": "Apiaceae",
+      "genus": "Atrema",
+      "path": "content/taxa/Apiaceae/Atrema/atrema-americanum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "bowlesia-incana",
+      "scientific_name": "Bowlesia incana",
+      "common_name": "Hoary bowlesia",
+      "family": "Apiaceae",
+      "genus": "Bowlesia",
+      "path": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "centella-erecta",
+      "scientific_name": "Centella erecta",
+      "common_name": "Upright marshpennywort",
+      "family": "Apiaceae",
+      "genus": "Centella",
+      "path": "content/taxa/Apiaceae/Centella/centella-erecta/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "chaerophyllum-tainturieri",
+      "scientific_name": "Chaerophyllum tainturieri",
+      "common_name": "Hairy-fruited chervil",
+      "family": "Apiaceae",
+      "genus": "Chaerophyllum",
+      "path": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "conium-maculatum",
+      "scientific_name": "Conium maculatum",
+      "common_name": "Poison hemlock",
+      "family": "Apiaceae",
+      "genus": "Conium",
+      "path": "content/taxa/Apiaceae/Conium/conium-maculatum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cyclospermum-leptophyllum",
+      "scientific_name": "Cyclospermum leptophyllum",
+      "common_name": "Marsh parsley",
+      "family": "Apiaceae",
+      "genus": "Cyclospermum",
+      "path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "daucosma-laciniata",
+      "scientific_name": "Daucosma laciniata",
+      "common_name": "Meadow daucosma",
+      "family": "Apiaceae",
+      "genus": "Daucosma",
+      "path": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "daucus-pusillus",
+      "scientific_name": "Daucus pusillus",
+      "common_name": "American wild carrot",
+      "family": "Apiaceae",
+      "genus": "Daucus",
+      "path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "eryngium-leavenworthii",
+      "scientific_name": "Eryngium leavenworthii",
+      "common_name": "Leavenworth's Eryngo / False Purple Thistle",
+      "family": "Apiaceae",
+      "genus": "Eryngium",
+      "path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "eryngium-yuccifolium",
+      "scientific_name": "Eryngium yuccifolium",
+      "common_name": "Rattlesnake master",
+      "family": "Apiaceae",
+      "genus": "Eryngium",
+      "path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "polytaenia-nuttallii",
+      "scientific_name": "Polytaenia nuttallii",
+      "common_name": "Prairie parsley",
+      "family": "Apiaceae",
+      "genus": "Polytaenia",
+      "path": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "polytaenia-texana",
+      "scientific_name": "Polytaenia texana",
+      "common_name": "Texas prairie parsley",
+      "family": "Apiaceae",
+      "genus": "Polytaenia",
+      "path": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "sanicula-canadensis",
+      "scientific_name": "Sanicula canadensis",
+      "common_name": "Canada snakeroot",
+      "family": "Apiaceae",
+      "genus": "Sanicula",
+      "path": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "torilis-arvensis",
+      "scientific_name": "Torilis arvensis",
+      "common_name": "Hedge parsley",
+      "family": "Apiaceae",
+      "genus": "Torilis",
+      "path": "content/taxa/Apiaceae/Torilis/torilis-arvensis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "vesper-macrorhizus",
+      "scientific_name": "Vesper macrorhizus",
+      "common_name": "Vesper macrorhizus",
+      "family": "Apiaceae",
+      "genus": "Vesper",
+      "path": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "pilostyles-thurberi",
+      "scientific_name": "Pilostyles thurberi",
+      "common_name": "Thurber's stemsucker",
+      "family": "Apodanthaceae",
+      "genus": "Pilostyles",
+      "path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "aristolochia-erecta",
+      "scientific_name": "Aristolochia erecta",
+      "common_name": "Swanflower",
+      "family": "Aristolochiaceae",
+      "genus": "Aristolochia",
+      "path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "aristolochia-serpentaria",
+      "scientific_name": "Aristolochia serpentaria",
+      "common_name": "Virginia snakeroot / Virginia Dutchman's pipe",
+      "family": "Aristolochiaceae",
+      "genus": "Aristolochia",
+      "path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "asplenium-resiliens",
+      "scientific_name": "Asplenium resiliens",
+      "common_name": "Blackstem spleenwort",
+      "family": "Aspleniaceae",
+      "genus": "Asplenium",
+      "path": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "capsella-bursa-pastoris",
+      "scientific_name": "Capsella bursa-pastoris",
+      "common_name": "Shepherd's purse",
+      "family": "Brassicaceae",
+      "genus": "Capsella",
+      "path": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "descurainia-pinnata",
+      "scientific_name": "Descurainia pinnata",
+      "common_name": "Western tansymustard",
+      "family": "Brassicaceae",
+      "genus": "Descurainia",
+      "path": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "diplotaxis-muralis",
+      "scientific_name": "Diplotaxis muralis",
+      "common_name": "Wallrocket",
+      "family": "Brassicaceae",
+      "genus": "Diplotaxis",
+      "path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "lepidium-austrinum",
+      "scientific_name": "Lepidium austrinum",
+      "common_name": "Southern pepperweed",
+      "family": "Brassicaceae",
+      "genus": "Lepidium",
+      "path": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "lepidium-virginicum",
+      "scientific_name": "Lepidium virginicum",
+      "common_name": "Virginia pepperweed",
+      "family": "Brassicaceae",
+      "genus": "Lepidium",
+      "path": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "nasturtium-officinale",
+      "scientific_name": "Nasturtium officinale",
+      "common_name": "Watercress",
+      "family": "Brassicaceae",
+      "genus": "Nasturtium",
+      "path": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "nerisyrenia-camporum",
+      "scientific_name": "Nerisyrenia camporum",
+      "common_name": "Nerisyrenia camporum",
+      "family": "Brassicaceae",
+      "genus": "Nerisyrenia",
+      "path": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "paysonia-grandiflora",
+      "scientific_name": "Paysonia grandiflora",
+      "common_name": "Bigflower bladderpod",
+      "family": "Brassicaceae",
+      "genus": "Paysonia",
+      "path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "physaria-densiflora",
+      "scientific_name": "Physaria densiflora",
+      "common_name": "Denseflower bladderpod / low bladderpod",
+      "family": "Brassicaceae",
+      "genus": "Physaria",
+      "path": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "physaria-engelmannii",
+      "scientific_name": "Physaria engelmannii",
+      "common_name": "Engelmann's bladderpod",
+      "family": "Brassicaceae",
+      "genus": "Physaria",
+      "path": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "physaria-gracilis",
+      "scientific_name": "Physaria gracilis",
+      "common_name": "Spreading bladderpod / cloth-of-gold",
+      "family": "Brassicaceae",
+      "genus": "Physaria",
+      "path": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "physaria-recurvata",
+      "scientific_name": "Physaria recurvata",
+      "common_name": "Gaslight bladderpod / slender bladderpod",
+      "family": "Brassicaceae",
+      "genus": "Physaria",
+      "path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "physaria-sessilis",
+      "scientific_name": "Physaria sessilis",
+      "common_name": "Sessile bladderpod",
+      "family": "Brassicaceae",
+      "genus": "Physaria",
+      "path": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "planodes-virginicum",
+      "scientific_name": "Planodes virginicum",
+      "common_name": "Planodes virginicum",
+      "family": "Brassicaceae",
+      "genus": "Planodes",
+      "path": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "rapistrum-rugosum",
+      "scientific_name": "Rapistrum rugosum",
+      "common_name": "Bastard cabbage",
+      "family": "Brassicaceae",
+      "genus": "Rapistrum",
+      "path": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "sisymbrium-altissimum",
+      "scientific_name": "Sisymbrium altissimum",
+      "common_name": "Tall tumblemustard",
+      "family": "Brassicaceae",
+      "genus": "Sisymbrium",
+      "path": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "streptanthus-petiolaris",
+      "scientific_name": "Streptanthus petiolaris",
+      "common_name": "Streptanthus petiolaris",
+      "family": "Brassicaceae",
+      "genus": "Streptanthus",
+      "path": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "tomostima-cuneifolia",
+      "scientific_name": "Tomostima cuneifolia",
+      "common_name": "Wedgeleaf draba",
+      "family": "Brassicaceae",
+      "genus": "Tomostima",
+      "path": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cleome-dodecandra",
+      "scientific_name": "Cleome dodecandra",
+      "common_name": "Clammyweed",
+      "family": "Cleomaceae",
+      "genus": "Cleome",
+      "path": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cleome-trachysperma",
+      "scientific_name": "Cleome trachysperma",
+      "common_name": "Western clammyweed",
+      "family": "Cleomaceae",
+      "genus": "Cleome",
+      "path": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "sedum-nuttallii",
+      "scientific_name": "Sedum nuttallii",
+      "common_name": "Yellow stonecrop",
+      "family": "Crassulaceae",
+      "genus": "Sedum",
+      "path": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cucumis-melo",
+      "scientific_name": "Cucumis melo",
+      "common_name": "Muskmelon",
+      "family": "Cucurbitaceae",
+      "genus": "Cucumis",
+      "path": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cucurbita-foetidissima",
+      "scientific_name": "Cucurbita foetidissima",
+      "common_name": "Buffalo gourd",
+      "family": "Cucurbitaceae",
+      "genus": "Cucurbita",
+      "path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cucurbita-melopepo",
+      "scientific_name": "Cucurbita melopepo",
+      "common_name": "Cucurbita melopepo",
+      "family": "Cucurbitaceae",
+      "genus": "Cucurbita",
+      "path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cucurbita-pepo",
+      "scientific_name": "Cucurbita pepo",
+      "common_name": "Pumpkin / summer squash",
+      "family": "Cucurbitaceae",
+      "genus": "Cucurbita",
+      "path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "ibervillea-lindheimeri",
+      "scientific_name": "Ibervillea lindheimeri",
+      "common_name": "Balsam gourd",
+      "family": "Cucurbitaceae",
+      "genus": "Ibervillea",
+      "path": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "melothria-pendula",
+      "scientific_name": "Melothria pendula",
+      "common_name": "Creeping cucumber",
+      "family": "Cucurbitaceae",
+      "genus": "Melothria",
+      "path": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "juniperus-ashei",
+      "scientific_name": "Juniperus ashei",
+      "common_name": "Ashe Juniper",
+      "family": "Cupressaceae",
+      "genus": "Juniperus",
+      "path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "juniperus-virginiana",
+      "scientific_name": "Juniperus virginiana",
+      "common_name": "Eastern Redcedar",
+      "family": "Cupressaceae",
+      "genus": "Juniperus",
+      "path": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "taxodium-distichum",
+      "scientific_name": "Taxodium distichum",
+      "common_name": "Baldcypress / Bald Cypress",
+      "family": "Cupressaceae",
+      "genus": "Taxodium",
+      "path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "ephedra-antisyphilitica",
+      "scientific_name": "Ephedra antisyphilitica",
+      "common_name": "Mormon tea",
+      "family": "Ephedraceae",
+      "genus": "Ephedra",
+      "path": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "ephedra-trifurca",
+      "scientific_name": "Ephedra trifurca",
+      "common_name": "Longleaf jointfir",
+      "family": "Ephedraceae",
+      "genus": "Ephedra",
+      "path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "equisetum-hyemale",
+      "scientific_name": "Equisetum hyemale",
+      "common_name": "Scouringrush horsetail",
+      "family": "Equisetaceae",
+      "genus": "Equisetum",
+      "path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "fouquieria-splendens",
+      "scientific_name": "Fouquieria splendens",
+      "common_name": "Ocotillo",
+      "family": "Fouquieriaceae",
+      "genus": "Fouquieria",
+      "path": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "erodium-cicutarium",
+      "scientific_name": "Erodium cicutarium",
+      "common_name": "Redstem filaree",
+      "family": "Geraniaceae",
+      "genus": "Erodium",
+      "path": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "erodium-texanum",
+      "scientific_name": "Erodium texanum",
+      "common_name": "Texas filaree",
+      "family": "Geraniaceae",
+      "genus": "Erodium",
+      "path": "content/taxa/Geraniaceae/Erodium/erodium-texanum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "geranium-carolinianum",
+      "scientific_name": "Geranium carolinianum",
+      "common_name": "Carolina geranium",
+      "family": "Geraniaceae",
+      "genus": "Geranium",
+      "path": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "geranium-texanum",
+      "scientific_name": "Geranium texanum",
+      "common_name": "Texas cranesbill",
+      "family": "Geraniaceae",
+      "genus": "Geranium",
+      "path": "content/taxa/Geraniaceae/Geranium/geranium-texanum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "ginkgo-biloba",
+      "scientific_name": "Ginkgo biloba",
+      "common_name": "Ginkgo / maidenhair tree",
+      "family": "Ginkgoaceae",
+      "genus": "Ginkgo",
+      "path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "krameria-erecta",
+      "scientific_name": "Krameria erecta",
+      "common_name": "Littleleaf ratany",
+      "family": "Krameriaceae",
+      "genus": "Krameria",
+      "path": "content/taxa/Krameriaceae/Krameria/krameria-erecta/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "krameria-lanceolata",
+      "scientific_name": "Krameria lanceolata",
+      "common_name": "Trailing ratany",
+      "family": "Krameriaceae",
+      "genus": "Krameria",
+      "path": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "leucobryum-albidum",
+      "scientific_name": "Leucobryum albidum",
+      "common_name": "White cushion moss",
+      "family": "Leucobryaceae",
+      "genus": "Leucobryum",
+      "path": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "leucodon-julaceus",
+      "scientific_name": "Leucodon julaceus",
+      "common_name": "Leucodon moss",
+      "family": "Leucodontaceae",
+      "genus": "Leucodon",
+      "path": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cevallia-sinuata",
+      "scientific_name": "Cevallia sinuata",
+      "common_name": "Cevallia",
+      "family": "Loasaceae",
+      "genus": "Cevallia",
+      "path": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "mentzelia-oligosperma",
+      "scientific_name": "Mentzelia oligosperma",
+      "common_name": "Chickenthief mentzelia",
+      "family": "Loasaceae",
+      "genus": "Mentzelia",
+      "path": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "cottsia-gracilis",
+      "scientific_name": "Cottsia gracilis",
+      "common_name": "Trailing janusia",
+      "family": "Malpighiaceae",
+      "genus": "Cottsia",
+      "path": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "galphimia-angustifolia",
+      "scientific_name": "Galphimia angustifolia",
+      "common_name": "Narrowleaf goldshower",
+      "family": "Malpighiaceae",
+      "genus": "Galphimia",
+      "path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "galphimia-gracilis",
+      "scientific_name": "Galphimia gracilis",
+      "common_name": "Slender goldshower",
+      "family": "Malpighiaceae",
+      "genus": "Galphimia",
+      "path": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "malpighia-glabra",
+      "scientific_name": "Malpighia glabra",
+      "common_name": "Barbados cherry",
+      "family": "Malpighiaceae",
+      "genus": "Malpighia",
+      "path": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "marsilea-macropoda",
+      "scientific_name": "Marsilea macropoda",
+      "common_name": "Bigfoot waterclover",
+      "family": "Marsileaceae",
+      "genus": "Marsilea",
+      "path": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "marsilea-vestita",
+      "scientific_name": "Marsilea vestita",
+      "common_name": "Hairy water clover",
+      "family": "Marsileaceae",
+      "genus": "Marsilea",
+      "path": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "botrychium-biternatum",
+      "scientific_name": "Botrychium biternatum",
+      "common_name": "Southern grapefern",
+      "family": "Ophioglossaceae",
+      "genus": "Botrychium",
+      "path": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "oxalis-albicans",
+      "scientific_name": "Oxalis albicans",
+      "common_name": "Pale woodsorrel",
+      "family": "Oxalidaceae",
+      "genus": "Oxalis",
+      "path": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "oxalis-dillenii",
+      "scientific_name": "Oxalis dillenii",
+      "common_name": "Dillen's yellow woodsorrel",
+      "family": "Oxalidaceae",
+      "genus": "Oxalis",
+      "path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "oxalis-drummondii",
+      "scientific_name": "Oxalis drummondii",
+      "common_name": "Drummond's woodsorrel",
+      "family": "Oxalidaceae",
+      "genus": "Oxalis",
+      "path": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "oxalis-stricta",
+      "scientific_name": "Oxalis stricta",
+      "common_name": "Common yellow woodsorrel",
+      "family": "Oxalidaceae",
+      "genus": "Oxalis",
+      "path": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "oxalis-violacea",
+      "scientific_name": "Oxalis violacea",
+      "common_name": "Violet woodsorrel",
+      "family": "Oxalidaceae",
+      "genus": "Oxalis",
+      "path": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "pinus-echinata",
+      "scientific_name": "Pinus echinata",
+      "common_name": "Shortleaf pine",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "path": "content/taxa/Pinaceae/Pinus/pinus-echinata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "pinus-taeda",
+      "scientific_name": "Pinus taeda",
+      "common_name": "Loblolly pine",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "path": "content/taxa/Pinaceae/Pinus/pinus-taeda/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "rhinotropis-lindheimeri",
+      "scientific_name": "Rhinotropis lindheimeri",
+      "common_name": "Lindheimer's milkwort",
+      "family": "Polygalaceae",
+      "genus": "Rhinotropis",
+      "path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "rhinotropis-lindheimeri-var-lindheimeri",
+      "scientific_name": "Rhinotropis lindheimeri var. lindheimeri",
+      "common_name": "Lindheimer's milkwort, nominate variety",
+      "family": "Polygalaceae",
+      "genus": "Rhinotropis",
+      "path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "senega-alba",
+      "scientific_name": "Senega alba",
+      "common_name": "White milkwort",
+      "family": "Polygalaceae",
+      "genus": "Senega",
+      "path": "content/taxa/Polygalaceae/Senega/senega-alba/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "senega-lutea",
+      "scientific_name": "Senega lutea",
+      "common_name": "Orange milkwort",
+      "family": "Polygalaceae",
+      "genus": "Senega",
+      "path": "content/taxa/Polygalaceae/Senega/senega-lutea/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "pleopeltis-michauxiana",
+      "scientific_name": "Pleopeltis michauxiana",
+      "common_name": "Resurrection fern",
+      "family": "Polypodiaceae",
+      "genus": "Pleopeltis",
+      "path": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "pleurochaete-squarrosa",
+      "scientific_name": "Pleurochaete squarrosa",
+      "common_name": "Side-fruited crisp-moss",
+      "family": "Pottiaceae",
+      "genus": "Pleurochaete",
+      "path": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "lysimachia-arvensis",
+      "scientific_name": "Lysimachia arvensis",
+      "common_name": "Scarlet pimpernel",
+      "family": "Primulaceae",
+      "genus": "Lysimachia",
+      "path": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "samolus-ebracteatus",
+      "scientific_name": "Samolus ebracteatus",
+      "common_name": "Limewater brookweed",
+      "family": "Primulaceae",
+      "genus": "Samolus",
+      "path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "samolus-parviflorus",
+      "scientific_name": "Samolus parviflorus",
+      "common_name": "Seaside brookweed / water pimpernel",
+      "family": "Primulaceae",
+      "genus": "Samolus",
+      "path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "adiantum-capillus-veneris",
+      "scientific_name": "Adiantum capillus-veneris",
+      "common_name": "Southern Maidenhair / Venus-hair Fern",
+      "family": "Pteridaceae",
+      "genus": "Adiantum",
+      "path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "adiantum-pedatum",
+      "scientific_name": "Adiantum pedatum",
+      "common_name": "Northern maidenhair fern",
+      "family": "Pteridaceae",
+      "genus": "Adiantum",
+      "path": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "hemionitis-alabamensis",
+      "scientific_name": "Hemionitis alabamensis",
+      "common_name": "Alabama lip fern",
+      "family": "Pteridaceae",
+      "genus": "Hemionitis",
+      "path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "hemionitis-artax",
+      "scientific_name": "Hemionitis artax",
+      "common_name": "Powdery cloak fern",
+      "family": "Pteridaceae",
+      "genus": "Hemionitis",
+      "path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "hemionitis-aspera",
+      "scientific_name": "Hemionitis aspera",
+      "common_name": "Rough lip fern",
+      "family": "Pteridaceae",
+      "genus": "Hemionitis",
+      "path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "hemionitis-atropurpurea",
+      "scientific_name": "Hemionitis atropurpurea",
+      "common_name": "Purple-stem cliffbrake",
+      "family": "Pteridaceae",
+      "genus": "Hemionitis",
+      "path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "hemionitis-ovata",
+      "scientific_name": "Hemionitis ovata",
+      "common_name": "Ovalleaf cliffbrake",
+      "family": "Pteridaceae",
+      "genus": "Hemionitis",
+      "path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "hemionitis-wrightiana",
+      "scientific_name": "Hemionitis wrightiana",
+      "common_name": "Wright's cliffbrake",
+      "family": "Pteridaceae",
+      "genus": "Hemionitis",
+      "path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "azolla-caroliniana",
+      "scientific_name": "Azolla caroliniana",
+      "common_name": "Carolina mosquitofern",
+      "family": "Salviniaceae",
+      "genus": "Azolla",
+      "path": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "anemia-mexicana",
+      "scientific_name": "Anemia mexicana",
+      "common_name": "Mexican flowering fern",
+      "family": "Schizaeaceae",
+      "genus": "Anemia",
+      "path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "lygodium-japonicum",
+      "scientific_name": "Lygodium japonicum",
+      "common_name": "Japanese climbing fern",
+      "family": "Schizaeaceae",
+      "genus": "Lygodium",
+      "path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "selaginella-apoda",
+      "scientific_name": "Selaginella apoda",
+      "common_name": "Meadow spikemoss",
+      "family": "Selaginellaceae",
+      "genus": "Selaginella",
+      "path": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "selaginella-arenicola",
+      "scientific_name": "Selaginella arenicola",
+      "common_name": "Sand spikemoss",
+      "family": "Selaginellaceae",
+      "genus": "Selaginella",
+      "path": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "thelypteris-kunthii",
+      "scientific_name": "Thelypteris kunthii",
+      "common_name": "Southern shield fern",
+      "family": "Thelypteridaceae",
+      "genus": "Thelypteris",
+      "path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "thelypteris-ovata",
+      "scientific_name": "Thelypteris ovata",
+      "common_name": "Ovate maiden fern",
+      "family": "Thelypteridaceae",
+      "genus": "Thelypteris",
+      "path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "guaiacum-angustifolium",
+      "scientific_name": "Guaiacum angustifolium",
+      "common_name": "Texas lignum-vitae",
+      "family": "Zygophyllaceae",
+      "genus": "Guaiacum",
+      "path": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "kallstroemia-parviflora",
+      "scientific_name": "Kallstroemia parviflora",
+      "common_name": "Warty Caltrop",
+      "family": "Zygophyllaceae",
+      "genus": "Kallstroemia",
+      "path": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    },
+    {
+      "id": "larrea-tridentata",
+      "scientific_name": "Larrea tridentata",
+      "common_name": "Creosote bush",
+      "family": "Zygophyllaceae",
+      "genus": "Larrea",
+      "path": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/species.json",
+      "photo_publication_status": "PRIVATE_ONLY_HOLD"
+    }
+  ],
+  "note": "Empty until individually verified source import. Do not add names or URLs without matching actual records.",
+  "source_repository": "Crking92/Hays-County-Botany",
+  "source_commit_sha": "515387cbc23b8bf8931141ead9c44c92a7793699",
+  "public_website_ready": false
 }

@@ -1,0 +1,101 @@
+{
+  "id": "adiantum-pedatum",
+  "entry_type": "species",
+  "family": "Pteridaceae",
+  "genus": "Adiantum",
+  "species": "pedatum",
+  "scientific_name": "Adiantum pedatum",
+  "authority": "L.",
+  "common_name": "Northern maidenhair fern",
+  "look_here_first": "Look at the overall frond architecture: pinnae spread in a broad, fanlike or horseshoe arrangement from the upper end of a slender dark stipe. Contrast this with the elongated, repeatedly branching triangular fronds of the locally relevant Adiantum capillus-veneris; do not identify by black stalk alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "B057 deep review: accepted Adiantum pedatum L.; Kew native range does not include Texas.",
+    "range_guardrail": "Do not count as confirmed Central Texas target-zone native. Northern maidenhair is retained as a learner comparison."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Terrestrial rhizomatous perennial fern, not a flowering plant.",
+      "Slender glossy dark brown to black stipe; pinnae radiate or curve in a fanlike arrangement from the distal stipe.",
+      "Small asymmetrical fan- to wedge-shaped pinnules with repeatedly forked veins.",
+      "Fertile pinnule margins roll back to form false indusia over marginal sori.",
+      "Spore-bearing structures, not flowers or seeds, are the reproductive characters to inspect."
+    ],
+    "comparison_training": "Frond branching pattern first; then fertile pinnule margins and pinna arrangement."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Adiantum capillus-veneris"
+    ],
+    "key_distinctions": "A. pedatum: broad horseshoe/fan arrangement of pinnae arising near the stipe apex; A. capillus-veneris: triangular to elongated, 1–3-pinnate frond with branching rachis, common around Central Texas moist limestone seeps. Both have dark stipes and marginal false indusia, so these shared characters do not separate them."
+  },
+  "images": [
+    {
+      "file": "images/adiantum-pedatum-provisional-face.jpg",
+      "role": "Northern maidenhair fern frond overall recognition; later pinna and sori macros.",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Adiantum_pedatum_3.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/library-review012-adfc1234bc82e97.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Fern segment detail shown next to hand for scale; mature sori not confirmed at contact sheet resolution",
+      "creator": "greensophie",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938467731",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605224707/original.jpg",
+      "source_determination": "Adiantum pedatum",
+      "source_observation_id": "5938467731",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/adiantum-pedatum/gbif-344e6fe855d194.jpg",
+      "archive_image_sha256": "cdd684c206df1baff9f4cdf8650928db636b627e4270c0286625512f6b8cb7ee",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "whole frond showing horseshoe-like pinna arrangement",
+    "stipe apex and pinna branching",
+    "pinnule venation and shape macro",
+    "fertile pinnule reflexed margin and sori macro",
+    "matched whole-frond comparison with A. capillus-veneris"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "review_source": "research-drafts/adiantum-pedatum/draft.json; research-queue.json",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

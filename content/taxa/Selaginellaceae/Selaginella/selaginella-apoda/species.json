@@ -1,0 +1,37 @@
+{
+  "id": "selaginella-apoda",
+  "family": "Selaginellaceae",
+  "genus": "Selaginella",
+  "species": "apoda",
+  "scientific_name": "Selaginella apoda",
+  "common_name": "Meadow spikemoss",
+  "look_here_first": "Recognize low creeping mosslike mats with tiny scale leaves arranged along branching stems; inspect strobili and leaf arrangement under magnification; this is a lycophyte rather than a true moss.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Selaginella%20apoda",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographed in Kentucky; county-level range not certified.",
+  "images": [
+    {
+      "file": "images/commons-selaginella-apoda.jpg",
+      "role": "Provisional whole mat appearance; spores and leaf-scale anatomical characters still unresolved.",
+      "creator": "Jaknouse",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Selaginella_apoda1.jpg",
+      "study_use": "Private noncommercial educational field-ID learner",
+      "public_reuse": "CC attribution, original source and share-alike on derivatives"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

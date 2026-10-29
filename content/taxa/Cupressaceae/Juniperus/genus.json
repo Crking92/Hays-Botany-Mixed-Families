@@ -1,0 +1,145 @@
+{
+  "rank": "genus",
+  "family": "Cupressaceae",
+  "name": "Juniperus",
+  "authority": "L.",
+  "common_group": "Junipers",
+  "project_scope": {
+    "selection_mode": "comparison-first",
+    "species_ids": [
+      "juniperus-ashei",
+      "juniperus-virginiana"
+    ],
+    "note": "Start with Ashe juniper as the Central Texas anchor, then expand with eastern redcedar and other realistic local confusers.",
+    "canonical_species_count": 2
+  },
+  "study_strategy": {
+    "priority": [
+      "adult scale-leaf gland shape and position",
+      "scale-leaf margins",
+      "juvenile awl-like foliage",
+      "seed-cone color, bloom and size",
+      "bark texture",
+      "branchlet architecture",
+      "pollen cones when present"
+    ],
+    "warning": "Habit and 'cedar-like' appearance are not enough. Use scale-leaf glands, cone characters and bark together."
+  },
+  "quick_key": [
+    {
+      "if": "raised nearly circular/hemispheric resin gland on adult scale leaves + dark blue glaucous 6–9 mm cones",
+      "then": "Juniperus ashei"
+    },
+    {
+      "if": "elongate/pitted gland tendency + generally smaller blue cones and red-brown bark",
+      "then": "compare Juniperus virginiana"
+    },
+    {
+      "if": "copper to reddish nonglaucous cones",
+      "then": "compare Juniperus pinchotii"
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-two-species-comparison",
+    "last_reviewed": "2026-10-08",
+    "visual_status": "diagnostic-photo checklist ready; matched gland and cone macros pending"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "On an ADULT branchlet, find opposite, closely appressed scale leaves and inspect the tiny resin gland on a scale. Then compare ripe berrylike seed cones and shredding bark.",
+    "shared_traits": [
+      "Evergreen conifers with scale-like adult leaves; juvenile shoots may bear awl-like leaves",
+      "Pollen cones and fleshy-looking seed cones are separate reproductive structures, not true flowers or berries",
+      "Bark often peels in fibrous strips; use gland and mature seed cones to split species"
+    ]
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "adult scale-leaf resin gland",
+      "ashei": "Raised, nearly circular to hemispheric, dark gland",
+      "virginiana": "Pit-like or depressed gland near basal-central part of scale",
+      "priority": "critical"
+    },
+    {
+      "character": "ripe seed-cone diameter",
+      "ashei": "Usually about 6–9 mm (existing canonical treatment also cites 6.5–9.6 mm)",
+      "virginiana": "Usually about 4.5–5 mm",
+      "priority": "high; measure several"
+    },
+    {
+      "character": "seeds per ripe cone",
+      "ashei": "Usually one",
+      "virginiana": "Often 1–2(–3)",
+      "priority": "supporting, overlaps"
+    },
+    {
+      "character": "habit and bark",
+      "ashei": "Often rounded/multistemmed with gray-brown fibrous bark",
+      "virginiana": "Often conical/single-trunked when young with reddish-brown shredding bark",
+      "priority": "supporting only"
+    }
+  ],
+  "overlap_cautions": [
+    "Juvenile awl foliage cannot substitute for adult scale-leaf gland inspection.",
+    "Cone size and seed count overlap; inspect multiple mature cones and the resin gland together.",
+    "J. ashei var. ovata is treated within J. ashei in the canonical review; do not create a separate learner card.",
+    "Conic versus rounded crown and habitat are not definitive species characters."
+  ],
+  "local_lookalikes": [
+    {
+      "name": "Juniperus pinchotii",
+      "separate": "Mature redberry juniper cones turn copper/reddish rather than blue-black glaucous; verify adult scale glands too."
+    },
+    {
+      "name": "Cupressus/Hesperocyparis and ornamental cypresses",
+      "separate": "Check woody rather than fleshy-looking seed cones and scale-leaf arrangement; do not rely on the common name 'cedar'."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "paired adult scale-leaf macro",
+      "targets": [
+        "both"
+      ],
+      "show": "gland raised versus pitted, same magnification and arrows",
+      "priority": "critical"
+    },
+    {
+      "role": "matched ripe cone with ruler",
+      "targets": [
+        "both"
+      ],
+      "show": "diameter and glaucous surface, multiple cones",
+      "priority": "critical"
+    },
+    {
+      "role": "cone dissection",
+      "targets": [
+        "both"
+      ],
+      "show": "seed count with overlapping range warning",
+      "priority": "high"
+    },
+    {
+      "role": "adult vs juvenile foliage",
+      "targets": [
+        "both"
+      ],
+      "show": "awl-shaped juvenile versus appressed adult scale leaves",
+      "priority": "high"
+    },
+    {
+      "role": "bark and whole-tree habit",
+      "targets": [
+        "both"
+      ],
+      "show": "fibrous strips and crown, supporting only",
+      "priority": "medium"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "question": "Select matched licensed resin-gland macros and mature seed-cone measurements for both canonical species; existing species galleries may supply anchors but must be checked for actual detail."
+    }
+  ]
+}

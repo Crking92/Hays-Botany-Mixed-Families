@@ -1,0 +1,206 @@
+{
+  "rank": "family",
+  "name": "Salviniaceae",
+  "common_name": "Mosquitofern / floating-fern family",
+  "lineage_context": {
+    "order": "Salviniales",
+    "batch": "Salviniales",
+    "close_project_families": [
+      "Marsileaceae"
+    ],
+    "teaching_goal": "Teach the project Azolla as a minute free-floating heterosporous fern with overlapping bilobed leaves, hanging roots and distinct micro- and megasporocarps, while explaining the older Azollaceae family treatment."
+  },
+  "taxonomy_scope": {
+    "project_teaching_treatment": "Current Kew Salviniaceae, including Azolla.",
+    "historical_note": "Flora of North America treats Azolla in Azollaceae. Current Kew synonymizes Azollaceae under Salviniaceae. The learner preserves Azollaceae as historical/search provenance only."
+  },
+  "project_scope": {
+    "selection_mode": "Azolla caroliniana-centered project module",
+    "note": "The current project pool contains Azolla caroliniana. Kew accepts the species and includes Texas in its native range."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Pick up a tiny floating branch and use magnification. Look for overlapping two-lobed scale leaves in two rows, with a photosynthetic upper lobe and a thinner submerged lower lobe, plus roots hanging below.",
+    "vegetative": "Tiny free-floating aquatic ferns forming mats. Azolla has branched prostrate stems with alternate imbricate bilobed leaves and hanging roots.",
+    "reproductive": "Heterosporous. Sporocarps form near branch bases. Megasporocarps ultimately contain a single functional megaspore; microsporocarps contain many microsporangia whose microspores are grouped into massulae.",
+    "field_tip": "Tiny floating branched fern + overlapping bilobed leaves + hanging roots = Azolla/Salviniaceae. Species-level Azolla work often needs fertile material and microscopy."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_020",
+    "teaching_order": "floating mat → single branch macro → upper/lower leaf lobes → hanging root → cyanobacterial cavity → micro- vs megasporocarp → old Azollaceae/current Salviniaceae card → microscopy caution",
+    "intro": "Azolla can look like green or reddish pond confetti. Under magnification it becomes unmistakably structured: a branched fern shoot with overlapping two-lobed leaves, roots, reproductive sporocarps and a built-in nitrogen-fixing symbiosis.",
+    "steps": [
+      {
+        "title": "1 · Start with the floating mat",
+        "photo_role": "Azolla colony at water surface",
+        "look_for": "Dense tiny green to reddish floating plants forming a mat rather than isolated duckweed-like fronds.",
+        "why_it_matters": "Establishes the growth form before magnification.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Isolate one branch",
+        "photo_role": "single-shoot macro",
+        "look_for": "A branching prostrate axis covered by overlapping leaves arranged in two rows, with roots hanging below.",
+        "why_it_matters": "Shows that Azolla is a true branched fern shoot, not a pile of separate duckweed fronds.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Split one leaf into two lobes",
+        "photo_role": "leaf macro / diagram",
+        "look_for": "An upper/emergent photosynthetic lobe and a thinner submerged lower lobe.",
+        "why_it_matters": "The bilobed leaf architecture is a core Azolla character.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "4 · Show the cyanobacterial chamber",
+        "photo_role": "leaf-cavity diagram",
+        "look_for": "A cavity in the dorsal/upper leaf lobe housing a nitrogen-fixing cyanobacterial symbiont.",
+        "why_it_matters": "Makes Azolla's famous nitrogen-fixing partnership understandable without implying the fern itself directly fixes nitrogen.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Separate mega- and microsporocarps",
+        "photo_role": "heterospory diagram / macro",
+        "look_for": "Megasporocarp with one functional megaspore versus microsporocarp with many microsporangia and grouped microspores/massulae.",
+        "why_it_matters": "Links Azolla to Marsileaceae through Salviniales heterospory while showing a very different sporocarp design.",
+        "status": "microscopy_diagram_pending"
+      },
+      {
+        "title": "6 · Learn the family-name change",
+        "photo_role": "taxonomy card",
+        "look_for": "Older FNA/field-guide family: Azollaceae. Current Kew family: Salviniaceae.",
+        "why_it_matters": "Prevents two legitimate reference systems from looking like a database error.",
+        "status": "taxonomy_card_ready"
+      },
+      {
+        "title": "7 · Know when species ID needs a microscope",
+        "photo_role": "sterile-vs-fertile caution card",
+        "look_for": "Sterile floating material lacks many of the megaspore, massula and leaf-hair characters used to distinguish Azolla species.",
+        "why_it_matters": "FNA notes that a large proportion of specimens lack sori and reliable species identification may require high magnification or SEM-level spore characters.",
+        "status": "technical_caution_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Salviniaceae/Azolla vs Marsileaceae/Marsilea",
+        "rule": "Azolla is tiny and free-floating with overlapping bilobed scale leaves and hanging roots; Marsilea is rooted in mud with long petioles, four-part clover-like blades and hard sporocarps."
+      },
+      {
+        "title": "Azolla vs duckweeds (Araceae)",
+        "rule": "Azolla has a branched stem with overlapping bilobed leaves, hanging roots and fern sporocarps. Duckweeds are reduced flowering plants built from discrete fronds and tiny flowers rather than a fern shoot."
+      },
+      {
+        "title": "Azolla color caution",
+        "rule": "Green, reddish and crimson forms can all occur depending on condition and stress. Color is not a reliable family or species character."
+      }
+    ],
+    "caveat": "Do not force Azolla to species from color or sterile mat appearance. Reliable species-level separation can depend on sporocarps, megaspore sculpturing, massulae and leaf-hair characters visible only under magnification.",
+    "anatomy_examples": [
+      {
+        "species": "Azolla caroliniana",
+        "plain_label": "One tiny leaf has an upper and lower half",
+        "formal_label": "Bilobed leaf: dorsal photosynthetic lobe and ventral submerged lobe",
+        "where_to_look": "Magnify a single branching shoot; identify each lobe on the same leaf, not on two adjacent leaves.",
+        "photo_role": "Exact-species single-leaf macro with both lobes visible",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "Upper and lower lobes belong to one leaf; arrows require verified organ boundaries."
+      },
+      {
+        "species": "Azolla caroliniana",
+        "plain_label": "Two different kinds of spore cases",
+        "formal_label": "Megasporocarp versus microsporocarp with microsporangia and massulae",
+        "where_to_look": "Use fertile shoot dissection and microscope images at stated scales; compare a functional megaspore with masses of microspores.",
+        "photo_role": "Exact-species fertile-shoot macro plus dissected sporocarp microscopy",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "Do not identify microspores or megaspores from an undissected floating mat."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Azolla",
+        "taxa_count": 1,
+        "fast_cue": "tiny free-floating branched mat + overlapping bilobed leaves + hanging roots + heterosporous sporocarps",
+        "role": "mosquitofern door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Azolla caroliniana"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Azolla caroliniana",
+      "current_name": "Azolla caroliniana",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_family": "Azollaceae",
+      "current_family": "Salviniaceae",
+      "note": "Older FNA family placement retained as taxonomy/search provenance; current Kew includes Azolla within Salviniaceae."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "single Azolla branch",
+      "annotation_goal": "label branched stem, overlapping leaves and hanging root"
+    },
+    {
+      "priority": 1,
+      "structure": "bilobed leaf",
+      "annotation_goal": "label upper photosynthetic lobe and lower submerged lobe"
+    },
+    {
+      "priority": 1,
+      "structure": "microsporocarp vs megasporocarp",
+      "annotation_goal": "show microsporangia/massulae versus single functional megaspore"
+    },
+    {
+      "priority": 1,
+      "structure": "cyanobacterial leaf cavity",
+      "annotation_goal": "label fern tissue and symbiont chamber separately"
+    },
+    {
+      "priority": 2,
+      "structure": "Azollaceae → Salviniaceae taxonomy card",
+      "annotation_goal": "show older FNA versus current Kew family treatment"
+    },
+    {
+      "priority": 2,
+      "structure": "Azolla vs duckweed",
+      "annotation_goal": "branched fern shoot versus discrete flowering-plant fronds"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Salviniaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000058-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Azolla",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001093-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Azolla caroliniana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17037920-1"
+    },
+    {
+      "source": "Flora of North America — Azollaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10095"
+    },
+    {
+      "source": "Flora of North America — Azolla",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=102930"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-020",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_bilobed_leaf_heterospory_symbiosis_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

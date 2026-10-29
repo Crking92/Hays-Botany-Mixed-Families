@@ -1,0 +1,201 @@
+{
+  "rank": "family",
+  "name": "Equisetaceae",
+  "common_name": "Horsetail / scouring-rush family",
+  "lineage_context": {
+    "order": "Equisetales",
+    "batch": "Early vascular-plant comparison",
+    "close_project_families": [
+      "Selaginellaceae",
+      "Pteridaceae",
+      "Ophioglossaceae"
+    ],
+    "teaching_goal": "Teach horsetails as true ferns with jointed hollow ribbed stems, whorled leaf sheaths, terminal strobili of peltate sporangiophores, and homosporous green spores with four hygroscopic elaters; reconcile the North American scouring-rush source to current Equisetum praealtum."
+  },
+  "project_scope": {
+    "selection_mode": "Source Equisetum hyemale reconciled to current North American Equisetum praealtum",
+    "note": "The project source is Hays/Personal and therefore represents the North American scouring-rush concept historically treated as E. hyemale subsp. affine. Current Kew accepts that lineage as Equisetum praealtum; E. hyemale sensu stricto is Eurasian/SE Greenland."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at a stem node. The aerial stem is hollow, longitudinally ribbed and visibly jointed; tiny leaves are fused into a toothed sheath encircling each node.",
+    "vegetative": "Rhizomatous perennial herbs with silica-rich, cylindrical, hollow, ridged stems. Branches, when present, arise from nodes. Leaves are reduced microphylls in whorls and fused basally into a nodal sheath.",
+    "reproductive": "A terminal cone-like strobilus is built from many peltate, umbrella-shaped sporangiophores; several sporangia hang from the underside of each sporangiophore.",
+    "spores": "Homosporous. Spores are green/chlorophyllous and bear four hygroscopic elaters that coil and uncoil with humidity.",
+    "field_tip": "Jointed ribbed hollow stem + toothed sheath at every node + terminal strobilus = Equisetaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_026",
+    "teaching_order": "jointed stem → nodal sheath → hollow/ridged cross-section → terminal strobilus → peltate sporangiophore → elater-bearing spore → praealtum taxonomy card → Joey Adiantum comparison",
+    "intro": "Horsetails look nothing like a typical fern, but they are part of the true-fern/monilophyte lineage. Their leaves are reduced to sheaths and the sporangia move into a terminal cone.",
+    "steps": [
+      {
+        "title": "1 · Start at the joint",
+        "photo_role": "whole stem + node macro",
+        "look_for": "Obvious nodes separating long ribbed internodes; dark or contrasting bands may accent the sheath.",
+        "why_it_matters": "The jointed architecture is the fastest family-level cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Unwrap the leaf concept",
+        "photo_role": "nodal sheath macro",
+        "look_for": "Many tiny scale leaves fused into a crown-like sheath with individual teeth at the rim.",
+        "why_it_matters": "Explains where the 'leaves' went and prevents treating the sheath as bark.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Show the hollow ribbed stem",
+        "photo_role": "stem cross-section / cut stem",
+        "look_for": "Large central hollow cavity plus longitudinal ridges around the circumference.",
+        "why_it_matters": "Reinforces the structural basis of the scouring-rush silhouette.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "4 · Open the strobilus architecture",
+        "photo_role": "terminal cone + sporangiophore macro",
+        "look_for": "Terminal cone composed of shieldlike/peltate sporangiophores, each bearing multiple sporangia underneath.",
+        "why_it_matters": "This is the reproductive structure that replaces ordinary fern sori.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "5 · Watch an elater-bearing spore",
+        "photo_role": "spore micrograph/diagram",
+        "look_for": "A green spherical spore with four ribbonlike hygroscopic elaters.",
+        "why_it_matters": "A uniquely memorable Equisetum reproductive character.",
+        "status": "microscopy_diagram_pending"
+      },
+      {
+        "title": "6 · Fix the North American name",
+        "photo_role": "taxonomy card",
+        "look_for": "Project source 'Equisetum hyemale' / older E. hyemale subsp. affine → current Equisetum praealtum for the North American lineage.",
+        "why_it_matters": "Prevents the learner from assigning the Eurasian E. hyemale sensu stricto to a Texas plant.",
+        "status": "taxonomy_card_ready"
+      },
+      {
+        "title": "7 · Compare with Joey's Adiantum",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Adiantum bears sporangia along the blade margin beneath a rolled pseudoindusium; Equisetum concentrates sporangia in a terminal strobilus on peltate sporangiophores.",
+        "why_it_matters": "Makes the huge body-plan diversity within true ferns visually concrete.",
+        "status": "private_study_anchor_available"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Equisetaceae vs Selaginellaceae",
+        "rule": "Equisetaceae has hollow ribbed jointed stems, whorled fused leaf sheaths and homosporous terminal strobili. Selaginellaceae has leafy branching shoots with individual ligulate microphylls, rhizophores, and two spore sizes."
+      },
+      {
+        "title": "Equisetaceae vs ordinary true ferns",
+        "rule": "Both are monilophytes, but Equisetum has reduced nodal leaves and terminal strobili; familiar ferns such as Adiantum carry sporangia in sori on a leafy frond."
+      },
+      {
+        "title": "Equisetum praealtum naming",
+        "rule": "Older North American floras often call it E. hyemale subsp. affine. Current Kew treats that North American lineage as E. praealtum; E. hyemale sensu stricto is Eurasian/SE Greenland."
+      }
+    ],
+    "caveat": "The source pool currently says Equisetum hyemale, but a Texas/Hays scouring-rush should not be taught as Eurasian E. hyemale sensu stricto under the current Kew backbone. Species-level confirmation still belongs to the species lane."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 1,
+    "current_teaching_genus_count": 1,
+    "genera": [
+      {
+        "genus": "Equisetum",
+        "source_taxa_count": 1,
+        "current_species_concepts": 1,
+        "fast_cue": "jointed hollow ridged stems + toothed nodal sheaths + terminal strobilus",
+        "role": "horsetail door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Equisetum hyemale"
+  ],
+  "project_pool_taxa_current": [
+    "Equisetum praealtum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Equisetum hyemale",
+      "current_name": "Equisetum praealtum",
+      "note": "Project source is North American/Texas. Current Kew treats the North American E. hyemale subsp. affine / var. affine concept as E. praealtum."
+    },
+    {
+      "source_name": "Equisetum hyemale subsp. affine",
+      "current_name": "Equisetum praealtum",
+      "note": "Current Kew synonym; older FNA morphology remains useful."
+    },
+    {
+      "name": "Equisetum hyemale",
+      "note": "Still an accepted species, but current Kew native range is SE Greenland and temperate Eurasia rather than Texas."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-D1qCiiaMJ_I-edwards-plateau-botany-montezuma-cypress.json",
+    "record_id": "D1qCiiaMJ_I-20",
+    "filename": "adiantum-capillus-veneris_fertile-frond-pseudoindusium_15-55.0.jpg",
+    "timestamp": "15:55.0",
+    "timestamp_seconds": 955,
+    "taxon": "Adiantum capillus-veneris",
+    "family": "Pteridaceae",
+    "teaching_role": "fertile frond / revolute margin / pseudoindusium",
+    "use_policy": "preferred private-study true-fern comparison; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "nodal toothed sheath",
+      "annotation_goal": "label fused microphylls, teeth, node and internode"
+    },
+    {
+      "priority": 1,
+      "structure": "peltate sporangiophore",
+      "annotation_goal": "show shieldlike sporangiophore and hanging sporangia"
+    },
+    {
+      "priority": 1,
+      "structure": "stem cross-section",
+      "annotation_goal": "label hollow center and ribs"
+    },
+    {
+      "priority": 1,
+      "structure": "E. hyemale → E. praealtum taxonomy card",
+      "annotation_goal": "old North American concept versus current accepted name"
+    },
+    {
+      "priority": 2,
+      "structure": "spore with four elaters",
+      "annotation_goal": "label elaters and humidity response"
+    },
+    {
+      "priority": 2,
+      "structure": "Equisetum vs Joey Adiantum",
+      "annotation_goal": "terminal strobilus versus blade-margin sori/pseudoindusium"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Equisetaceae general information",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126772-1/general-information"
+    },
+    {
+      "source": "POWO — Equisetum praealtum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:93005-2"
+    },
+    {
+      "source": "POWO — Equisetum hyemale",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:92939-2"
+    },
+    {
+      "source": "FNA — Equisetum hyemale subsp. affine",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500619"
+    }
+  ],
+  "joey_media_note": "No direct Equisetaceae Joey frame is indexed. The saved Joey Adiantum frame is used only as a private-study true-fern reproductive comparison.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-026",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_taxonomy_reconciliation_strobilus_elater_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "rank": "family",
+  "name": "Selaginellaceae",
+  "common_name": "Spikemoss family",
+  "lineage_context": {
+    "order": "Selaginellales",
+    "batch": "Early vascular-plant comparison",
+    "close_project_families": [
+      "Equisetaceae",
+      "Pteridaceae",
+      "Ophioglossaceae"
+    ],
+    "teaching_goal": "Teach Selaginella as a lycophyte rather than a fern: tiny single-veined ligulate microphylls on branching shoots, rhizophores, terminal strobili, and heterospory with a few large megaspores plus hundreds of tiny microspores."
+  },
+  "project_scope": {
+    "selection_mode": "Selaginella apoda + Selaginella arenicola project module",
+    "note": "Both species are accepted by current Kew and native ranges include Texas. S. arenicola has two accepted subspecies; species-level subspecies resolution remains separate."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Use magnification on a leafy shoot. Each tiny leaf is a single-veined microphyll with a small ligule near the adaxial base. Look also for leafless rhizophores descending from stems/branch forks.",
+    "vegetative": "Small terrestrial or rock-growing vascular plants with dichotomously or irregularly branched leafy stems. Leaves are tiny, single-veined and ligulate; they may be all similar or dimorphic and arranged in four ranks.",
+    "reproductive": "Sporophylls form terminal strobili. A single sporangium sits in the axil of each sporophyll.",
+    "spores": "Heterosporous: megasporangia contain usually four very large megaspores, while microsporangia contain hundreds of tiny microspores.",
+    "field_tip": "Tiny leafy branching vascular plant + ligule + rhizophore + two spore sizes = Selaginellaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_026",
+    "teaching_order": "whole shoot → microphyll + ligule → rhizophore → strobilus → mega-vs-microsporangium → mega-vs-microspore → apoda vs arenicola → true-fern comparison",
+    "intro": "Spikemoss looks mossy, but it is a vascular lycophyte. Its most important visual ideas are tiny microphylls, specialized rhizophores, and two dramatically different spore sizes.",
+    "steps": [
+      {
+        "title": "1 · Prove it is a leafy vascular shoot",
+        "photo_role": "whole Selaginella branch",
+        "look_for": "Branching stem densely covered with tiny leaves rather than a fern frond or moss gametophyte.",
+        "why_it_matters": "Sets the body plan before magnification.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the ligule",
+        "photo_role": "microphyll-base macro/diagram",
+        "look_for": "A minute membranous ligule on the upper/adaxial surface near the base of each single-veined microphyll.",
+        "why_it_matters": "The ligule is a core Selaginellaceae character and separates spikemoss from many lookalikes.",
+        "status": "highest_priority_micromacro_pending"
+      },
+      {
+        "title": "3 · Find a rhizophore",
+        "photo_role": "branch-fork/rooting structure",
+        "look_for": "A leafless root-bearing axis emerging from the stem or branch fork and producing roots at its tip.",
+        "why_it_matters": "Clarifies the unusual rooting architecture.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Open the strobilus",
+        "photo_role": "fertile shoot macro",
+        "look_for": "Overlapping sporophylls forming a terminal strobilus, each with one sporangium at its base.",
+        "why_it_matters": "Connects the leafy shoot to lycophyte reproduction.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Put megaspores beside microspores",
+        "photo_role": "spore-size diagram/micrograph",
+        "look_for": "A megasporangium with only a few very large megaspores versus a microsporangium packed with hundreds of minute microspores.",
+        "why_it_matters": "Heterospory is the family concept learners are most likely to remember visually.",
+        "status": "highest_priority_diagram_pending"
+      },
+      {
+        "title": "6 · Selaginella apoda door",
+        "photo_role": "meadow spikemoss whole shoot + strobilus",
+        "look_for": "Delicate prostrate/short-creeping mat, dorsiventrally flattened branches, dimorphic leaves in four ranks, and lax flattened strobili; typically moist habitats.",
+        "why_it_matters": "Contrasts a soft wet-site species with the dry-site radial architecture of S. arenicola.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Selaginella arenicola door",
+        "photo_role": "sand spikemoss clump",
+        "look_for": "Erect/ascending clumping shoots that are radially symmetric, with narrow appressed leaves in pseudowhorls of four and bristle tips; dry sandy, gravelly or rock habitat.",
+        "why_it_matters": "The growth form and leaf arrangement are strong project-level contrasts with S. apoda.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "8 · Compare with Joey's Adiantum",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Adiantum has a true fern frond bearing sori along the blade margin; Selaginella has microphyll-covered stems and terminal heterosporous strobili.",
+        "why_it_matters": "Makes the fern-versus-lycophyte split visually concrete using authoritative private-study footage.",
+        "status": "private_study_anchor_available"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Selaginellaceae vs Equisetaceae",
+        "rule": "Selaginella has individual ligulate microphylls, rhizophores and heterosporous strobili. Equisetum has jointed hollow ribbed stems, leaves fused into nodal sheaths, and homosporous terminal strobili."
+      },
+      {
+        "title": "Selaginellaceae vs true ferns",
+        "rule": "Selaginella is a lycophyte with microphylls and terminal strobili; true ferns such as Adiantum make fronds and bear sporangia in sori on the blade or specialized fern structures."
+      },
+      {
+        "title": "S. apoda vs S. arenicola",
+        "rule": "S. apoda is delicate, prostrate/short-creeping, flattened and usually moisture-loving with dimorphic 4-ranked leaves. S. arenicola forms erect/ascending radially symmetric dry-site shoots with narrow appressed leaves and bristle tips."
+      }
+    ],
+    "caveat": "The ligule is tiny and may require magnification. Do not identify Selaginella from a vague 'mossy' appearance; confirm vascular-shoot architecture, microphyll arrangement, rhizophores and/or strobili."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Selaginella",
+        "taxa_count": 2,
+        "fast_cue": "tiny ligulate microphylls + rhizophores + terminal heterosporous strobili",
+        "role": "spikemoss door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Selaginella apoda",
+    "Selaginella arenicola"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Selaginella apoda",
+      "current_name": "Selaginella apoda",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Selaginella arenicola",
+      "current_name": "Selaginella arenicola",
+      "note": "Accepted by current Kew; native range extends across the southeastern U.S. to Texas."
+    },
+    {
+      "name": "Selaginella arenicola",
+      "note": "Current Kew recognizes subsp. arenicola and subsp. riddellii; project species-level subspecies resolution remains separate."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-D1qCiiaMJ_I-edwards-plateau-botany-montezuma-cypress.json",
+    "record_id": "D1qCiiaMJ_I-20",
+    "filename": "adiantum-capillus-veneris_fertile-frond-pseudoindusium_15-55.0.jpg",
+    "timestamp": "15:55.0",
+    "timestamp_seconds": 955,
+    "taxon": "Adiantum capillus-veneris",
+    "family": "Pteridaceae",
+    "teaching_role": "fertile frond / revolute margin / pseudoindusium",
+    "use_policy": "preferred private-study true-fern comparison; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "microphyll ligule",
+      "annotation_goal": "label leaf vein, adaxial base and ligule"
+    },
+    {
+      "priority": 1,
+      "structure": "megaspore vs microspore",
+      "annotation_goal": "same-scale size comparison and sporangium source"
+    },
+    {
+      "priority": 1,
+      "structure": "rhizophore",
+      "annotation_goal": "distinguish leafless rhizophore from root and leafy stem"
+    },
+    {
+      "priority": 1,
+      "structure": "S. apoda vs S. arenicola habit",
+      "annotation_goal": "flattened moist mat versus radial dry clump"
+    },
+    {
+      "priority": 2,
+      "structure": "strobilus sporophyll/sporangium",
+      "annotation_goal": "label sporophyll and axillary sporangium"
+    },
+    {
+      "priority": 2,
+      "structure": "Selaginella vs Joey Adiantum",
+      "annotation_goal": "microphyll/strobilus lycophyte versus frond/sorus true fern"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Selaginellaceae general information",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003749-2/general-information"
+    },
+    {
+      "source": "FNA — Selaginellaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10817"
+    },
+    {
+      "source": "FNA — Selaginella",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=130007"
+    },
+    {
+      "source": "POWO — Selaginella apoda",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60456217-2"
+    },
+    {
+      "source": "FNA — Selaginella apoda",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200002770"
+    },
+    {
+      "source": "POWO — Selaginella arenicola",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:293495-2"
+    },
+    {
+      "source": "FNA — Selaginella arenicola",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200002772"
+    }
+  ],
+  "joey_media_note": "No direct Selaginellaceae Joey frame is indexed. The saved Joey Adiantum frame is used only as a private-study fern-versus-lycophyte comparison.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-026",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_ligule_heterospory_habit_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "rank": "family",
+  "name": "Aristolochiaceae",
+  "common_name": "Birthwort / pipevine family",
+  "project_scope": {
+    "selection_mode": "Central Texas Aristolochia reference module",
+    "note": "Aristolochia serpentaria and Aristolochia erecta are both canonical clickable anchors. A. erecta uses a transparent mixed-source exact-county PASS (Travis herbarium + Bexar field documentation + research-grade Kendall/Sisterdale occurrence); Hays is not counted."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Go straight to the flower: local Aristolochia has one fused petaloid perianth/calyx tube rather than a normal separate petal corolla.",
+    "leaves": "Alternate simple exstipulate leaves; shape varies from narrow in A. erecta to broader/cordate in other species.",
+    "flower": "Often strongly zygomorphic; petaloid fused calyx/perianth, petals absent in Aristolochia.",
+    "ovary": "Inferior; anthers are closely associated with the stylar column/gynostemium.",
+    "fruit": "Many-seeded capsule.",
+    "field_tip": "Do not require a giant Dutchman's-pipe vine—A. erecta is a small erect/sprawling perennial."
+  },
+  "visual_lesson": {
+    "status": "reference_first_pass",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Aristolochiaceae is a flower-architecture family: the strange tube is the perianth/calyx, not an ordinary corolla of petals.",
+    "steps": [
+      {
+        "title": "1 · See the family habit range",
+        "photo_role": "Virginia snakeroot foliage",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aristolochia_serpentaria.jpg",
+        "image_label": "Aristolochia serpentaria",
+        "image_credit": "CC BY-SA 4.0 · Eric Hunt",
+        "look_for": "A small herbaceous Aristolochia rather than a huge tropical pipevine.",
+        "why_it_matters": "Prevents the learner from making vine habit mandatory.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "aristolochia-serpentaria"
+      },
+      {
+        "title": "2 · Learn the flower plan",
+        "photo_role": "Aristolochia botanical illustration",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aristolochia_serpentaria_drawing.png",
+        "image_label": "Aristolochia serpentaria illustration",
+        "image_credit": "Public Domain · USDA-NRCS / Britton & Brown",
+        "look_for": "A single curved petaloid perianth tube rather than separate petals.",
+        "why_it_matters": "This is the fastest family-level mental model.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "aristolochia-serpentaria"
+      },
+      {
+        "title": "3 · Put the ovary below the tube",
+        "photo_role": "inferior ovary / gynostemium",
+        "look_for": "The ovary positioned below the perianth and the compact reproductive column inside.",
+        "why_it_matters": "Inferior ovary + gynostemium separates Aristolochia from many fused-flower vines.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Return to the Central Texas swanflower",
+        "photo_role": "Aristolochia erecta local anchor",
+        "look_for": "Narrow grass-like leaves and a much smaller brown-purple tubular flower.",
+        "why_it_matters": "This is the tiny grass-mimic Central Texas field form; compare it directly with the broader-leaved woodland A. serpentaria.",
+        "status": "canonical_anchor_photo_polish_pending",
+        "anchor_species_id": "aristolochia-erecta"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Aristolochiaceae vs Apocynaceae",
+        "rule": "Apocynaceae has a true fused corolla and usually superior ovary; Aristolochia uses a petaloid fused calyx/perianth and inferior ovary."
+      },
+      {
+        "title": "Aristolochiaceae vs Convolvulaceae",
+        "rule": "Morning-glories have a plicate corolla and superior ovary; Aristolochia has the peculiar perianth tube and inferior ovary."
+      }
+    ],
+    "caveat": "A. serpentaria provides the rights-cleared reference images now; A. erecta is canonical and clickable, with an exact reusable swanflower macro still pending visual polish."
+  },
+  "curation_status": {
+    "version": "1.3-two-canonical-anchors",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "canonical_serpentaria_and_erecta_live"
+  }
+}

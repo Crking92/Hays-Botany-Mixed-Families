@@ -1,0 +1,36 @@
+{
+  "id": "lysimachia-arvensis",
+  "family": "Primulaceae",
+  "genus": "Lysimachia",
+  "species": "arvensis",
+  "scientific_name": "Lysimachia arvensis",
+  "common_name": "Scarlet pimpernel",
+  "look_here_first": "Inspect small opposite oval leaves and solitary five-lobed flowers on slender axillary stalks, with round capsules after flowering; flower color varies.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77100386-1",
+  "images": [
+    {
+      "file": "images/inat-466598678.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Santos A. Noriega Aviles, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/466598678",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

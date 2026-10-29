@@ -1,0 +1,8 @@
+
+PROVISIONAL GBIF EXACT-SPECIMEN FIRST PHOTO 2026-10-15T13:06:24.687176+00:00
+Physaria sessilis (S.Watson) O'Kane & Al-Shehbaz
+MBG
+CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/
+https://www.gbif.org/occurrence/4907024415
+https://images.mobot.org/tropicosimages5/detailimages/TropicosImagesVol5/101757000/29A61A2B-5443-4C58-A6FF-6451AE6119AE.jpg
+Anatomy visual verification pending; no scientific taxon/range status changed.

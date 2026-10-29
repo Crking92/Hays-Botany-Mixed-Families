@@ -1,0 +1,13 @@
+Source-pool admission: Master Plant Pool Asplenium resiliens; named in workflow/MASTER_POOL_RECONCILIATION_2026-10-14.json.
+Taxonomy: POWO accepted species https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17050370-1 (Aspleniaceae); source synonyms map to this card.
+Morphology: Flora of North America https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200004162 (black rachis, oblong pinnae, acroscopic auricle, paired linear sori).
+Photo selected: https://commons.wikimedia.org/wiki/File:Asplenium_resiliens_habit.jpg ; Sam Kieschnick, iNaturalist photo 2604229 https://www.inaturalist.org/photos/2604229 ; Wikimedia Commons file independently reviewed as CC BY 4.0. Photo shows habit, narrow pinnae and dark rachis; do NOT claim sori visible in this view.
+Photo direct: https://upload.wikimedia.org/wikipedia/commons/f/f5/Asplenium_resiliens_habit.jpg
+Attribution and CC BY 4.0 license link https://creativecommons.org/licenses/by/4.0/ must remain visible. Installer must verify image after Action; underside sori, pinna auricle macro and matched look-alikes remain needs_photo; arrows annotation_pending.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Asplenium resiliens Kunze
+https://www.gbif.org/occurrence/5938105993
+Conway Hawn | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Black rachis, pinna bases and narrow brownish sori on lower side of frond
+No anatomy arrows; no scientific or native-range changes.

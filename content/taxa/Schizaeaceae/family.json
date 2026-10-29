@@ -1,0 +1,230 @@
+{
+  "rank": "family",
+  "name": "Schizaeaceae",
+  "common_name": "Curly-grass / climbing / flowering fern family",
+  "lineage_context": {
+    "order": "Schizaeales",
+    "batch": "Fern residuals",
+    "close_project_families": [
+      "Pteridaceae",
+      "Polypodiaceae",
+      "Ophioglossaceae"
+    ],
+    "teaching_goal": "Teach the current broad Schizaeaceae through specialized fertile frond portions and a subapical annulus, then split project Anemia from Lygodium by erect modified fertile pinnae versus a climbing indeterminate rachis."
+  },
+  "taxonomy_scope": {
+    "project_teaching_treatment": "Current Kew Schizaeaceae, including Anemia and Lygodium.",
+    "historical_note": "Flora of North America uses narrower Anemiaceae and Lygodiaceae concepts. Those older family names remain useful for morphology and search provenance but are not separate project families."
+  },
+  "project_scope": {
+    "selection_mode": "Anemia mexicana + Lygodium japonicum project module",
+    "note": "Anemia mexicana is accepted and native from west-central Texas southward; Lygodium japonicum is accepted but introduced in Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find where the sporangia live. In this lineage the fertile portions of the frond are strongly specialized into contracted lobes, pinnae or sorophores rather than ordinary round/marginal sori on a normal blade.",
+    "vegetative": "Terrestrial ferns with highly variable fronds. Project Anemia is an ordinary ground fern; project Lygodium has an indeterminate twining rachis that acts like a vine.",
+    "reproductive": "Sporangia are borne singly or in rows on specialized fertile lobes/segments. The annulus is subapical and the sporangium opens by a longitudinal fissure.",
+    "field_tip": "Specialized fertile pinnae/lobes + subapical-annulus sporangia = current broad Schizaeaceae. Then ask whether the plant is an erect Anemia or climbing Lygodium."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_025",
+    "teaching_order": "fertile-portion architecture → sporangium/annulus → Anemia fertile basal pinnae → Lygodium climbing rachis → Lygodium fertile fringe → Joey Pteridaceae contrast → family-name history",
+    "intro": "This family is memorable because the spore-bearing tissue is pushed into bizarre specialized parts. In Anemia a pair of basal pinnae becomes almost all sporangia; in Lygodium the frond keeps growing and climbs like a vine.",
+    "steps": [
+      {
+        "title": "1 · Find the specialized fertile part",
+        "photo_role": "fertile-vs-sterile frond comparison",
+        "look_for": "Contracted fertile lobes or pinnae carrying rows of sporangia instead of ordinary sori on a broad blade.",
+        "why_it_matters": "This is the strongest visual break from the common fern families already in the learner.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Show the subapical annulus",
+        "photo_role": "sporangium macro/diagram",
+        "look_for": "The thickened annulus sits near the sporangium apex rather than forming the familiar vertical ring of many leptosporangiate ferns.",
+        "why_it_matters": "Explains why Schizaeales sporangia are structurally different from Pteridaceae/Polypodiaceae.",
+        "status": "micromacro_pending"
+      },
+      {
+        "title": "3 · Anemia mexicana door",
+        "photo_role": "whole fertile frond",
+        "look_for": "A 1-pinnate sterile blade with the proximal pair of pinnae transformed into tall narrow fertile structures, often rising above the rest of the blade.",
+        "why_it_matters": "FNA keys the Texas Anemia directly from this partially dimorphic 1-pinnate architecture.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Put Anemia on limestone",
+        "photo_role": "Edwards Plateau habitat",
+        "look_for": "Fern rooted in lightly shaded limestone outcrop/crevice.",
+        "why_it_matters": "Anemia mexicana is a real Edwards Plateau dry-limestone fern, reinforcing that not all ferns are wet-shade plants.",
+        "status": "local_habitat_pending"
+      },
+      {
+        "title": "5 · Lygodium door: the frond is the vine",
+        "photo_role": "whole climbing plant",
+        "look_for": "A long indeterminate rachis twining around surrounding vegetation, with repeated lateral pinnae.",
+        "why_it_matters": "This is one of the most unusual fern growth forms and an immediate genus-level cue.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "6 · Find Lygodium fertile fringes",
+        "photo_role": "fertile pinnule macro",
+        "look_for": "Ultimate segments fringed with narrow fertile lobes/sorophores carrying sporangia.",
+        "why_it_matters": "Confirms a climbing fern rather than an ordinary vine.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "7 · Compare with Joey's Adiantum",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Joey's Adiantum fertile frond shows spore-producing regions covered by a rolled leaflet margin (pseudoindusium), unlike Schizaeaceae's specialized contracted fertile structures.",
+        "why_it_matters": "Uses authoritative field footage to make the Schizaeaceae-vs-Pteridaceae reproductive split concrete.",
+        "status": "private_study_anchor_available"
+      },
+      {
+        "title": "8 · Learn the family-name history",
+        "photo_role": "taxonomy card",
+        "look_for": "Older FNA: Anemiaceae + Lygodiaceae. Current Kew: both inside Schizaeaceae.",
+        "why_it_matters": "Prevents apparently conflicting field guides and databases from creating duplicate families in the learner.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Schizaeaceae vs Pteridaceae",
+        "rule": "Schizaeaceae puts sporangia on specialized contracted fertile lobes/pinnae and uses a subapical annulus. Local Pteridaceae commonly keeps sori on the ordinary blade margin under a rolled false indusium."
+      },
+      {
+        "title": "Schizaeaceae vs Polypodiaceae",
+        "rule": "Pleopeltis has discrete round sori on an ordinary blade; Schizaeaceae shifts the sporangia onto visibly specialized fertile frond portions."
+      },
+      {
+        "title": "Anemia vs Lygodium",
+        "rule": "Anemia mexicana is an erect terrestrial fern with a normal sterile blade and a specialized basal fertile pinna pair. Lygodium japonicum has a vine-like twining rachis and fertile lobes fringing pinnules."
+      }
+    ],
+    "caveat": "Do not teach FNA's Anemiaceae/Lygodiaceae as additional current project families. They are valuable older morphological treatments, while the current canonical family backbone here follows Kew's broader Schizaeaceae."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 2,
+    "current_teaching_genus_count": 2,
+    "genera": [
+      {
+        "genus": "Anemia",
+        "taxa_count": 1,
+        "fast_cue": "erect terrestrial fern + specialized proximal fertile pinnae + limestone Edwards Plateau habitat",
+        "role": "flowering-fern door"
+      },
+      {
+        "genus": "Lygodium",
+        "taxa_count": 1,
+        "fast_cue": "climbing indeterminate rachis + repeated pinnae + fertile lobes along ultimate segments",
+        "role": "climbing-fern door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Anemia mexicana",
+    "Lygodium japonicum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Anemia mexicana",
+      "current_name": "Anemia mexicana",
+      "note": "Accepted by current Kew; native range begins in west-central Texas and extends southward."
+    },
+    {
+      "source_name": "Lygodium japonicum",
+      "current_name": "Lygodium japonicum",
+      "note": "Accepted by current Kew; native to Asia and introduced in Texas."
+    },
+    {
+      "source_family": "Anemiaceae / Lygodiaceae",
+      "current_family": "Schizaeaceae",
+      "note": "Older FNA family treatments retained as morphology/search provenance; current Kew places Anemia and Lygodium in Schizaeaceae."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-D1qCiiaMJ_I-edwards-plateau-botany-montezuma-cypress.json",
+    "record_id": "D1qCiiaMJ_I-20",
+    "filename": "adiantum-capillus-veneris_fertile-frond-pseudoindusium_15-55.0.jpg",
+    "timestamp": "15:55.0",
+    "timestamp_seconds": 955,
+    "taxon": "Adiantum capillus-veneris",
+    "family": "Pteridaceae",
+    "teaching_role": "fertile frond / revolute margin / pseudoindusium",
+    "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Anemia fertile basal pinnae",
+      "annotation_goal": "label sterile blade versus transformed fertile pinnae"
+    },
+    {
+      "priority": 1,
+      "structure": "Lygodium climbing rachis",
+      "annotation_goal": "show rachis twining around support and repeated pinnae"
+    },
+    {
+      "priority": 1,
+      "structure": "Lygodium fertile sorophore fringe",
+      "annotation_goal": "label specialized fertile lobes/sporangia"
+    },
+    {
+      "priority": 1,
+      "structure": "subapical annulus",
+      "annotation_goal": "compare Schizaeales annulus position with ordinary fern sporangium"
+    },
+    {
+      "priority": 1,
+      "structure": "Schizaeaceae vs Joey Adiantum",
+      "annotation_goal": "specialized fertile lobes versus revolute-margin pseudoindusium"
+    },
+    {
+      "priority": 2,
+      "structure": "Anemiaceae/Lygodiaceae → Schizaeaceae taxonomy card",
+      "annotation_goal": "older FNA versus current Kew family circumscription"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Schizaeaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30017813-2"
+    },
+    {
+      "source": "POWO — Schizaeaceae general information",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30017813-2/general-information"
+    },
+    {
+      "source": "POWO — Anemia mexicana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17264720-1"
+    },
+    {
+      "source": "FNA — Anemia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=101726"
+    },
+    {
+      "source": "FNA — Anemia mexicana",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500046"
+    },
+    {
+      "source": "POWO — Lygodium japonicum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17143040-1"
+    },
+    {
+      "source": "FNA — Lygodium",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=119176"
+    },
+    {
+      "source": "FNA — Lygodium japonicum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200003069"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-025",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_joey_pteridaceae_anchor_specialized_fertile_parts_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

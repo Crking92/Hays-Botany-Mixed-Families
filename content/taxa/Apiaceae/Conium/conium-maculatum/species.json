@@ -1,0 +1,48 @@
+{
+  "id": "conium-maculatum",
+  "family": "Apiaceae",
+  "genus": "Conium",
+  "species": "maculatum",
+  "scientific_name": "Conium maculatum",
+  "authority": "L.",
+  "common_name": "Poison hemlock",
+  "look_here_first": "LOOK HERE FIRST: Check for a smooth green stem with irregular purple blotches, then finely divided leaves and compound umbels of tiny white flowers. Confirm several structures together rather than relying on stem color alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 287",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/conium-maculatum-harry-rose-stem.jpg",
+      "role": "purple-spotted stem close-up",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conium_maculatum_stem2_(14681566792).jpg",
+      "study_use": "private_educational",
+      "public_reuse": "cc_attribution_required"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "whole plant and leaves",
+    "compound umbels",
+    "mature fruits"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "entry_type": "species",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

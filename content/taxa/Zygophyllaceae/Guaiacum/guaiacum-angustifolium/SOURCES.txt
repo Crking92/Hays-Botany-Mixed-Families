@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Guaiacum%20angustifolium
+Source research-grade observation: https://www.inaturalist.org/observations/626386
+Photo: https://www.inaturalist.org/photos/788135
+Attribution: (c) CH Hemphill, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 049 2026-10-17T02:53:40.227551+00:00
+Guaiacum angustifolium
+Creator: Clifton Ladd, C.W.B.; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6130027656
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/guaiacum-angustifolium/gbif-e393409a4c3ea9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

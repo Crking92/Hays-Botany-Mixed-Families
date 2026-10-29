@@ -1,0 +1,48 @@
+{
+  "id": "cucumis-melo",
+  "family": "Cucurbitaceae",
+  "genus": "Cucumis",
+  "species": "melo",
+  "scientific_name": "Cucumis melo",
+  "authority": "L.",
+  "common_name": "Muskmelon",
+  "look_here_first": "LOOK HERE FIRST: Find a trailing, rough-hairy vine with curling tendrils, broad heart-shaped to shallowly lobed leaves with toothed edges, and five-lobed yellow flowers. Male flowers may cluster, while female flowers have a small developing melon behind the petals. Fruit form is variable among cultivated melons; use flower, leaf and tendril features together.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 315",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/cucumis-melo-starr-080815-9781.jpg",
+      "role": "yellow flowers, hairy stems and broad toothed leaves",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080815-9781_Cucumis_melo.jpg",
+      "study_use": "private_educational",
+      "public_reuse": "cc_by_3_attribution"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "mature melon fruit showing cultivar variation",
+    "female flower with inferior ovary",
+    "whole vine showing tendrils and growth habit"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "entry_type": "species",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

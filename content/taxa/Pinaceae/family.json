@@ -1,0 +1,175 @@
+{
+  "rank": "family",
+  "name": "Pinaceae",
+  "common_name": "Pine family",
+  "lineage_context": {
+    "order": "Pinales",
+    "batch": "Gymnosperm lineages",
+    "close_project_families": [
+      "Cupressaceae",
+      "Ginkgoaceae",
+      "Ephedraceae"
+    ],
+    "teaching_goal": "Teach Pinaceae through resinous woody habit, needle fascicles and free woody cone scales bearing two exposed ovules/seeds, then split the two project pines by fascicle/needle/cone/bark characters."
+  },
+  "project_scope": {
+    "selection_mode": "Pinus echinata + Pinus taeda project module",
+    "note": "Both project species are accepted under current Kew and native to Texas. Exact target-zone nativity remains species-lane work."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the needles and their attachment. In project Pinus, foliage needles occur in fascicles enclosed at the base by a sheath. Then inspect the woody seed cone.",
+    "vegetative": "Resinous woody gymnosperms. In Pinus, long shoots bear short shoots/fascicles with 2–5 needles; project species use mostly 2 or 2–3 needles per fascicle.",
+    "reproductive": "No flowers or fruits. Separate pollen cones and seed cones occur on the same tree in the project pines. Woody seed-cone scales are free from their subtending bracts for most of their length and usually bear 2 ovules/seeds on the upper surface.",
+    "field_tip": "Needles in fascicles + woody free-scaled seed cone = project Pinaceae/Pinus."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_023",
+    "teaching_order": "needle fascicle → sheath → woody cone scale → exposed seeds → P. echinata vs P. taeda → Cupressaceae comparison",
+    "intro": "The biggest visual split from local junipers is immediate: pine needles are bundled in fascicles, while juniper foliage is scale-like or awl-like.",
+    "steps": [
+      {
+        "title": "1 · Count needles per fascicle",
+        "photo_role": "needle-bundle macro",
+        "look_for": "Needles grouped on a short shoot inside a persistent basal sheath.",
+        "why_it_matters": "This is the fastest Pinus architecture cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Open the woody seed cone",
+        "photo_role": "cone scale macro",
+        "look_for": "Spirally arranged woody scales, each associated with usually two seeds; scales are not fused into the fleshy/coalesced cone seen in Juniperus.",
+        "why_it_matters": "Confirms gymnosperm seed-cone architecture and separates Pinaceae from Cupressaceae.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Shortleaf pine door",
+        "photo_role": "Pinus echinata needle/cone/bark card",
+        "look_for": "Usually 2 needles per fascicle, about 7–11 cm; smaller 4–6 cm cones; older bark commonly shows resin pockets.",
+        "why_it_matters": "Best project suite against loblolly pine.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Loblolly pine door",
+        "photo_role": "Pinus taeda needle/cone card",
+        "look_for": "Usually 2–3 needles per fascicle, generally 12–18 cm; larger 6–12 cm cones; bark lacks the characteristic shortleaf resin pockets.",
+        "why_it_matters": "Gives a whole-character suite rather than one-number ID.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Joey Cupressaceae anchor",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Juniperus virginiana scale foliage at 19:20 in the Ft. Worth prairie video versus Pinus fascicled needles.",
+        "why_it_matters": "Uses an authoritative saved field frame to teach the Pinaceae-vs-Cupressaceae foliage split.",
+        "status": "private_study_anchor_available"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Pinaceae vs Cupressaceae",
+        "rule": "Project Pinus has needles in fascicles and classic woody free-scaled cones. Juniperus has opposite/whorled scale or awl foliage and coalesced fleshy seed cones."
+      },
+      {
+        "title": "Pinaceae vs Ginkgoaceae",
+        "rule": "Pinaceae has needle leaves and true seed cones; Ginkgo has broad fan leaves with dichotomous veins and naked ovules/seeds borne on stalks rather than in a cone."
+      },
+      {
+        "title": "P. echinata vs P. taeda",
+        "rule": "Use the suite: shortleaf usually 2 shorter needles + smaller cones + bark resin pockets; loblolly usually 2–3 longer needles + larger cones. Hybrids occur, so avoid single-character certainty."
+      }
+    ],
+    "caveat": "Pinus echinata and P. taeda hybridize. Needle count and length overlap; species-level calls should use multiple characters."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Pinus",
+        "taxa_count": 2,
+        "fast_cue": "fascicled needles + persistent sheath + woody seed cone",
+        "role": "pine door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Pinus echinata",
+    "Pinus taeda"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Pinus echinata",
+      "current_name": "Pinus echinata",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Pinus taeda",
+      "current_name": "Pinus taeda",
+      "note": "Accepted by current Kew; native range includes Texas."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-N4yq5Z1_0Eo-ft-worth-prairie.json",
+    "record_id": "N4yq5Z1_0Eo-27",
+    "filename": "juniperus-virginiana_scale-foliage-source-label_19-20.jpg",
+    "timestamp": "19:20",
+    "timestamp_seconds": 1160,
+    "taxon": "Juniperus virginiana",
+    "family": "Cupressaceae",
+    "teaching_role": "scale foliage",
+    "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "needle fascicle + sheath",
+      "annotation_goal": "label needle count, fascicle and basal sheath"
+    },
+    {
+      "priority": 1,
+      "structure": "Pinus cone scale",
+      "annotation_goal": "label woody scale and paired seed positions"
+    },
+    {
+      "priority": 1,
+      "structure": "P. echinata vs P. taeda",
+      "annotation_goal": "needle length/count, cone size and bark resin-pocket comparison"
+    },
+    {
+      "priority": 1,
+      "structure": "Pinaceae vs Cupressaceae",
+      "annotation_goal": "use Joey Juniperus scale-foliage frame beside Pinus fascicles"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Kew POWO — Pinaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000468-2/general-information"
+    },
+    {
+      "source": "FNA — Pinaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10691"
+    },
+    {
+      "source": "FNA — Pinus echinata",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200005332"
+    },
+    {
+      "source": "FNA — Pinus taeda",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200005364"
+    },
+    {
+      "source": "Kew POWO — Pinus echinata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262913-1"
+    },
+    {
+      "source": "Kew POWO — Pinus taeda",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:263357-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-023",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_joey_cupressaceae_anchor_fascicle_cone_species_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

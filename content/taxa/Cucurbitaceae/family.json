@@ -1,0 +1,266 @@
+{
+  "rank": "family",
+  "name": "Cucurbitaceae",
+  "common_name": "Gourd / cucumber family",
+  "lineage_context": {
+    "order": "Cucurbitales",
+    "batch": "Cucurbitales",
+    "close_project_families": [
+      "Apodanthaceae"
+    ],
+    "teaching_goal": "Teach the familiar tendril-bearing, unisexual-flowered, inferior-ovary gourd architecture, then contrast it with the radically reduced stem-parasitic Apodanthaceae."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first module across Cucumis, Cucurbita, Ibervillea and Melothria",
+    "note": "The project contains both native and introduced/cultivated gourds. Family recognition is independent from species native-status decisions."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "At a node, look for an alternate palmately veined/lobed leaf and a coiling tendril lateral to the petiole. Then find separate male and female flowers and confirm that the female flower sits on an inferior ovary.",
+    "vegetative": "Mostly climbing, scrambling or prostrate herbs with watery sap; leaves alternate, usually palmately veined and often lobed; stipules absent; tendrils commonly present at the node.",
+    "reproductive": "Flowers usually unisexual on monoecious or dioecious plants, usually 5-merous and radial. Male flowers have a complex 1–5-stamen system; female flowers have an inferior usually 3-carpellate ovary with parietal/intrusive placentation and usually many ovules.",
+    "fruit": "Usually a berry or pepo with a firm to hard rind, sometimes softer or dry; seeds commonly flattened and numerous.",
+    "field_tip": "Alternate palmate leaf + lateral tendril + separate male/female flowers + inferior ovary is the gourd-family core."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_019",
+    "teaching_order": "node/tendril → male vs female flower → inferior ovary → pepo/berry → genus doors → Apodanthaceae contrast",
+    "intro": "Cucurbitaceae becomes much easier when you stop identifying vines by leaves and instead read the node, flower sex and ovary position.",
+    "steps": [
+      {
+        "title": "1 · Find the tendril at the node",
+        "photo_role": "leaf-petiole-tendril node macro",
+        "look_for": "A coiling tendril positioned beside/lateral to the leaf petiole.",
+        "why_it_matters": "This is the fastest vegetative family clue in most local gourds.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Separate male from female flowers",
+        "photo_role": "staminate vs pistillate flower pair",
+        "look_for": "Male flower lacks a swollen ovary below the corolla; female flower sits directly atop a visible inferior ovary.",
+        "why_it_matters": "Sex expression is central to Cucurbitaceae recognition and teaches ovary position at the same time.",
+        "status": "highest_priority_comparison_pending"
+      },
+      {
+        "title": "3 · Confirm the inferior ovary",
+        "photo_role": "female flower side view/cutaway",
+        "look_for": "The ovary lies below the calyx/corolla and commonly contains three placenta systems with many ovules.",
+        "why_it_matters": "This is a stronger family confirmation than fruit shape alone.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "4 · Follow the ovary into a pepo/berry",
+        "photo_role": "flower-to-fruit sequence",
+        "look_for": "Fleshy many-seeded fruit, often with a thickened rind in Cucurbita, but potentially small and soft in Melothria.",
+        "why_it_matters": "Fruit diversity makes more sense once the shared inferior-ovary plan is known.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Cucurbita door: large yellow flowers and robust fruit",
+        "photo_role": "Cucurbita male/female flowers + fruit",
+        "look_for": "Large yellow gamopetalous flowers, robust tendrils, coarse foliage and usually larger firm-walled fruit.",
+        "why_it_matters": "This separates squash/buffalo-gourd architecture from the smaller vines.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Ibervillea/Melothria door: small-fruited native vines",
+        "photo_role": "Ibervillea red fruit vs Melothria small green/black fruit",
+        "look_for": "Ibervillea lindheimeri has deeply lobed leaves and dark orange-red fruit; Melothria pendula is a finer scrambling vine with small cucumber-like fruit.",
+        "why_it_matters": "Fruit plus leaf architecture helps route native small gourds after the family call.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Keep Cucumis melo labeled introduced",
+        "photo_role": "status card",
+        "look_for": "Muskmelon may escape or persist, but current Kew treats it as introduced in Texas.",
+        "why_it_matters": "Prevents familiarity or wild occurrence from being mistaken for native status.",
+        "status": "status_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cucurbitaceae vs Passifloraceae",
+        "rule": "Both can be tendril-bearing vines. Cucurbitaceae usually has separate unisexual flowers and an inferior ovary; Passiflora has distinctive bisexual corona-bearing flowers and a superior ovary on an androgynophore."
+      },
+      {
+        "title": "Cucurbitaceae vs Vitaceae",
+        "rule": "Vitis tendrils/inflorescences are commonly opposite leaves and flowers are tiny; Cucurbitaceae tendrils are lateral to the petiole and flowers are usually larger, unisexual, with female flowers on inferior ovaries."
+      },
+      {
+        "title": "Cucurbitaceae vs Apodanthaceae",
+        "rule": "Despite sharing Cucurbitales, the contrast is extreme: Cucurbitaceae is a green tendril-bearing plant; Pilostyles is a chlorophyll-free endoparasite living inside host stem tissue and only exposing flowers/fruits."
+      },
+      {
+        "title": "Cucurbitaceae vs Smilacaceae",
+        "rule": "Both can climb using tendrils, but Smilax typically bears a paired tendril arising from the petiole base, often has tough parallel-veined leaves and small unisexual flowers; cucurbits usually bear a single lateral nodal tendril and have female flowers with a conspicuous inferior ovary. Compare attachment points in close-up, not a distant vine silhouette."
+      },
+      {
+        "title": "Cucurbitaceae vs Convolvulaceae",
+        "rule": "Many morning glories climb by twining stems rather than tendrils; their bisexual flowers have a fused corolla and superior ovary. A tendril-bearing cucurbit with separate male and female flowers and an inferior ovary is structurally different even if leaves are similarly lobed."
+      }
+    ],
+    "caveat": "Tendrils can be reduced or absent in some Cucurbitaceae, and fruit size varies enormously. Reproductive characters are the safest confirmation.",
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Cucurbita foetidissima",
+        "plain": "leaf stalk and curling climbing thread",
+        "formal": "petiole, leaf axil, lateral tendril",
+        "photo_role": "same-node close-up with petiole and tendril insertion, compared against Passiflora, Vitis and Smilax",
+        "media_status": "needs_anatomy_verified_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Show exact tendril insertion; broad fruit-and-leaf photograph alone cannot certify node anatomy."
+      },
+      {
+        "species_reference": "Cucurbita pepo",
+        "plain": "pollen flower versus young-fruit flower",
+        "formal": "staminate flower vs pistillate flower with inferior ovary",
+        "photo_role": "matched flower side views from identified male and female blossoms",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Identify stamens in male flower and swollen inferior ovary directly beneath female perianth; confirm both flowers rather than infer from color."
+      },
+      {
+        "species_reference": "Cucurbita foetidissima",
+        "plain": "inside the young fruit under the flower",
+        "formal": "inferior ovary section, parietal placentae and ovules",
+        "photo_role": "longitudinal and transverse section of young pistillate flower/ovary",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Label perianth attachment, ovary wall, placental tissue and ovules only after dissected image verification."
+      },
+      {
+        "species_reference": "Melothria pendula",
+        "plain": "small fruit on a fine vine compared with large gourds",
+        "formal": "berry/pepo, fruit pedicel, mature seeds",
+        "photo_role": "same-scale mature fruit and node comparisons with Cucurbita and Ibervillea",
+        "media_status": "needs_anatomy_verified_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Compare fruit scale, leaf architecture and tendril placement; current installed Melothria image does not certify fruit or tendril detail."
+      }
+    ],
+    "installed_reference_photos": [
+      {
+        "species": "Cucurbita foetidissima",
+        "file": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg",
+        "role": "broad vine foliage and developing fruit; not a verified tendril-node macro",
+        "creator": "Paigeblue08",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cucurbita_foetidissima_fruit,_leaves,_and_vine.JPG",
+        "file_status": "installed_file_verified",
+        "anatomy_status": "annotation_pending"
+      },
+      {
+        "species": "Cucurbita pepo",
+        "file": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/images/cucurbita-pepo-straightneck-habit-commons.jpg",
+        "role": "cultivated straightneck squash plant habit with foliage and flowers; flower sex not verified",
+        "creator": "megankhines",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_straightneck_Summer_squash_bush_plant_and_flowers.jpg",
+        "file_status": "installed_file_verified",
+        "anatomy_status": "annotation_pending"
+      },
+      {
+        "species": "Melothria pendula",
+        "file": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/images/inat-15290567.jpg",
+        "role": "provisional species-recognition reference; exact diagnostic structures not visually certified",
+        "creator": "Katja Schulz",
+        "license": "CC BY",
+        "source_page": "https://www.inaturalist.org/photos/15290567",
+        "file_status": "installed_file_verified",
+        "anatomy_status": "annotation_pending"
+      }
+    ],
+    "photo_use_caveat": "Image paths, JPEG file presence, taxon metadata and recorded creator/license were checked against canonical species records; exact visible structures, photographic identity beyond source determination, license source validity and arrow coordinates were not independently pixel-verified. Do not label a photo as proving its requested anatomical role until visually reviewed."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 4,
+    "genera": [
+      {
+        "genus": "Cucurbita",
+        "fast_cue": "coarse vine/prostrate herb + large yellow unisexual flowers + robust pepo",
+        "role": "large-gourd door"
+      },
+      {
+        "genus": "Ibervillea",
+        "fast_cue": "perennial climbing caudex geophyte + deeply lobed leaves + orange-red fruit",
+        "role": "native snake-apple/globeberry door"
+      },
+      {
+        "genus": "Melothria",
+        "fast_cue": "slender scrambling vine + small flowers + small cucumber-like fruits",
+        "role": "native creeping-cucumber door"
+      },
+      {
+        "genus": "Cucumis",
+        "fast_cue": "cucumber/melon architecture; current project C. melo is introduced in Texas",
+        "role": "introduced comparison"
+      }
+    ]
+  },
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Cucurbita melopepo",
+      "current_name": "Cucurbita melopepo",
+      "status": "accepted under current Kew; not merely a synonym of C. pepo"
+    },
+    {
+      "source_name": "Cucurbita pepo var. melopepo",
+      "current_name": "Cucurbita melopepo",
+      "status": "synonym maps to accepted C. melopepo"
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "leaf-petiole-tendril node",
+      "annotation_goal": "label petiole, axil and tendril position"
+    },
+    {
+      "priority": 1,
+      "structure": "male vs female flower",
+      "annotation_goal": "show absence/presence of swollen inferior ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary cutaway",
+      "annotation_goal": "label ovary wall, placentae and ovules"
+    },
+    {
+      "priority": 1,
+      "structure": "Cucurbita vs Ibervillea vs Melothria fruit",
+      "annotation_goal": "route genera after family ID"
+    },
+    {
+      "priority": 2,
+      "structure": "Cucumis melo status card",
+      "annotation_goal": "introduced Texas comparison"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Cucurbitaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000781-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Cucurbita melopepo",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:292399-1"
+    },
+    {
+      "source": "Flora of North America — Ibervillea lindheimeri",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250100821"
+    },
+    {
+      "source": "Plants of the World Online — Melothria pendula",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:293293-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Cucumis melo",
+      "url": "https://powo.science.kew.org/taxon/292238-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-019",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "gourd_family_door_live_node_sex_ovary_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

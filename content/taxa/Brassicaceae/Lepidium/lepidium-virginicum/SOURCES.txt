@@ -1,0 +1,7 @@
+Approved Master Plant Pool Batch 023 first-card preflight. Accepted-name reference: https://powo.science.kew.org/results?q=Lepidium%20virginicum
+Source image: https://commons.wikimedia.org/wiki/File:Lepidium_virginicum.jpg
+Direct original JPEG: https://upload.wikimedia.org/wikipedia/commons/2/24/Lepidium_virginicum.jpg
+Photo author: Robert H. Mohlenbrock / USDA-NRCS PLANTS Database
+Photo license: Public domain (US federal government)
+Image visually inspected from Commons original-file preview; species ID supported by Commons exact-taxon metadata; remains provisional pending fuller expert examination.
+No county-level nativity assertion; no cultivar substituted.

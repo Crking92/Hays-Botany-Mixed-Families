@@ -1,0 +1,37 @@
+{
+  "id": "pleopeltis-michauxiana",
+  "family": "Polypodiaceae",
+  "genus": "Pleopeltis",
+  "species": "michauxiana",
+  "scientific_name": "Pleopeltis michauxiana",
+  "common_name": "Resurrection fern",
+  "look_here_first": "Look for small pinnatifid fern fronds growing epiphytically on bark; check rounded sori under fertile fronds and how leaf blades curl when dry.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pleopeltis%20michauxiana",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Texas specimen from Anderson County; confirm modern species-level synonym concepts before botanical final approval.",
+  "images": [
+    {
+      "file": "images/commons-pleopeltis-michauxiana.jpg",
+      "role": "Provisional resurrection-fern recognition view; underside sori need additional anatomy image.",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:(Polypodiaceae)_Pleopeltis_michauxiana.jpg",
+      "study_use": "Private noncommercial educational field-ID learner",
+      "public_reuse": "Creator/source/license attribution required for reuse"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

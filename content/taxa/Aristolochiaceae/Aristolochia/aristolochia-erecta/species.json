@@ -1,0 +1,103 @@
+{
+  "id": "aristolochia-erecta",
+  "entry_type": "species",
+  "family": "Aristolochiaceae",
+  "genus": "Aristolochia",
+  "species": "erecta",
+  "scientific_name": "Aristolochia erecta",
+  "authority": "L.",
+  "common_name": "Swanflower",
+  "synonyms": [
+    "Aristolochia repens Mill."
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Aristolochia erecta L. The older Aristolochia repens Mill. is treated as a synonym.",
+  "look_here_first": "Look low in grasses and open sandy ground. Swanflower is a tiny erect-to-sprawling perennial with very narrow grasslike leaves and a strange brown-purple curved flower arising near the stem. The showy tube is a petaloid fused calyx/perianth, not a normal petal corolla.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Bexar",
+    "Kendall"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — UT Plant Resources Center Aristolochiaceae herbarium index documents A. erecta as a Travis County species. Bexar — Bexar County Master Gardener field account documents a naturally occurring plant in dry sandy south Bexar County, found by following pipevine swallowtails. Kendall — a 2026 research-grade iNaturalist observation by peterjoseph is described as near Sisterdale; the Handbook of Texas places Sisterdale in Kendall County.",
+    "range_guardrail": "This is a mixed-source PASS. Travis is herbarium-grade; Bexar is a photographed direct field occurrence; Kendall is research-grade community science plus an independently verified locality-to-county mapping. Hays is explicitly NOT counted."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "small perennial herb, erect to sprawling, often hidden among grasses",
+      "leaves narrow linear-lanceolate and grasslike",
+      "flowers solitary in leaf axils on slender peduncles",
+      "petals absent; showy structure is a curved brown-purple fused petaloid calyx/perianth",
+      "perianth tube curved upward with a single strap-like limb",
+      "gynostemium present with 5 anthers",
+      "ovary inferior and 5-locular",
+      "fruit an ovoid 5-valved capsule with many flat triangular seeds"
+    ],
+    "leaves": "Narrow grasslike leaves are a major local gestalt cue but should not be used alone.",
+    "flower": "The brown-purple flower is built from a fused petaloid calyx/perianth, not a separate corolla. The curved tube and single limb are highly distinctive.",
+    "ovary": "Inferior; the compact gynostemium carries the anthers and styles in the flower center.",
+    "fruit": "Ovoid capsule opening by five valves; many flat triangular seeds.",
+    "ecology": "Central and South Texas sandy/open habitats; larval host for the pipevine swallowtail."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Aristolochia serpentaria",
+      "grasses and narrow-leaved forbs when sterile"
+    ],
+    "key_distinctions": "A. erecta is a tiny grass-mimic with narrow leaves and a brown-purple low flower; A. serpentaria is a taller woodland herb with broader variable leaves. Flower architecture confirms the genus."
+  },
+  "tags": [
+    "Aristolochiaceae",
+    "Aristolochia",
+    "swanflower",
+    "pipevine swallowtail",
+    "Travis County",
+    "Bexar County",
+    "Kendall County",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-aristolochiaceae-local-anchor",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "mixed_evidence_pass": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "NPSOT/Lady Bird Johnson imagery and Bexar field photos are strong study references. Exact public-reuse local flower/ovary macros remain later visual polish.",
+  "images": [
+    {
+      "file": "images/01-flower-side-low-habit.jpg",
+      "role": "Flower side view showing curved perianth tube, flower orientation, and low grass-mimic habit",
+      "creator": "Joey Santore",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.crimepaysbutbotanydoesnt.com/blog/some-remarkable-plants-from-the-south-texas-borderlands",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-flower-closeup-limb-pattern.jpg",
+      "role": "Flower close-up showing the curved perianth tube, dark patterned limb, and scale",
+      "creator": "Joey Santore",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.crimepaysbutbotanydoesnt.com/blog/some-remarkable-plants-from-the-south-texas-borderlands",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-prostrate-habit-bud.jpg",
+      "role": "Low sprawling habit with side-view flower, perianth tube and limb, and developing bud",
+      "creator": "Joey Santore",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.crimepaysbutbotanydoesnt.com/blog/some-remarkable-plants-from-the-south-texas-borderlands",
+      "study_use": "yes",
+      "public_reuse": "no"
+    }
+  ]
+}

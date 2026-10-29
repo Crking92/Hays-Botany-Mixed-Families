@@ -1,0 +1,147 @@
+{
+  "id": "eryngium-leavenworthii",
+  "entry_type": "species",
+  "family": "Apiaceae",
+  "genus": "Eryngium",
+  "species": "leavenworthii",
+  "scientific_name": "Eryngium leavenworthii",
+  "authority": "Torr. & A.Gray",
+  "common_name": "Leavenworth's Eryngo / False Purple Thistle",
+  "look_here_first": "Start with color and leaf shape. Leavenworth's eryngo is an annual that turns dramatically purple in the flowering canopy; its upper leaves are broad, deeply palmately divided, and sharply spiny. The flowering heads are elongated and topped by a conspicuous crown of spiny bracts.",
+  "county_occurrences_target_zone": [
+    "Williamson",
+    "Travis",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Williamson — detailed county treatment and local park occurrence; Travis — UT Plant Resources Center herbarium index; Bexar — research-grade San Antonio occurrence plus Bexar ecological-site documentation.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual taprooted herb",
+      "upper plant often vividly purple",
+      "upper leaves broad and palmately divided into spiny lobes",
+      "elongated headlike spikes",
+      "conspicuous terminal crown/coma of spiny bracts",
+      "late-summer to fall flowering"
+    ],
+    "comparison_training": "Eryngium yuccifolium is a perennial with long yucca-like linear leaves and pale greenish-white globose heads, lacking the purple palmately divided canopy."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Eryngium yuccifolium"
+    ],
+    "key_distinctions": "Eryngium yuccifolium is a perennial with long yucca-like linear leaves and pale greenish-white globose heads, lacking the purple palmately divided canopy."
+  },
+  "tags": [
+    "Apiaceae",
+    "Eryngium",
+    "Leavenworth's Eryngo",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b040",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Saved Joey Santore video frames installed locally for private study. The set covers the purple bracted flowering head and mature dry fruit/seed material; public-reuse restrictions are preserved. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/eryngium-leavenworthii_flowering-head-source-label_16-20.jpg",
+      "role": "Purple flowering head with conspicuous rigid bracts.",
+      "caption": "Source-labeled Eryngium leavenworthii flowering head: a dense purple head with conspicuous rigid bracts, the strongest visual cue in this saved set.",
+      "diagnostic_roles": [
+        "purple flowering head",
+        "rigid involucral bracts",
+        "source label"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-23",
+      "timestamp": "16:20",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/eryngium-leavenworthii_seed-collection_17-20.jpg",
+      "role": "Dry mature fruit/seed material.",
+      "caption": "Dry fruit and seed material from Eryngium leavenworthii. Useful for late-season and seed-collection context; use the flowering-head image for the primary visual ID.",
+      "diagnostic_roles": [
+        "mature dry fruit",
+        "seed material",
+        "late-season context"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-24",
+      "timestamp": "17:20",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/joey-inat-426079400.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/426079400",
+      "observation_url": "https://www.inaturalist.org/observations/239253587",
+      "observation_id": "239253587",
+      "photo_id": "426079400",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/426079400/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "16:20",
+      "record_id": "N4yq5Z1_0Eo-23",
+      "role": "Purple flowering head with conspicuous rigid bracts.",
+      "source_taxon": "Eryngium leavenworthii",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/eryngium-leavenworthii_flowering-head-source-label_16-20.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "17:20",
+      "record_id": "N4yq5Z1_0Eo-24",
+      "role": "Dry mature fruit/seed material.",
+      "source_taxon": "Eryngium leavenworthii",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/eryngium-leavenworthii_seed-collection_17-20.jpg"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Whole-plant habit plus basal and stem foliage; the current saved frames emphasize the flowering head and dry fruit/seed material."
+  ]
+}

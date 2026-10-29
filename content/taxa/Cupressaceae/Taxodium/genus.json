@@ -1,0 +1,28 @@
+{
+  "rank": "genus",
+  "family": "Cupressaceae",
+  "name": "Taxodium",
+  "common_group": "Baldcypresses",
+  "project_scope": {
+    "selection_mode": "B052 singleton genus anchor",
+    "species_ids": [
+      "taxodium-distichum"
+    ],
+    "species_count": 1
+  },
+  "study_strategy": {
+    "priority": [
+      "deciduous foliage",
+      "leaf arrangement on branchlets",
+      "cone shape",
+      "bark",
+      "buttressed base/knees",
+      "riparian habitat"
+    ],
+    "warning": "Knees are helpful but not always present; confirm with deciduous conifer foliage and cone characters."
+  },
+  "curation_status": {
+    "version": "1.0-b052",
+    "last_reviewed": "2026-10-03"
+  }
+}

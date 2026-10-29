@@ -1,0 +1,336 @@
+{
+  "rank": "genus",
+  "name": "Oxalis",
+  "family": "Oxalidaceae",
+  "common_group": "Woodsorrels",
+  "project_scope": {
+    "species_ids": [
+      "oxalis-dillenii",
+      "oxalis-drummondii",
+      "oxalis-stricta",
+      "oxalis-violacea"
+    ],
+    "species_count": 4,
+    "canonical_installed_count": 4,
+    "approved_not_yet_canonical": [
+      "Oxalis albicans"
+    ],
+    "target_zone_status": "County nativity UNRESOLVED for all four canonical members; O. stricta additionally has an explicit Texas-native distribution CONFLICT. Never promote either status by implication.",
+    "source_pool_note": "Oxalis albicans is included in the five-taxon approved family teaching scope but has no canonical species page at this check; show as pending, not an installed fifth species."
+  },
+  "look_here_first": "FIRST find where the leaves attach. Leaves all at the ground with separate LEAFLESS flower stalks? Compare the two purple bulbous woodsorrels. Leaves carried up branching green stems? Compare yellow woodsorrels under magnification. NEXT compare matching leaflets or stem hairs, not just the flower color.",
+  "study_strategy": {
+    "teaching_sequence": "SEE the whole plant → SPOT basal leaves vs leafy stems → NAME bulb/scape/notch/hairs → COMPARE same-scale diagnostic parts → REMEMBER the caution",
+    "shared_traits": [
+      "Three leaflets on a common leaf stalk (TRIFOLIOLATE). Each leaflet is often heart-shaped or notched at the tip.",
+      "Flowers typically have five petals; the family has ten stamens in two length groups and a five-celled ovary.",
+      "Fruits are capsules; mature capsule and seed close-ups help when leaves and flowers overlap.",
+      "Some species grow from bulbs with leaves clustered at the base; others have leaves on visible branching stems."
+    ],
+    "priority": [
+      "1. WHOLE PLANT: trace leaves to basal bulb or above-ground stem; a close-up of only one leaf misses the first split.",
+      "2. BULBOUS PAIR: match leaflet notch depth and width in millimeters; investigate pale oxalate lines along notch margins.",
+      "3. YELLOW STEMMED PAIR: inspect stem and node hairs in macro/microscope photos—straight pressed-forward vs spreading hairs, including septate hairs.",
+      "4. FRUIT: use ripe capsule length and seeds only as secondary supporting clues.",
+      "5. LOCAL LOOK-ALIKE: creeping O. corniculata may root at stem nodes and show conspicuous broad stipule wings at petiole bases."
+    ],
+    "warning": "Purple petals do NOT prove O. violacea, and yellow petals do NOT identify O. dillenii versus O. stricta. Leaflet width and flower counts overlap; hairs may need 10–20× magnification. Retain unidentified Oxalis sp. when key structures are absent."
+  },
+  "quick_key": [
+    {
+      "if": "Basal leaves emerge from a bulb; flower stalks are separate and leafless",
+      "then": "Bulbous Oxalis: compare O. drummondii and O. violacea"
+    },
+    {
+      "if": "Bulbous, broadly notched leaflets often 14–34 mm long, often deeply lobed; oxalate lines near notch absent",
+      "then": "Oxalis drummondii — two exact-species reference photos now installed; still needs measured notch and orange sepal-tip tubercle macros"
+    },
+    {
+      "if": "Bulbous, leaflets often 8–15 mm long, shallower notch; oxalate lines along notch margins",
+      "then": "Oxalis violacea — verify matched leaf macros, not violet flower color"
+    },
+    {
+      "if": "Leafy aerial stems, yellow flowers, straight forward-appressed NONSEPTATE hairs",
+      "then": "Oxalis dillenii — verify multiple nodes and mature capsules"
+    },
+    {
+      "if": "Leafy aerial stems, yellow flowers, spreading hairs including SEPTATE hairs at nodes",
+      "then": "Oxalis stricta — concept/range CONFLICT; do not claim local nativity"
+    },
+    {
+      "if": "Short curved/crisped nonseptate stem hairs on a yellow woodsorrel",
+      "then": "Oxalis albicans — approved comparison target, NOT YET a canonical learner page"
+    },
+    {
+      "if": "Creeping stems root at nodes with broad stipule flanges",
+      "then": "Check Oxalis corniculata, a look-alike outside this four-species canonical set"
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Leaf origin",
+      "drummondii": "Basal only, from bulb",
+      "violacea": "Basal only, from bulb",
+      "dillenii": "Leaves on aerial stems",
+      "stricta": "Leaves on aerial stems",
+      "weight": "First split"
+    },
+    {
+      "character": "Flowers",
+      "drummondii": "Pink/violet possible",
+      "violacea": "Pink/violet possible",
+      "dillenii": "Yellow",
+      "stricta": "Yellow",
+      "weight": "Group clue only, never sole ID"
+    },
+    {
+      "character": "Leaflet notches",
+      "drummondii": "Usually deeper; lobes can reach 4/5 blade length",
+      "violacea": "Usually shallower, ~1/4–1/3 blade length",
+      "dillenii": "Notched/heartlike; variable",
+      "stricta": "Notched/heartlike; variable",
+      "weight": "Use matched-mm scale"
+    },
+    {
+      "character": "Oxalate lines at notch",
+      "drummondii": "Absent near notch",
+      "violacea": "Often visible along notch edges",
+      "dillenii": "Not primary separator",
+      "stricta": "Not primary separator",
+      "weight": "High-value macro; needs verification"
+    },
+    {
+      "character": "Stem hairs",
+      "drummondii": "No aerial leafy stem for this comparison",
+      "violacea": "No aerial leafy stem for this comparison",
+      "dillenii": "Straight, forward-appressed, nonseptate",
+      "stricta": "Often spreading, mixed including septate at nodes",
+      "weight": "High-value 10–20× macro"
+    },
+    {
+      "character": "Flower clusters",
+      "drummondii": "Scape bears several flowers",
+      "violacea": "Scape bears several flowers",
+      "dillenii": "Often 1–3",
+      "stricta": "Often 5–7",
+      "weight": "Supporting, counts overlap"
+    },
+    {
+      "character": "Mature fruit",
+      "drummondii": "Capsule; need measured photo",
+      "violacea": "Capsule; need measured photo",
+      "dillenii": "Often 12–20 mm",
+      "stricta": "Often 8–15 mm",
+      "weight": "Supporting, lengths overlap"
+    },
+    {
+      "character": "Project nativity gate",
+      "drummondii": "UNRESOLVED",
+      "violacea": "UNRESOLVED",
+      "dillenii": "UNRESOLVED",
+      "stricta": "CONFLICT/UNRESOLVED",
+      "weight": "Do not silently certify"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Four installed woodsorrels — learn the real plant before the tiny anatomy",
+    "subtitle": "Eight actual physically installed exact-species views across four canonical woodsorrels. Whole-plant and flower/fruit reference roles are confirmed, but matched-mm notch and microscopic stem-hair differences still await verified photos.",
+    "memory_rule": "GROUND + separate stalks = purple bulbous pair. LEAFY STEM + yellow flower = hairs and nodes. Notch depth and stem hairs win over petal color.",
+    "items": [
+      {
+        "label": "DRUMMOND'S WOODSORREL — FLOWER + LEAVES",
+        "scientific_name": "Oxalis drummondii",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/images/oxalis-drummondii-conrad-uvalde-flower-leaves.jpg",
+        "image_fit": "contain",
+        "image_role": "flower_and_leaf_habit",
+        "caption": "Uvalde County exact-species flowering view. See the large pink flowers and deeply notched leaflets together. No underground bulb or measured leaflet notch is shown.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — photographer dedication",
+        "source_page": "https://www.backyardnature.net/n/h/drumm-ox.htm",
+        "license_source": "https://www.backyardnature.net/j/copyrite.htm",
+        "annotation_status": "Photo physically installed and general structures visually inspected; fine tubercle/oxalate lines and pixel arrows not verified",
+        "markers": []
+      },
+      {
+        "label": "DRUMMOND'S WOODSORREL — FLOWER SIDE",
+        "scientific_name": "Oxalis drummondii",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/images/oxalis-drummondii-conrad-uvalde-flower-side.jpg",
+        "image_fit": "contain",
+        "image_role": "flower_side_view",
+        "caption": "Uvalde County flower side view. Look at the corolla tube and petal profile. Individual orange sepal-tip tubercles are not confirmed here.",
+        "creator": "Jim Conrad",
+        "license": "Public domain — photographer dedication",
+        "source_page": "https://www.backyardnature.net/n/h/drumm-ox.htm",
+        "license_source": "https://www.backyardnature.net/j/copyrite.htm",
+        "annotation_status": "Photo physically installed and general structures visually inspected; fine tubercle/oxalate lines and pixel arrows not verified",
+        "markers": []
+      },
+      {
+        "label": "VIOLET WOODSORREL — FLOWERING HABIT",
+        "scientific_name": "Oxalis violacea",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/images/oxalis-violacea-fritzflohrreynolds-habit.jpg",
+        "image_fit": "contain",
+        "image_role": "flowering_habit",
+        "caption": "Installed exact-species flowering habit reference. Locate the separate flower stalks; future macro must prove notch-margin oxalate lines.",
+        "creator": "Fritzflohrreynolds",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_violacea_-_Violet_Wood_Sorrel.jpg",
+        "annotation_status": "Physical file and source metadata confirmed in canonical repository; fine diagnostic detail and arrow locations NOT visually verified",
+        "markers": []
+      },
+      {
+        "label": "VIOLET WOODSORREL — FLOWER + LEAVES",
+        "scientific_name": "Oxalis violacea",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/images/oxalis-violacea-dcrjsr-flower-leaves.jpg",
+        "image_fit": "contain",
+        "image_role": "flower_leaves",
+        "caption": "Installed flower-and-leaf reference; not a confirmed same-scale notch/oxalate-line macro.",
+        "creator": "Dcrjsr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Violet_wood_sorrel_Oxalis_violacea.jpg",
+        "annotation_status": "Physical file and source metadata confirmed in canonical repository; fine diagnostic detail and arrow locations NOT visually verified",
+        "markers": []
+      },
+      {
+        "label": "DILLEN'S WOODSORREL — WHOLE PLANT",
+        "scientific_name": "Oxalis dillenii",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-lorichin-plant.jpg",
+        "image_fit": "contain",
+        "image_role": "habit",
+        "caption": "Installed whole-plant reference; for actual species tie-breaker seek straight, appressed, nonseptate stem hairs.",
+        "creator": "lorichin",
+        "license": "CC BY-SA 2.0 France",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_plant_(01).jpg",
+        "annotation_status": "Physical file and source metadata confirmed in canonical repository; fine diagnostic detail and arrow locations NOT visually verified",
+        "markers": []
+      },
+      {
+        "label": "DILLEN'S WOODSORREL — FRUIT",
+        "scientific_name": "Oxalis dillenii",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-abbamouse-fruit.jpg",
+        "image_fit": "contain",
+        "image_role": "fruit",
+        "caption": "Installed fruit reference; cannot assert capsule length without photographed scale.",
+        "creator": "abbamouse",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_(2443339905).jpg",
+        "annotation_status": "Physical file and source metadata confirmed in canonical repository; fine diagnostic detail and arrow locations NOT visually verified",
+        "markers": []
+      },
+      {
+        "label": "COMMON YELLOW WOODSORREL — HABIT",
+        "scientific_name": "Oxalis stricta",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/images/oxalis-stricta-cornell-habit.jpg",
+        "image_fit": "contain",
+        "image_role": "habit",
+        "caption": "Installed whole-plant reference. Identity and Texas native status have unresolved conflicts; stem-hair macro is still needed.",
+        "creator": "New York State IPM Program at Cornell University",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_stricta_-_whole_plant_(18872198510).jpg",
+        "annotation_status": "Physical file and source metadata confirmed in canonical repository; fine diagnostic detail and arrow locations NOT visually verified",
+        "markers": []
+      },
+      {
+        "label": "COMMON YELLOW WOODSORREL — FLOWER + LEAVES",
+        "scientific_name": "Oxalis stricta",
+        "image_url": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/images/oxalis-stricta-cornell-flower-leaves.jpg",
+        "image_fit": "contain",
+        "image_role": "flower_leaves",
+        "caption": "Installed foliage/flower reference, not a verified septate node-hair macro.",
+        "creator": "New York State IPM Program at Cornell University",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_stricta_-_flower,_leaves_(18439230793).jpg",
+        "annotation_status": "Physical file and source metadata confirmed in canonical repository; fine diagnostic detail and arrow locations NOT visually verified",
+        "markers": []
+      }
+    ]
+  },
+  "diagnostic_photo_checklist": [
+    {
+      "priority": "P1",
+      "target": "O. drummondii",
+      "role": "Verified exact-species flowering plant and flower-side views",
+      "status": "installed_verified",
+      "look_for": "Jim Conrad Uvalde photos physically installed; bulb-origin, measured notch and sepal tubercle macros still pending"
+    },
+    {
+      "priority": "P1",
+      "target": "O. drummondii vs O. violacea",
+      "role": "Same-scale leaflet macro, 1 mm divisions",
+      "status": "needs_photo",
+      "look_for": "Notch depth, margin oxalate lines present vs absent"
+    },
+    {
+      "priority": "P1",
+      "target": "O. dillenii vs O. stricta",
+      "role": "Matched stem-node hair macros at 10–20×",
+      "status": "needs_photo",
+      "look_for": "Forward-appressed nonseptate vs spreading / septate hairs"
+    },
+    {
+      "priority": "P1",
+      "target": "Bulbous pair",
+      "role": "Bulb, basal leaves, leafless scape in one context view per species",
+      "status": "needs_photo",
+      "look_for": "Where leaf and floral stalk emerge"
+    },
+    {
+      "priority": "P2",
+      "target": "Bulbous pair",
+      "role": "Sepal-tip tubercle details",
+      "status": "needs_photo",
+      "look_for": "Orange-tipped sepal glands, verified on each exact-species image"
+    },
+    {
+      "priority": "P2",
+      "target": "Yellow pair",
+      "role": "Mature capsules and seed surface with ruler",
+      "status": "needs_photo",
+      "look_for": "Supporting mature-fruit traits, not a single-character rule"
+    },
+    {
+      "priority": "P2",
+      "target": "Oxalis albicans",
+      "role": "Exact-species habit and short curved/crisped hair macro when canonical",
+      "status": "approved_not_canonical",
+      "look_for": "Compare against dillenii and stricta without inventing another installed learner entry"
+    }
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Oxalis corniculata",
+      "check": "Creeping rooting nodes and conspicuous petiole-base stipules; verify against other ground-hugging yellow species"
+    },
+    {
+      "taxon": "Geraniaceae",
+      "check": "Five petals can mislead; Geraniaceae's long-beaked splitting fruit contrasts with Oxalis capsules"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "name": "Flora of North America Oxalis genus key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=123464"
+    },
+    {
+      "name": "Flora of North Central Texas, Oxalis key",
+      "url": "https://brit.org/wp-content/uploads/2021/04/FNCT_0618-1076-Fab-Zygo.pdf"
+    },
+    {
+      "name": "UT Austin specimen description Oxalis drummondii",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Oxalis%20drummondii"
+    },
+    {
+      "name": "Oxalis source-pool scientific review",
+      "path": "reports/oxalis-taxonomy-review-2026-10-12.md"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-manual-genus-visual-20261013",
+    "reviewed": "2026-10-13",
+    "photo_files_physically_verified": 8,
+    "drummondii_photo_files": 2,
+    "visual_status": "eight_installed_references_plus_specific_diagnostic_macros_pending",
+    "range_decisions_changed": 0,
+    "canonical_species_installed_by_this_change": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "capsella-bursa-pastoris",
+  "family": "Brassicaceae",
+  "genus": "Capsella",
+  "species": "bursa-pastoris",
+  "scientific_name": "Capsella bursa-pastoris",
+  "common_name": "Shepherd's purse",
+  "look_here_first": "Basal rosette of deeply lobed leaves, small four-petaled white flowers and strongly triangular to heart-shaped seedpods.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_052": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/30092589-2",
+  "images": [
+    {
+      "file": "images/inat-17860837.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Jason Headley, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/17860837",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review052-3292797a1c8976a.jpg",
+      "role": "Look closer · basal leaves and small fruiting stems; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Low-growing basal plant with leaves and tiny reproductive parts",
+      "creator": "Linda Jo Conn",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938522258",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604953174/original.jpg",
+      "source_determination": "Capsella bursa-pastoris",
+      "source_observation_id": "5938522258",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/capsella-bursa-pastoris/gbif-eced659103448a.jpg",
+      "archive_image_sha256": "c1a62e1a559f2c4d4b1c3273fabbf9b8ae3bac443aeed915f4d28ff4a3d7005d",
+      "image_dimensions": [
+        1108,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

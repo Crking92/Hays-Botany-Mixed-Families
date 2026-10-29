@@ -1,0 +1,184 @@
+{
+  "rank": "family",
+  "name": "Apodanthaceae",
+  "common_name": "Stemsucker family",
+  "lineage_context": {
+    "order": "Cucurbitales",
+    "batch": "Cucurbitales",
+    "close_project_families": [
+      "Cucurbitaceae"
+    ],
+    "teaching_goal": "Use Pilostyles as an extreme evolutionary contrast: a chlorophyll-free endoparasite in Cucurbitales whose vegetative body is hidden inside a host and whose flowers erupt through the host stem."
+  },
+  "project_scope": {
+    "selection_mode": "Pilostyles thurberi-centered project module",
+    "note": "The current project contains Pilostyles thurberi, accepted by Kew and native from the southwestern/south-central U.S. into Mexico, including Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: examine legume host stems for tiny flower structures breaking through bark; verify overlapping perianth parts and the reproductive center rather than identifying any reddish bump as Pilostyles.",
+    "vegetative": "Achlorophyllous endoparasite. No normal exposed roots, stems or leaves; the vegetative body consists of filamentous tissue embedded within host stems, superficially reminiscent of fungal hyphae.",
+    "reproductive": "Pilostyles thurberi has tiny unisexual flowers with overlapping tepal-like parts. Staminate flowers bear central pollen sacs in a synandrium; pistillate flowers have stigmatic papillae above a semi-inferior ovary. Both sexes may appear on one host, which does not establish that they belong to one parasite individual.",
+    "fruit": "Small fleshy berry-like fruit developing at the host-stem surface, containing numerous tiny seeds.",
+    "field_tip": "Tiny red-brown flowers apparently growing straight out of a Dalea or other legume stem, with no visible parasite leaves or shoots, is the Pilostyles/Apodanthaceae doorway."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_019",
+    "teaching_order": "host plant → bark eruption → tiny scale-ringed flower → hidden endophyte concept → fruit → Cucurbitaceae evolutionary contrast",
+    "intro": "Apodanthaceae may be the strangest family in the learner: almost the entire plant is hidden inside another plant.",
+    "steps": [
+      {
+        "title": "1 · Find the host before the parasite",
+        "photo_role": "Dalea/legume host stem with Pilostyles",
+        "look_for": "A normal-looking legume stem carrying tiny reddish-brown bumps/flowers directly on the stem surface.",
+        "why_it_matters": "There is no ordinary exposed parasite shoot to search for.",
+        "status": "highest_priority_context_photo_pending"
+      },
+      {
+        "title": "2 · Zoom into the flower erupting through bark",
+        "photo_role": "Pilostyles flower macro",
+        "look_for": "Tiny flowers emerging through host cortical tissue, surrounded by several whorls of fleshy scale-like bracts/perianth structures.",
+        "why_it_matters": "This is the visible organism most of the year when reproductive.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Learn the invisible vegetative body",
+        "photo_role": "host stem cutaway/diagram",
+        "look_for": "Threadlike parasite tissue embedded internally in the host rather than a separate leafy stem.",
+        "why_it_matters": "Explains why Apodanthaceae looks nothing like its Cucurbitales relatives.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Separate male and female flowers",
+        "photo_role": "staminate vs pistillate flower macro",
+        "look_for": "Pilostyles has unisexual flowers; staminate flowers bear sessile anthers around the central column, while pistillate flowers carry the receptive structures.",
+        "why_it_matters": "Connects the radically reduced flower back to ordinary angiosperm reproductive roles.",
+        "status": "macro_comparison_pending"
+      },
+      {
+        "title": "5 · Follow it into the small fruit",
+        "photo_role": "mature fruit on host stem",
+        "look_for": "Small fleshy fruits remain attached directly to the host surface and contain numerous tiny seeds.",
+        "why_it_matters": "Completes the hidden-parasite life-cycle concept.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Apodanthaceae vs Cucurbitaceae",
+        "rule": "They share Cucurbitales ancestry but almost no field gestalt: Cucurbitaceae is green, leafy and usually tendril-bearing; Apodanthaceae is an achlorophyllous endoparasite whose flowers emerge directly from host stems."
+      },
+      {
+        "title": "Pilostyles vs mistletoes/Santalaceae",
+        "rule": "Mistletoes expose their own green or leafy shoots outside the host. Pilostyles keeps nearly all vegetative tissue inside the host and exposes mainly flowers/fruits."
+      },
+      {
+        "title": "Pilostyles vs fungi/galls",
+        "rule": "The internal body may resemble fungal strands and the flowers can look gall-like, but the exposed structures are true angiosperm flowers and fruits with reproductive organs/seeds."
+      },
+      {
+        "title": "Pilostyles versus host buds, fruits, galls and fungi",
+        "rule": "Host buds or pods belong to the legume; galls or fungi can produce bumps but do not contain confirmed Pilostyles floral organs. Verify the true bark-emerging flower with overlapping tepals and a reproductive center. Color alone is insufficient."
+      }
+    ],
+    "caveat": "Host association is important but not sufficient: Pilostyles thurberi parasitizes legumes, especially Dalea and relatives. Confirm the distinctive stem-erupting flowers rather than assuming every bump on a host stem is the parasite.",
+    "anatomy_examples": [
+      {
+        "species": "Pilostyles thurberi",
+        "part": "flower emerging from host stem",
+        "plain_label": "Flower breaking through bark",
+        "botanical_label": "host cortex and imbricate tepals",
+        "look_for": "Matched entire legume stem and macro of actual flower at bark showing perianth, separately identifying parasite and host.",
+        "photo_role": "exact-taxon host branch and flower emergence macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified",
+        "caption": "A flower emerges through the host stem, not from an independent green parasite shoot."
+      },
+      {
+        "species": "Pilostyles thurberi",
+        "part": "male and female flowers",
+        "plain_label": "Pollen sacs versus receptive center",
+        "botanical_label": "staminate synandrium and pistillate stigmatic papillae",
+        "look_for": "Verified staminate and pistillate close-ups in comparable views; reproductive structures actually visible.",
+        "photo_role": "exact-taxon paired flower center macros",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified",
+        "caption": "Determine flower sex from visible reproductive structures, never from the host branch."
+      },
+      {
+        "species": "Pilostyles thurberi",
+        "part": "fruit and embedded plant body",
+        "plain_label": "Surface fruit and hidden parasite threads",
+        "botanical_label": "mature fruit with seeds and endophytic filaments",
+        "look_for": "Verified berry developing from a flower on host bark and a separately sourced anatomical host-stem section of embedded parasitic tissue.",
+        "photo_role": "exact-taxon fruit macro with separately labeled tissue-section reference",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified",
+        "caption": "The fruit is visible outside the host; most vegetative tissue remains embedded within it."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Pilostyles",
+        "fast_cue": "leafless endoparasite inside legume stems; only tiny flowers/fruits visibly erupt through host bark",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Pilostyles flowers erupting from host stem",
+      "annotation_goal": "label host bark and parasite flower separately"
+    },
+    {
+      "priority": 1,
+      "structure": "parasite host-stem cutaway",
+      "annotation_goal": "show hidden filamentous vegetative tissue inside host"
+    },
+    {
+      "priority": 1,
+      "structure": "staminate vs pistillate flowers",
+      "annotation_goal": "label central reproductive column/anthers"
+    },
+    {
+      "priority": 2,
+      "structure": "small fruit on host",
+      "annotation_goal": "connect flower position to fruit"
+    },
+    {
+      "priority": 2,
+      "structure": "Cucurbitaceae vs Apodanthaceae lineage card",
+      "annotation_goal": "show extreme morphological divergence within Cucurbitales"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Apodanthaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:924663-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Pilostyles thurberi",
+      "url": "https://powo.science.kew.org/taxon/316065-1"
+    },
+    {
+      "source": "Bellot & Renner 2014 — Apodanthaceae systematics",
+      "url": "https://phytokeys.pensoft.net/article/3777/"
+    },
+    {
+      "source": "Ortega-González et al. 2023 — reproductive biology",
+      "url": "https://doi.org/10.1111/1442-1984.12395"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-019",
+    "last_reviewed": "2026-10-20",
+    "visual_lock": "three_part_anatomy_roles_added_photos_rights_arrows_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

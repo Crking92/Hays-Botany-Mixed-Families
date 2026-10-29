@@ -1,0 +1,89 @@
+{
+  "id": "daucus-pusillus",
+  "family": "Apiaceae",
+  "genus": "Daucus",
+  "species": "pusillus",
+  "scientific_name": "Daucus pusillus",
+  "common_name": "American wild carrot",
+  "look_here_first": "Finely divided carrot-like leaves, compact compound umbels of tiny pale flowers and bristly seed fruits.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_043": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Daucus%20pusillus",
+  "images": [
+    {
+      "file": "images/inat-120994629.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Lynn Pyle, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/120994629",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review043-9d0f12bf09bfab4.jpg",
+      "role": "Tight compound carrot-family umbel with maturing densely bristled fruits held for scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Useful photo of different life stage or botanical organ after visual inspection, exact source species provisional",
+      "creator": "Jane Weeden",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6234205177",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644920719/original.jpg",
+      "source_determination": "Daucus pusillus",
+      "source_observation_id": "6234205177",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/daucus-pusillus/gbif-39a1db8bc3acb1.jpg",
+      "archive_image_sha256": "4966b76038cc574c011ab630dd9cd69cb18c6c5b2c17f52b471873b26dd071e0",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review043-cbb00efb2143969.jpg",
+      "role": "Small compound umbels on slender stems and finely divided carrot-family foliage; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Useful photo of different life stage or botanical organ after visual inspection, exact source species provisional",
+      "creator": "Jackie T",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6234235253",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633119855/original.jpg",
+      "source_determination": "Daucus pusillus",
+      "source_observation_id": "6234235253",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/daucus-pusillus/gbif-4ad6143dc0f04d.jpg",
+      "archive_image_sha256": "725fa4d21204ed13de0903a8d8b5be590961b0575b5a198d46f6c6cec6a66934",
+      "image_dimensions": [
+        1232,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

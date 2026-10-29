@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96869-3
+Source research-grade observation: https://www.inaturalist.org/observations/53037896
+Photo: https://www.inaturalist.org/photos/84341831
+Attribution: (c) Aleksandr_Levon, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 054 2026-10-18T00:06:11.962426+00:00
+Diplotaxis muralis
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6159283094
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/diplotaxis-muralis/gbif-85ad4482c5c859.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 054 2026-10-18T00:06:11.962426+00:00
+Diplotaxis muralis
+Creator: Aranda García Víctor; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110335993
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/diplotaxis-muralis/plantnet-via-gbif-fd3e68e5f7996f.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,75 @@
+{
+  "rank": "family",
+  "name": "Cupressaceae",
+  "common_name": "Cypress family",
+  "project_scope": {
+    "selection_mode": "Central Texas Juniperus-first visual module",
+    "note": "Current canonical website anchor is Ashe juniper; Taxodium remains family-context material until promoted."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with foliage plus cone type. Ashe juniper has tiny opposite scale leaves on angled branchlets and fleshy blue seed cones.",
+    "leaves": "Cupressaceae foliage may be scale-, awl-, or needle-like depending on genus and life stage.",
+    "reproduction": "No true flowers or fruits. Pollen cones and seed cones are gymnosperm strobili.",
+    "cones": "Juniperus seed-cone scales become fleshy and coalesced; Taxodium has woody globose cones.",
+    "field_tip": "A juniper 'berry' is a fleshy seed cone, not a fruit."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Ashe juniper teaches the biggest Cupressaceae mental-model shift: the blue 'berry' is actually a fleshy cone.",
+    "steps": [
+      {
+        "title": "1 · Start with the adult foliage",
+        "photo_role": "scale leaves and female cones",
+        "anchor_species_id": "juniperus-ashei",
+        "anchor_image_index": 0,
+        "look_for": "Tiny overlapping/opposite scale leaves on short angled branchlets.",
+        "why_it_matters": "This is the fastest local Juniperus foliage pattern.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "2 · Call the blue structure a seed cone",
+        "photo_role": "fleshy female seed cone",
+        "anchor_species_id": "juniperus-ashei",
+        "anchor_image_index": 0,
+        "look_for": "Blue-glaucous fleshy structures formed from coalesced cone scales.",
+        "why_it_matters": "Corrects the common 'juniper berry' misconception and reinforces gymnosperm reproduction.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "3 · Read the whole architecture",
+        "photo_role": "habit in rocky habitat",
+        "anchor_species_id": "juniperus-ashei",
+        "anchor_image_index": 1,
+        "look_for": "Evergreen woody architecture with fibrous/peeling bark and dense scale foliage.",
+        "why_it_matters": "Connects the close-up cone/leaf characters back to the whole plant.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "4 · Add the reproductive counterpart",
+        "photo_role": "pollen cone versus seed cone",
+        "anchor_species_id": "juniperus-ashei",
+        "anchor_image_index": 0,
+        "look_for": "Small pollen cones are separate structures from the larger fleshy female seed cones.",
+        "why_it_matters": "Builds the male/female conifer-reproduction model needed for Cupressaceae.",
+        "status": "photo_lock_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cupressaceae vs Pinaceae",
+        "rule": "Local junipers lack pine-style needle fascicles and classic free-scaled pine cones; their seed cones may be fleshy."
+      },
+      {
+        "title": "Cupressaceae vs Taxaceae",
+        "rule": "Taxaceae typically presents one seed associated with a fleshy aril; Cupressaceae retains a true multi-scale seed cone and lacks an aril."
+      }
+    ],
+    "caveat": "Taxodium is the crucial deciduous/linear-leaved family exception and should be added as soon as a canonical image package is promoted."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "first_pass_complete"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "rank": "family",
+  "name": "Krameriaceae",
+  "common_name": "Ratany family",
+  "lineage_context": {
+    "order": "Zygophyllales",
+    "batch": "Zygophyllales",
+    "close_project_families": [
+      "Zygophyllaceae"
+    ],
+    "teaching_goal": "Teach Krameria as the hemiparasitic sister lineage with showy petaloid sepals, two oil-secretory petals, poricidal anthers and a spiny one-seeded fruit."
+  },
+  "project_scope": {
+    "selection_mode": "Krameria erecta + Krameria lanceolata project module",
+    "note": "Krameriaceae is monogeneric, containing Krameria. Both project species are accepted and native in Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "First recognize a low herb/shrub with alternate simple densely hairy leaves, then inspect the unusual zygomorphic flower. The showy pink/purple structures are largely sepals; two petals beside the ovary are modified into oil-secreting glands.",
+    "vegetative": "Green hemiparasitic herbs or shrubs; leaves alternate, usually simple, entire, exstipulate and densely strigose/tomentose. Haustoria attach to roots of nearby host plants.",
+    "reproductive": "Flowers bisexual and zygomorphic. Five showy petaloid sepals surround five strongly modified petals; two petals function as oil glands. Stamens usually 4 with anthers opening by pores. Ovary superior and hairy.",
+    "fruit": "Dry one-seeded capsule/fruit, globose to heart-shaped, usually armed with spines bearing retrorse/recurved barbs.",
+    "field_tip": "Hairy dryland plant + bizarre pink/purple flower with oil-gland petals + poricidal anthers + barbed one-seeded fruit = Krameriaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_020",
+    "teaching_order": "hairy hemiparasitic habit → showy sepals vs petals → oil-gland petals → poricidal anthers → barbed fruit → species split",
+    "intro": "Krameriaceae is one of those families where learning what each flower part actually is completely changes what you see.",
+    "steps": [
+      {
+        "title": "1 · Realize the showy parts are mainly sepals",
+        "photo_role": "Krameria flower labeled",
+        "look_for": "Five bright pink/purple petaloid sepals forming much of the visual display.",
+        "why_it_matters": "Prevents misreading the flower as a conventional 5-petal bloom.",
+        "status": "highest_priority_labeled_visual_pending"
+      },
+      {
+        "title": "2 · Find the two oil-secreting petals",
+        "photo_role": "flower-center macro",
+        "look_for": "Two small specialized petals beside the ovary with oil-filled blisterlike secretory tissue.",
+        "why_it_matters": "These modified petals are an exceptionally distinctive family trait.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Look at the poricidal anthers",
+        "photo_role": "anther macro",
+        "look_for": "Anthers release pollen through pores rather than long slits.",
+        "why_it_matters": "This helps explain the specialized bee interaction and reinforces the unusual floral architecture.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Find the hidden hemiparasitism",
+        "photo_role": "root/haustorium diagram",
+        "look_for": "Green plants photosynthesize but also form root haustoria on neighboring hosts.",
+        "why_it_matters": "The family’s ecology is invisible above ground unless explicitly taught.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Follow the ovary into the barbed one-seeded fruit",
+        "photo_role": "fruit macro",
+        "look_for": "Dry round/heart-shaped fruit armed with spines whose tips carry backward-pointing barbs.",
+        "why_it_matters": "Fruit is a very strong family confirmation.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · K. erecta vs K. lanceolata",
+        "photo_role": "habit + inflorescence comparison",
+        "look_for": "K. erecta is an upright shrub with solitary axillary flowers; K. lanceolata is spreading/decumbent with terminal one-sided racemes.",
+        "why_it_matters": "A simple architecture split helps route both project species.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Krameriaceae vs Zygophyllaceae",
+        "rule": "Krameriaceae is hemiparasitic and zygomorphic with petaloid sepals, oil-secreting petals, poricidal anthers and a one-seeded spiny fruit; Zygophyllaceae project members are mostly radial and have multi-part capsules/schizocarps."
+      },
+      {
+        "title": "Krameriaceae vs Fabaceae",
+        "rule": "Krameria can suggest a legume, but lacks stipules/legume fruit; its 4 poricidal stamens, oil-petal system and spiny one-seeded fruit are different."
+      },
+      {
+        "title": "Krameriaceae vs Polygalaceae",
+        "rule": "Both can have zygomorphic flowers, but Krameria has the unique pair of secretory oil petals and poricidal anthers plus a barbed one-seeded fruit."
+      }
+    ],
+    "caveat": "Hemiparasitism is not visible from the shoot alone. Do not dig plants just to prove host attachment; use the floral/fruit characters in the field.",
+    "anatomy_examples": [
+      {
+        "species": "Krameria lanceolata",
+        "plain_label": "The showy flower parts are sepals",
+        "formal_label": "Five petaloid sepals versus reduced true petals",
+        "where_to_look": "Compare a frontal and lateral flower macro; isolate the sepals from the specialized petals around the ovary.",
+        "photo_role": "Exact-species front/side flower macro and opened-flower view",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "The conspicuous pink organs are sepals; verify attachment before labeling."
+      },
+      {
+        "species": "Krameria lanceolata",
+        "plain_label": "The fruit has tiny backward hooks",
+        "formal_label": "One-seeded fruit with retrorse-barbed spines",
+        "where_to_look": "Use a mature fruit close-up and inspect the spine tips for backward-facing barbs.",
+        "photo_role": "Exact-species mature-fruit macro showing spine-tip orientation",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "The mature fruit bears barbed spines; arrow placement awaits a verified close-up."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Krameria",
+        "fast_cue": "hairy green hemiparasite + petaloid sepals + 2 oil-gland petals + poricidal anthers + barbed one-seeded fruit",
+        "role": "sole family genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "petaloid sepals vs true petals",
+      "annotation_goal": "label 5 sepals and modified petals separately"
+    },
+    {
+      "priority": 1,
+      "structure": "two secretory oil petals",
+      "annotation_goal": "arrow to oil-blister surfaces"
+    },
+    {
+      "priority": 1,
+      "structure": "poricidal anthers",
+      "annotation_goal": "show pollen pores"
+    },
+    {
+      "priority": 1,
+      "structure": "barbed fruit spine",
+      "annotation_goal": "show retrorse/recurved barbs"
+    },
+    {
+      "priority": 2,
+      "structure": "K. erecta vs K. lanceolata habit",
+      "annotation_goal": "upright axillary vs spreading terminal-raceme architecture"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Krameriaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126591-1/general-information"
+    },
+    {
+      "source": "Flora of North America — Krameriaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10467"
+    },
+    {
+      "source": "Flora of North America — Krameria erecta",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101322"
+    },
+    {
+      "source": "Flora of North America — Krameria lanceolata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101321"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-020",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "oil_petals_poricide_barbed_fruit_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

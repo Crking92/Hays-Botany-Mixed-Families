@@ -1,0 +1,143 @@
+{
+  "rank": "family",
+  "name": "Loasaceae",
+  "common_name": "Stickleaf / blazingstar family",
+  "lineage_context": {
+    "order": "Cornales",
+    "batch": "Cornales",
+    "close_project_families": [
+      "Hydrangeaceae",
+      "Cornaceae"
+    ],
+    "teaching_goal": "Use barbed/stinging trichomes, many stamens and an inferior one-locular ovary with parietal placentation to make the herbaceous Cornales branch memorable."
+  },
+  "project_scope": {
+    "selection_mode": "Cevallia + Mentzelia project module",
+    "note": "The project contains Cevallia sinuata and Mentzelia oligosperma. Cevallia represents the true stinging-hair door; Mentzelia represents the barbed stickleaf door."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Inspect the hairs before touching. Loasaceae commonly has rough, barbed, hooked or stinging trichomes. Then confirm a 5-part bisexual flower with many stamens and an inferior usually one-locular ovary with parietal placentation.",
+    "vegetative": "Annual/perennial herbs to subshrubs; leaves usually alternate, simple and often lobed/toothed; stipules absent. Surface hairs may be scabrid, glochidiate, barbed or stinging.",
+    "reproductive": "Flowers usually bisexual and radial, commonly 5 sepals + 5 petals. Stamens range from 5 to very many and can be arranged in bundles; petaloid staminodes may occur. Ovary inferior, usually one-locular with parietal placentation.",
+    "fruit": "Usually a capsule opening by apical valves or longitudinally; persistent sepals common.",
+    "field_tip": "Rough/barbed or stinging plant + showy 5-part flower + many stamens + inferior capsule is the Loasaceae package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_016",
+    "teaching_order": "hair type → 5-part flower → many stamens → inferior ovary → capsule → Cevallia/Mentzelia split",
+    "intro": "Loasaceae is the 'look before you touch' Cornales family. Hair architecture gets you close; the inferior ovary and many-stamen flower finish the call.",
+    "steps": [
+      {
+        "title": "1 · Cevallia door: true stinging hairs",
+        "photo_role": "Cevallia sinuata hair macro",
+        "look_for": "Long stiff stinging hairs mixed with dense pubescence on stems/leaves.",
+        "why_it_matters": "This separates Cevallia from Mentzelia and creates a useful comparison with Urticaceae and stinging Euphorbiaceae.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Mentzelia door: barbed stickleaf hairs",
+        "photo_role": "Mentzelia trichome macro",
+        "look_for": "Barbed or retrorsely hooked hairs that cling to clothing/skin but are not the same as Cevallia's true stinging hairs.",
+        "why_it_matters": "The hair mechanism is a practical genus-level split.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Count the stamens",
+        "photo_role": "Mentzelia flower center",
+        "look_for": "A 5-petaled flower with numerous stamens; outer filaments may be broadened or petaloid in some Mentzelia groups.",
+        "why_it_matters": "Moves the ID beyond hair texture into reproductive structure.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Confirm the inferior ovary",
+        "photo_role": "flower side/cutaway",
+        "look_for": "Perianth and stamens appear above an ovary embedded below the flower; placentation is parietal in a single main locule.",
+        "why_it_matters": "This is the key Cornales connection and separates the family from Urticaceae.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Follow it to a capsule",
+        "photo_role": "capsule with persistent sepals",
+        "look_for": "Dry capsule opening by apical valves or along the fruit.",
+        "why_it_matters": "Completes the family pattern and separates it from Cornus drupes.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Loasaceae vs Urticaceae",
+        "rule": "Stinging hairs overlap. Loasaceae has bisexual showy 5-part flowers, numerous stamens and an inferior ovary/capsule; Urticaceae has tiny mostly unisexual flowers, superior one-ovuled ovaries and achenes."
+      },
+      {
+        "title": "Loasaceae vs Hydrangeaceae",
+        "rule": "Both can show many stamens and inferior ovaries. Loasaceae is typically rough/barbed/stinging and herbaceous; project Hydrangeaceae is a woody opposite-leaved mock-orange shrub."
+      },
+      {
+        "title": "Cevallia vs Mentzelia",
+        "rule": "Cevallia sinuata uses true stinging hairs; Mentzelia uses barbed stickleaf hairs that grab rather than inject."
+      }
+    ],
+    "caveat": "Not every Loasaceae species stings. Mentzelia is specifically valuable because it teaches the barbed-hair, non-stinging family pathway."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Cevallia",
+        "fast_cue": "stinging hairs + narrow yellow/orange flower parts + inferior ovary",
+        "role": "stinging-hair door"
+      },
+      {
+        "genus": "Mentzelia",
+        "fast_cue": "barbed stickleaf hairs + 5 petals + many stamens + inferior capsule",
+        "role": "stickleaf/blazingstar door"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Cevallia stinging hair vs Mentzelia barbed hair",
+      "annotation_goal": "side-by-side true stinging hair and retrorsely barbed trichome"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary",
+      "annotation_goal": "show perianth/stamens above ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "Mentzelia many-stamen flower",
+      "annotation_goal": "label petals, fertile stamens and any broadened outer filaments"
+    },
+    {
+      "priority": 2,
+      "structure": "capsule with persistent sepals",
+      "annotation_goal": "show fruit dehiscence"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Loasaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10513"
+    },
+    {
+      "source": "Flora of North America — Mentzelia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=120252"
+    },
+    {
+      "source": "Plants of the World Online — Loasaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000160-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Cevallia sinuata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:545105-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-016",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "hair_architecture_family_door_live_stinging_vs_barbed_macro_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

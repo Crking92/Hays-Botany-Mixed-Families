@@ -1,0 +1,48 @@
+{
+  "id": "erodium-cicutarium",
+  "entry_type": "species",
+  "family": "Geraniaceae",
+  "genus": "Erodium",
+  "species": "cicutarium",
+  "scientific_name": "Erodium cicutarium",
+  "authority": "(L.) L'Hér.",
+  "common_name": "Redstem filaree",
+  "look_here_first": "LOOK HERE FIRST: inspect the finely divided, pinnate leaves and small five-petaled pink flowers. In fruit, look for the unmistakable long narrow storksbill beaks radiating from a cluster; the mature awns can twist into coils. Do not confuse this finely divided-leaf species with the broad heart-shaped leaves of Erodium texanum.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 441",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/erodium-cicutarium-ivanhoe65.jpg",
+      "role": "flowers and fruit",
+      "creator": "Ivanhoe65",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Erodium_cicutarium%2C_flower_and_seed-pod.jpg",
+      "study_use": "private_educational",
+      "public_reuse": "attribution_and_sharealike_required"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "whole plant and finely divided basal leaves",
+    "side view of fruiting beaks and coiling awns",
+    "hairy sepals and flower close-up"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

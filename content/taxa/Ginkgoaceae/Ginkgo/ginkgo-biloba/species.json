@@ -1,0 +1,123 @@
+{
+  "id": "ginkgo-biloba",
+  "entry_type": "species",
+  "family": "Ginkgoaceae",
+  "genus": "Ginkgo",
+  "species": "biloba",
+  "scientific_name": "Ginkgo biloba",
+  "authority": "L.",
+  "common_name": "Ginkgo / maidenhair tree",
+  "synonyms": [
+    "Salisburia adiantifolia Sm.",
+    "Salisburia biloba (L.) Hoffmanns."
+  ],
+  "taxonomy_notes": "POWO accepts Ginkgo biloba; sole extant Ginkgo species. Its fleshy-coated seeds are naked gymnosperm seeds, not botanical fruits.",
+  "look_here_first": "LOOK HERE FIRST: Single fan-shaped leaves with repeatedly FORKING (dichotomous) veins, often notched at tip; leaves cluster on short spur shoots. Female trees bear fleshy-coated naked seeds, not berries or drupes.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "native_metrics_excluded": true,
+    "verified_target_counties": [],
+    "notes": "Approved source-pool learner admission; native outside North America per POWO, not a target-county native PASS. Do not infer invasive status.",
+    "source_pool": "Master Plant Pool row 511; installer preflight mass-04",
+    "range_basis": "POWO: native southeastern China; no Texas-native PASS."
+  },
+  "morphology_keys": {
+    "habit": "Deciduous ornamental tree, crown narrow to spreading with age.",
+    "leaves_attachment": "Simple fan-shaped long-petioled leaves with dichotomously forked veins; notch variable; short spur shoots often carry clusters.",
+    "flower_reproductive": "Gymnosperm: male pollen cones and female stalked ovules; no true flowers.",
+    "fruit_seed": "Fleshy-coated seeds borne on female trees, not enclosed in a fruit ovary.",
+    "stem_bud": "Short spur shoots plus longer extension shoots; rough furrowed bark with age."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Adiantum spp.: multiple fan-shaped pinnules on fern fronds, not tree leaves.",
+      "Liriodendron tulipifera: notched lobed leaves with netted veins, not forked ginkgo venation.",
+      "Cercis canadensis: heart-shaped leaves with netted veins."
+    ],
+    "key_distinctions": "Woody tree with fan-shaped leaves and dichotomous venation; do not rely on yellow fall color."
+  },
+  "diagnostic_image_needs": [
+    "Source photo: laid-out twig, fan leaves and fleshy-coated seed visible; not a vein macro or in-situ seed view.",
+    "Needs: macro of forked veins and short spur shoots.",
+    "Needs: separate male pollen cone and female ovule/seed images.",
+    "Annotation pending: leaf vein and spur-shoot arrows need coordinate review."
+  ],
+  "images": [
+    {
+      "file": "images/ginkgo-biloba-fan-leaves-seed-commons.jpg",
+      "role": "Exact-species laid-out fan leaves, twig and fleshy-coated seed (not true fruit); no vein macro",
+      "creator": "Sten Porse",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ginkgo-biloba-fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution; preserve license"
+    },
+    {
+      "file": "images/library-review015-18b5905e41b2ce5.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Large leafless winter canopy and green foliage in crown; complements existing fan leaves and seed",
+      "creator": "Carla van der Boon",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5109942611",
+      "media_source_url": "https://bs.plantnet.org/image/o/dc5cb5f79fae340495c86d1e3d7978b6527bfbc2",
+      "source_determination": "Ginkgo biloba",
+      "source_observation_id": "5109942611",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/ginkgo-biloba/plantnet-via-gbif-12615f37348b0b.jpg",
+      "archive_image_sha256": "09911f19079d02f95e919e887206493e13673e9a3a4add085e145b1ac1a186a0",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review015-76708c74b7adfd5.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Large leafless winter canopy and green foliage in crown; complements existing fan leaves and seed",
+      "creator": "danielmzhz",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5109884695",
+      "media_source_url": "https://bs.plantnet.org/image/o/083d14af1c979d830558c0db34fd3055521dec37",
+      "source_determination": "Ginkgo biloba",
+      "source_observation_id": "5109884695",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/ginkgo-biloba/plantnet-via-gbif-dce789ab0f42a5.jpg",
+      "archive_image_sha256": "8999aab4e2d3b02ef6a1c28383adc699c8c9f79d5264bafde3503a75370eb0c2",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "taxonomy_identity_checked": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_backfill_needed": true,
+    "manual_library_install_015": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

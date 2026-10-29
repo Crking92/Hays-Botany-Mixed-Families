@@ -1,0 +1,156 @@
+{
+  "rank": "family",
+  "name": "Cleomaceae",
+  "common_name": "Cleome / clammyweed family",
+  "lineage_context": {
+    "order": "Brassicales",
+    "batch": "Brassicales",
+    "close_project_families": [
+      "Brassicaceae"
+    ],
+    "teaching_goal": "Show how the mustard sister lineage keeps a 4-petal plan but diverges toward glandular compound leaves, asymmetric flowers, numerous exserted stamens and elongated capsules."
+  },
+  "project_scope": {
+    "selection_mode": "Clammyweed-centered project module with current-name reconciliation",
+    "note": "The Master Pool uses Polanisia names from older/FNA sources. Current Kew accepts Cleome dodecandra and treats Polanisia dodecandra as a synonym; the old P. dodecandra subsp. trachysperma concept maps to accepted Cleome trachysperma."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "For the local clammyweed pattern, look for a sticky/glandular herb with palmately 3-foliolate leaves, a 4-petal somewhat asymmetric flower, many long exserted stamens, and a long 2-valved capsule.",
+    "vegetative": "Annual or perennial herbs to shrubs; leaves often palmately compound, commonly 3 or more leaflets; glandular hairs are common in the local clammyweed pattern.",
+    "reproductive": "Flowers usually 4-sepaled and 4-petaled, often more asymmetric than Brassicaceae. Stamens commonly 6 to many; local dodecandra/trachysperma concepts have roughly 10–20 long exserted stamens.",
+    "fruit": "An elongated dry capsule with two valves; the ovary/fruit may sit on a short gynophore depending on genus/species.",
+    "field_tip": "Sticky + 3 leaflets + four petals + a spray of long stamens is the local Cleomaceae doorway."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_004",
+    "teaching_order": "glandular 3-foliolate leaf → asymmetric 4-petal flower → many exserted stamens → long capsule → modern-name card",
+    "intro": "Cleomaceae looks related to mustard the moment you count four petals, then immediately breaks the mustard rules with its leaves and stamens.",
+    "steps": [
+      {
+        "title": "1 · Feel the architecture without touching",
+        "photo_role": "whole clammyweed / glandular stem + 3 leaflets",
+        "look_for": "Palmately 3-foliolate leaves and visibly glandular/sticky stems and petioles.",
+        "why_it_matters": "This is a fast contrast with the usually simple, exstipulate mustard leaf.",
+        "status": "botanical_illustration_reference_available"
+      },
+      {
+        "title": "2 · Compare the four petals with mustard",
+        "photo_role": "flower face",
+        "look_for": "Four separate petals, but often unequal or arranged asymmetrically rather than forming a neat cross.",
+        "why_it_matters": "This shows the shared Brassicales blueprint and the family-level divergence.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Count the long exserted stamens",
+        "photo_role": "side-view flower",
+        "look_for": "A conspicuous whiskery spray of about 10–20 long stamens in the local clammyweed concept.",
+        "why_it_matters": "This is the cleanest visual split from Brassicaceae's 6-stamen 4-long/2-short pattern.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Follow the ovary to the capsule",
+        "photo_role": "flower-to-fruit sequence",
+        "look_for": "An elongated dry 2-valved capsule, often conspicuously longer than the flower.",
+        "why_it_matters": "Fruit confirms the family while preserving the visible relationship to mustard-like dry fruits.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Learn the current-name update",
+        "photo_role": "taxonomy card",
+        "look_for": "Polanisia dodecandra → Cleome dodecandra; Polanisia dodecandra subsp. trachysperma → Cleome trachysperma in current Kew treatment.",
+        "why_it_matters": "Lets you read older Central Texas floras without creating duplicate learner taxa.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cleomaceae vs Brassicaceae",
+        "rule": "Cleomaceae local pattern: glandular/sticky, palmately 3-foliolate, more asymmetric 4-petal flower, 10–20 exserted stamens. Brassicaceae: usually simple alternate leaves, regular cross-shaped flower, 6 tetradynamous stamens and replum-bearing silique/silicle."
+      },
+      {
+        "title": "Cleomaceae vs Fabaceae",
+        "rule": "Three leaflets can suggest legumes, but Cleomaceae flowers have four petals and many exposed stamens, and the capsule is not a one-carpel legume."
+      }
+    ],
+    "caveat": "Cleomaceae is broader than the local Polanisia/Cleome pattern. Do not make three leaflets or 10–20 stamens universal across the entire family.",
+    "diagnostic_photo_handoff": {
+      "status": "pending_photo_polish",
+      "note": "Replum occurs in both Cleomaceae and Brassicaceae; not a family-exclusive character. Compare asymmetric flowers and often numerous exserted stamens against typical Brassicaceae tetradynamous six, with exceptions.",
+      "annotation_status": "annotation_pending",
+      "verified_anatomy_only": "Do not infer unseen structures from existing photos."
+    }
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Cleome",
+        "source_alias": "Polanisia",
+        "fast_cue": "glandular 3-foliolate herb + 4 unequal petals + many exserted stamens + long capsule",
+        "role": "current accepted project genus"
+      }
+    ]
+  },
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Polanisia dodecandra",
+      "current_name": "Cleome dodecandra",
+      "status": "current Kew accepted-name update"
+    },
+    {
+      "source_name": "Polanisia dodecandra subsp. trachysperma",
+      "current_name": "Cleome trachysperma",
+      "status": "current Kew treats trachysperma at species rank"
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "glandular 3-foliolate leaf/stem",
+      "annotation_goal": "label leaflets and glandular hairs"
+    },
+    {
+      "priority": 1,
+      "structure": "long exserted stamens",
+      "annotation_goal": "count and contrast against 6-stamen mustard"
+    },
+    {
+      "priority": 1,
+      "structure": "long 2-valved capsule",
+      "annotation_goal": "show fruit architecture"
+    },
+    {
+      "priority": 1,
+      "structure": "Polanisia→Cleome taxonomy card",
+      "annotation_goal": "old field-guide name vs current accepted name"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Cleomaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60444783-2"
+    },
+    {
+      "source": "Plants of the World Online — Polanisia dodecandra synonym record",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30086051-2"
+    },
+    {
+      "source": "Plants of the World Online — Cleome dodecandra",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60499-2"
+    },
+    {
+      "source": "Plants of the World Online — Cleome trachysperma",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60602-2"
+    },
+    {
+      "source": "Flora of North America — Polanisia dodecandra legacy treatment",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417017"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-004",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "legacy_botanical_illustration_available_current_taxonomy_card_ready_local_macro_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

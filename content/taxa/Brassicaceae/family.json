@@ -1,0 +1,248 @@
+{
+  "rank": "family",
+  "name": "Brassicaceae",
+  "common_name": "Mustard / cabbage family",
+  "lineage_context": {
+    "order": "Brassicales",
+    "batch": "Brassicales",
+    "close_project_families": [
+      "Cleomaceae"
+    ],
+    "teaching_goal": "Teach the cruciform flower, tetradynamous stamens and replum-bearing fruit as the core mustard-family architecture, then compare directly with Cleomaceae."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first recognition module across thirteen project-pool genera",
+    "note": "The pool includes both native and introduced mustards and several legacy generic names. Species-level taxonomy/range stays in separate workflows."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: if flowers are present, count stamens before trusting the four-petal cross—Brassicaceae typically has 6 in a 4-long + 2-short tetradynamous set. If fruit is present, split one open: two valves should leave a persistent replum/septum framework. Fruit architecture is the strongest tie-breaker when flowers are tiny, reduced, or already gone.",
+    "vegetative": "Mostly annual, biennial or perennial herbs; leaves usually alternate and without stipules, often forming a basal rosette. Mustard oils commonly produce a pungent odor or taste, but do not rely on tasting plants.",
+    "reproductive": "Usually 4 free sepals + 4 free, commonly clawed petals; stamens typically 6 and tetradynamous (4 longer inner + 2 shorter outer). The ovary is superior and bicarpellate; a false septum (replum/septum framework) partitions the developing fruit. Important exceptions exist: petals may be reduced/absent and stamen number can depart from six, so fruit should arbitrate doubtful plants.",
+    "fruit": "Usually silique/silicle architecture: two valves detach from a persistent replum/frame, commonly exposing the septum and seeds. Long-vs-short fruit proportions help route genera, but some local/encounter mustards have strongly modified or indehiscent fruits, so 'must have a normal pod' is unsafe.",
+    "field_tip": "Four cross-like petals gets attention; 4-long + 2-short stamens and a replum-bearing fruit confirm the family."
+  },
+  "visual_lesson": {
+    "status": "mustard_family_with_physaria_real_voucher_example",
+    "teaching_order": "flower face → 4-long + 2-short stamen map → ovary/replum cutaway → mature fruit opening → fruit-shape genus routing → Cleomaceae/Fabaceae/Caryophyllaceae tie-breakers",
+    "intro": "Do not stop at 'four petals like a cross.' For a field-proof mustard ID, make the learner prove either the tetradynamous stamen pattern or the replum-bearing fruit—and ideally both.",
+    "steps": [
+      {
+        "title": "1 · See the cross-shaped flower",
+        "photo_role": "flower face",
+        "look_for": "Four free petals arranged in a cross, with four sepals beneath.",
+        "why_it_matters": "The old name Cruciferae literally points to this cross-shaped corolla.",
+        "status": "botanical_plate_reference_available"
+      },
+      {
+        "title": "2 · Count 4 long + 2 short stamens",
+        "photo_role": "flower dissection / side view",
+        "look_for": "Six stamens with four conspicuously longer than the other two.",
+        "why_it_matters": "Tetradynamous stamens are one of the strongest mustard-family confirmation characters.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Open the fruit and find the replum",
+        "photo_role": "silique/silicle split open",
+        "look_for": "Two valves fall away while a central frame/septum remains with the seeds attached.",
+        "why_it_matters": "The fruit architecture separates Brassicaceae from superficially similar dry pods.",
+        "status": "diagram_reference_available"
+      },
+      {
+        "title": "4 · Learn silique vs silicle as shape, not a new fruit type",
+        "photo_role": "long narrow vs short broad mustard fruits",
+        "look_for": "Both use the same replum-bearing architecture; 'silique' is elongate, 'silicle' is relatively short/broad.",
+        "why_it_matters": "Fruit shape is extremely useful for narrowing mustard genera.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "5 · Use the fruit to enter the genus",
+        "photo_role": "Lepidium/Draba vs Sisymbrium/Descurainia fruit comparison",
+        "look_for": "Lepidium and many Draba use shorter silicles; Sisymbrium and Descurainia commonly make long narrow siliques.",
+        "why_it_matters": "Once family is known, fruit proportions often beat flowers for genus work.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Bladderpod short fruit: compare with long siliques",
+        "photo_role": "Physaria voucher showing flowers and fruiting stems",
+        "anchor_species_id": "physaria-densiflora",
+        "anchor_image_index": 0,
+        "image_file": "images/physaria-densiflora-provisional-face.jpg",
+        "look_for": "Find the flowering/fruiting portion of this exact-species preserved Physaria specimen. Zoom in to locate the short fruit-bearing stalks; do not claim the replum or hairs are visible at this scale.",
+        "why_it_matters": "Adds a real short-fruit mustard genus example alongside elongated silique comparisons without inventing microscopic anatomy.",
+        "status": "installed_provisional_voucher_not_verified_macro"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Brassicaceae vs Cleomaceae",
+        "look_at": "stamens + floral symmetry + leaf architecture",
+        "brassicaceae": "Usually 6 stamens in a 4-long + 2-short tetradynamous set; flower commonly regular/cruciform; leaves usually simple or divided without the locally common 3-foliolate Cleomaceae look.",
+        "other": "Local Cleomaceae commonly has more strongly exserted, non-tetradynamous stamens (often far more than 6), more asymmetric flowers, and often 3-foliolate/glandular foliage.",
+        "tie_breaker": "Count stamens and compare their lengths before using petal color or pod shape."
+      },
+      {
+        "title": "Brassicaceae vs Fabaceae",
+        "look_at": "opened mature fruit",
+        "brassicaceae": "Two valves separate from a persistent replum/septum framework; seeds remain associated with that central framework.",
+        "other": "A legume develops from one carpel and lacks the mustard replum; when it opens, the pod wall splits along its sutures rather than leaving a mustard-style central frame.",
+        "tie_breaker": "Open a mature fruit. Replum present = mustard architecture; one-carpel legume = Fabaceae."
+      },
+      {
+        "title": "Brassicaceae vs Caryophyllaceae",
+        "look_at": "nodes + leaf arrangement + fruit",
+        "brassicaceae": "Leaves usually alternate; fruit typically silique/silicle with replum.",
+        "other": "Leaves usually opposite at conspicuous/swollen nodes; flowers commonly 5-merous; fruit commonly a capsule opening by teeth/valves rather than a mustard replum.",
+        "tie_breaker": "When flowers are tiny, node/leaf arrangement plus mature fruit is safer than petal count alone."
+      },
+      {
+        "title": "Brassicaceae vs Papaveraceae",
+        "look_at": "sap/stamens + fruit interior",
+        "brassicaceae": "Usually no conspicuous colored latex; stamens commonly 6 tetradynamous; replum-bearing fruit.",
+        "other": "Poppies commonly have conspicuous latex and numerous stamens; capsules do not use the mustard 2-valve + replum plan.",
+        "tie_breaker": "Numerous stamens/latex point away from Brassicaceae; confirm with fruit architecture."
+      }
+    ],
+    "caveat": "Not every Brassicaceae flower has all four petals or exactly six stamens, and not every fruit is a textbook dehiscent silique. Use the whole suite rather than one rule.",
+    "exceptions": [
+      "Petals can be reduced or absent; a four-petal cross is a common pattern, not an absolute gate.",
+      "Stamen number can vary; tetradynamy is highly useful when present but should be paired with fruit on atypical plants.",
+      "Rapistrum-type encounter taxa can have jointed/beaked indehiscent fruit rather than a textbook opening silique.",
+      "Aquatic Nasturtium can look vegetatively unlike a dry-ground mustard; use flowers and fruit rather than habitat gestalt.",
+      "Legacy names such as Lesquerella belong to taxonomy routing, not family recognition; do not reopen accepted-name decisions here."
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 13,
+    "genera": [
+      {
+        "genus": "Lepidium",
+        "fast_cue": "small flattened silicles, often notched at tip",
+        "role": "high-value fruit-shape genus"
+      },
+      {
+        "genus": "Draba",
+        "fast_cue": "small mustard, often basal rosette + short silicles",
+        "role": "small-mustard door"
+      },
+      {
+        "genus": "Descurainia",
+        "fast_cue": "finely divided leaves + long narrow siliques",
+        "role": "tansymustard door"
+      },
+      {
+        "genus": "Sisymbrium",
+        "fast_cue": "long narrow siliques on spreading/ascending pedicels",
+        "role": "slender-silique door"
+      },
+      {
+        "genus": "Capsella",
+        "fast_cue": "distinctive triangular/heart-shaped silicles",
+        "role": "introduced comparison"
+      },
+      {
+        "genus": "Nasturtium",
+        "fast_cue": "aquatic/emergent habit + pinnate leaves + short siliques",
+        "role": "watercress exception"
+      },
+      {
+        "genus": "Streptanthus",
+        "fast_cue": "often clasping leaves and distinctive sepals; fruit elongate",
+        "role": "native comparison genus"
+      },
+      {
+        "genus": "Nerisyrenia",
+        "fast_cue": "showier purple/pink mustard flowers; elongated fruit",
+        "role": "native comparison genus"
+      },
+      {
+        "genus": "Diplotaxis",
+        "fast_cue": "yellow-flowered introduced mustard with elongate siliques",
+        "role": "introduced comparison"
+      },
+      {
+        "genus": "Rapistrum",
+        "fast_cue": "jointed/beaked indehiscent mustard fruit",
+        "role": "fruit exception / introduced comparison"
+      },
+      {
+        "genus": "Sibara",
+        "fast_cue": "small slender mustard; fruit and leaf characters important",
+        "role": "secondary genus"
+      },
+      {
+        "genus": "Arabis",
+        "fast_cue": "rockcress architecture with elongated flattened siliques",
+        "role": "secondary genus"
+      },
+      {
+        "genus": "Lesquerella",
+        "fast_cue": "legacy/source genus for bladderpod-type mustards; current-name review belongs in species lane",
+        "role": "taxonomy-provenance genus"
+      }
+    ],
+    "routing_key": [
+      "Short/broad or strongly flattened fruit → check Lepidium, Draba, Capsella and other silicle-bearing genera; use notch, hairs and fruit outline next.",
+      "Long narrow fruit → compare Sisymbrium, Descurainia, Arabis, Streptanthus, Nerisyrenia, Diplotaxis and Sibara; then use leaf dissection, pedicel angle, fruit compression and flower details.",
+      "Jointed/beaked or indehiscent fruit → route early to Rapistrum-type exceptions rather than forcing a normal silique key.",
+      "Aquatic/emergent plant with pinnate leaves → check Nasturtium before terrestrial mustard routes."
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "tetradynamous stamen macro",
+      "annotation_goal": "same flower, label four long inner stamens and two short outer stamens; include sepal/petal landmarks"
+    },
+    {
+      "priority": 1,
+      "structure": "flower-to-fruit cutaway",
+      "annotation_goal": "superior ovary → replum/septum → two valves; show where seeds attach"
+    },
+    {
+      "priority": 1,
+      "structure": "opened mature silique",
+      "annotation_goal": "label valve, persistent replum/frame, septum and seeds in one real macro"
+    },
+    {
+      "priority": 1,
+      "structure": "silique vs silicle same-scale card",
+      "annotation_goal": "teach proportion only—same basic fruit architecture, different length:width"
+    },
+    {
+      "priority": 2,
+      "structure": "Brassicaceae vs Cleomaceae flower-center pair",
+      "annotation_goal": "same angle/scale; 6 tetradynamous vs non-tetradynamous/more numerous exserted stamens"
+    },
+    {
+      "priority": 2,
+      "structure": "Brassicaceae vs Fabaceae opened-fruit pair",
+      "annotation_goal": "replum-bearing 2-valved fruit vs one-carpel legume"
+    },
+    {
+      "priority": 2,
+      "structure": "local genus fruit strip",
+      "annotation_goal": "Lepidium/Draba/Capsella short-fruit forms vs Descurainia/Sisymbrium long siliques vs Rapistrum modified fruit"
+    },
+    {
+      "priority": 3,
+      "structure": "exception strip",
+      "annotation_goal": "petal-reduced flower + Nasturtium aquatic habit + Rapistrum indehiscent/jointed fruit; label why each still routes to Brassicaceae"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Brassicaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000087-2/general-information"
+    },
+    {
+      "source": "Kew Temperate Plant Families treatment embedded in POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000087-2/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-family-confusion-polish-003",
+    "last_reviewed": "2026-10-07",
+    "visual_lock": "recognition/confusion text polished; acquisition-heavy tetradynamous/replum/genus-fruit visuals remain Diagnostic Photo Polish",
+    "family_backfill_phase": "structural module complete; family recognition/confusion polish active; do not rebuild"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "rank": "family",
+  "name": "Primulaceae",
+  "common_name": "Primrose family",
+  "lineage_context": {
+    "order": "Ericales",
+    "batch": "Ericales",
+    "close_project_families": [
+      "Ericaceae",
+      "Sapotaceae"
+    ],
+    "teaching_goal": "Teach the unusual stamens-opposite-petals + free-central placentation package, then route between superior-ovary Lysimachia and semi-inferior Samolus."
+  },
+  "project_scope": {
+    "selection_mode": "Project module across Samolus and Lysimachia",
+    "note": "The four source rows represent three current species concepts because Samolus valerandi subsp. parviflorus is a synonym of accepted Samolus parviflorus."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "In a small 5-part fused flower, check whether the 5 stamens sit opposite the corolla lobes rather than alternating with them. Then inspect the one-chambered ovary for free-central placentation.",
+    "vegetative": "Herbs in the local pool; leaves simple and exstipulate, with arrangement varying by genus.",
+    "reproductive": "Usually 5-merous and sympetalous; 5 epipetalous stamens characteristically opposite the corolla lobes. Ovary commonly unilocular with free-central placentation; superior in Lysimachia, semi-inferior in Samolus.",
+    "fruit": "Capsule; dehiscence varies, including lid-opening/circumscissile in the pimpernel lineage and valvate in Samolus.",
+    "field_tip": "LOOK HERE FIRST: in one flower, inspect five stamens opposite the five corolla lobes; confirm the free-central ovules in a one-chambered ovary when fruit is available. In Samolus, compare pedicel bracts and sterile stamens species by species: S. parviflorus has a minute bract near pedicel midpoint and five staminodes; S. ebracteatus has unbracted pedicels and NO staminodes. Staminodes are not a universal Samolus or Primulaceae requirement."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_011",
+    "teaching_order": "stamens opposite petals → free-central placenta → ovary position → genus doors → duplicate-name cleanup",
+    "intro": "Primulaceae has a wonderfully specific flower-center clue: the stamens face the corolla lobes instead of sitting between them.",
+    "steps": [
+      {
+        "title": "1 · Match each stamen to a petal lobe",
+        "photo_role": "flower-face annotation",
+        "look_for": "Five stamens positioned opposite the five corolla lobes.",
+        "why_it_matters": "This is one of the most teachable Primulaceae family characters.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · See the free-central placenta",
+        "photo_role": "ovary cutaway diagram",
+        "look_for": "A central column bearing ovules inside a one-chambered ovary, not attached to the ovary wall.",
+        "why_it_matters": "Strong reproductive confirmation shared across the family.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Lysimachia door",
+        "photo_role": "Lysimachia arvensis flower + capsule",
+        "look_for": "Leafy annual with rotate 5-lobed flower, superior ovary and a capsule opening by a lid.",
+        "why_it_matters": "Separates scarlet pimpernel from semi-inferior Samolus.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Samolus door",
+        "photo_role": "matched S. parviflorus / S. ebracteatus pedicel midpoints and dissected flower centers",
+        "look_for": "Small racemose flowers with a partly inferior ovary; first inspect the flower stalk (pedicel) for a bract. S. parviflorus has a minute bract near mid-pedicel and five staminodes; S. ebracteatus lacks both. These are species-level, not family-wide, characters.",
+        "why_it_matters": "Corrects the false shortcut that every Samolus flower has staminodes. Pair a pedicel macro with a dissected flower to distinguish the two local source-pool species.",
+        "status": "matched_species_anatomy_pending"
+      },
+      {
+        "title": "5 · Collapse the duplicate Samolus row",
+        "photo_role": "taxonomy card",
+        "look_for": "Samolus valerandi subsp. parviflorus → accepted Samolus parviflorus.",
+        "why_it_matters": "Prevents a duplicate learner concept.",
+        "status": "taxonomy_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Primulaceae vs Polemoniaceae",
+        "rule": "Both often have fused 5-lobed flowers with 5 stamens. Primulaceae places stamens opposite corolla lobes and has free-central placentation; Polemoniaceae has a 3-locular ovary and 3-valved capsule."
+      },
+      {
+        "title": "Primulaceae vs Ericaceae",
+        "rule": "Primulaceae uses ordinary longitudinally opening anthers and the opposite-stamen/free-central-placenta package; Ericaceae commonly has poricidal anthers."
+      },
+      {
+        "title": "Primulaceae versus Onagraceae at the flower base",
+        "rule": "Do not infer family from a floral tube alone. Local Samolus has a partly inferior ovary; many Onagraceae have a fully inferior ovary, while Lysimachia has a superior ovary. Confirm stamen positions and ovary/placenta structure before naming the family."
+      }
+    ],
+    "caveat": "Do not teach ovary position as fixed across the project family: Lysimachia is superior, Samolus semi-inferior.",
+    "samolus_species_split": {
+      "status": "published",
+      "look_here_first": [
+        "Locate one pedicel and inspect its middle for a minute bract.",
+        "Look inside an OPEN flower for five fertile stamens and, separately, five smaller sterile staminodes; do not infer absence from an undissected bud.",
+        "Check whole raceme peduncle: S. parviflorus usually very short (to ~0.7 cm in FNA); S. ebracteatus often 5–10 cm. Use multiple characters, not peduncle alone."
+      ],
+      "comparison": [
+        {
+          "species": "Samolus parviflorus",
+          "pedicel": "bract near midpoint",
+          "staminodes": "five",
+          "peduncle": "to 0.7 cm (FNA)"
+        },
+        {
+          "species": "Samolus ebracteatus",
+          "pedicel": "no bract",
+          "staminodes": "absent",
+          "peduncle": "5–10 cm (FNA)"
+        }
+      ],
+      "exceptions": "The genus Samolus is variable for staminodes and pedicel bracts. The Primulaceae family-level clue is not the presence of staminodes.",
+      "reference": "Flora of North America, Samolus key and species treatments (vol. 8), https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417215"
+    },
+    "part_specific_photo_handoff": [
+      {
+        "plain": "tiny scale on the flower stalk",
+        "formal": "pedicel bract",
+        "species": [
+          "samolus-parviflorus",
+          "Samolus ebracteatus (source-pool, not installed)"
+        ],
+        "role": "same-scale pedicel midpoint side views; bract present versus absent",
+        "status": "needs_matched_macro",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "plain": "sterile stamens beside the real stamens",
+        "formal": "staminodes versus fertile stamens",
+        "species": [
+          "samolus-parviflorus",
+          "Samolus ebracteatus (source-pool, not installed)"
+        ],
+        "role": "paired open/dissected flower-face macros, confirm five staminodes versus none",
+        "status": "needs_anatomy_verified",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "plain": "flower cup and seed chamber",
+        "formal": "partly inferior ovary and free-central placentation",
+        "species": [
+          "samolus-parviflorus",
+          "Lysimachia arvensis (source-pool, not installed)"
+        ],
+        "role": "longitudinal ovary sections, partly inferior Samolus versus superior Lysimachia, plus one-chambered free-central ovules",
+        "status": "needs_section_or_diagram",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "plain": "opening seed pod",
+        "formal": "valvate capsule versus circumscissile capsule",
+        "species": [
+          "samolus-parviflorus",
+          "Lysimachia arvensis (source-pool, not installed)"
+        ],
+        "role": "matched mature fruit sequences: Samolus capsule valves versus Lysimachia arvensis lid",
+        "status": "needs_mature_fruit_macro",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "existing_media_teaching_references": [
+      {
+        "species_id": "samolus-parviflorus",
+        "installed_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/images/01-cultivated-leaf-rosette.jpg",
+        "creator": "Agnieszka Kwiecień, Nova",
+        "license": "CC BY-SA 4.0",
+        "reuse_status": "public reuse with attribution and share-alike; cultivated specimen",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Samolus_valerandi_subsp._parviflorus_2019-04-28_01.jpg",
+        "diagnostic_role": "vegetative spoon-shaped rosette only; not evidence of the Samolus bract/staminode split",
+        "visible_structure_verification": "prior species/genus visual audit reports rosette visible; no flowering stalk, bract, staminodes or capsules shown; not re-inspected in this pass",
+        "caption": "Cultivated Samolus parviflorus rosette. To distinguish brookweeds, examine a flowering pedicel and dissected flower, not this leaf image.",
+        "future_arrow_target": "leaf blade/rosette only after independently checking image coordinates",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "representative_species": [
+      {
+        "species_id": "samolus-parviflorus",
+        "status": "canonical_installed",
+        "role": "leaf-rosette anchor; diagnostic reproductive macros missing"
+      },
+      {
+        "name": "Samolus ebracteatus",
+        "status": "master_pool_only_not_installed",
+        "role": "bractless, staminode-free comparison"
+      },
+      {
+        "name": "Lysimachia arvensis",
+        "status": "master_pool_only_not_installed",
+        "role": "superior ovary and capsule comparison"
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 2,
+    "current_teaching_genus_count": 2,
+    "genera": [
+      {
+        "genus": "Samolus",
+        "source_taxa_count": 3,
+        "current_concepts": 2,
+        "fast_cue": "small racemes + partly inferior ovary; split S. parviflorus (mid-pedicel bract + five staminodes) from S. ebracteatus (unbracted pedicel + staminodes absent)",
+        "role": "brookweed door"
+      },
+      {
+        "genus": "Lysimachia",
+        "source_taxa_count": 1,
+        "current_concepts": 1,
+        "fast_cue": "rotate 5-lobed flower + superior ovary + lid-opening capsule",
+        "role": "pimpernel door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Samolus parviflorus",
+    "Samolus ebracteatus",
+    "Samolus valerandi subsp. parviflorus",
+    "Lysimachia arvensis"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Samolus parviflorus",
+      "current_name": "Samolus parviflorus",
+      "note": "Accepted."
+    },
+    {
+      "source_name": "Samolus valerandi subsp. parviflorus",
+      "current_name": "Samolus parviflorus",
+      "note": "Synonym; do not double-count."
+    },
+    {
+      "source_name": "Samolus ebracteatus",
+      "current_name": "Samolus ebracteatus",
+      "note": "Accepted."
+    },
+    {
+      "source_name": "Lysimachia arvensis",
+      "current_name": "Lysimachia arvensis",
+      "note": "Accepted; native to the Old World and used here as an introduced comparison."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "stamens opposite corolla lobes",
+      "annotation_goal": "draw radial lines linking each stamen to its lobe"
+    },
+    {
+      "priority": 1,
+      "structure": "free-central placentation",
+      "annotation_goal": "cutaway showing central placenta unattached to ovary wall"
+    },
+    {
+      "priority": 1,
+      "structure": "Samolus semi-inferior vs Lysimachia superior ovary",
+      "annotation_goal": "side-view comparison"
+    },
+    {
+      "priority": 2,
+      "structure": "Samolus duplicate-name card",
+      "annotation_goal": "merge subsp. parviflorus source row into accepted species"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Samolus parviflorus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:702845-1"
+    },
+    {
+      "source": "POWO — Samolus ebracteatus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30039925-2"
+    },
+    {
+      "source": "POWO — Lysimachia arvensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77100386-1"
+    },
+    {
+      "source": "Flora of North America — Samolus parviflorus species treatment (bract at pedicel midlength; five staminodes)",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417215"
+    },
+    {
+      "source": "Flora of North America — Samolus ebracteatus treatment (ebracteate pedicels; no staminodes)",
+      "url": "https://swbiodiversity.org/seinet/taxa/index.php?taxon=18678"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-011",
+    "last_reviewed": "2026-10-15",
+    "visual_lock": "family_structural_live_samolus_species_exception_corrected; photo macros and arrows pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

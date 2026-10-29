@@ -1,0 +1,86 @@
+{
+  "id": "physaria-sessilis",
+  "entry_type": "provisional_species",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "species": "sessilis",
+  "scientific_name": "Physaria sessilis",
+  "authority": "(S.Watson) O'Kane & Al-Shehbaz",
+  "common_name": "Sessile bladderpod",
+  "synonyms": [
+    "Lesquerella sessilis"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Lesquerella sessilis normalized to current accepted Physaria sessilis.",
+  "look_here_first": "Yellow-flowered bladderpod whose upper leaves are notably sessile, helping separate it from more obviously petiolate relatives.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy source; Kew and ITIS accept Physaria sessilis and list Lesquerella sessilis as synonym.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID.",
+    "best_field_traits": [
+      "mustard-family herb",
+      "stellate pubescence",
+      "yellow 4-petaled flowers",
+      "upper leaves sessile or nearly so",
+      "inflated bladderpod capsules",
+      "compact dry-prairie habit"
+    ],
+    "comparison_training": "The leaf attachment is the first-look cue: sessilis = sessile. Use that before diving into fruit details."
+  },
+  "curation_status": {
+    "version": "1.0-b110-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 1,
+    "photo_files_present": 1,
+    "gbif_first_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/gbif-first-4907024415-b0cb31ecdb.jpg",
+      "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+      "creator": "MBG",
+      "license": "CC BY-NC-SA",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_platform": "GBIF mediated record; credit original dataset, specimen and creator",
+      "source_page": "https://www.gbif.org/occurrence/4907024415",
+      "gbif_occurrence_id": "4907024415",
+      "source_determination": "Physaria sessilis (S.Watson) O'Kane & Al-Shehbaz",
+      "accepted_target": "Physaria sessilis",
+      "media_source_url": "https://images.mobot.org/tropicosimages5/detailimages/TropicosImagesVol5/101757000/29A61A2B-5443-4C58-A6FF-6451AE6119AE.jpg",
+      "source_dataset_key": "7bd65a7a-f762-11e1-a439-00145eb45e9a",
+      "image_dimensions": [
+        724,
+        1086
+      ],
+      "study_use": "Yes; rights-specific conditions on original image",
+      "public_reuse": "Respect photo license; CC BY-NC images are noncommercial only",
+      "photo_review": "Source-reported taxon and image license verified; morphological identification and teaching view need independent visual review",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "Specimen/observation source first photo installed provisionally with an individually verified license. Botanical diagnostic morphology pending.",
+    "missing_diagnostic_views": [
+      "Confirm diagnostic vegetative and reproductive characters"
+    ]
+  },
+  "photo_note": "Exact source determination GBIF-linked image provisionally installed with image-level license; visual ID requires review."
+}

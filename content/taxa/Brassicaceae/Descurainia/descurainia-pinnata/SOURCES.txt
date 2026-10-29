@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Descurainia%20pinnata
+Source research-grade observation: https://www.inaturalist.org/observations/1336817
+Photo: https://www.inaturalist.org/photos/1654918
+Attribution: (c) Sam Kieschnick, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 045 2026-10-17T02:37:46.811778+00:00
+Descurainia pinnata
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6178299089
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/descurainia-pinnata/gbif-0bfab49afb16fd.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

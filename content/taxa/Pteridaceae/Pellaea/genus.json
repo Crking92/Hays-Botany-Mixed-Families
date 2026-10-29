@@ -1,0 +1,103 @@
+{
+  "rank": "genus",
+  "family": "Pteridaceae",
+  "name": "Pellaea",
+  "common_group": "Cliffbrake ferns",
+  "project_scope": {
+    "selection_mode": "source-pool comparison framework",
+    "source_pool_species": [
+      "Pellaea atropurpurea",
+      "Pellaea ovata",
+      "Pellaea wrightiana"
+    ],
+    "canonical_species_ids": [],
+    "canonical_species_count": 0,
+    "note": "Genus teaching framework only. None of the three source-pool species is currently in the canonical species manifest. Approved Taxa Installer owns admission and installation; do not imply these species have canonical learner cards."
+  },
+  "look_here_first": "Find the stipe (frond stalk) and rachis (main blade axis), then inspect how the pinnae attach and whether the rachis zigzags. On a fertile frond, flip the segments over: the rolled-under margins protect marginal sporangia (false indusia). Photograph both surfaces.",
+  "shared_traits": [
+    "Ferns reproduce by spores, not flowers or seeds.",
+    "Divided fronds with marginal or submarginal sori, often sheltered by reflexed segment edges.",
+    "Dry rocky or cliff-crevice habitats can be normal for cliffbrakes; habitat alone does not identify species."
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Main axis / rachis",
+      "P. atropurpurea": "dark purple to brown; short curled hairs can be present",
+      "P. ovata": "often tan to brown and conspicuously zigzag between pinnae",
+      "P. wrightiana": "often dark, comparatively straighter axis; confirm on multiple mature fronds"
+    },
+    {
+      "character": "Frond architecture",
+      "P. atropurpurea": "pinnae often contrasted by shape and size along the frond; inspect basal pinnae",
+      "P. ovata": "broadly triangular/ovate overall frond; pinnae frequently directed backward along zigzag axis",
+      "P. wrightiana": "narrower fronds with relatively small segments; compare same-scale mature fertile fronds"
+    },
+    {
+      "character": "Most useful detail",
+      "P. atropurpurea": "rachis hairs and segment attachment in macro",
+      "P. ovata": "zigzag rachis and pinna direction together",
+      "P. wrightiana": "narrow blade outline, segment dimensions and rachis character together"
+    },
+    {
+      "character": "Reproductive confirmation",
+      "P. atropurpurea": "fertile margins rolled over sporangia",
+      "P. ovata": "fertile margins rolled over sporangia",
+      "P. wrightiana": "fertile margins rolled over sporangia"
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Rachis conspicuously zigzag; pinnae often reflexed/backward pointing",
+      "then": "Pellaea ovata candidate — verify fertile frond and pinna details"
+    },
+    {
+      "if": "Rachis dark purple with short curly hairs; frond not strongly zigzag",
+      "then": "Pellaea atropurpurea candidate — inspect stipe/rachis macro"
+    },
+    {
+      "if": "Frond comparatively narrow, small segments, axis relatively straight",
+      "then": "Pellaea wrightiana candidate — confirm mature frond morphology; not a color-only ID"
+    }
+  ],
+  "cautions": [
+    "The matrix is a provisional teaching framework from source-pool/family reference material; exact species keys, variation, and measurements require Taxonomy + Diagnostic Review before being treated as final.",
+    "Stipe color changes with age and light; use mature fertile fronds, not a single young frond.",
+    "Sterile fronds and drought-stressed fronds may distort segment size and overall outline.",
+    "Marginal sori and rolled margins help recognize this fern group but are not sufficient to distinguish these three species.",
+    "No canonical species cards exist yet for this genus; do not link to fabricated species pages."
+  ],
+  "lookalikes": [
+    {
+      "taxon": "Cheilanthes / Myriopteris cliffbrakes",
+      "difference": "Also xeric rock ferns with marginal sori and false indusia; compare scale/hair cover and segment shape under magnification, then verify accepted genus."
+    },
+    {
+      "taxon": "Astrolepis spp.",
+      "difference": "Often conspicuously scaly on the underside; examine pinna/pinnule scales before using habit alone."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "Three matched entire mature fertile fronds on scale background, both surfaces",
+    "Stipe and rachis color/hair macro with scale, including curly hairs in P. atropurpurea",
+    "P. ovata zigzag rachis with arrows at pinna insertion and backward-facing pinnae",
+    "P. wrightiana segment dimensions and pinna attachments with scale",
+    "Rolled fertile segment margins opened enough to reveal sporangia without mislabeling false indusium",
+    "Dry-rock habitat plus basal stipe and rhizome when visible"
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Verify accepted Pellaea concepts and exact key characters (rachis hairs, zigzag angle, pinna orientation, blade width, segment measurements) from regional flora before locking species comparisons."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "task": "Check approved Master Plant Pool rows and taxonomy decisions for three Pellaea taxa; install species only through installer lane."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire exact-species licensed close-ups corresponding to diagnostic-photo checklist after taxonomy verification."
+    }
+  ],
+  "visual_status": "comparison_framework_only_no_canonical_species"
+}

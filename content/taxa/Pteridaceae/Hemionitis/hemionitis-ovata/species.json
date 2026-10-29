@@ -1,0 +1,40 @@
+{
+  "id": "hemionitis-ovata",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "species": "ovata",
+  "scientific_name": "Hemionitis ovata",
+  "common_name": "Ovalleaf cliffbrake",
+  "look_here_first": "Examine frond shape, pinnules, and fertile margins with sporangia.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77183106-1",
+  "synonyms": [
+    "Pellaea ovata"
+  ],
+  "photo_taxonomy_note": "Kew documents the image observation name as a synonym of the accepted learner scientific name.",
+  "images": [
+    {
+      "file": "images/inat-67721850.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Curren Frasch, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/67721850",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

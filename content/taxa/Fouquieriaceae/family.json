@@ -1,0 +1,140 @@
+{
+  "rank": "family",
+  "name": "Fouquieriaceae",
+  "common_name": "Ocotillo family",
+  "lineage_context": {
+    "order": "Ericales",
+    "batch": "Ericales",
+    "close_project_families": [
+      "Polemoniaceae"
+    ],
+    "teaching_goal": "Teach the project ocotillo through petiolar spines, rain-triggered short-shoot leaf fascicles, red tubular flowers with many exserted stamens, and a 3-valved capsule with fringed-winged seeds."
+  },
+  "project_scope": {
+    "selection_mode": "Fouquieria splendens one-species family module",
+    "note": "The project has a single Fouquieriaceae taxon. Kew recognizes Fouquieriaceae as sister to Polemoniaceae within Ericales, making this an especially useful morphology contrast."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at a spine: the long-shoot leaf petiole persists and hardens into a spine, while clusters of short-lived leaves arise on short shoots at its base after rain.",
+    "vegetative": "Spiny woody xerophyte; long-shoot leaves are associated with petiolar spines, and drought-deciduous secondary leaves appear in fascicles on short shoots.",
+    "reproductive": "Terminal panicles of showy tubular 5-lobed flowers; 10–16 or more stamens, often exserted; superior 3-carpellate ovary.",
+    "fruit": "3-valved loculicidal capsule with flattened seeds fringed by dense hairs that form a wing.",
+    "field_tip": "Petiolar spine + rain-responsive leaf fascicle + red tube + many exserted stamens is a nearly unforgettable family package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_011",
+    "teaching_order": "petiolar spine → short-shoot leaf fascicle → red tubular flower → many stamens → 3-valved capsule/winged seed",
+    "intro": "Ocotillo gives us one of the best morphology stories in the learner: a leaf stalk becomes a spine, then new leaves repeatedly flush from short shoots beside it after rain.",
+    "steps": [
+      {
+        "title": "1 · Show how the spine is made",
+        "photo_role": "long-shoot leaf/spine sequence",
+        "look_for": "Persistent leaf-petiole base hardening into a conical spine.",
+        "why_it_matters": "Explains the architecture instead of merely labeling the plant 'thorny.'",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "2 · Find the rain leaves",
+        "photo_role": "short-shoot fascicle",
+        "look_for": "Clusters of small drought-deciduous leaves emerging at the base of the spine.",
+        "why_it_matters": "One of the most visually memorable xerophyte adaptations in the project.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Read the red tube",
+        "photo_role": "terminal panicle + single flower",
+        "look_for": "Five-lobed tubular red-orange corolla in a dense terminal panicle.",
+        "why_it_matters": "Connects ocotillo to its Ericales reproductive architecture.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Count many stamens",
+        "photo_role": "flower macro",
+        "look_for": "Roughly 10–16 or more stamens extending from the corolla, not the 5 seen in Polemoniaceae.",
+        "why_it_matters": "Excellent tie-breaker from its close Polemoniaceae relative.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Finish with capsule and fringed seed",
+        "photo_role": "opened capsule + seed macro",
+        "look_for": "Three-valved capsule and flat seeds edged by dense hairlike wings.",
+        "why_it_matters": "A strong fruit/seed confirmation.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Fouquieriaceae vs Polemoniaceae",
+        "rule": "Both are close Ericales relatives with fused tubular flowers and superior ovaries. Fouquieriaceae is woody/spiny with 10–16+ stamens and fringed-winged seeds; Polemoniaceae project plants are herbs with 5 stamens and 3-valved capsules."
+      },
+      {
+        "title": "Ocotillo vs cactus",
+        "rule": "Ocotillo has true leaves that repeatedly flush after rain and petiolar spines; cacti are identified by areoles. Do not teach ocotillo as a cactus."
+      }
+    ],
+    "caveat": "Fouquieria splendens is native to southwestern Texas, but family recognition here is independent of strict Hays County nativity."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Fouquieria",
+        "taxa_count": 1,
+        "fast_cue": "petiolar spines + rain-flushed leaf fascicles + red tubular flower + many stamens",
+        "role": "ocotillo door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Fouquieria splendens"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Fouquieria splendens",
+      "current_name": "Fouquieria splendens",
+      "note": "Accepted; native range extends to southwestern Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "petiole-to-spine sequence",
+      "annotation_goal": "label leaf blade, petiole and persistent spine"
+    },
+    {
+      "priority": 1,
+      "structure": "short-shoot leaf fascicle",
+      "annotation_goal": "show leaf cluster emerging beside spine"
+    },
+    {
+      "priority": 1,
+      "structure": "many exserted stamens",
+      "annotation_goal": "count/label stamen set against corolla tube"
+    },
+    {
+      "priority": 1,
+      "structure": "3-valved capsule + fringed-winged seed",
+      "annotation_goal": "show fruit opening and seed fringe"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Fouquieriaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126593-1/general-information"
+    },
+    {
+      "source": "POWO — Fouquieria splendens",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:105437-2"
+    },
+    {
+      "source": "US Forest Service — Fouquieria splendens",
+      "url": "https://www.fs.usda.gov/rm/pubs_series/iitf/iitf_gtr026.pdf"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-011",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_spine_leaf_stamen_seed_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,8 @@
+Taxon: Oxalis drummondii A.Gray
+Approved source pool: Master Plant Pool row 802; four wild-tagged iNaturalist observations and Hays source flag.
+Taxonomy and morphology: Flora of North America Oxalis genus https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=123464 ; World Flora Online https://www.worldfloraonline.org/taxon/wfo-0001089479 ; POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:374872-1
+Range: UNRESOLVED for strict project target counties; accepted Texas native at state level is NOT three-county native PASS.
+Diagnostic separation: bulb-origin basal leaves, deep leaflet notches and absence of oxalate lines near notch vs O. violacea. Sepal orange tubercles and capsule needed.
+Photo: no rights-cleared exact-species downloadable photo was verified in this pass. No borrowed O. violacea or other species photo. Media backfill explicitly required.
+
+Photo enrichment (2026-10-13): Jim Conrad's Nov. 3 2013 Uvalde County account records exact-species Oxalis drummondii and both images. Source: https://www.backyardnature.net/n/h/drumm-ox.htm ; photograph direct URLs: https://www.backyardnature.net/n/13/131103ox.jpg and https://www.backyardnature.net/n/13/131103oy.jpg . License: Jim Conrad explicitly dedicates his own images to public domain at https://www.backyardnature.net/j/copyrite.htm . Whole-flowering foliage and flower-side roles are confirmed from images; no measured notch macro or sepal tubercles demonstrated; native county admission remains UNRESOLVED.

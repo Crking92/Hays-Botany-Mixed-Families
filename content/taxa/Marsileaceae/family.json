@@ -1,0 +1,227 @@
+{
+  "rank": "family",
+  "name": "Marsileaceae",
+  "common_name": "Water-clover family",
+  "lineage_context": {
+    "order": "Salviniales",
+    "batch": "Salviniales",
+    "close_project_families": [
+      "Salviniaceae"
+    ],
+    "teaching_goal": "Teach Marsilea as a rooted aquatic/amphibious heterosporous fern with four-part clover-like leaves and hard sporocarps, then separate the two project species primarily by sporocarp stalk and fruiting-body architecture rather than leaves."
+  },
+  "project_scope": {
+    "selection_mode": "Marsilea macropoda + Marsilea vestita project module",
+    "note": "Both project species are accepted current concepts. Species-level field separation should prioritize fertile sporocarps because sterile water-clover leaves can be unreliable."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Trace a long petiole down to its base and look for a hard bean- or pea-like sporocarp. Above it, the blade is palmately divided into four clover-like pinnae.",
+    "vegetative": "Aquatic or amphibious ferns with creeping rhizomes rooted in mud. Leaves arise on long petioles and in Marsilea terminate in four pinnae.",
+    "reproductive": "Heterosporous. Hard sporocarps contain sori that produce both megaspores and microspores. When hydrated, the sporocarp opens and a gelatinous sorophore emerges carrying the sori.",
+    "field_tip": "Four-leaflet water-clover + hard sporocarp near the petiole base = Marsileaceae/Marsilea. If no sporocarps are present, stop short of a confident species call."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_020",
+    "teaching_order": "whole rooted water-clover → sporocarp at petiole base → hydrated sporocarp opening → microspore vs megaspore → M. macropoda vs M. vestita sporocarp stalk → hybrid/intermediate caution",
+    "intro": "Marsilea looks like a four-leaf clover until you follow the petiole down. The hard little body near the base is the key: it is a fern sporocarp containing both male-sized microspores and female megaspores.",
+    "steps": [
+      {
+        "title": "1 · Start with the four-part blade",
+        "photo_role": "whole Marsilea plant",
+        "look_for": "A long petiole ending in four leaflets/pinnae arranged like a clover.",
+        "why_it_matters": "This gives the family its fastest whole-plant gestalt, but it is only the starting point.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the sporocarp at the petiole base",
+        "photo_role": "petiole-base macro",
+        "look_for": "A hard bean- or pea-like sporocarp attached near the base of the petiole on a short or elongated stalk.",
+        "why_it_matters": "The sporocarp confirms the plant is a heterosporous water-clover fern and carries the best species-level characters.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Watch a sporocarp open after hydration",
+        "photo_role": "sporocarp hydration sequence / diagram",
+        "look_for": "The sporocarp splits and a gelatinous sorophore expands outward bearing multiple sori.",
+        "why_it_matters": "This converts an opaque hard 'seedlike' object into understandable fern reproductive anatomy.",
+        "status": "sequence_or_diagram_pending"
+      },
+      {
+        "title": "4 · Separate microspores from megaspores",
+        "photo_role": "heterospory diagram",
+        "look_for": "Numerous tiny microspores versus much larger megaspores produced within the same sporocarp system.",
+        "why_it_matters": "Marsileaceae and Salviniaceae are unusual ferns because they are heterosporous rather than producing one spore type.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Marsilea macropoda door",
+        "photo_role": "sporocarp stalk + leaf pubescence",
+        "look_for": "Conspicuously hairy foliage; sporocarp stalks are commonly erect and can be branched, carrying strongly ascending hairy sporocarps.",
+        "why_it_matters": "Branched sporocarp stalks are one of the clearest project tie-breakers from M. vestita.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Marsilea vestita door",
+        "photo_role": "sporocarp side view",
+        "look_for": "An unbranched sporocarp stalk from the petiole base; sporocarp usually perpendicular to slightly nodding, with a conspicuous distal tooth.",
+        "why_it_matters": "Fruit-body architecture is much safer than leaf shape for separating the two project species.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Know the Blanco County hybrid problem",
+        "photo_role": "intermediate-character caution card",
+        "look_for": "Plants with mixed or intermediate M. macropoda/M. vestita characters.",
+        "why_it_matters": "FNA reports putative hybrids/intermediates in Blanco County, inside the project target zone, so ambiguous plants should not be forced to species.",
+        "status": "technical_caution_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Marsileaceae vs Salviniaceae",
+        "rule": "Marsileaceae project plants are rooted in mud with long-petioled four-part leaves and hard sporocarps. Azolla in Salviniaceae is a tiny free-floating branched mat with overlapping scale leaves, hanging roots and tiny paired sporocarps."
+      },
+      {
+        "title": "Marsilea vs true clover",
+        "rule": "Marsilea is a fern: no flowers, no fruits, and reproduction occurs through sporocarps and spores. Clover is a flowering legume with flowers and seeds."
+      },
+      {
+        "title": "M. macropoda vs M. vestita",
+        "rule": "Use fertile characters as a suite: M. macropoda often has branched erect sporocarp stalks and very hairy foliage; M. vestita has unbranched stalks, more transverse/nodding sporocarps and a pronounced distal tooth. Hybrids/intermediates occur."
+      }
+    ],
+    "caveat": "Marsilea identification is often unreliable without sporocarps. Do not force a species ID from four-leaflet blades alone, especially in Central Texas where M. macropoda × M. vestita intermediates have been reported.",
+    "anatomy_examples": [
+      {
+        "species": "Marsilea macropoda",
+        "part": "rhizome and sporocarp",
+        "plain_label": "Where the hard spore case attaches",
+        "botanical_label": "creeping rhizome, petiole, peduncle and sporocarp",
+        "look_for": "Trace the leaf stalk (petiole) down to the creeping rhizome; identify the stalk supporting the hard sporocarp, keeping the actual attachment visible. Do not label the sporocarp a seed pod.",
+        "photo_role": "exact-species in-situ petiole-base macro with sporocarp and rhizome in one frame",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Follow the four-part leaf down to the hard spore-bearing sporocarp and its stalk."
+      },
+      {
+        "species": "Marsilea vestita",
+        "part": "mature sporocarp",
+        "plain_label": "Tooth, hairs and stalk of the spore case",
+        "botanical_label": "sporocarp distal tooth, indumentum and peduncle",
+        "look_for": "Side-on mature sporocarp showing distal tooth, hairs, orientation and whether its stalk branches; compare multiple mature specimens against Marsilea macropoda at matched scale. Hybrids and intermediate characters can prevent confident species ID.",
+        "photo_role": "exact-species mature sporocarp side macro paired with independently verified M. macropoda at same scale",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Use a combination of sporocarp features—not one tooth or leaflet shape—to compare water-clovers."
+      },
+      {
+        "species": "Marsilea vestita",
+        "part": "sporocarp hydration",
+        "plain_label": "Spore clusters emerge when the case opens",
+        "botanical_label": "sporocarp dehiscence, gelatinous sorophore and sori",
+        "look_for": "Record the same identified sporocarp before wetting, during opening and after the gelatinous sorophore expands, showing its attached sori. A general diagram may explain the process but must not masquerade as a photographed specimen.",
+        "photo_role": "exact-species documented same-sporocarp hydration sequence with identifiable sorophore and sori",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Water opens the sporocarp and exposes the sori carried by a gelatinous sorophore."
+      },
+      {
+        "species": "Marsilea vestita",
+        "part": "sporangia",
+        "plain_label": "Small and large spore-producing structures",
+        "botanical_label": "microsporangia, megasporangia and heterospory",
+        "look_for": "Use a documented dissected sorus or microscopy series with a clear scale bar to separate microsporangia containing many microspores from megasporangia producing megaspores. Do not claim these structures are visible in ordinary habit photographs.",
+        "photo_role": "exact-species microscopy/dissection of fertile sori with scale and organ labels",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "This fern produces two spore types inside specialized sporangia, not flowers or seeds."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Marsilea",
+        "taxa_count": 2,
+        "fast_cue": "rooted aquatic/amphibious fern + four-part clover-like blade + hard sporocarp near petiole base",
+        "role": "water-clover door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Marsilea macropoda",
+    "Marsilea vestita"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Marsilea macropoda",
+      "current_name": "Marsilea macropoda",
+      "note": "Accepted by current Kew; native range includes central and southern Texas."
+    },
+    {
+      "source_name": "Marsilea vestita",
+      "current_name": "Marsilea vestita",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Marsilea vestita subsp. tenuifolia",
+      "current_name": "Marsilea vestita",
+      "note": "Current Kew treats this infraspecific name as synonym provenance rather than a separate project concept."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "sporocarp at petiole base",
+      "annotation_goal": "label petiole, sporocarp stalk and hard sporocarp"
+    },
+    {
+      "priority": 1,
+      "structure": "hydrated sporocarp opening",
+      "annotation_goal": "sequence hard sporocarp → gelatinous sorophore → exposed sori"
+    },
+    {
+      "priority": 1,
+      "structure": "microspore vs megaspore",
+      "annotation_goal": "show heterospory at clearly different scales"
+    },
+    {
+      "priority": 1,
+      "structure": "M. macropoda vs M. vestita sporocarp architecture",
+      "annotation_goal": "branched/ascending versus unbranched/transverse-nodding stalk and distal tooth"
+    },
+    {
+      "priority": 2,
+      "structure": "Blanco County intermediate caution",
+      "annotation_goal": "show mixed character suite and label as stop-at-genus/intermediate"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Marsileaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000054-2/general-information"
+    },
+    {
+      "source": "Flora of North America — Marsileaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10555"
+    },
+    {
+      "source": "Flora of North America — Marsilea",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=119919"
+    },
+    {
+      "source": "Flora of North America — Marsilea macropoda",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500778"
+    },
+    {
+      "source": "Flora of North America — Marsilea vestita",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500781"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-020",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_sporocarp_heterospory_species_comparison_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

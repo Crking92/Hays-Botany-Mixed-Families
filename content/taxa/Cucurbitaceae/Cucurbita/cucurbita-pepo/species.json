@@ -1,0 +1,87 @@
+{
+  "id": "cucurbita-pepo",
+  "entry_type": "species",
+  "family": "Cucurbitaceae",
+  "genus": "Cucurbita",
+  "species": "pepo",
+  "scientific_name": "Cucurbita pepo",
+  "authority": "L.",
+  "common_name": "Pumpkin / summer squash",
+  "look_here_first": "LOOK HERE FIRST: Check an annual coarse squash vine or bush with alternate often deeply 5–7-lobed rough leaves. At stem nodes inspect stiff hairs and their swollen pustulate bases; on a mature fruit look for a firm, five-ribbed stalk. The staged image shows a cultivated straightneck squash plant, flowers and lobed leaves, NOT a stem-hair macro or a measured fruiting stalk.",
+  "taxonomy_notes": "POWO/FNA accept Cucurbita pepo L. as a distinct species from C. melopepo. This approved source-pool record is a cultivated/escaped crop comparison; Texas introduced status in POWO does not certify an individual plant's origin. Preserve native-only metric exclusion.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 318, taxonomy reviewed 2026-10-10",
+    "target_zone_status": "NON_NATIVE_CROP_COMPARISON",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "native_metrics_excluded": true,
+    "notes": "Preserve existing internal source-pool range decision. No three-county native PASS or invasive label asserted."
+  },
+  "morphology_keys": {
+    "habit": "Annual cultivated or escaped squash; sprawling vines or compact bush cultivars, variable growth form.",
+    "leaves_attachment": "Alternate broad rough blades, often 5–7-lobed; cultivars vary in lobing, markings and size.",
+    "flower_reproductive": "Large yellow unisexual flowers, with male and female flowers borne separately on same plant; female flower has swollen inferior ovary.",
+    "fruit_seed": "Very variable pepo fruit among pumpkin, zucchini and summer squash cultivars; fruiting peduncle often hard, five-angled/ribbed and not or gradually expanded at fruit.",
+    "stem_bud": "Rough annual stems with commonly persistent hairs on strong pustulate bases; tendrils and nodes help separate from unrelated broad-leaved crops."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cucurbita melopepo (also annual; hair bases and fruit-stalk shape overlap; do not use pattypan fruit shape alone to resolve difficult cultivars)",
+      "Cucurbita foetidissima (perennial with mostly unlobed triangular leaves and smaller rounded gourds)",
+      "Cucumis melo (different genus; compare smaller flowers and fruiting stalk, nodes and tendrils)"
+    ],
+    "key_distinctions": "Annual habit, coarse often lobed leaves, strongly pustulate-based stem hairs and five-ribbed fruiting stalk together support C. pepo; crop fruit color or shape is not reliable species-level evidence."
+  },
+  "diagnostic_image_needs": [
+    "staged_source: cultivated straightneck squash habit, lobed leaves and flowers; megankhines CC BY-SA 2.0; cultivar example, not wild lineage",
+    "needs_photo: 10–20x close-up of stem hair bases showing pustules",
+    "needs_photo: measured mature fruiting stalk junction and five ribs",
+    "needs_photo: male versus female flower lateral view and inferior ovary",
+    "needs_photo: matched same-scale leaf and seed views against C. melopepo",
+    "annotation_pending: do not place arrows without confirming target on installed photo"
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/cucurbita-pepo-straightneck-habit-commons.jpg",
+      "role": "Exact species cultivated straightneck summer squash habit with lobed leaves and flowers; not a stem-hair or peduncle diagnostic macro",
+      "creator": "megankhines",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_straightneck_Summer_squash_bush_plant_and_flowers.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 2.0"
+    },
+    {
+      "file": "images/library-review015-75e1f1eb3bbeb91.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Flower corolla face and surrounding large vine foliage; avoids detached cultivated pumpkin and ambiguous cotyledons",
+      "creator": "mattmsa",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6431771612",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691547980/original.jpg",
+      "source_determination": "Cucurbita pepo",
+      "source_observation_id": "6431771612",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/cucurbita-pepo/gbif-e1b54a1fb4c248.jpg",
+      "archive_image_sha256": "6c3e2ac7933500fceb427fe544c033476449284c34970f8538a400ed00deb320",
+      "image_dimensions": [
+        1400,
+        1054
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_015": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

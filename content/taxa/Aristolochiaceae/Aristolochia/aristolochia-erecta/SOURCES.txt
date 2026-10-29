@@ -1,0 +1,54 @@
+ARISTOLOCHIA ERECTA L. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+Evidence class: mixed-source exact-county PASS
+
+## Taxonomy
+Kew Plants of the World Online — accepted Aristolochia erecta L.; native in Texas:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A92916-1
+
+## Strict target-zone range
+Travis — UT Plant Resources Center Aristolochiaceae herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Aristolochiaceae.html
+
+Bexar — Bexar County Master Gardener field account documents a naturally occurring swanflower in dry, sandy south Bexar County:
+https://bexarmg.org/2022/10/03/swanflower/
+
+Kendall — research-grade iNaturalist observation by peterjoseph described as "Near Sisterdale":
+https://www.inaturalist.org/faves/rtaylorb2
+
+Handbook of Texas — Sisterdale belongs to Kendall County:
+https://www.tshaonline.org/handbook/entries/sisterdale-tx
+
+Decision: PASS — Travis, Bexar, Kendall.
+Source-strength note: Travis is herbarium-grade; Bexar is direct photographed field documentation; Kendall is research-grade community science with locality independently mapped to Kendall County.
+
+## Explicit exclusion
+Do NOT claim Hays County evidence for A. erecta without a source.
+
+## Morphology
+World Flora Online / Flora of North America treatment:
+https://test.worldfloraonline.org/taxon/wfo-0000547771
+
+Native Plant Society of Texas:
+https://www.npsot.org/posts/native-plant/aristolochia-erecta/
+
+Key learner sequence:
+- tiny grass-mimic perennial
+- narrow linear-lanceolate leaves
+- low solitary brown-purple flower
+- fused petaloid calyx/perianth; petals absent
+- gynostemium
+- inferior ovary
+- 5-valved capsule
+
+## Photo backfill — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — "Some Remarkable Plants from the South Texas Borderlands":
+https://www.crimepaysbutbotanydoesnt.com/blog/some-remarkable-plants-from-the-south-texas-borderlands
+
+Exact study images selected from the existing Joey archive:
+- NOL_6990.JPG — flower side, curved perianth tube, flower orientation, low habit
+- NOL_6992.JPG — flower close-up, scale, perianth tube and limb pattern
+- NOL_6989.JPG — flower side, perianth tube/limb, prostrate habit and bud
+
+Rights: private-study use for the current private learner; public reuse not cleared. Preserve Joey Santore credit and replace/re-clear before any public release.

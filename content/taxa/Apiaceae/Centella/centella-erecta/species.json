@@ -1,0 +1,36 @@
+{
+  "id": "centella-erecta",
+  "family": "Apiaceae",
+  "genus": "Centella",
+  "species": "erecta",
+  "scientific_name": "Centella erecta",
+  "common_name": "Upright marshpennywort",
+  "look_here_first": "Check the rounded scalloped leaf blades on long petioles and small clustered flowers close to the ground; inspect where the petiole attaches.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:51383-2",
+  "images": [
+    {
+      "file": "images/inat-89006777.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) J. Richard Abbott, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/89006777",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

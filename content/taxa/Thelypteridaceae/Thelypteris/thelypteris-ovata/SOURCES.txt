@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Thelypteris%20ovata
+Kew name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77221196-1
+Photographed under scientific synonym: Pelazoneuron ovatum
+Source research-grade observation: https://www.inaturalist.org/observations/191796182
+Photo: https://www.inaturalist.org/photos/336557398
+Attribution: (c) Turner Brockman, some rights reserved (CC BY-SA)
+License: CC BY-SA; Attribution; ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

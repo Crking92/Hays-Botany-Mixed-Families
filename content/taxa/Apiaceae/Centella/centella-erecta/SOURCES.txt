@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:51383-2
+Source research-grade observation: https://www.inaturalist.org/observations/55879752
+Photo: https://www.inaturalist.org/photos/89006777
+Attribution: (c) J. Richard Abbott, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

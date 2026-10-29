@@ -1,0 +1,146 @@
+{
+  "id": "aristolochia-serpentaria",
+  "entry_type": "species",
+  "family": "Aristolochiaceae",
+  "genus": "Aristolochia",
+  "species": "serpentaria",
+  "scientific_name": "Aristolochia serpentaria",
+  "authority": "L.",
+  "common_name": "Virginia snakeroot / Virginia Dutchman's pipe",
+  "synonyms": [
+    "Endodeca serpentaria (L.) Raf.",
+    "Isotrema serpentaria (L.) X.X.Zhu, S.Liao & J.S.Ma"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Aristolochia serpentaria L. Several older segregate or varietal names are treated as synonyms in current references.",
+  "look_here_first": "Start low on the plant, near the lowest nodes and leaf litter. The strange brown-purple flower has no ordinary petal whorl: the showy structure is a bent, tubular petaloid calyx/perianth. Then confirm the variable lanceolate-to-cordate leaves and the nearly spherical dry capsule.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural flora documents Aristolochia serpentaria as naturally occurring in north Hays County. Travis — University of Texas Plant Resources Center Travis County Aristolochiaceae specimen index includes A. serpentaria. Kerr — Kerr Wildlife Management Area vascular flora documents A. serpentaria.",
+    "range_guardrail": "Only exact target-zone locality/county evidence was counted. Statewide Texas native status alone was not converted into county evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial herb, often inconspicuous in woodland litter",
+      "stems erect to sprawling",
+      "leaves variable from lanceolate to heart-shaped",
+      "flowers solitary on slender scaly peduncles from low nodes",
+      "petals absent; showy structure is a tubular S-shaped petaloid calyx/perianth",
+      "perianth brownish purple, enlarged basally and distally, with an unevenly three-lobed tip",
+      "inferior ovary",
+      "dry nearly spherical capsule with numerous seeds"
+    ],
+    "family_training": "Use A. serpentaria to teach that Aristolochia's bizarre flower is not a normal corolla. The perianth/calyx tube, inferior ovary, low flower position and capsule matter more than leaf shape alone.",
+    "ecology": "Moist to mesic woodland and shaded calcareous sites in Central Texas; larval host for pipevine swallowtail."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Aristolochia erecta",
+      "Aristolochia reticulata",
+      "other low woodland herbs when not flowering"
+    ],
+    "key_distinctions": "A. serpentaria is a taller woodland herb with broader variable leaves and brown-purple low flowers; A. erecta is much shorter and grasslike with narrow leaves in sunnier/sandy sites. Use flower/perianth architecture and habitat rather than leaf shape alone."
+  },
+  "tags": [
+    "Aristolochiaceae",
+    "Aristolochia",
+    "Virginia snakeroot",
+    "Central Texas",
+    "Pipevine swallowtail",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-b058-anchor",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "visual_status": "partial_existing_reference_recovered",
+    "photo_recovered_at": "2026-10-04",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "manual_library_install_010": "2026-10-16"
+  },
+  "photo_note": "Recovered existing rights-cleared family-reference photograph into species images[]. Source image downloaded and visually inspected on 2026-10-04. Currently uses verified external URL; repository-local binary and diagnostic macro coverage remain follow-up. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Aristolochia_serpentaria.jpg/1280px-Aristolochia_serpentaria.jpg",
+      "role": "Woodland herb habit and broad, cordate-based leaves — existing family reference",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aristolochia_serpentaria.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "changes": "Wikimedia-generated 1280px thumbnail; no learner edits",
+      "locality": "Lake Catherine State Park, Hot Spring County, Arkansas; morphology reference, not target-zone range evidence",
+      "look_for": "Broad leaves with cordate bases on a small woodland herb; contrast with the narrow grasslike leaves of A. erecta."
+    },
+    {
+      "file": "images/library-review010-b3cfc8af9071ab9.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Foliage habit plus unusual small near-ground flower; flower type needs closer review",
+      "creator": "Rajan Rao",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6184916446",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630295073/original.jpg",
+      "source_determination": "Aristolochia serpentaria",
+      "source_observation_id": "6184916446",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/aristolochia-serpentaria/gbif-fd20019c371b29.jpg",
+      "archive_image_sha256": "806a343790596e773ef529430c78e83e117e8d29855b3379a61dfd88d7698a78",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review010-c15a52de8a74d32.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Foliage habit plus unusual small near-ground flower; flower type needs closer review",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6188128683",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633423791/original.jpg",
+      "source_determination": "Aristolochia serpentaria",
+      "source_observation_id": "6188128683",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/aristolochia-serpentaria/gbif-0dc16e964782df.jpg",
+      "archive_image_sha256": "11dffdcacc0f34121ad3a8ff605401ca1e68b95b24688a601ee97170fff45a25",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Low-node flower side showing bent perianth tube",
+    "Inferior ovary/flower attachment",
+    "Mature capsule and seeds"
+  ]
+}

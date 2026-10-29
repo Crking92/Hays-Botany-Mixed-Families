@@ -1,0 +1,143 @@
+{
+  "rank": "family",
+  "name": "Crassulaceae",
+  "common_name": "Stonecrop family",
+  "lineage_context": {
+    "order": "Saxifragales",
+    "batch": "Saxifragales",
+    "close_project_families": [
+      "Grossulariaceae",
+      "Haloragaceae",
+      "Altingiaceae"
+    ],
+    "teaching_goal": "Teach succulent leaf architecture plus a starry flower with multiple separate carpels and follicular fruit as the Crassulaceae branch of Saxifragales."
+  },
+  "project_scope": {
+    "selection_mode": "Sedum-centered project module",
+    "note": "The current pool contains Sedum nuttallii plus the historical synonym row Sedum nuttallianum. Current Kew accepts S. nuttallii and synonymizes S. nuttallianum."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with succulent leaves, then inspect the flower center. Crassulaceae commonly has a star-like 4–5-merous flower, stamens equal to or twice the petal number, and several separate or basally joined carpels that mature into follicles.",
+    "vegetative": "Mostly succulent herbs or subshrubs; leaves simple, fleshy, alternate/opposite/whorled, stipules absent.",
+    "reproductive": "Flowers commonly bisexual and radial; sepals and petals usually 4–5; stamens often twice as many as petals; small nectar scales sit at the base of each carpel.",
+    "fruit": "A cluster of follicles, usually one follicle per carpel, containing few to many seeds.",
+    "field_tip": "Succulent herb + starry flower + several distinct carpels/follicles is the stonecrop-family package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_017",
+    "teaching_order": "succulent leaf → star flower → stamen count → separate carpels → follicles → synonym card",
+    "intro": "Crassulaceae becomes easy once you stop at the flower center: the carpels stay visibly separate and later become a ring of follicles.",
+    "steps": [
+      {
+        "title": "1 · Start with the succulent leaves",
+        "photo_role": "Sedum whole plant/leaf macro",
+        "look_for": "Small fleshy water-storing leaves on a low herb.",
+        "why_it_matters": "This is the fast gestalt, though succulence alone is not enough.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Count petals and stamens",
+        "photo_role": "flower face macro",
+        "look_for": "Star-shaped flower, commonly 5 petals with about 10 stamens in Sedum.",
+        "why_it_matters": "The doubled stamen count is a useful stonecrop pattern.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find the separate carpels",
+        "photo_role": "flower-center macro",
+        "look_for": "Several carpels arranged in a ring, each with its own style, rather than one fully fused ovary.",
+        "why_it_matters": "This is a powerful family confirmation character.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Follow each carpel into a follicle",
+        "photo_role": "fruit cluster",
+        "look_for": "A cluster of dry follicles opening along one side.",
+        "why_it_matters": "Fruit preserves the multi-carpel architecture seen in the flower.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Collapse the duplicate source name",
+        "photo_role": "taxonomy card",
+        "look_for": "Sedum nuttallianum → accepted Sedum nuttallii.",
+        "why_it_matters": "Prevents one native stonecrop from appearing twice in the learner.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Crassulaceae vs Cactaceae",
+        "rule": "Both are succulent, but Crassulaceae usually retains ordinary fleshy leaves and starry flowers with several carpels/follicles; cacti use areoles and a very different stem/flower architecture."
+      },
+      {
+        "title": "Crassulaceae vs Saxifragaceae-like plants",
+        "rule": "Stonecrops are strongly succulent and commonly have several follicles; saxifrages are usually not strongly succulent and often have fewer, more fused carpels."
+      }
+    ],
+    "caveat": "Succulence evolved repeatedly. Always confirm the flower center and fruit rather than calling every succulent Crassulaceae."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Sedum",
+        "fast_cue": "small succulent herb + starry flower + multiple carpels/follicles",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Sedum nuttallianum",
+      "current_name": "Sedum nuttallii",
+      "status": "synonym under current Kew"
+    },
+    {
+      "source_name": "Sedum nuttallii",
+      "current_name": "Sedum nuttallii",
+      "status": "accepted"
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "separate carpels in flower center",
+      "annotation_goal": "label each carpel/style"
+    },
+    {
+      "priority": 1,
+      "structure": "follicle cluster",
+      "annotation_goal": "connect each follicle back to a carpel"
+    },
+    {
+      "priority": 1,
+      "structure": "petal/stamen count",
+      "annotation_goal": "show 5 petals vs ~10 stamens"
+    },
+    {
+      "priority": 2,
+      "structure": "Sedum synonym card",
+      "annotation_goal": "nuttallianum → nuttallii"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Crassulaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000887-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Sedum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001444-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Sedum nuttallii",
+      "url": "https://powo.science.kew.org/taxon/77084425-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-017",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "sedum_family_door_live_carpel_follicle_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

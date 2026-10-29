@@ -1,0 +1,89 @@
+{
+  "id": "diplotaxis-muralis",
+  "family": "Brassicaceae",
+  "genus": "Diplotaxis",
+  "species": "muralis",
+  "scientific_name": "Diplotaxis muralis",
+  "common_name": "Wallrocket",
+  "look_here_first": "Inspect four yellow petals in a cross, basal deeply lobed leaves, and slender siliques (seedpods) on ascending stalks.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_054": "2026-10-18"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96869-3",
+  "images": [
+    {
+      "file": "images/inat-84341831.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Aleksandr_Levon, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/84341831",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review054-37a95d4a80f59c2.jpg",
+      "role": "Look closer · four yellow petals beside finely divided leaves; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Yellow four-petaled mustard flower and flowering stalk",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6159283094",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615027829/original.jpg",
+      "source_determination": "Diplotaxis muralis",
+      "source_observation_id": "6159283094",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/diplotaxis-muralis/gbif-85ad4482c5c859.jpg",
+      "archive_image_sha256": "40009a027691b6c0621841b6ad108ed13262dc38684fd462e5d3d0f3c723da95",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review054-f6c945f1b882619.jpg",
+      "role": "Recognize · yellow mustard flowers on branching stem; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Yellow four-petaled mustard flower and flowering stalk",
+      "creator": "Aranda García Víctor",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110335993",
+      "media_source_url": "https://bs.plantnet.org/image/o/40f98faba513bb29bba2a31e6e3581fad5a02a8d",
+      "source_determination": "Diplotaxis muralis",
+      "source_observation_id": "5110335993",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/diplotaxis-muralis/plantnet-via-gbif-fd3e68e5f7996f.jpg",
+      "archive_image_sha256": "1e3d9e8f69c84d1ad514ba13866f6d96a30a9d7fe099c520d5bc49295eb5c7b9",
+      "image_dimensions": [
+        1067,
+        800
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

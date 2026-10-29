@@ -1,0 +1,36 @@
+{
+  "id": "sisymbrium-altissimum",
+  "family": "Brassicaceae",
+  "genus": "Sisymbrium",
+  "species": "altissimum",
+  "scientific_name": "Sisymbrium altissimum",
+  "common_name": "Tall tumblemustard",
+  "look_here_first": "Highly branched mustard with deeply divided lower leaves, tiny four-petaled yellow flowers and long slender siliques.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:289144-1",
+  "images": [
+    {
+      "file": "images/inat-504429305.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Ted Hindmarch, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/504429305",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

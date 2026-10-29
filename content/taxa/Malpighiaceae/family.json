@@ -1,0 +1,117 @@
+{
+  "rank": "family",
+  "name": "Malpighiaceae",
+  "common_name": "Barbados-cherry family",
+  "project_scope": {
+    "selection_mode": "Video-fed Texas Galphimia-first reference module",
+    "note": "Family reference began with exact-labeled Galphimia angustifolia video material; the current manifest also includes four canonical Malpighiaceae species. Species installation does not certify local nativity or fully verified photo anatomy.",
+    "reference_taxon": "Galphimia angustifolia",
+    "reference_status": "galphimia-angustifolia_is_installed_in_manifest;native_range_review_deferred",
+    "source_handoff": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json"
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: examine a complete opposite leaf, then one flower's five free petals and narrowed claws (petal stalks). When visible, check separate sepals, sepal glands, two-armed hairs and reproductive structures. Do not require sepal oil glands or a winged fruit for every genus.",
+    "vegetative": "Leaves are commonly simple and opposite, often with stipules. Many family members have characteristic two-armed or T-shaped hairs that are best treated as a magnified supporting character.",
+    "flower": "Typically 5 free sepals and 5 free petals; petals are commonly clawed. Flowers often have 10 stamens and a superior, usually 3-carpellate ovary.",
+    "glands": "New World Malpighiaceae often bear oil-secreting glands on the outer sepal surfaces, but glands may be reduced or absent in some lineages and should not be required.",
+    "fruit": "Fruit architecture is diverse; splitting fruits and winged units occur in many genera.",
+    "field_tip": "For a quick family hypothesis, pair opposite leaves with the peculiar free clawed petals; then use hairs, sepal glands and reproductive details as tie-breakers."
+  },
+  "visual_lesson": {
+    "status": "video_reference_first_pass",
+    "teaching_order": "whole flower → petal claw → sepal underside → reproductive/fruit confirmation",
+    "intro": "This family becomes much easier once you stop looking only at yellow petals and start looking at how each petal attaches.",
+    "steps": [
+      {
+        "title": "1 · Start with the five free petals",
+        "photo_role": "Galphimia angustifolia flower / source-labeled family reference",
+        "look_for": "Five separate petals rather than a fused corolla tube.",
+        "why_it_matters": "This gives the learner the basic floral layout before zooming into the family-specific petal base.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "2 · Follow a petal to its base",
+        "photo_role": "petal claws / narrowed petal bases",
+        "look_for": "A conspicuously narrowed, claw-like petal base leading into the broader blade.",
+        "why_it_matters": "The clawed petal is a high-value visual cue in the family and is clearly exposed by the current video frame.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "3 · Flip the flower over",
+        "photo_role": "outer sepals / possible sepal glands",
+        "look_for": "Inspect the back of the sepals for paired or conspicuous glands rather than assuming they are present.",
+        "why_it_matters": "Oil glands are famous in New World Malpighiaceae but variable enough that they should confirm, not veto, an ID.",
+        "status": "macro_reference_pending"
+      },
+      {
+        "title": "4 · Add the hair and fruit characters",
+        "photo_role": "two-armed hair + three-carpellate fruit architecture",
+        "look_for": "Under magnification, look for two-armed hairs; when fruit is present, inspect how the three-carpellate ovary matures and separates.",
+        "why_it_matters": "These characters prevent overfitting the family to one yellow-flowered Galphimia.",
+        "status": "diagram_or_reference_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Malpighiaceae vs Rosaceae",
+        "rule": "Both can show five free petals, but local-looking Rosaceae commonly use alternate leaves, a hypanthium and often numerous stamens; Malpighiaceae commonly uses opposite leaves, clawed petals and distinctive two-armed hairs."
+      },
+      {
+        "title": "Do not require sepal oil glands",
+        "rule": "Oil glands are extremely useful when visible, but their reduction or absence in some Malpighiaceae means they are a confirmation character rather than a universal gate."
+      },
+      {
+        "title": "Malpighiaceae versus Zygophyllaceae (Galphimia versus Kallstroemia)",
+        "rule": "Both can have opposite foliage and five showy petals. Galphimia angustifolia leaves are simple (one blade per petiole); Kallstroemia leaves are pinnately compound (paired leaflets on a shared axis). Check the entire leaf, mature fruit and petal base; flower color alone is not reliable. Kallstroemia often has about ten separate one-seeded mericarps."
+      },
+      {
+        "title": "Malpighiaceae versus Polygalaceae (Galphimia versus Senega/Rhinotropis)",
+        "rule": "Galphimia's showy free organs are five petals with narrowed claws and generally ten stamens. Milkworts have two petal-like inner sepals (wings), a true lower keel petal and usually eight basally joined stamens. Confirm organ insertion on a real flower, not flower color or silhouette."
+      }
+    ],
+    "caveat": "The module now references four installed learner taxa; local nativity certification remains deferred. Some Malpighiaceae lack sepal oil glands; Cottsia bears dry winged units while Malpighia has fleshy fruit. No new photo is installed or visually certified by these anatomy requests.",
+    "anatomy_examples": [
+      {
+        "species": "Galphimia angustifolia",
+        "part": "flower",
+        "plain_label": "Narrow stalk at the base of a petal",
+        "botanical_label": "petal claw and blade",
+        "look_for": "An oblique close-up showing one of five free petals with its narrowed claw and broader blade. Include a whole flower for context.",
+        "photo_role": "exact-species oblique flower and petal-base macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified",
+        "caption": "Follow a free petal into its narrow claw; five free petals by themselves are not enough."
+      },
+      {
+        "species": "Cottsia gracilis",
+        "part": "leaves, hairs and mature fruit",
+        "plain_label": "Twining stem, tiny leaf hairs and dry winged fruit",
+        "botanical_label": "twining habit, medifixed trichomes, winged mericarps",
+        "look_for": "Matched stem/leaf context, true two-armed hair macro when visible, and mature dry winged fruit; record the historical name Janusia gracilis without replacing current Cottsia gracilis.",
+        "photo_role": "exact-species whole vine, leaf-hair microdetail and mature winged-mericarps macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified",
+        "caption": "Winged fruit occurs in this vine but is not universal for the family."
+      },
+      {
+        "species": "Malpighia glabra",
+        "part": "flower underside and fruit",
+        "plain_label": "Small glands on sepals and fleshy ripe fruit",
+        "botanical_label": "abaxial sepal glands and drupe",
+        "look_for": "Show underside of flower with actual gland positions where present, plus unmistakable mature fleshy fruit. Avoid inferring unseen glands from the family name.",
+        "photo_role": "exact-species sepal-underside macro and mature drupe photograph",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified",
+        "caption": "Compare gland-bearing sepals, when visible, with the fleshy fruit; not all Malpighiaceae form winged fruits."
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-video-fed-family-reference",
+    "last_reviewed": "2026-10-20",
+    "visual_lock": "genus_door_and_three_anatomy_roles_published_photos_and_arrows_pending"
+  }
+}

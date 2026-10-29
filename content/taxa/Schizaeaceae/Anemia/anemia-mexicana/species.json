@@ -1,0 +1,112 @@
+{
+  "id": "anemia-mexicana",
+  "entry_type": "species",
+  "family": "Schizaeaceae",
+  "genus": "Anemia",
+  "species": "mexicana",
+  "scientific_name": "Anemia mexicana",
+  "authority": "Klotzsch",
+  "common_name": "Mexican flowering fern",
+  "look_here_first": "LOOK HERE FIRST: Find the upright, narrow spore-bearing pair of basal pinnae that rises above the broad green sterile part of the frond. These are fertile fern leaf divisions, NOT flowers. Check the straw-colored stalk and once-pinnate blade with 4–7 pairs of mostly lanceolate pinnae.",
+  "taxonomy_notes": "POWO accepts Anemia mexicana as a species with two accepted varieties; Master Plant Pool source is species-level. Do not infer var. mexicana from an unvouchered source photo. Project follows Schizaeaceae as in its existing family lesson and POWO.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool (approved source-pool; reconciliation examples, 2026-10-14)",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "POWO confirms native to Texas at state level; no project three-county PASS decision is asserted. Do not display internal pending-range badge."
+  },
+  "morphology_keys": {
+    "habit": "Terrestrial fern of lightly shaded limestone rock habitats; fronds arise along a creeping rhizome, rather than from a single tight crown.",
+    "leaves_attachment": "Sterile green blade roughly triangular to lanceolate and once pinnate, typically 4–7 pairs of lanceolate pinnae with finely serrulate edges; straw-colored petiole.",
+    "flower_reproductive": "Ferns have no flowers or seeds. Sporangia are concentrated on a distinctive erect pair of narrow fertile pinnae near the base of the blade; these can project above the sterile blade.",
+    "fruit_seed": "No fruit or seed; examine mature sporangia and ridged spores on fertile pinnae.",
+    "stem_bud": "Creeping rhizome with dark hairs; inspect the long straw-colored frond stalk."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Anemia adiantifolia (much more finely divided sterile blade; primarily a different regional species)",
+      "Adiantum capillus-veneris (fan-shaped pinnules and marginal false indusia, not an erect fertile basal pair)",
+      "Asplenium resiliens (slender black rachis and linear sori on underside of ordinary pinnae)"
+    ],
+    "key_distinctions": "Anemia mexicana carries the spore-producing parts on a specialized erect basal pinna pair. Maidenhair ferns bear sori under rolled leaflet edges; spleenworts have elongate sori on the underside of ordinary pinnae."
+  },
+  "diagnostic_image_needs": [
+    "installed_candidate_role: cultivated exact-species habit and erect fertile basal pinnae, Daderot public-domain Commons file; confirm actual file after installer Action",
+    "needs_photo: field-grown Central Texas plant with whole frond and limestone substrate",
+    "needs_photo: fertile basal pinna insertion point and sporangia macro with scale",
+    "needs_photo: sterile pinna margin and vein close-up",
+    "annotation_pending: no arrow coordinates until target feature inspected on final installed file"
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/anemia-mexicana-habit-fertile-commons.jpg",
+      "role": "Exact-species cultivated habit with upright basal fertile pinnae (no arrows)",
+      "creator": "Daderot",
+      "license": "Public domain (PD-self)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anemia_mexicana_-_Botanischer_Garten_M%C3%BCnchen-Nymphenburg_-_DSC08180.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review012-bd84dba4bf8403f.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Separate fertile pinna/sporangia-bearing axis and frond with hand for scale; origin still source-determined",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6188641464",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633424416/original.jpg",
+      "source_determination": "Anemia mexicana",
+      "source_observation_id": "6188641464",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/anemia-mexicana/gbif-1d6f78a8e9a556.jpg",
+      "archive_image_sha256": "b8ec97c28ba2f2d36e200a56b3241045259a6dbfa8cd7b8214ee457faeaa8623",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review012-f8ff312424b98f1.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Separate fertile pinna/sporangia-bearing axis and frond with hand for scale; origin still source-determined",
+      "creator": "Eric Knight",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6187975628",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634043823/original.jpg",
+      "source_determination": "Anemia mexicana",
+      "source_observation_id": "6187975628",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/anemia-mexicana/gbif-753e2d66707d78.jpg",
+      "archive_image_sha256": "383258cbe20bd777a04f87417949800e085bdc6cd83be22184ad74e0536330de",
+      "image_dimensions": [
+        1051,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "polytaenia-texana",
+  "family": "Apiaceae",
+  "genus": "Polytaenia",
+  "species": "texana",
+  "scientific_name": "Polytaenia texana",
+  "common_name": "Texas prairie parsley",
+  "look_here_first": "Recognize an upright parsley-family wildflower with dissected leaves and broad clusters of tiny yellowish flowers; inspect compound umbels, developing fruits and leaf segmentation.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Polytaenia%20texana",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Central Texas iNaturalist photo 40333604, observation 25999580, original image CC0.",
+  "images": [
+    {
+      "file": "images/commons-polytaenia-texana.jpg",
+      "role": "Provisional Texas prairie parsley plant recognition; photo does not certify individual umbellets or fruit ribs.",
+      "creator": "Ben Clement (benclement)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Polytaenia_texana_-_Texas_Prairie_Parsley.jpg",
+      "study_use": "Private and noncommercial botanical learner",
+      "public_reuse": "Public domain or CC0; author credit preserved"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

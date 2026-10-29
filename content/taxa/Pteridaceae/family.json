@@ -1,0 +1,134 @@
+{
+  "rank": "family",
+  "name": "Pteridaceae",
+  "common_name": "Brake / cliffbrake fern family",
+  "project_scope": {
+    "selection_mode": "Central Texas xeric cliffbrake reference module",
+    "note": "Built around purple cliffbrake-style frond and sori architecture."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Ignore flowers entirely. Read the frond, then turn a fertile frond over and inspect the margins for sori.",
+    "frond": "Stipe below the blade, rachis through the blade, divided into pinnae/pinnules/segments depending on species.",
+    "sori": "Many local cheilanthoids have marginal/submarginal sori protected by the rolled blade margin as a false indusium.",
+    "reproduction": "Spores, not seeds; no flowers or fruits.",
+    "habitat": "Many local species occupy dry limestone or rock crevices.",
+    "field_tip": "Regular marginal sori + rolled leaf edge is far more useful than assuming every fern needs wet shade."
+  },
+  "visual_lesson": {
+    "status": "reference_first_pass",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Central Texas cliffbrakes are a perfect reminder that ferns can be dry-rock plants—and that the underside of the frond is where the ID lives.",
+    "steps": [
+      {
+        "title": "1 · Start with a purple cliffbrake",
+        "photo_role": "Pellaea atropurpurea whole frond",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Pellaea_atropurpurea_723429169.jpg",
+        "image_label": "Pellaea atropurpurea",
+        "image_credit": "CC BY 4.0 · iNaturalist contributor",
+        "look_for": "Dark rachis with divided leathery frond segments.",
+        "why_it_matters": "Provides a strong xeric Pteridaceae field gestalt.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Put it in a dry-rock habitat",
+        "photo_role": "purple cliffbrake in masonry/rock crevice",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Pellaea_atropurpurea_concrete.jpg",
+        "image_label": "Pellaea atropurpurea in crevice",
+        "image_credit": "CC BY-SA 2.0",
+        "look_for": "A fern growing from a dry mineral crevice rather than wet forest soil.",
+        "why_it_matters": "Corrects the 'fern = wet shade' shortcut.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "3 · Flip the frond over",
+        "photo_role": "marginal sori",
+        "look_for": "Regular bands/clusters of sporangia near the segment margins.",
+        "why_it_matters": "Sorus placement is a major fern-family and genus character.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Find the false indusium",
+        "photo_role": "recurved margin covering sori",
+        "look_for": "The blade edge rolls over the sori; the covering is leaf tissue, not a separate membrane.",
+        "why_it_matters": "This is the classic cheilanthoid/Pteridaceae teaching structure.",
+        "status": "diagram_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "False vs true indusium",
+        "rule": "A false indusium is the rolled blade margin; a true indusium is a separate membrane covering the sorus."
+      },
+      {
+        "title": "Fern vs flowering plant",
+        "rule": "Pteridaceae has spores and sporangia, never flowers, fruits, or seeds."
+      },
+      {
+        "title": "Pteridaceae vs Aspleniaceae",
+        "rule": "In many local cliffbrakes the fertile blade edge rolls over marginal sori as a false indusium. Asplenium usually has linear sori on veins, each covered by a separate one-sided true indusium. Compare both the sorus position and the origin of its cover; the rolled edge is not universal in Pteridaceae."
+      }
+    ],
+    "anatomy_examples": [
+      {
+        "species": "Adiantum capillus-veneris",
+        "plain_label": "Folded leaflet flap over spore clusters",
+        "formal_label": "Reflexed pinnule lobe forming a false indusium over marginal sori",
+        "where_to_look": "Turn a fertile fan-shaped pinnule over; inspect the folded tip/edge of each fertile lobe, not the black stalk.",
+        "photo_role": "exact-species abaxial fertile-pinnule macro showing folded lobe and sori together",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "The curled pinnule margin is leaf tissue (false indusium); the sorus lies beneath it. Do not draw arrows until both are visible in the selected frame."
+      },
+      {
+        "species": "Pellaea atropurpurea",
+        "plain_label": "Rolled leaflet edge beside spore clusters",
+        "formal_label": "Recurved laminar margin and marginal/submarginal sori",
+        "where_to_look": "Use a fertile leathery segment, viewed from below and slightly sideways; compare the blade edge with the sporangial band.",
+        "photo_role": "exact-species underside plus oblique-edge macro with visible sori and recurved margin",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "Show where the leaf edge folds over the sporangia; a whole-frond reference cannot prove the indusium anatomy."
+      },
+      {
+        "species": "Myriopteris scabra",
+        "plain_label": "Tiny hairs and scales on the underside",
+        "formal_label": "Abaxial trichomes, scales and soral placement",
+        "where_to_look": "Magnify one mature fertile segment from the underside; distinguish surface covering from sporangia.",
+        "photo_role": "exact-species underside micro/macro resolving hairs or scales separately from sori",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "Label only structures actually resolved; do not infer hair/scales from the species name or a distant frond photograph."
+      },
+      {
+        "species": "Asplenium resiliens",
+        "plain_label": "Separate flap beside a line of spore clusters",
+        "formal_label": "Linear vein-borne sorus with unilateral true indusium",
+        "where_to_look": "Inspect the underside of one fertile pinna, looking for elongated sori following veins away from the leaflet edge.",
+        "photo_role": "matched comparator macro: Asplenium resiliens vein-borne sorus and true indusium, same scale as Pellaea edge",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "This is an Aspleniaceae comparison species, not a Pteridaceae representative; distinguish a separate membrane from rolled blade tissue."
+      }
+    ],
+    "caveat": "False indusia are common in our local cliffbrake framework but are not universal across the enormous Pteridaceae family."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module-video-handoff",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass"
+  },
+  "video_handoff": {
+    "source": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json",
+    "policy": "Use the exact fertile-frond frame to strengthen the sori/pseudoindusium lesson while keeping the species range-pending.",
+    "candidates": [
+      {
+        "taxon": "Adiantum capillus-veneris",
+        "frame_count": 1,
+        "roles": [
+          "fertile frond / revolute margin / pseudoindusium"
+        ],
+        "status": "range_pending"
+      }
+    ]
+  }
+}

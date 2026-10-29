@@ -1,0 +1,62 @@
+{
+  "rank": "genus",
+  "name": "Samolus",
+  "family": "Primulaceae",
+  "common_group": "Brookweeds",
+  "look_here_first": "Inspect the tiny bract halfway along each flower stalk (pedicel), then the short raceme peduncle and flower center. Five sterile stamens (staminodes) help separate this species from bractless Samolus ebracteatus. A leaf rosette alone cannot settle the identification.",
+  "project_scope": {
+    "species_ids": [
+      "samolus-parviflorus"
+    ],
+    "note": "First-pass species anchor; other approved pool concepts remain separate."
+  },
+  "genus_diagnostics": {
+    "leaves": "Simple leaves; installed cultivated rosette shows spoon-shaped blades, not an exact species key.",
+    "flower": "Small fused five-lobed corolla; fertile stamens opposite lobes. Staminodes are species-dependent; absent in S. ebracteatus.",
+    "fruit": "Capsules; mature fruit close-up needed."
+  },
+  "study_strategy": {
+    "warning": "Cultivated aquarium specimen in Wrocław University Botanical Garden, Poland; source explicitly identifies S. valerandi subsp. parviflorus as S. parviflorus synonym. Visually checked the leaf rosette; pedicel bract, flowers, staminodes, and capsules are absent from this image. Provisional recognition image only, not proof of the diagnostic key."
+  },
+  "comparison_cards": [
+    {
+      "title": "Samolus parviflorus versus S. ebracteatus",
+      "look_here_first": "Samolus ebracteatus: no pedicel bracts, longer peduncle about 5–10 cm, no staminodes, and larger corolla (3–7.5 mm). Do not use flower color, moist habitat, or leaf rosette alone. Broad Samolus valerandi is an alternative taxonomic treatment; only subsp. parviflorus is mapped here.",
+      "caution": "Only one first-pass photo is installed. Missing anatomy is not demonstrated by it."
+    }
+  ],
+  "visual_comparison": {
+    "part_examples": [
+      {
+        "title": "Cultivated spoon-shaped leaf rosette",
+        "anchor_species_id": "samolus-parviflorus",
+        "image_file": "images/01-cultivated-leaf-rosette.jpg",
+        "look_for": "Cultivated aquarium specimen in Wrocław University Botanical Garden, Poland; source explicitly identifies S. valerandi subsp. parviflorus as S. parviflorus synonym. Visually checked the leaf rosette; pedicel bract, flowers, staminodes, and capsules are absent from this image. Provisional recognition image only, not proof of the diagnostic key.",
+        "why_it_matters": "Learn a vegetative view; the flowering bract/staminode key remains necessary.",
+        "role": "Cultivated aquarium leaf rosette: spoon-shaped leaves; flowering diagnostic structures not visible"
+      },
+      {
+        "title": "Flower pedicel midpoint bract macro with scale",
+        "look_for": "Needs photo: Flower pedicel midpoint bract macro with scale",
+        "why_it_matters": "Needed to apply the structural identification key; not visible in the installed image.",
+        "role": "Flower pedicel midpoint bract macro with scale"
+      },
+      {
+        "title": "Dissected flower showing five staminodes",
+        "look_for": "Needs photo: Dissected flower showing five staminodes",
+        "why_it_matters": "Needed to apply the structural identification key; not visible in the installed image.",
+        "role": "Dissected flower showing five staminodes"
+      },
+      {
+        "title": "Short raceme peduncle and measured corolla",
+        "look_for": "Needs photo: Short raceme peduncle and measured corolla",
+        "why_it_matters": "Needed to apply the structural identification key; not visible in the installed image.",
+        "role": "Short raceme peduncle and measured corolla"
+      }
+    ]
+  },
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:702845-1",
+    "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Samolus+parviflorus"
+  ]
+}

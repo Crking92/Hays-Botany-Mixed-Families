@@ -1,0 +1,20 @@
+Source-pool admission: Master Plant Pool Anemia mexicana; named in workflow/MASTER_POOL_RECONCILIATION_2026-10-14.json.
+Taxonomy and family: POWO accepted species https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17264720-1 (Schizaeaceae); do not force infraspecific assignment.
+Morphology: Flora of North America via https://eol.org/pages/597377/articles ; 4–7 pairs of sterile pinnae and erect basal fertile pair.
+Photo selected: https://commons.wikimedia.org/wiki/File:Anemia_mexicana_-_Botanischer_Garten_M%C3%BCnchen-Nymphenburg_-_DSC08180.JPG ; photographer Daderot, original work 2011, released to public domain (PD-self). Depicts cultivated specimen with visible name tag, fronds and spore-bearing branches. No regional wild provenance is claimed.
+Photo direct: https://upload.wikimedia.org/wikipedia/commons/6/60/Anemia_mexicana_-_Botanischer_Garten_M%C3%BCnchen-Nymphenburg_-_DSC08180.JPG
+Installer must verify download and resulting images[] before counting installed. Remaining photo roles in species.json belong to Diagnostic Photo Polish; annotation_pending.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Anemia mexicana
+Creator: Reid Hardin; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6188641464
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/anemia-mexicana/gbif-1d6f78a8e9a556.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Anemia mexicana
+Creator: Eric Knight; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6187975628
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/anemia-mexicana/gbif-753e2d66707d78.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

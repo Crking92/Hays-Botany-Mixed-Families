@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Selaginella apoda; Master Pool rows 1052.
+POWO search https://powo.science.kew.org/results?q=Selaginella%20apoda
+Exact photo source page https://commons.wikimedia.org/wiki/File:Selaginella_apoda1.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/Selaginella%20apoda1.jpg
+Photographer Jaknouse
+License CC BY-SA 3.0
+Provisional photo role Provisional whole mat appearance; spores and leaf-scale anatomical characters still unresolved.
+Caution Photographed in Kentucky; county-level range not certified.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

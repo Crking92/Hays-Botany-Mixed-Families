@@ -1,0 +1,167 @@
+{
+  "rank": "family",
+  "name": "Pottiaceae",
+  "common_name": "Pottia / crisp-moss family",
+  "lineage_context": {
+    "order": "Pottiales",
+    "batch": "Moss residuals",
+    "close_project_families": [
+      "Leucobryaceae",
+      "Leucodontaceae"
+    ],
+    "teaching_goal": "Teach the source Tortella squarrosa concept at family level through robust acrocarpous turf, strongly crisp/contorted dry leaves that spread squarrose-recurved when wet, a strong costa and papillose distal cells, while preserving the unresolved North American species-level Pleurochaete/Tortella conflict."
+  },
+  "project_scope": {
+    "selection_mode": "Source Tortella squarrosa retained as provenance; species promotion deliberately pending",
+    "note": "WFO recognizes Tortella squarrosa globally in Pottiaceae, but FNA's North American Pleurochaete treatment excludes P. squarrosa sensu stricto from the New World and routes the New World squarrosa-like facies to Pleurochaete luteola. Texas material therefore needs specimen/microscopic review before a current species concept is promoted."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Wet and dry the moss. The source squarrosa-type plant has long leaves that twist/crisp strongly when dry and spread or bend backward squarrose-recurved when moist.",
+    "gametophyte": "Acrocarpous robust moss forming coarse turfs on calcareous or dry mineral substrates in the squarrosa-type concept.",
+    "leaf_anatomy": "Leaves have a strong costa; distal laminal cells are papillose. In the FNA Pleurochaete concept, hyaline basal marginal cells form distinct clear strips rather than the V-shaped basal border typical of true Tortella.",
+    "reproductive": "Pottiaceae commonly has terminal or lateral gametangia and capsules with family-level peristome variation; species-level reproductive placement is important in the Pleurochaete/Tortella distinction.",
+    "field_tip": "Crisp-dry / squarrose-wet acrocarp + strong costa + papillose upper cells = Pottiaceae-level source concept; stop before species unless basal-cell and reproductive details are checked."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_029",
+    "teaching_order": "dry-vs-wet habit → strong costa → papillose cells → basal hyaline band → reproductive position → Tortella/Pleurochaete taxonomy caution",
+    "intro": "This is a good example of where a visual learner should know exactly when to stop. The field habit is useful for Pottiaceae, but the Texas source name cannot safely be promoted to species without microscopic characters.",
+    "steps": [
+      {
+        "title": "1 · Photograph the same turf dry and wet",
+        "photo_role": "hydration pair",
+        "look_for": "Dry leaves strongly contorted/crisp and hugging or twisting around the stem; wet leaves spreading and recurving outward in a squarrose posture.",
+        "why_it_matters": "This motion/shape change is the most memorable source-concept cue.",
+        "status": "highest_priority_sequence_pending"
+      },
+      {
+        "title": "2 · Find the strong costa",
+        "photo_role": "single leaf macro",
+        "look_for": "A conspicuous central costa extending through most or all of the leaf.",
+        "why_it_matters": "Separates the source concept sharply from ecostate Leucodon.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Zoom into the upper cells",
+        "photo_role": "laminal-cell micrograph",
+        "look_for": "Small distal cells bearing papillae.",
+        "why_it_matters": "Papillose upper cells are a useful Pottiaceae microscopic confirmation.",
+        "status": "microscopy_pending"
+      },
+      {
+        "title": "4 · Inspect the clear basal margins",
+        "photo_role": "leaf-base micrograph",
+        "look_for": "Hyaline elongated cells forming clear strips along the basal leaf margins.",
+        "why_it_matters": "FNA uses the geometry of these basal cells to separate Pleurochaete from Tortella.",
+        "status": "highest_priority_microscopy_pending"
+      },
+      {
+        "title": "5 · Do not skip reproductive position",
+        "photo_role": "gametangia/sporophyte placement diagram",
+        "look_for": "Whether reproductive structures are terminal or lateral relative to the main shoot.",
+        "why_it_matters": "Pleurochaete's lateral reproductive architecture is one reason FNA separates it from Tortella.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "6 · Preserve the taxonomy conflict visibly",
+        "photo_role": "taxonomy caution card",
+        "look_for": "Source: Tortella squarrosa. WFO recognizes that name globally. FNA: North American squarrosa-like plants → Pleurochaete luteola; P. squarrosa s.str. excluded from New World.",
+        "why_it_matters": "Prevents an uncertain Texas specimen from being silently converted into a false canonical ID.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Pottiaceae vs Leucobryaceae",
+        "rule": "The source Pottiaceae concept has ordinary green leaves with strong costa and papillose cells, dramatically crisping when dry. Leucobryum has a pale leaf dominated by a multilayered leucocyst-rich costa."
+      },
+      {
+        "title": "Pottiaceae vs Leucodontaceae",
+        "rule": "The source Pottiaceae concept is acrocarpous and costate; Leucodon is pleurocarpous with cylindrical appressed-leaf branches and no costa."
+      }
+    ],
+    "caveat": "Do not promote the Texas source Tortella squarrosa to a settled current species from field appearance. WFO and FNA disagree in a way that materially affects New World identification; retain the source label and require microscopic/specimen review."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 1,
+    "current_teaching_genus_count": "pending_species_reconciliation",
+    "genera": [
+      {
+        "genus": "Tortella",
+        "source_taxa_count": 1,
+        "fast_cue": "source label only; crisp-dry/squarrose-wet costate pottioid moss",
+        "role": "source-provenance door with Pleurochaete conflict"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Tortella squarrosa"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Tortella squarrosa",
+      "current_status": "species_review_required",
+      "note": "WFO currently recognizes Tortella squarrosa globally in Pottiaceae."
+    },
+    {
+      "comparison_name": "Pleurochaete squarrosa",
+      "note": "WFO also retains Pleurochaete squarrosa in Pottiaceae, reflecting competing nomenclatural/taxonomic treatments."
+    },
+    {
+      "north_american_fna_name": "Pleurochaete luteola",
+      "note": "FNA excludes P. squarrosa s.str. from the New World and treats New World squarrosa-like material as P. luteola. Texas source needs microscopic/specimen reconciliation."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "same plant dry vs wet",
+      "annotation_goal": "contorted/crisp dry versus squarrose-recurved wet leaves"
+    },
+    {
+      "priority": 1,
+      "structure": "basal hyaline marginal band",
+      "annotation_goal": "show FNA Pleurochaete-type clear basal strips and compare with Tortella V pattern"
+    },
+    {
+      "priority": 1,
+      "structure": "papillose upper laminal cells",
+      "annotation_goal": "label papillae"
+    },
+    {
+      "priority": 1,
+      "structure": "strong costa",
+      "annotation_goal": "label costa through leaf"
+    },
+    {
+      "priority": 1,
+      "structure": "taxonomy caution card",
+      "annotation_goal": "source Tortella squarrosa ↔ WFO accepted global name ↔ FNA New World Pleurochaete luteola"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "World Flora Online — Tortella squarrosa",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-1200118536"
+    },
+    {
+      "source": "World Flora Online — Tortella / Pottiales",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-4000038607"
+    },
+    {
+      "source": "Flora of North America — Pleurochaete",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=125998"
+    },
+    {
+      "source": "World Flora Online — Pleurochaete",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-4000030330"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing checked first; no direct moss/Pottiaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-029",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_species_conflict_explicit_microscopy_pending",
+    "family_backfill_phase": "recognition module built; species promotion intentionally blocked pending review"
+  }
+}

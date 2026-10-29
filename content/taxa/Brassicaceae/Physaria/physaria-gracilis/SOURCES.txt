@@ -1,0 +1,21 @@
+PHOTO FAST-FILL 047 — Physaria gracilis
+Date: 2026-10-06
+Temporary one-photo learner coverage from an exact current-concept UT Plant Resources Center herbarium specimen.
+Source: https://w3.biosci.utexas.edu/prc/specimens/Brassicaceae.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/105LesquGraxxx00030159.JPG
+Source attribution: UT Plant Resources Center / University of Texas Herbarium
+Historical specimen label: Lesquerella gracilis
+Current canonical concept: Physaria gracilis
+Individual photographer: not stated
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: whole voucher / flowering-fruiting habit
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T13:45:55.819646+00:00
+Physaria gracilis (Hook.) O'Kane & Al-Shehbaz
+https://www.gbif.org/occurrence/6179434852
+saltyhiker | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Inflated silicles and hairy leaves; compare Physaria species
+No anatomy arrows; no scientific or native-range changes.

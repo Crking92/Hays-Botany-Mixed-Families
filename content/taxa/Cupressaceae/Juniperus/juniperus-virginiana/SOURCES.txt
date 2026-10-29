@@ -1,0 +1,47 @@
+JUNIPERUS VIRGINIANA — DEEP REVIEW SOURCES
+Reviewed: 2026-10-03
+Status: PASS / BLANKET APPROVED
+
+TAXONOMY
+Kew Plants of the World Online — accepted Juniperus virginiana L.; Texas native:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A132551-2
+Kew — accepted var. virginiana:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77169224-1
+
+STRICT TARGET-ZONE RANGE
+Travis — Travis County flora: native tree, common in eastern half, numerous TEX-LL sheets:
+https://docsbay.net/doc/1005242/division-1-pteridophyta
+Williamson — UT Plant Resources Center county treatment:
+https://w3.biosci.utexas.edu/prc/K12/pages/Juniperus%20virginiana%20virginiana.html
+Bexar — U.S. EPA ecological assessment, Live Oak, Bexar County; native wooded area includes eastern red cedar:
+https://semspub.epa.gov/work/06/100020540.pdf
+
+Decision: PASS — Travis, Williamson, Bexar.
+
+MORPHOLOGY / COMPARISON
+UT PRC Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pages/Juniperus%20virginiana%20virginiana.html
+UT PRC Ashe juniper treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Juniperus%20ashei
+Texas A&M Forest Service — Ashe juniper comparison context:
+https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=53&t=J
+NPSOT eastern redcedar:
+https://www.npsot.org/posts/native-plant/juniperus-virginiana/
+
+LOOK HERE FIRST
+Eastern redcedar: pit-like adult scale-leaf gland + small 4.5–5 mm blue-black cone commonly 1–2(–3) seeded.
+Ashe juniper: raised circular/hemispheric scale-leaf gland + larger 6.5–9.6 mm cone usually one-seeded.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 005
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=N4yq5Z1_0Eo
+juniperus-virginiana_scale-foliage-source-label_19-20.jpg @ 19:20
+Source-labeled Juniperus virginiana showing mature appressed scale-like foliage on the branch sprays, a useful vegetative cue for eastern redcedar.
+Rights: private study only; public reuse not cleared. Existing scientific/range status preserved.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Juniperus virginiana L.
+https://www.gbif.org/occurrence/5938127638
+Luke | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Blue-black seed cones, depressed resin glands on appressed scale foliage versus Ashe juniper
+No anatomy arrows; no scientific or native-range changes.

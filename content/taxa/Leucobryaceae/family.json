@@ -1,0 +1,142 @@
+{
+  "rank": "family",
+  "name": "Leucobryaceae",
+  "common_name": "White-moss family",
+  "lineage_context": {
+    "order": "Archidiales",
+    "batch": "Moss residuals",
+    "close_project_families": [
+      "Pottiaceae",
+      "Leucodontaceae"
+    ],
+    "teaching_goal": "Teach Leucobryum albidum as a compact pale cushion moss whose broad costa dominates most of the leaf and contains large hyaline leucocysts surrounding a central chlorocyst layer."
+  },
+  "project_scope": {
+    "selection_mode": "Leucobryum albidum one-species family module",
+    "note": "Leucobryum albidum is accepted in the current WFO/FNA backbone and FNA includes Texas in its range."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the pale cushion, then remove one leaf. In Leucobryum most of what looks like the leaf blade is actually a very broad costa.",
+    "gametophyte": "Small to medium acrocarpous moss forming compact whitish-green cushions or turfs. Leaves crowded, with a sheathing base and a narrow concave to subtubulose limb.",
+    "leaf_anatomy": "Costa extremely broad, built from large transparent leucocysts on both sides of a central layer of green chlorocysts. The ordinary lamina is reduced to only a narrow strip of cells.",
+    "sporophyte": "Seta supports an inclined to curved capsule; in L. albidum the mature dry capsule is reddish to reddish brown and often strongly curved.",
+    "field_tip": "Whitish cushion + leaf dominated by a thick pale costa + leucocyst/chlorocyst sandwich in cross-section = Leucobryaceae/Leucobryum."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_029",
+    "teaching_order": "whole cushion → single leaf → broad costa → cross-section leucocysts/chlorocysts → capsule → Pottiaceae/Leucodontaceae comparison",
+    "intro": "White moss looks pale because much of each leaf is built from large clear water-holding cells surrounding a thin green photosynthetic layer.",
+    "steps": [
+      {
+        "title": "1 · Start with the pale cushion",
+        "photo_role": "whole Leucobryum albidum colony",
+        "look_for": "Low compact whitish-green cushions, usually only a few centimeters across.",
+        "why_it_matters": "This is the field gestalt before microscopy.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Realize the costa is almost the whole leaf",
+        "photo_role": "single leaf macro",
+        "look_for": "Broad pale costa occupying most of the leaf width; only a very narrow true lamina remains at the margins.",
+        "why_it_matters": "Corrects the assumption that the pale central area is just a normal midrib.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Cut across the costa",
+        "photo_role": "leaf cross-section micrograph/diagram",
+        "look_for": "Large hyaline leucocysts above and below a central layer of smaller green chlorocysts.",
+        "why_it_matters": "This cell sandwich explains the family appearance and is the strongest teaching structure.",
+        "status": "highest_priority_microscopy_pending"
+      },
+      {
+        "title": "4 · Separate albidum from larger white-moss lookalikes",
+        "photo_role": "leaf/cushion scale card",
+        "look_for": "Small low cushions; leaves usually 2–4 mm, with the narrow limb shorter than the expanded sheath.",
+        "why_it_matters": "FNA emphasizes the small plant and short limb as useful L. albidum clues.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "5 · Find the curved red-brown capsule",
+        "photo_role": "sporophyte macro",
+        "look_for": "Inclined capsule becoming strongly curved when dry and empty, red to reddish brown.",
+        "why_it_matters": "Adds reproductive confirmation to the cushion/leaf lesson.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Leucobryaceae vs Pottiaceae",
+        "rule": "Leucobryum has a leaf dominated by a broad multilayered leucocyst-rich costa and forms pale cushions. The project Pottiaceae concept has ordinary-looking green leaves with a strong costa, papillose upper cells, and strongly crisp/squarrose leaves."
+      },
+      {
+        "title": "Leucobryaceae vs Leucodontaceae",
+        "rule": "Leucobryum is an upright cushion-forming acrocarp with pale thick leaves; Leucodon is a creeping/pleurocarpous bark-rock moss with cylindrical julaceous branches and leaves lacking a costa."
+      }
+    ],
+    "caveat": "Cushion color alone is not enough. The broad leucocyst-rich costa and cross-section anatomy are the dependable family-level structures."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Leucobryum",
+        "taxa_count": 1,
+        "fast_cue": "pale compact cushion + broad leucocyst-rich costa + narrow lamina",
+        "role": "white-moss door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Leucobryum albidum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Leucobryum albidum",
+      "current_name": "Leucobryum albidum",
+      "note": "Accepted in current WFO/FNA; FNA distribution includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "leaf cross-section",
+      "annotation_goal": "label upper leucocysts, central chlorocysts and lower leucocysts"
+    },
+    {
+      "priority": 1,
+      "structure": "broad costa vs narrow lamina",
+      "annotation_goal": "outline costa occupying most of leaf and true lamina at margins"
+    },
+    {
+      "priority": 1,
+      "structure": "compact cushion",
+      "annotation_goal": "whole-colony scale"
+    },
+    {
+      "priority": 2,
+      "structure": "curved capsule",
+      "annotation_goal": "label seta, capsule and dry curvature"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Leucobryum albidum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250075534"
+    },
+    {
+      "source": "FNA — Leucobryum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=118369"
+    },
+    {
+      "source": "World Flora Online — Leucobryaceae/Leucobryum current order backbone",
+      "url": "https://www.worldfloraonline.org/search?query=Leucobryum+glaucum"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing checked first; no direct moss/Leucobryaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-029",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_leucocyst_cross_section_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 501); preflight still subject to independent accepted-taxonomy review.
+Taxon: Galphimia gracilis
+Kew taxonomy search: https://powo.science.kew.org/results?q=Galphimia%20gracilis
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:Starr_071024-0053_Galphimia_gracilis.jpg
+Original/Commons bounded download: https://upload.wikimedia.org/wikipedia/commons/9/9e/Starr_071024-0053_Galphimia_gracilis.jpg
+Photographer: Forest & Kim Starr
+License: CC BY 3.0
+Image role: Provisional flowers and opposite foliage; fruit and diagnostic floral structures not yet confirmed.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

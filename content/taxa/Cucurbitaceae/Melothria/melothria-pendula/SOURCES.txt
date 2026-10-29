@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Melothria%20pendula
+Source research-grade observation: https://www.inaturalist.org/observations/10885849
+Photo: https://www.inaturalist.org/photos/15290567
+Attribution: (c) Katja Schulz, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 047 2026-10-17T02:42:02.868524+00:00
+Melothria pendula
+Creator: Annika Lindqvist; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6251528029
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/melothria-pendula/gbif-03f5f739e12a15.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

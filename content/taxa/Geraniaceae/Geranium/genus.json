@@ -1,0 +1,180 @@
+{
+  "rank": "genus",
+  "family": "Geraniaceae",
+  "name": "Geranium",
+  "common_group": "cranesbills",
+  "project_scope": {
+    "selection_mode": "two distinct approved Master Plant Pool species; genus lesson only",
+    "source_pool_species": [
+      "Geranium carolinianum",
+      "Geranium texanum"
+    ],
+    "canonical_species_ids": [],
+    "installer_dependency": "Neither source-pool species appears in the checked canonical manifest; Approved Taxa Installer owns species-card creation.",
+    "range_note": "No native-range statuses changed or inferred from lesson admission."
+  },
+  "look_here_first": "Find a complete flowering or fruiting shoot. Both species have palmately cleft leaves and beaked five-part fruits. To separate them, inspect pedicel hairs under magnification: G. texanum has short, backward-pointing hairs pressed flat to the pedicel; G. carolinianum usually has spreading hairs, often including stalked glandular hairs. Confirm with the hair density on the ripe mericarp and flower/fruit dimensions.",
+  "shared_genus_traits": [
+    "Herbaceous, usually annual plants with stipules and simple leaves divided palmately into several lobed segments; leaves may be alternate below and opposite near flowering branches.",
+    "Regular flowers with five sepals, five free petals, and ten fertile stamens (unlike Erodium, with five fertile stamens plus five staminodes).",
+    "Elongated beaked schizocarp with five one-seeded mericarps that separate from a central column; fruiting structures are more reliable than petal color."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Pedicel indumentum (PRIMARY; 10× hand lens)",
+      "Geranium carolinianum": "Hairs mostly spreading (patent), often a mixture of gland-tipped and non-glandular hairs; backward-directed hairs can occur but are not pressed flat.",
+      "Geranium texanum": "Short, non-glandular hairs directed backward (retrorse) and appressed to the pedicel; long-stalked glands lacking.",
+      "how_to_see": "Macro both sides of several flower stalks against a dark background; arrows show hair direction relative to flower; record presence/absence of stalked glands."
+    },
+    {
+      "character": "Mature mericarp hair density (PRIMARY fruit confirmation)",
+      "Geranium carolinianum": "Mericarp bodies densely clothed in relatively long hairs.",
+      "Geranium texanum": "Mericarp bodies sparsely covered with short hairs.",
+      "how_to_see": "Same-scale side view of mature dry fruit body before the mericarps spring away; annotate hair length/density, not just the beak."
+    },
+    {
+      "character": "Fruit beak (rostrum) length (SUPPORTING)",
+      "Geranium carolinianum": "Usually about 15–19 mm in regional revision.",
+      "Geranium texanum": "About 11–12 mm in revision.",
+      "how_to_see": "Measure intact mature fruit beak with millimeter scale; ranges depend on maturity, so pair with hair characters."
+    },
+    {
+      "character": "Petal length (SUPPORTING)",
+      "Geranium carolinianum": "About 4.5–6 mm in FNA-derived description.",
+      "Geranium texanum": "About 4–5 mm in Jepson treatment; small overlap.",
+      "how_to_see": "Side-on open flower and ruler; use dimensions only as support, never alone."
+    },
+    {
+      "character": "Leaf outline (GENUS RECOGNITION, NOT A RELIABLE SPECIES SPLIT)",
+      "Geranium carolinianum": "Simple, palmately cleft, usually 5 (sometimes 7) deeply subdivided segments.",
+      "Geranium texanum": "Simple, palmately cleft, generally 5–7 deeply subdivided segments.",
+      "how_to_see": "Photograph intact mature leaf with central petiole attachment and radiating major veins; teach lobes versus distinct leaflets."
+    }
+  ],
+  "decision_sequence": [
+    "Confirm Geranium: simple palmately cleft leaves plus five-part beaked fruit; count ten fertile stamens on a suitable flower.",
+    "Inspect multiple pedicels at 10×: short appressed retrorse hairs → G. texanum; spreading, often gland-tipped hairs → G. carolinianum.",
+    "Check mature mericarp bodies: sparse short hairs favor G. texanum; dense long hairs favor G. carolinianum.",
+    "Measure fruit rostrum and petals as supporting characters. If reproductive hairs cannot be inspected, retain Geranium sp. rather than deciding from leaf shape or color."
+  ],
+  "overlap_cautions": [
+    "Both have deeply palmate leaves, small pale flowers, and long-beaked fruits. Neither leaf shape nor pink/white flower color is a dependable species split.",
+    "G. carolinianum may have few glandular hairs and occasionally backward-directed hairs; their spreading/not-appressed posture remains the key contrast with G. texanum.",
+    "Fruit beak length and petal dimensions overlap with developmental stage and treatment; confirm with pedicel and mericarp indumentum.",
+    "Older family lesson has a video-fed Erodium reference with unresolved leaf interpretation; do not reuse that image as evidence for Geranium.",
+    "Taxa are approved for learner admission by source pool, but neither is canonical here; no new county nativity claim is made."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Erodium texanum",
+      "separate": "A lobed Erodium leaf can resemble Geranium. Count five fertile stamens plus five staminodes in Erodium versus ten fertile stamens in Geranium; fruit separation/awns provide additional context."
+    },
+    {
+      "taxon": "Erodium cicutarium",
+      "separate": "E. cicutarium typically has pinnately compound leaves with many divided leaflets, versus Geranium's palmately cleft single blade; verify stamen count."
+    },
+    {
+      "taxon": "Other local Geraniaceae",
+      "separate": "Do not call a species from a generic long-beaked fruit; photograph pedicel hairs and ripe mericarp bodies."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "character": "pedicel hair direction and glandular hairs",
+      "taxa": [
+        "Geranium carolinianum",
+        "Geranium texanum"
+      ],
+      "shot": "Matched 10× or greater side-on macros of pedicels, labeled flowerward versus stemward, appressed versus spreading hairs, gland heads.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "not acquired"
+    },
+    {
+      "priority": 1,
+      "character": "mature mericarp indumentum",
+      "taxa": [
+        "Geranium carolinianum",
+        "Geranium texanum"
+      ],
+      "shot": "Same-scale mature fruit-body macros before dehiscence; annotate sparse short versus dense long hairs.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "not acquired"
+    },
+    {
+      "priority": 2,
+      "character": "fruit beak length",
+      "taxa": [
+        "Geranium carolinianum",
+        "Geranium texanum"
+      ],
+      "shot": "Whole intact mature beak with millimeter scale, base and tip both visible.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "not acquired"
+    },
+    {
+      "priority": 2,
+      "character": "flower dimensions and stamen count",
+      "taxa": [
+        "Geranium carolinianum",
+        "Geranium texanum"
+      ],
+      "shot": "Measured flower face/side and flower-center macro showing ten anther-bearing stamens.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "not acquired"
+    },
+    {
+      "priority": 2,
+      "character": "palmate leaves versus Erodium pinnate leaflets",
+      "taxa": [
+        "Geranium carolinianum",
+        "Geranium texanum",
+        "Erodium cicutarium"
+      ],
+      "shot": "Matched intact mature leaves with petiole and annotations for palmate lobes versus rachis/leaflets; comparison species as labeled reference only.",
+      "owner": "Diagnostic Photo Polish",
+      "status": "not acquired"
+    }
+  ],
+  "references": [
+    {
+      "name": "Aedo, Geranium in North America I: annual species (indumentum diagnosis)",
+      "url": "https://www.researchgate.net/publication/26523485_The_genus_Geranium_L_Geraniaceae_in_Nort_America_I_Annual_species"
+    },
+    {
+      "name": "UT Austin Williamson County botanical treatment: Geranium texanum",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Geranium%20texanum"
+    },
+    {
+      "name": "Flora of North America treatment mirrored by Burke Herbarium: Geranium carolinianum",
+      "url": "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Geranium+carolinianum"
+    },
+    {
+      "name": "Jepson-derived Geranium texanum treatment",
+      "url": "https://californiaspecies.com/species/geranium-texanum"
+    },
+    {
+      "name": "Existing project Geraniaceae family lesson",
+      "path": "content/taxa/Geraniaceae/family.json"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Approved Taxa Installer",
+      "target": "Geranium carolinianum; Geranium texanum",
+      "question": "Both source-pool species absent from manifest; install only after taxonomy identity check, preserve range statuses."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "target": "Geranium paired macros",
+      "question": "Prioritize matched pedicel hairs and mature mericarps; leaf/flower glamour shots alone do not establish species ID."
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-comparison-builder-2026-10-10",
+    "scientific_status": "morphology_supported_from_regional_treatments",
+    "visual_status": "diagnostic_photos_pending",
+    "canonical_species_unchanged": true,
+    "range_decisions_unchanged": true
+  }
+}

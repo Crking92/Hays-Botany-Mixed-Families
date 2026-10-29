@@ -1,0 +1,95 @@
+{
+  "id": "physaria-densiflora",
+  "entry_type": "provisional_species",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "species": "densiflora",
+  "scientific_name": "Physaria densiflora",
+  "authority": "(A.Gray) O'Kane & Al-Shehbaz",
+  "common_name": "Denseflower bladderpod / low bladderpod",
+  "synonyms": [
+    "Lesquerella densiflora"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Lesquerella densiflora normalized to current accepted Physaria densiflora.",
+  "look_here_first": "Low annual bladderpod with dense yellow flower clusters, stellate-scaly hairs, and round to obovoid inflated capsules on spreading pedicels.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy source; Kew accepts Physaria densiflora; Williamson County flora documents Central Texas morphology.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID.",
+    "best_field_traits": [
+      "annual with taproot",
+      "low rosette-forming habit",
+      "dense appressed stellate/scalelike hairs",
+      "yellow to orange dense terminal racemes",
+      "basal leaves often lobed",
+      "round to obovoid inflated capsules",
+      "fruiting pedicels spreading to nearly horizontal"
+    ],
+    "comparison_training": "Low, compact, densely flowered annual. Compared with P. gracilis, it is shorter and denser; compared with P. engelmannii, it is annual rather than perennial."
+  },
+  "curation_status": {
+    "version": "1.0-b110-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/physaria-densiflora-provisional-face.jpg",
+      "role": "Whole voucher / flowering-fruiting habit",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Brassicaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/gbif-manual-3455629215-91724b8ec.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Inflated fruits on pedicels, stellate hairs, dense flower clusters and leaf attachment",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/3455629215",
+      "gbif_occurrence_id": "3455629215",
+      "source_determination": "Physaria densiflora (A.Gray) O'Kane & Al-Shehbaz",
+      "accepted_target": "Physaria densiflora",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123935053/original.jpeg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

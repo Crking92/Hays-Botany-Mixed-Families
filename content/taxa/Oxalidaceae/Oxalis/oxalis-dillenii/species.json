@@ -1,0 +1,80 @@
+{
+  "entry_type": "species",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "id": "oxalis-dillenii",
+  "species": "dillenii",
+  "scientific_name": "Oxalis dillenii",
+  "authority": "Jacq.",
+  "common_name": "Dillen's yellow woodsorrel",
+  "look_here_first": "Inspect stem hairs with a hand lens: numerous straight, forward-pointing, closely appressed NONSEPTATE hairs distinguish this from the spreading, partly septate hairs of O. stricta. Then check upright/ascending stems, usually 1–3 flowers per stalk, and mature capsules (often 12–20 mm).",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 801,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Accepted FNA/POWO concept, recorded in Texas; project three-target-county native threshold not independently verified. Source-pool approval does not certify county nativity."
+  },
+  "morphology_keys": {
+    "habit": "Annual or short-lived herb, stems erect to ascending; rooting pattern and stature variable.",
+    "leaves": "Palmately trifoliolate, each leaflet obcordate with a shallow to pronounced apical notch; petiole bases and stipule shape worth checking.",
+    "stems": "Stem hairs usually dense, straight, forward-directed and closely appressed; hairs nonseptate (contrast O. stricta).",
+    "flowers": "Yellow, 5-petaled; often 1–3 flowers per inflorescence; petals commonly 4–8 mm, but overlap requires multiple characters.",
+    "fruit": "Slender capsule commonly 12–20 mm, sometimes to 25 mm; inspect fully mature fruit and seed ridges."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Oxalis stricta",
+      "Oxalis albicans",
+      "Oxalis corniculata"
+    ],
+    "key_distinctions": "O. stricta often has spreading septate hairs especially near nodes, usually more flowers (often 5–7), and shorter 8–15 mm capsules; O. albicans has short curved/crisped nonseptate hairs rather than the straight closely appressed hairs of O. dillenii. O. corniculata often roots at creeping nodes and shows conspicuous broad free stipule flanges.",
+    "cautions": "Hair septation needs macro/microscope, and flower number and fruit length overlap. Do not identify from yellow petals alone; confirm mature fruit, stipules, and multiple stem nodes."
+  },
+  "diagnostic_image_needs": [
+    "Whole plant showing ascending stems and rooting nodes",
+    "Close macro of forward-appressed NONSEPTATE stem hairs with scale",
+    "Leaf petiole base/stipule macro contrasted with O. corniculata",
+    "Mature capsule length and seed ridges with scale",
+    "Matched O. stricta node hair close-up"
+  ],
+  "images": [
+    {
+      "file": "images/oxalis-dillenii-lorichin-plant.jpg",
+      "role": "habit",
+      "creator": "lorichin",
+      "license": "CC BY-SA 2.0 France",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_plant_(01).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/oxalis-dillenii-abbamouse-fruit.jpg",
+      "role": "fruit",
+      "creator": "abbamouse",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_(2443339905).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

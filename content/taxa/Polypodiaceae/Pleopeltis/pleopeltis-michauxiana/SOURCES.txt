@@ -1,0 +1,9 @@
+Source pool Phase3 preflight working taxon Pleopeltis michauxiana; Master Pool rows 900.
+POWO search https://powo.science.kew.org/results?q=Pleopeltis%20michauxiana
+Exact photo source page https://commons.wikimedia.org/wiki/File:(Polypodiaceae)_Pleopeltis_michauxiana.jpg
+Commons physical image redirect https://commons.wikimedia.org/wiki/Special:Redirect/file/(Polypodiaceae)%20Pleopeltis%20michauxiana.jpg
+Photographer sonnia hill
+License CC BY 2.0
+Provisional photo role Provisional resurrection-fern recognition view; underside sori need additional anatomy image.
+Caution Texas specimen from Anderson County; confirm modern species-level synonym concepts before botanical final approval.
+No county-level nativity assertion and no completed independent morphological or taxonomy audit.

@@ -1,0 +1,11 @@
+{
+  "family": "Apiaceae",
+  "version": "1.0",
+  "updated": "2026-10-07",
+  "look_first": "Inspect one flower and mature fruit, not the umbrella or head silhouette. Confirm inferior ovary, two styles on a stylopodium, and a schizocarp splitting into two one-seeded mericarps.",
+  "confusable": [
+    {"family":"Asteraceae","tie_breaker":"Eryngium has individual 5-merous flowers and two-mericarpy fruit; Asteraceae has florets on a common receptacle inside phyllaries, typically an anther tube, and one cypsela per floret."},
+    {"family":"Araliaceae","tie_breaker":"Project Hydrocotyle is creeping and node-rooting with peltate leaves and strongly flattened ribbed fruit; project Eryngium is upright and spiny with dense bracted heads. Do not rely on woody versus herbaceous."}
+  ],
+  "visuals": ["inferior ovary + stylopodium + two styles", "mature schizocarp splitting into mericarps", "Eryngium head vs Asteraceae capitulum", "Eryngium vs Hydrocotyle habit and fruit"]
+}

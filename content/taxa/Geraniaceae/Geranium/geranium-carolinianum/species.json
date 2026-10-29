@@ -1,0 +1,63 @@
+{
+  "id": "geranium-carolinianum",
+  "family": "Geraniaceae",
+  "genus": "Geranium",
+  "species": "carolinianum",
+  "scientific_name": "Geranium carolinianum",
+  "common_name": "Carolina geranium",
+  "look_here_first": "Deeply palmately lobed leaves, small five-petaled pinkish flowers and slender pointed beaklike fruits.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_054": "2026-10-18"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Geranium%20carolinianum",
+  "images": [
+    {
+      "file": "images/inat-324671590.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Matthias Buck, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/324671590",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review054-1ab9d3026baf1c8.jpg",
+      "role": "Look closer · divided palmate leaves and fine leaf lobes; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Divided palmate leaf shape shown near hand for scale",
+      "creator": "Dan Johnson",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5938599491",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605225198/original.jpg",
+      "source_determination": "Geranium carolinianum",
+      "source_observation_id": "5938599491",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/geranium-carolinianum/gbif-4fe0f9a20f69d8.jpg",
+      "archive_image_sha256": "e35f2eabf28f2424f3a1b8e5d679925c605f66532b9126b4398d58d13bee82b0",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,9 @@
+Master Pool Phase3 preflight; source rows 420.
+Accepted-name reference https://powo.science.kew.org/results?q=Ephedra%20trifurca
+Species-specific photograph: https://commons.wikimedia.org/wiki/File:Ephedra_trifurca.jpg
+Download exact original (Commons redirect, width-constrained by existing curation installer): https://commons.wikimedia.org/wiki/Special:Redirect/file/Ephedra%20trifurca.jpg
+Creator Derrick Coetzee (Dcoetzee)
+Photo license CC0 1.0
+Visible photo role Provisional recognition view: green jointed ephedra stems with small node leaves; reproductive cones not confirmed.
+Photo/review caveat Photographed from a labelled plant at Regional Parks Botanic Garden; not evidence of Texas nativity/occurrence.
+No BONAP county nativity label assigned by this batch; image locality does not prove native distribution. Preserve any independent nativity HOLDs.

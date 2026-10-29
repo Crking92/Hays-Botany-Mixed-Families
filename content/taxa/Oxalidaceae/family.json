@@ -1,0 +1,217 @@
+{
+  "rank": "family",
+  "name": "Oxalidaceae",
+  "common_name": "Woodsorrel family",
+  "lineage_context": {
+    "order": "Oxalidales",
+    "batch": "Rosid residuals",
+    "close_project_families": [
+      "Geraniaceae"
+    ],
+    "teaching_goal": "Teach project Oxalis through trifoliolate leaves, 5-merous flowers, 10 stamens in two lengths and a 5-locular capsule that ejects seeds, then leave fine species separation to a five-taxon comparison."
+  },
+  "project_scope": {
+    "selection_mode": "Oxalis-only five-taxon family module",
+    "note": "Project taxa: O. drummondii, O. dillenii, O. albicans, O. stricta and O. violacea. All five names are accepted current concepts; exact local-native status is species-lane work, especially O. stricta."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the leaf and flower together: project Oxalis has three leaflets, usually with a notched or heartlike leaflet outline, and a radial 5-petaled flower.",
+    "vegetative": "Herbs, often with bulbs, tubers, rhizomes or fleshy roots. Project leaves are palmately trifoliolate and may fold at night or under stress.",
+    "reproductive": "Five sepals and five petals; 10 stamens in two whorls/length classes, commonly 5 long and 5 short; superior 5-locular ovary with 5 styles.",
+    "fruit": "Loculicidal capsule; mature seeds may be forcibly ejected by a fleshy elastic outer seed coat.",
+    "field_tip": "Trifoliolate woodsorrel leaf + 5 petals + 10 unequal stamens + 5-part capsule is the family/genus package.",
+    "scope_exception": "The three-notched-leaflet cue describes the five project Oxalis species, not every member of Oxalidaceae: other genera may have pinnate leaves. Confirm with flower and fruit anatomy; leaflet count alone does not establish family."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_030",
+    "teaching_order": "trifoliolate leaf → 5-part flower → long/short stamen pair → 5 styles/ovary → capsule/ejection → five-species color/habit card → Geraniaceae contrast",
+    "intro": "Woodsorrels become much easier once the flower center is learned: ten stamens alternate long-short around five styles.",
+    "steps": [
+      {
+        "title": "1 · Read the three leaflets",
+        "photo_role": "leaf macro",
+        "look_for": "Three palmately arranged leaflets, often obcordate/notched at the tip.",
+        "why_it_matters": "Fast project-level Oxalis gestalt.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Count five petals and ten stamens",
+        "photo_role": "flower face macro",
+        "look_for": "Five petals around ten stamens arranged in two length classes.",
+        "why_it_matters": "Stronger than flower color.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find the five styles",
+        "photo_role": "flower-center dissection",
+        "look_for": "Five styles/stigmas arising from a superior 5-locular ovary.",
+        "why_it_matters": "Completes the family floral plan.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Follow the flower to an explosive capsule",
+        "photo_role": "mature fruit/seed sequence",
+        "look_for": "Five-valved capsule releasing seeds abruptly when mature.",
+        "why_it_matters": "A memorable fruit confirmation.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "5 · Build the five-species comparison",
+        "photo_role": "project species card",
+        "look_for": "Purple/pink geophytic O. drummondii and O. violacea versus yellow-flowered O. dillenii/O. stricta and pale O. albicans, with habit/hair/underground-organ characters added.",
+        "why_it_matters": "Prevents color-only species IDs while organizing the pool.",
+        "status": "species_comparison_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Oxalidaceae vs Geraniaceae",
+        "rule": "Both can have 5-petaled flowers, but project Oxalis has trifoliolate leaves, 10 stamens in two lengths and a 5-locular capsule; familiar Geraniaceae has a long-beaked schizocarp splitting into five awned mericarps."
+      },
+      {
+        "title": "Oxalidaceae (project Oxalis) vs Fabaceae (Trifolium)",
+        "rule": "Both can have three leaflets, but Trifolium bears pea-family florets in heads and legumes, not the Oxalis five-petaled flower with ten stamens and five-chambered capsule."
+      },
+      {
+        "title": "Oxalidaceae (project Oxalis) vs Marsileaceae (Marsilea)",
+        "rule": "Marsilea has four terminal pinnae and hard sporocarps containing spores; it does not produce petals, stamens or seed capsules. Confirm the reproductive structure rather than relying on clover-like foliage."
+      }
+    ],
+    "caveat": "Do not separate the yellow woodsorrels by flower color alone. O. dillenii and O. stricta especially need stem/hair/rhizome characters in the species lane. Some Oxalis flowers exhibit heterostyly, so visible style/stamen heights vary; count only organs demonstrable in the image.",
+    "anatomy_examples": [
+      {
+        "species": "Oxalis violacea",
+        "part": "leaf attachment",
+        "plain_label": "Three leaflets meet at the tip of one stalk",
+        "botanical_label": "palmately trifoliolate leaf, petiole",
+        "look_for": "Trace one petiole to the common point where three separate leaflets attach; compare Marsilea four-pinna leaves and Trifolium trifoliolate leaves with flowers.",
+        "photo_role": "exact-species leaf top and underside showing full petiole-to-leaflet junction",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Trace one violet woodsorrel leaf stalk to its three leaflets; leaflet count alone is not proof of family."
+      },
+      {
+        "species": "Oxalis dillenii",
+        "part": "flower center",
+        "plain_label": "Two sets of pollen stalks and five styles",
+        "botanical_label": "ten dimorphic stamens; five styles; superior ovary",
+        "look_for": "Show a flower face and dissection clearly separating five longer and five shorter stamens from the five styles; do not count hidden organs.",
+        "photo_role": "exact-species flower face and flower-center macro/dissection with scale",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Five long and five short stamens surround five styles in the woodsorrel flower."
+      },
+      {
+        "species": "Oxalis dillenii",
+        "part": "mature capsule",
+        "plain_label": "A dry fruit with five chambers",
+        "botanical_label": "five-locular loculicidal capsule",
+        "look_for": "Show intact and opened mature capsules with scale and chamber anatomy; only teach seed ejection with an actual documented sequence. Compare Geraniaceae's beaked schizocarp.",
+        "photo_role": "exact-species intact and opened mature capsule with scale; optional verified seed-release sequence",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "A mature woodsorrel capsule has five chambers, unlike the long-beaked Geraniaceae fruit."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Oxalis",
+        "taxa_count": 5,
+        "fast_cue": "trifoliolate woodsorrel + 5 petals + 10 unequal stamens + 5-part capsule",
+        "role": "woodsorrel door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Oxalis drummondii",
+    "Oxalis dillenii",
+    "Oxalis albicans",
+    "Oxalis stricta",
+    "Oxalis violacea"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Oxalis drummondii",
+      "current_name": "Oxalis drummondii",
+      "note": "Accepted; native range includes central/southern Texas."
+    },
+    {
+      "source_name": "Oxalis dillenii",
+      "current_name": "Oxalis dillenii",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Oxalis albicans",
+      "current_name": "Oxalis albicans",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Oxalis stricta",
+      "current_name": "Oxalis stricta",
+      "note": "Accepted; current Kew range treatment requires species-level local-status care rather than assuming Texas nativity."
+    },
+    {
+      "source_name": "Oxalis violacea",
+      "current_name": "Oxalis violacea",
+      "note": "Accepted; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "10 unequal stamens",
+      "annotation_goal": "color-code 5 long and 5 short stamens"
+    },
+    {
+      "priority": 1,
+      "structure": "5 styles + capsule",
+      "annotation_goal": "link floral ovary to 5-valved fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "five-species project card",
+      "annotation_goal": "habit, flower color, hair and underground-organ differences"
+    },
+    {
+      "priority": 2,
+      "structure": "seed ejection",
+      "annotation_goal": "fruit-to-seed release sequence"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Oxalidaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126611-1/general-information"
+    },
+    {
+      "source": "POWO — Oxalis drummondii",
+      "url": "https://powo.science.kew.org/taxon/374872-1"
+    },
+    {
+      "source": "POWO — Oxalis dillenii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:177944-2"
+    },
+    {
+      "source": "POWO — Oxalis albicans",
+      "url": "https://powo.science.kew.org/taxon/177722-2"
+    },
+    {
+      "source": "FNA — Oxalis stricta",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416902"
+    },
+    {
+      "source": "POWO — Oxalis violacea",
+      "url": "https://powo.science.kew.org/taxon/178590-2"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Oxalidaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-030",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_five_species_comparison_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

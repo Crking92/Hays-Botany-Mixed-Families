@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60499-2
+Kew name-synonym evidence: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60499-2
+Photographed under scientific synonym: Polanisia dodecandra
+Source research-grade observation: https://www.inaturalist.org/observations/55293017
+Photo: https://www.inaturalist.org/photos/88035746
+Attribution: (c) Shelby, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

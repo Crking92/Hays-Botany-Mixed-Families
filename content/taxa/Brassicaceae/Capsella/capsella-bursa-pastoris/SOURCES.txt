@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/30092589-2
+Source research-grade observation: https://www.inaturalist.org/observations/12393317
+Photo: https://www.inaturalist.org/photos/17860837
+Attribution: (c) Jason Headley, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Capsella bursa-pastoris
+Creator: Linda Jo Conn; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938522258
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/capsella-bursa-pastoris/gbif-eced659103448a.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

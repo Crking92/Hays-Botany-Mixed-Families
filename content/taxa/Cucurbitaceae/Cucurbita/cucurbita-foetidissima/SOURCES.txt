@@ -1,0 +1,15 @@
+Master Plant Pool row 316 (taxonomic and learner approval 2026-10-10). POWO accepted Cucurbita foetidissima: https://powo.science.kew.org/ . Flora of North America Cucurbita key/species: https://floranorthamerica.org/ . Source photo: https://commons.wikimedia.org/wiki/File:Cucurbita_foetidissima_fruit,_leaves,_and_vine.JPG ; author Paigeblue08; CC BY-SA 3.0; direct https://upload.wikimedia.org/wikipedia/commons/9/92/Cucurbita_foetidissima_fruit%2C_leaves%2C_and_vine.JPG. Image shows Exact species vine with mostly unlobed triangular leaves and striped young round fruits; no rootstock shown. Do not claim photo demonstrates absent diagnostic structures. Native-only metric exclusion preserved.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Cucurbita foetidissima
+Creator: Casey Cowan; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6179193396
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/cucurbita-foetidissima/gbif-25d689c6a51518.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Cucurbita foetidissima
+Creator: Rajan Rao; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6186142564
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/cucurbita-foetidissima/gbif-6ee2a1bae73ffe.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

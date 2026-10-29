@@ -1,0 +1,159 @@
+{
+  "rank": "family",
+  "name": "Ginkgoaceae",
+  "common_name": "Ginkgo / maidenhair-tree family",
+  "lineage_context": {
+    "order": "Ginkgoales",
+    "batch": "Gymnosperm lineages",
+    "close_project_families": [
+      "Pinaceae",
+      "Cupressaceae",
+      "Ephedraceae"
+    ],
+    "teaching_goal": "Use Ginkgo biloba to teach the sole living ginkgo lineage: fan-shaped leaves with dichotomous venation, long and spur shoots, separate sexes, and naked ovules/seeds on stalks rather than seed cones."
+  },
+  "project_scope": {
+    "selection_mode": "Ginkgo biloba one-species comparison module",
+    "note": "Ginkgo biloba is accepted and is the only living species of Ginkgoaceae. Kew treats its native range as southeastern China; project observations are cultivated/nonlocal comparison material."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "The leaf is nearly unique: fan-shaped blade, often bilobed, with veins repeatedly forking into two rather than forming a net.",
+    "vegetative": "Deciduous dioecious tree with long shoots and short knoblike spur shoots. Leaves may occur singly on long shoots or clustered on spurs.",
+    "reproductive": "No flowers or fruits and no woody seed cone. Male trees produce catkinlike pollen cones on spur shoots; female trees bear usually 1–2 exposed ovules on a stalk.",
+    "seed": "A mature seed has a fleshy yellow-orange outer coat and a hard inner coat; the fleshy coat is not a fruit.",
+    "field_tip": "Fan leaf + dichotomous venation + spur shoots + stalked naked seed = Ginkgoaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_023",
+    "teaching_order": "fan leaf → dichotomous venation → spur shoot → pollen cone vs ovule stalk → fleshy seed coat → conifer comparison",
+    "intro": "Ginkgo is useful because it breaks the idea that every gymnosperm is a conifer. It has broad leaves and no seed cone.",
+    "steps": [
+      {
+        "title": "1 · Trace veins that fork in two",
+        "photo_role": "backlit leaf",
+        "look_for": "Fan-shaped blade with veins repeatedly dividing dichotomously and no reticulate network.",
+        "why_it_matters": "This is the strongest whole-leaf family character.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "2 · Find a spur shoot",
+        "photo_role": "short-shoot macro",
+        "look_for": "Knoblike short shoot covered with old bud-scale scars and often carrying a cluster of leaves.",
+        "why_it_matters": "Spur architecture helps connect leaf and reproductive structures.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Separate male and female structures",
+        "photo_role": "pollen-cone vs ovule card",
+        "look_for": "Male catkinlike pollen cones versus female stalk bearing usually two ovules.",
+        "why_it_matters": "Shows gymnosperm reproduction without a woody cone.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · Call the fleshy structure a seed, not a fruit",
+        "photo_role": "mature ginkgo seed",
+        "look_for": "Yellow-orange fleshy outer seed coat surrounding a hard inner seed coat.",
+        "why_it_matters": "Same mental-model correction as the juniper 'berry': gymnosperms do not make fruits.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Joey Cupressaceae anchor",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Joey's Juniperus virginiana scale foliage versus Ginkgo's broad fan leaf.",
+        "why_it_matters": "Makes gymnosperm foliage diversity visually obvious using authoritative private-study material.",
+        "status": "private_study_anchor_available"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Ginkgoaceae vs Pinaceae",
+        "rule": "Ginkgo has broad fan leaves and stalked naked ovules/seeds without a seed cone; Pinaceae has needle leaves and woody seed cones."
+      },
+      {
+        "title": "Ginkgoaceae vs Cupressaceae",
+        "rule": "Ginkgo has deciduous fan leaves with dichotomous veins; Juniperus has evergreen scale/awl foliage and true seed cones with coalesced scales."
+      }
+    ],
+    "caveat": "Ginkgo biloba is a nonlocal cultivated comparison in this project; family recognition does not imply Central Texas nativity."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Ginkgo",
+        "taxa_count": 1,
+        "fast_cue": "fan-shaped dichotomously veined leaf + spur shoots + stalked naked seed",
+        "role": "sole living ginkgo door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Ginkgo biloba"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Ginkgo biloba",
+      "current_name": "Ginkgo biloba",
+      "note": "Accepted by current Kew; sole accepted living species of Ginkgo; native range listed as southeastern China."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-N4yq5Z1_0Eo-ft-worth-prairie.json",
+    "record_id": "N4yq5Z1_0Eo-27",
+    "filename": "juniperus-virginiana_scale-foliage-source-label_19-20.jpg",
+    "timestamp": "19:20",
+    "timestamp_seconds": 1160,
+    "taxon": "Juniperus virginiana",
+    "family": "Cupressaceae",
+    "teaching_role": "scale foliage",
+    "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "fan leaf dichotomous venation",
+      "annotation_goal": "trace repeated vein forks"
+    },
+    {
+      "priority": 1,
+      "structure": "spur shoot",
+      "annotation_goal": "label short shoot and clustered leaves"
+    },
+    {
+      "priority": 1,
+      "structure": "male pollen cone vs female ovule stalk",
+      "annotation_goal": "show separate-sex reproductive structures"
+    },
+    {
+      "priority": 1,
+      "structure": "Ginkgo vs Joey Juniperus foliage",
+      "annotation_goal": "broad fan leaf versus scale foliage"
+    },
+    {
+      "priority": 2,
+      "structure": "fleshy seed coat",
+      "annotation_goal": "label fleshy outer seed coat as seed tissue, not fruit"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Ginkgoaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10370"
+    },
+    {
+      "source": "FNA — Ginkgo biloba",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200005235"
+    },
+    {
+      "source": "Kew POWO — Ginkgo biloba",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262125-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-023",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_joey_cupressaceae_anchor_leaf_ovule_seed_visuals_pending",
+    "family_backfill_phase": "recognition module built; nonlocal comparison species"
+  }
+}

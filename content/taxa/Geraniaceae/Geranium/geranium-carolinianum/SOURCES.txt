@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Geranium%20carolinianum
+Source research-grade observation: https://www.inaturalist.org/observations/185856599
+Photo: https://www.inaturalist.org/photos/324671590
+Attribution: (c) Matthias Buck, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 054 2026-10-18T00:06:11.962426+00:00
+Geranium carolinianum
+Creator: Dan Johnson; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5938599491
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/geranium-carolinianum/gbif-4fe0f9a20f69d8.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

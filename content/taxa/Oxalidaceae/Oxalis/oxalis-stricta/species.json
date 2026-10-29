@@ -1,0 +1,80 @@
+{
+  "entry_type": "species",
+  "family": "Oxalidaceae",
+  "genus": "Oxalis",
+  "id": "oxalis-stricta",
+  "species": "stricta",
+  "scientific_name": "Oxalis stricta",
+  "authority": "L.",
+  "common_name": "Common yellow woodsorrel",
+  "look_here_first": "Examine stem and node hairs with magnification: O. stricta often shows spreading hairs, including SEPTATE hairs at nodes, rather than the densely straight, forward-appressed NONSEPTATE hairs of O. dillenii. Check flower-cluster size and mature capsules only as supporting traits.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 803,
+    "target_zone_status": "CONFLICT",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "FNA and POWO do not list Texas as native for this accepted concept, whereas the project Hays source pool includes it. Texas native status and source ID remain a voucher-level conflict; no target-zone PASS."
+  },
+  "morphology_keys": {
+    "habit": "Herbaceous woodsorrel with upright to spreading leafy stems; habit overlaps O. dillenii and can be altered by mowing.",
+    "leaves": "Trifoliolate with notched, heartlike leaflets; leaf outline alone does not distinguish similar yellow Oxalis.",
+    "stems": "Hairs often spreading, with a mix of septate and nonseptate hairs; septate hairs particularly informative at stem nodes.",
+    "flowers": "Yellow five-petaled flowers, often several per inflorescence (frequently 5–7); petals typically 8–11 mm but variable.",
+    "fruit": "Slender capsule commonly 8–15 mm; fruit length alone is not decisive."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Oxalis dillenii",
+      "Oxalis albicans",
+      "Oxalis corniculata"
+    ],
+    "key_distinctions": "O. dillenii usually has straight forward-appressed nonseptate hairs, fewer flowers (often 1–3), and longer 12–20 mm capsules. O. albicans has short curved/crisped nonseptate hairs; O. corniculata may root at prostrate nodes and has conspicuous broad free stipules.",
+    "cautions": "Texas source-pool record is not verified as this taxon; do not count as Texas/target-zone native or infer invasive status. Photos may be identified under broad O. stricta concepts. Recheck hairs with a microscope and preserve uncertainty."
+  },
+  "diagnostic_image_needs": [
+    "Whole plant showing stem architecture",
+    "Macro of spreading SEPTATE stem hairs, especially at nodes",
+    "Matched O. dillenii appressed hair macro",
+    "Flower clusters with flower number and scale",
+    "Mature capsules with length and seed close-up"
+  ],
+  "images": [
+    {
+      "file": "images/oxalis-stricta-cornell-habit.jpg",
+      "role": "habit",
+      "creator": "New York State IPM Program at Cornell University",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_stricta_-_whole_plant_(18872198510).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/oxalis-stricta-cornell-flower-leaves.jpg",
+      "role": "flower_leaves",
+      "creator": "New York State IPM Program at Cornell University",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_stricta_-_flower,_leaves_(18439230793).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-13",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

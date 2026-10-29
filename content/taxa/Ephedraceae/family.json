@@ -1,0 +1,182 @@
+{
+  "rank": "family",
+  "name": "Ephedraceae",
+  "common_name": "Mormon-tea / joint-fir family",
+  "lineage_context": {
+    "order": "Ephedrales",
+    "batch": "Gymnosperm lineages",
+    "close_project_families": [
+      "Pinaceae",
+      "Cupressaceae",
+      "Ginkgoaceae"
+    ],
+    "teaching_goal": "Teach Ephedra through jointed photosynthetic green stems, tiny opposite/whorled scale leaves fused into a sheath, and compound pollen/seed cones at nodes; then split E. antisyphilitica from E. trifurca."
+  },
+  "project_scope": {
+    "selection_mode": "Ephedra antisyphilitica + Ephedra trifurca project module",
+    "note": "Both names are accepted by current Kew and native ranges include Texas. Exact Hays/target-zone status remains species-level work."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Ignore the apparent lack of leaves and inspect the nodes. Green longitudinally grooved stems are photosynthetic; tiny scale leaves occur opposite each other or in whorls and are fused at the base into a sheath.",
+    "vegetative": "Usually shrubs with jointed green branchlets, conspicuous nodes/internodes and reduced ephemeral leaves.",
+    "reproductive": "Dioecious in most cases. Compound pollen cones and seed cones occur at nodes. Seed-cone bracts may remain papery or become fleshy depending species.",
+    "field_tip": "Jointed green photosynthetic stems + tiny sheathing scale leaves + nodal cones = Ephedra/Ephedraceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_023",
+    "teaching_order": "green jointed stem → node/leaf sheath → pollen cone vs seed cone → E. antisyphilitica vs E. trifurca → gymnosperm comparison",
+    "intro": "Ephedra is the gymnosperm in this batch that can fool you into thinking 'leafless desert shrub.' Its green stems do the photosynthesis while the leaves are reduced to tiny scales at the joints.",
+    "steps": [
+      {
+        "title": "1 · Start at the joint",
+        "photo_role": "stem node macro",
+        "look_for": "Longitudinally grooved green internodes separated by obvious nodes.",
+        "why_it_matters": "The photosynthetic jointed stem is the fastest whole-plant cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the tiny leaf sheath",
+        "photo_role": "node close-up",
+        "look_for": "Opposite or 3-whorled scale leaves fused near the base around the stem.",
+        "why_it_matters": "Confirms this is a seed plant with highly reduced leaves, not a truly leafless stem.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Separate pollen and seed cones",
+        "photo_role": "male-vs-female cone card",
+        "look_for": "Small compound cones at nodes; seed cones enclose exposed ovules/seeds within bracts rather than making an angiosperm fruit.",
+        "why_it_matters": "Builds the Ephedra reproductive model.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · E. antisyphilitica door",
+        "photo_role": "node + seed cone",
+        "look_for": "Leaves opposite, very short and blunt; seed-cone bracts in inner pairs become fleshy and red.",
+        "why_it_matters": "Strong project split from E. trifurca.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · E. trifurca door",
+        "photo_role": "node + seed cone",
+        "look_for": "Leaves in whorls of 3, longer with spinose tips; seed-cone bracts are papery/translucent rather than becoming fleshy red.",
+        "why_it_matters": "Whorled leaf count and cone-bract texture are memorable field cues.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Joey Cupressaceae anchor",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Juniperus virginiana scale foliage versus Ephedra's reduced scale leaves confined to joints on green photosynthetic stems.",
+        "why_it_matters": "Prevents 'all scale-leaved gymnosperms are junipers' overfitting.",
+        "status": "private_study_anchor_available"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Ephedraceae vs Cupressaceae",
+        "rule": "Both can have tiny scale-like leaves, but Ephedra has jointed green photosynthetic stems with leaves restricted to nodes and compound nodal cones; Juniperus has leafy woody branchlets and conventional Cupressaceae seed cones."
+      },
+      {
+        "title": "Ephedraceae vs Pinaceae",
+        "rule": "Ephedra lacks fascicled needles and classic woody pine cones; its leaves are tiny sheathing scales and reproductive structures are small compound cones at stem nodes."
+      },
+      {
+        "title": "E. antisyphilitica vs E. trifurca",
+        "rule": "Antisyphilitica: opposite tiny blunt leaves and inner seed-cone bracts becoming fleshy red. Trifurca: leaves in whorls of 3, longer/spinose, seed-cone bracts papery/translucent."
+      }
+    ],
+    "caveat": "Do not identify Ephedra species from overall shrub shape alone. Node leaf arrangement and mature cone-bract characters are much safer."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Ephedra",
+        "taxa_count": 2,
+        "fast_cue": "green jointed stem + tiny sheathing scale leaves + nodal pollen/seed cones",
+        "role": "joint-fir door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Ephedra antisyphilitica",
+    "Ephedra trifurca"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Ephedra antisyphilitica",
+      "current_name": "Ephedra antisyphilitica",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Ephedra trifurca",
+      "current_name": "Ephedra trifurca",
+      "note": "Accepted by current Kew; native range extends from southeastern California to Texas and northern Mexico."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-N4yq5Z1_0Eo-ft-worth-prairie.json",
+    "record_id": "N4yq5Z1_0Eo-27",
+    "filename": "juniperus-virginiana_scale-foliage-source-label_19-20.jpg",
+    "timestamp": "19:20",
+    "timestamp_seconds": 1160,
+    "taxon": "Juniperus virginiana",
+    "family": "Cupressaceae",
+    "teaching_role": "scale foliage",
+    "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "jointed green stem + node",
+      "annotation_goal": "label internode, node and longitudinal grooves"
+    },
+    {
+      "priority": 1,
+      "structure": "opposite vs 3-whorled leaf sheath",
+      "annotation_goal": "E. antisyphilitica versus E. trifurca node comparison"
+    },
+    {
+      "priority": 1,
+      "structure": "fleshy-red vs papery seed-cone bracts",
+      "annotation_goal": "species tie-breaker"
+    },
+    {
+      "priority": 1,
+      "structure": "Ephedra vs Joey Juniperus",
+      "annotation_goal": "nodal reduced leaves on green stems versus scale-covered woody branchlets"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Ephedraceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10313"
+    },
+    {
+      "source": "FNA — Ephedra",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=111784"
+    },
+    {
+      "source": "FNA — Ephedra antisyphilitica",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500600"
+    },
+    {
+      "source": "FNA — Ephedra trifurca",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500610"
+    },
+    {
+      "source": "Kew POWO — Ephedra antisyphilitica",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:383355-1"
+    },
+    {
+      "source": "Kew POWO — Ephedra trifurca",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:383471-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-023",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_joey_cupressaceae_anchor_nodes_cones_species_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

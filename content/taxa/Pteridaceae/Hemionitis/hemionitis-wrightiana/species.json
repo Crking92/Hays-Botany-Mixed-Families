@@ -1,0 +1,40 @@
+{
+  "id": "hemionitis-wrightiana",
+  "family": "Pteridaceae",
+  "genus": "Hemionitis",
+  "species": "wrightiana",
+  "scientific_name": "Hemionitis wrightiana",
+  "common_name": "Wright's cliffbrake",
+  "look_here_first": "Inspect the leaf segment arrangement and underside of mature fern fronds; compare with nearby cliffbrakes.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77182620-1",
+  "synonyms": [
+    "Pellaea wrightiana"
+  ],
+  "photo_taxonomy_note": "Kew documents the image observation name as a synonym of the accepted learner scientific name.",
+  "images": [
+    {
+      "file": "images/inat-34680973.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) botany, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/34680973",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

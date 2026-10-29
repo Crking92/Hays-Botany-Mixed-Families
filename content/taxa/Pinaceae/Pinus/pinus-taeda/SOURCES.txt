@@ -1,0 +1,9 @@
+Master Plant Pool Phase3 accepted working name Pinus taeda; source rows 892
+Taxonomy source query https://powo.science.kew.org/results?q=Pinus%20taeda
+Exact Commons source photograph https://commons.wikimedia.org/wiki/File:Pinus_taeda_Bastrop2.jpg
+Original photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Pinus%20taeda%20Bastrop2.jpg
+Creator rutlo (Flickr)
+Individual image-level CC/PD license CC BY 2.0
+Provisional photo role Provisional loblolly pine tree habit, Texas Lost Pines source; needle fascicles and cones need macro photo
+Caution Bastrop Lost Pines photo does not demonstrate nativity to Hays or any target planting county.
+No Hays County or user target-zone nativity asserted from image. Photo licensing checked at original Commons file pages.

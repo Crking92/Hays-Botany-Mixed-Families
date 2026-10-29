@@ -1,0 +1,96 @@
+{
+  "id": "physaria-gracilis",
+  "entry_type": "provisional_species",
+  "family": "Brassicaceae",
+  "genus": "Physaria",
+  "species": "gracilis",
+  "scientific_name": "Physaria gracilis",
+  "authority": "(Hook.) O'Kane & Al-Shehbaz",
+  "common_name": "Spreading bladderpod / cloth-of-gold",
+  "synonyms": [
+    "Lesquerella gracilis"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Lesquerella gracilis normalized to current accepted Physaria gracilis.",
+  "look_here_first": "Delicate upright-to-sprawling annual with yellow-orange flowers and round to ellipsoid inflated capsules on straight or slightly curved pedicels.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy source; Kew accepts Physaria gracilis; Texas sources document native Central Texas populations.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Brassicaceae bladderpod group: 4-petaled yellow flowers, stellate hairs common, and inflated silicles/capsules; habit, hair density, pedicel posture, and fruit shape are important for ID.",
+    "best_field_traits": [
+      "annual",
+      "delicate to wiry branching stems",
+      "pubescent",
+      "basal leaves oblanceolate to obovate",
+      "stem leaves narrow and often sessile",
+      "yellow to orange flowers",
+      "round to ellipsoid capsules",
+      "fruiting pedicels straight to slightly curved"
+    ],
+    "comparison_training": "More open and wiry than low dense P. densiflora. Fruit is inflated but the plant usually looks taller, looser, and more sprawling."
+  },
+  "curation_status": {
+    "version": "1.0-b110-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/physaria-gracilis-provisional-face.jpg",
+      "role": "Whole voucher / flowering-fruiting habit",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Brassicaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/gbif-manual-6179434852-47f4cbf4e.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Inflated silicles and hairy leaves; compare Physaria species",
+      "creator": "saltyhiker",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6179434852",
+      "gbif_occurrence_id": "6179434852",
+      "source_determination": "Physaria gracilis (Hook.) O'Kane & Al-Shehbaz",
+      "accepted_target": "Physaria gracilis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623714876/original.jpg",
+      "image_dimensions": [
+        1289,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

@@ -1,0 +1,196 @@
+{
+  "rank": "family",
+  "name": "Ophioglossaceae",
+  "common_name": "Adder's-tongue / grapefern family",
+  "lineage_context": {
+    "order": "Ophioglossales",
+    "batch": "Fern residuals",
+    "close_project_families": [
+      "Schizaeaceae",
+      "Pteridaceae",
+      "Polypodiaceae"
+    ],
+    "teaching_goal": "Teach the project grapefern through the Ophioglossaceae body plan: one fleshy frond divided into sterile trophophore and fertile sporophore, with large eusporangia, no annulus, and subterranean mycorrhizal gametophytes."
+  },
+  "project_scope": {
+    "selection_mode": "Source Sceptridium biternatum reconciled to current Botrychium biternatum",
+    "note": "Current Kew treats Sceptridium as a synonym of Botrychium and accepts Botrychium biternatum. Preserve Sceptridium biternatum as source/search provenance."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Do not look for sori on the underside of a normal fern blade. Follow the single frond upward until it divides into a sterile leafy trophophore and a separate fertile sporophore.",
+    "vegetative": "Terrestrial ferns arising from a short underground stem with fleshy roots. Fronds are often thick/fleshy and usually one per season in the Botrychium-type project concept.",
+    "reproductive": "Fertile sporophore is separate from the sterile trophophore and bears large exposed sporangia on branched axes. Sporangia are eusporangiate, thick-walled and lack an annulus; each produces very many spores.",
+    "gametophyte": "Subterranean, non-green and mycorrhizal rather than a typical flat green surface prothallus.",
+    "field_tip": "One frond split into leafy trophophore + grape-cluster-like sporophore = project Ophioglossaceae/Botrychium."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_025",
+    "teaching_order": "whole frond bifurcation → trophophore → sporophore → large annulus-free sporangia → Botrychium biternatum blade → Sceptridium taxonomy card → Joey Pteridaceae contrast",
+    "intro": "Grapeferns stop looking like ordinary ferns once you name the two halves of the frond: one half photosynthesizes and the other is a separate branched spore-bearing stalk.",
+    "steps": [
+      {
+        "title": "1 · Split the frond into two jobs",
+        "photo_role": "whole fertile plant",
+        "look_for": "A common stalk dividing into a leafy sterile trophophore and a separate upright fertile sporophore.",
+        "why_it_matters": "This is the fastest Ophioglossaceae recognition pattern in the project.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Read the trophophore",
+        "photo_role": "sterile blade close-up",
+        "look_for": "A fleshy 2–3-pinnate blade; in B. biternatum the terminal pinnae are elongated and nearly parallel-sided.",
+        "why_it_matters": "Gives the current project species a usable vegetative cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Read the grape-like sporophore",
+        "photo_role": "fertile branch macro",
+        "look_for": "A long-stalked, branched fertile structure bearing many exposed globose sporangia.",
+        "why_it_matters": "Explains the common name grapefern and separates the fertile portion from ordinary sori.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Show a eusporangium",
+        "photo_role": "sporangium macro/diagram",
+        "look_for": "Large thick-walled sporangium with no annulus, producing thousands of spores.",
+        "why_it_matters": "This is fundamentally different from the small annulate sporangia of most familiar ferns.",
+        "status": "micromacro_pending"
+      },
+      {
+        "title": "5 · Teach the underground generation",
+        "photo_role": "life-cycle diagram",
+        "look_for": "A subterranean non-green mycorrhizal gametophyte rather than a green surface prothallus.",
+        "why_it_matters": "Makes Ophioglossaceae's unusual biology memorable even when the structure cannot be seen in routine field ID.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "6 · Update Sceptridium to Botrychium",
+        "photo_role": "taxonomy card",
+        "look_for": "Source Sceptridium biternatum → current Kew Botrychium biternatum; Sceptridium retained as synonym provenance.",
+        "why_it_matters": "Prevents a duplicate genus/species lesson and explains why older grapefern references use Sceptridium.",
+        "status": "taxonomy_card_ready"
+      },
+      {
+        "title": "7 · Compare with Joey's Adiantum",
+        "photo_role": "saved Joey comparison frame",
+        "look_for": "Joey's maidenhair fern bears spore-producing sori beneath a revolute blade margin; Botrychium instead sends up a completely separate branched sporophore.",
+        "why_it_matters": "A clean authoritative side-by-side of ordinary blade-borne fern reproduction versus Ophioglossaceae architecture.",
+        "status": "private_study_anchor_available"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Ophioglossaceae vs Pteridaceae",
+        "rule": "Botrychium has a separate branched sporophore with large annulus-free sporangia; local Pteridaceae keeps many small annulate sporangia in sori on the blade, often under a false indusium."
+      },
+      {
+        "title": "Ophioglossaceae vs Schizaeaceae",
+        "rule": "Both can have visibly specialized fertile portions, but Schizaeaceae sporangia have a subapical annulus on modified frond parts; Ophioglossaceae has large eusporangia with no annulus on a distinct sporophore."
+      },
+      {
+        "title": "Botrychium biternatum vs ordinary leafy fern",
+        "rule": "The grapefern's fertile branch is not an inflorescence and not a sorus-bearing leaflet—it is a dedicated sporophore arising from the same frond as the sterile trophophore."
+      }
+    ],
+    "caveat": "Older North American treatments often use Sceptridium for this grapefern group. Current Kew folds Sceptridium into Botrychium, so the learner keeps Sceptridium as searchable provenance rather than a separate current genus."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 1,
+    "current_teaching_genus_count": 1,
+    "genera": [
+      {
+        "genus": "Botrychium",
+        "source_label": "Sceptridium",
+        "taxa_count": 1,
+        "fast_cue": "fleshy frond split into sterile trophophore + branched grape-like sporophore",
+        "role": "grapefern door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Sceptridium biternatum"
+  ],
+  "project_pool_taxa_current": [
+    "Botrychium biternatum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Sceptridium biternatum",
+      "current_name": "Botrychium biternatum",
+      "note": "Current Kew treats Sceptridium as a synonym of Botrychium and accepts Botrychium biternatum."
+    },
+    {
+      "source_genus": "Sceptridium",
+      "current_genus": "Botrychium",
+      "note": "Retain Sceptridium in search/synonym metadata because it remains common in field literature and project source data."
+    }
+  ],
+  "private_visual_anchor": {
+    "source": "Joey Santore private-study video frame",
+    "source_video": "research-drafts/joey-santore/video-D1qCiiaMJ_I-edwards-plateau-botany-montezuma-cypress.json",
+    "record_id": "D1qCiiaMJ_I-20",
+    "filename": "adiantum-capillus-veneris_fertile-frond-pseudoindusium_15-55.0.jpg",
+    "timestamp": "15:55.0",
+    "timestamp_seconds": 955,
+    "taxon": "Adiantum capillus-veneris",
+    "family": "Pteridaceae",
+    "teaching_role": "fertile frond / revolute margin / pseudoindusium",
+    "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "trophophore + sporophore bifurcation",
+      "annotation_goal": "label common stalk, sterile trophophore and fertile sporophore"
+    },
+    {
+      "priority": 1,
+      "structure": "grape-like exposed sporangia",
+      "annotation_goal": "label branched sporophore and individual eusporangia"
+    },
+    {
+      "priority": 1,
+      "structure": "annulus-free eusporangium",
+      "annotation_goal": "contrast with annulate ordinary fern sporangium"
+    },
+    {
+      "priority": 1,
+      "structure": "Sceptridium → Botrychium taxonomy card",
+      "annotation_goal": "show source/current genus relationship"
+    },
+    {
+      "priority": 1,
+      "structure": "Ophioglossaceae vs Joey Adiantum",
+      "annotation_goal": "separate sporophore versus blade-margin sori/pseudoindusium"
+    },
+    {
+      "priority": 2,
+      "structure": "subterranean mycorrhizal gametophyte",
+      "annotation_goal": "life-cycle diagram"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Ophioglossaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10634"
+    },
+    {
+      "source": "FNA — Botrychium",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=104332"
+    },
+    {
+      "source": "POWO — Botrychium",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30394896-2"
+    },
+    {
+      "source": "Flora of China — Botrychium",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=104332"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-025",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_joey_pteridaceae_anchor_trophophore_sporophore_taxonomy_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

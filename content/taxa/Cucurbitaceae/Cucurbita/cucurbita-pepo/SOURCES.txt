@@ -1,0 +1,8 @@
+Master Plant Pool row 318 (taxonomic and learner approval 2026-10-10). POWO accepted Cucurbita pepo: https://powo.science.kew.org/ . Flora of North America Cucurbita key/species: https://floranorthamerica.org/ . Source photo: https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_straightneck_Summer_squash_bush_plant_and_flowers.jpg ; author megankhines; CC BY-SA 2.0; direct https://upload.wikimedia.org/wikipedia/commons/1/1a/Cucurbita_pepo_straightneck_Summer_squash_bush_plant_and_flowers.jpg. Image shows Exact species cultivated straightneck summer squash habit with lobed leaves and flowers; not a stem-hair or peduncle diagnostic macro. Do not claim photo demonstrates absent diagnostic structures. Native-only metric exclusion preserved.
+
+LIBRARY-FIRST IMAGE SELECTION 015 2026-10-16T16:51:06.682166+00:00
+Cucurbita pepo
+Creator: mattmsa; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6431771612
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/cucurbita-pepo/gbif-e1b54a1fb4c248.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

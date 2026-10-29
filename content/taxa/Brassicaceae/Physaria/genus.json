@@ -1,0 +1,321 @@
+{
+  "rank": "genus",
+  "name": "Physaria",
+  "family": "Brassicaceae",
+  "common_group": "Bladderpods (former Lesquerella group)",
+  "project_scope": {
+    "selection_mode": "Five canonical species, formerly listed in Master Plant Pool as Lesquerella",
+    "species_ids": [
+      "physaria-densiflora",
+      "physaria-engelmannii",
+      "physaria-gracilis",
+      "physaria-recurvata",
+      "physaria-sessilis"
+    ],
+    "species_count": 5,
+    "source_pool_legacy_names": [
+      "Lesquerella densiflora",
+      "Lesquerella engelmannii",
+      "Lesquerella gracilis",
+      "Lesquerella recurvata",
+      "Lesquerella sessilis"
+    ],
+    "source_pool_separate_concept": "Lesquerella grandiflora is accepted as Paysonia grandiflora, NOT Physaria grandiflora; separate installer/taxonomy dependency; do not install or fold into Physaria.",
+    "range_note": "All five canonical species retain existing provisional range metadata. No range decision changed."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "FIRST inspect a mature fruit: a short silicle with two valves and a replum, then its stalk (pedicel), the valve surfaces and the plant's hairs. Under a 10–30× lens check whether hairs are stellate and asymmetrically notched. Record basal versus stem-leaf shapes and annual taproot versus perennial caudex.",
+    "shared_traits": [
+      "Brassicaceae herbs with four sepals and usually four yellow-to-orange petals, typically six tetradynamous stamens; flower color is not a reliable species split.",
+      "Leaves basal and on stems; hairs often stellate or stellate-scalelike, requiring magnification for ray/notch characters.",
+      "Short many-seeded silicles; inspect valve surface, replum and fruiting-pedicel posture. Not every Physaria fruit is strongly inflated.",
+      "The five canonical species are historical Lesquerella sensu lato names now treated under Physaria."
+    ],
+    "memory_cue": "Flower says mustard; fruit stalk, valve interior and star-shaped hairs say which bladderpod."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Life history / base",
+      "densiflora": "Annual or biennial, fine taproot; low, compact",
+      "engelmannii": "Perennial, stems from persistent base/caudex",
+      "gracilis": "Annual, delicate branched stems",
+      "recurvata": "Annual, occasionally biennial; fine taproot",
+      "sessilis": "Annual/biennial branch of FNA key; verify root/base on specimen",
+      "photo_role": "Whole plant with exposed root or caudex; avoid uprooting sensitive plants"
+    },
+    {
+      "character": "Basal versus stem leaves",
+      "densiflora": "Basal leaves often lobed; upper leaves shorter and narrower",
+      "engelmannii": "Dense stellate-hairy leaves; compare basal and cauline blades",
+      "gracilis": "Basal oblanceolate/obovate; stem leaves narrower, often sessile",
+      "recurvata": "Basal obovate/rhombic; distal stem leaves sessile",
+      "sessilis": "Upper leaves sessile; not diagnostic alone because several others also have sessile upper leaves",
+      "photo_role": "Matched basal and upper-stem leaf attachments with scale"
+    },
+    {
+      "character": "Fruiting pedicel posture",
+      "densiflora": "Straight to slightly curved, spreading to near-horizontal",
+      "engelmannii": "Short, ascending on dense racemes (canonical provisional cue)",
+      "gracilis": "Straight or slightly curved; fruits elevated on short gynophore",
+      "recurvata": "Recurved backward at maturity, fruit may become downturned",
+      "sessilis": "Not a sole validated separator; record mature pedicel posture for review",
+      "photo_role": "Side-on full fruiting raceme with mature stalks visible"
+    },
+    {
+      "character": "Fruit stalk vs gynophore",
+      "densiflora": "No diagnostic gynophore length established in current card",
+      "engelmannii": "No diagnostic gynophore length established in current card",
+      "gracilis": "Distinct gynophore 1–2 mm between pedicel and fruit (FNA key)",
+      "recurvata": "No 1–2 mm gynophore claim; rely first on recurved pedicel",
+      "sessilis": "Fruit attachment requires direct macro verification",
+      "photo_role": "Millimeter macro of pedicel–fruit junction, especially P. gracilis"
+    },
+    {
+      "character": "Valve exterior and interior",
+      "densiflora": "Smooth exterior and glabrous interior in FNA annual key",
+      "engelmannii": "Fruit-valve surface requires paired verified macro",
+      "gracilis": "Glabrous fruit valves in FNA annual key",
+      "recurvata": "Glabrous fruit valves in FNA description",
+      "sessilis": "Exterior papillose; INSIDE densely pubescent (strong FNA separator)",
+      "photo_role": "One intact and one opened ripe fruit per species; label outer/inner valve"
+    },
+    {
+      "character": "Stellate-hair shape",
+      "densiflora": "Dense appressed stellate/scalelike hairs; FNA describes U-shaped notch on one side",
+      "engelmannii": "Asymmetric stellate hairs with a deep notch on one side (FNA perennial key)",
+      "gracilis": "Pubescent; diagnostic notch form not verified here",
+      "recurvata": "Sparse stellate 3–6-rayed hairs in FNA treatment",
+      "sessilis": "Stellate hair details need direct verification",
+      "photo_role": "Same-magnification 10–30× abaxial leaf hairs with ray/notch arrows"
+    },
+    {
+      "character": "Raceme structure",
+      "densiflora": "Dense terminal cluster, low habit",
+      "engelmannii": "Dense subumbellate cluster, perennial",
+      "gracilis": "Dense flower clusters but open/wiry branched overall plant",
+      "recurvata": "Loose racemes in FNA species treatment",
+      "sessilis": "Do not infer from compactness alone",
+      "photo_role": "Matched flowering and fruiting racemes with stem length in frame"
+    },
+    {
+      "character": "Best first separating character",
+      "densiflora": "Annual + straight/spreading fruit stalk + asymmetric notched hairs",
+      "engelmannii": "Perennial caudex + deeply notched stellate hairs",
+      "gracilis": "Annual + 1–2 mm gynophore + straight/slightly curved pedicel",
+      "recurvata": "Mature recurved pedicel + loose raceme",
+      "sessilis": "Papillose outer valve + densely hairy INNER valve",
+      "photo_role": "Paired fruit and trichome macros for each species"
+    }
+  ],
+  "species_field_paths": [
+    {
+      "species": "Physaria densiflora",
+      "look": "Check the annual taproot, then straight-to-spreading fruit stalk and notched stellate hairs.",
+      "confirm": "FNA annual key: smooth exterior, glabrous inner valve; pedicel straight or slightly curved.",
+      "caution": "Low habit, yellow flowers and sessile upper leaves overlap other species."
+    },
+    {
+      "species": "Physaria engelmannii",
+      "look": "Find a perennial base/caudex, then examine an asymmetric deeply notched stellate hair.",
+      "confirm": "FNA perennial key identifies a deep unilateral trichome notch; compact dense raceme supports but does not prove.",
+      "caution": "Annual P. densiflora also has asymmetrically notched hairs: inspect the root/caudex."
+    },
+    {
+      "species": "Physaria gracilis",
+      "look": "Look at the junction immediately beneath a ripe fruit: a short gynophore about 1–2 mm.",
+      "confirm": "Straight to slightly curved fruiting pedicel; delicate annual stems.",
+      "caution": "A sessile upper leaf is common in other taxa and does not diagnose this species."
+    },
+    {
+      "species": "Physaria recurvata",
+      "look": "Follow the mature fruiting pedicel: it curves backward (recurves).",
+      "confirm": "Loose raceme; FNA describes annual/biennial taproot and 3–6-rayed stellate hairs.",
+      "caution": "Immature stalks may not yet be recurved; check several ripe fruits."
+    },
+    {
+      "species": "Physaria sessilis",
+      "look": "Open a mature silicle: outer valve papillose, inner valve densely hairy.",
+      "confirm": "Compare both surfaces at high magnification; use sessile upper leaves only as a supporting character.",
+      "caution": "The epithet sessilis is a memory cue, not a stand-alone ID: P. gracilis and P. recurvata may also have sessile distal leaves."
+    }
+  ],
+  "overlap_cautions": [
+    "This is a teaching framework from canonical provisional cards plus Flora of North America, not a certified dichotomous key. Examine mature fruits and 10–30× hairs for difficult identifications.",
+    "Yellow four-petaled flowers, stellate pubescence and inflated-looking fruits overlap widely; never identify solely by these.",
+    "P. densiflora and P. engelmannii both have asymmetrically notched trichomes; life history and caudex/taproot separate their FNA key paths.",
+    "The upper-leaf 'sessilis' cue is not exclusive. The stronger P. sessilis separator is papillose exterior and densely hairy inner valve.",
+    "P. recurvata's pedicel posture develops with maturity; immature racemes may mislead.",
+    "The Master Plant Pool still spells the six source names as Lesquerella; five map to canonical Physaria and L. grandiflora maps to Paysonia grandiflora. Do not count all six as Physaria."
+  ],
+  "local_lookalikes": [
+    {
+      "name": "Paysonia grandiflora (source-pool Lesquerella grandiflora)",
+      "compare": "Separate accepted genus; historical name appears alongside five Physaria names. Require Paysonia-specific fruit/leaf diagnostics; do not treat as a sixth Physaria."
+    },
+    {
+      "name": "Physaria lindheimeri",
+      "compare": "FNA annual key: sigmoid/horizontal/recurved fruiting pedicels and trichomes lacking P. densiflora's U-shaped notch; comparison only unless installed."
+    },
+    {
+      "name": "Other yellow-flowered Brassicaceae (Draba, Lepidium, etc.)",
+      "compare": "Confirm mature silicle valve architecture, replum and stellate trichomes rather than relying on flower color."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "ALL FIVE: paired whole-plant view with basal rosette, stem and intact base (annual taproot versus perennial caudex); label life-history evidence.",
+    "ALL FIVE: matched flowering and mature fruiting racemes, photographed side-on with centimeter scale; label pedicel angle.",
+    "P. densiflora versus P. engelmannii: matched 10–30× abaxial stellate hairs showing unilateral U/deep notch AND root/caudex.",
+    "P. gracilis: 1–2 mm gynophore between fruit and pedicel with millimeter ruler and annotation.",
+    "P. recurvata: mature recurved fruiting stalks from several fruits in same inflorescence; compare immature stalks.",
+    "P. sessilis: opened mature silicle showing dense INSIDE hairs, plus exterior papillose surface at equal magnification.",
+    "P. densiflora: opened ripe fruit with smooth exterior and glabrous interior, matched to P. sessilis.",
+    "ALL FIVE: upper-leaf attachment and basal/cauline blade comparison to demonstrate why sessile leaves are not exclusive.",
+    "Physaria versus Paysonia grandiflora: only after diagnostic review, matched fruit macro explaining accepted-genus distinction."
+  ],
+  "existing_media_references": [
+    {
+      "species_ids": [
+        "physaria-densiflora",
+        "physaria-engelmannii",
+        "physaria-gracilis",
+        "physaria-recurvata"
+      ],
+      "kind": "Existing species.json images[]",
+      "role": "Provisional UT Plant Resources Center voucher/habit images; retain existing license 'reuse rights unverified' and private-study-only status; NOT a replacement for diagnostic macros."
+    },
+    {
+      "species_ids": [
+        "physaria-sessilis"
+      ],
+      "kind": "No canonical species images[]",
+      "role": "Photo acquisition belongs to Diagnostic Photo Polish; this lesson is visual-incomplete until a diagnostic real image is wired."
+    }
+  ],
+  "targeted_handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "request": "Verify P. sessilis valve inner-hair and outer-papilla characters, P. gracilis gynophore length, and P. engelmannii versus P. densiflora unilateral trichome notch on named voucher specimens; confirm FNA-key scope and mature fruit dimensions. Do not alter range decisions as part of this genus pass."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "request": "Master Plant Pool Lesquerella grandiflora maps to Paysonia grandiflora (ITIS/USDA GRIN), not Physaria; check existing approved workflow and canonical manifest before any separate Paysonia installation. Do not install it from this genus lesson."
+    },
+    {
+      "lane": "Google Sheet Tracker Reconciliation",
+      "request": "The live Master Plant Pool contains six legacy Lesquerella rows and no Physaria genus rows. Safely reconcile accepted-genus aliases so the Physaria Genus Study Index can derive counts without touching formula-owned C:M; leave historical source names and master spill intact."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "Find exact-species, licensed, scale-bearing fruit valve interiors, gynophores, pedicel posture and 10–30× stellate hair macros. P. sessilis lacks a canonical images[] gallery. Preserve provisional UT voucher attribution/reuse restrictions."
+    }
+  ],
+  "sources": [
+    {
+      "authority": "Flora of North America, Physaria genus and identification key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=125289"
+    },
+    {
+      "authority": "Flora of North America, Physaria recurvata",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250094857"
+    },
+    {
+      "authority": "ITIS, Paysonia grandiflora accepted name and Lesquerella grandiflora synonym",
+      "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?print_version=PRT&search_topic=TSN&search_value=23190&source=to_print"
+    },
+    {
+      "authority": "USDA GRIN, Paysonia grandiflora",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=460980"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-five-species-comparison",
+    "last_reviewed": "2026-10-14",
+    "canonical_species_count": 5,
+    "visual_status": "four_physical_voucher_anchors_fifth_image_not_safely_sourced",
+    "note": "No canonical species installed or range labels changed."
+  },
+  "look_here_first": "Start with the whole plant and leaf hairs, then inspect MATURE FRUIT: bladderpods make short inflated or rounded mustard fruits (silicles), rather than long skinny siliques. Compare fruit outline, orientation, pubescence, stalk length, and basal leaves before choosing among the five species. Yellow four-petaled flowers alone are not enough.",
+  "visual_lesson": {
+    "status": "four_physical_voucher_anchors_sessilis_source_limited_fruit_checklist",
+    "title": "Bladderpods: start with fruit, not yellow petals",
+    "teaching_order": "whole flowering-fruiting plant → cruciform flowers → silicle outline and inflation → fruit stalk/orientation → basal leaf and stellate hairs → species comparison",
+    "intro": "The four installed specimens below are actual local learner files, but they are provisional whole-voucher photographs, not verified magnified diagnostic close-ups. Use them to recognize overall growth form and locate fruiting stems; reserve precise fruit, hair and replum labels for future macro photographs.",
+    "steps": [
+      {
+        "title": "1 · Recognize a dense flowering-fruiting specimen",
+        "anchor_species_id": "physaria-densiflora",
+        "image_file": "images/physaria-densiflora-provisional-face.jpg",
+        "photo_role": "flowering and fruiting whole voucher",
+        "look_for": "A whole preserved plant with leafy stem and flowering/fruiting clusters. Compare overall compactness, not microscopic fruit characters.",
+        "why_it_matters": "An honest first recognition anchor for P. densiflora.",
+        "status": "installed_provisional_voucher_not_diagnostic_macro"
+      },
+      {
+        "title": "2 · Examine Engelmann's bladderpod as a whole specimen",
+        "anchor_species_id": "physaria-engelmannii",
+        "image_file": "images/physaria-engelmannii-provisional-face.jpg",
+        "photo_role": "whole flowering-fruiting specimen",
+        "look_for": "Locate the flower cluster, leaf-bearing stems and potential fruit positions. The image is not enough to prove hair or silicle shape.",
+        "why_it_matters": "Shows a distinct specimen for comparison without making unverified macro claims.",
+        "status": "installed_provisional_voucher_not_diagnostic_macro"
+      },
+      {
+        "title": "3 · Follow the slender specimen form",
+        "anchor_species_id": "physaria-gracilis",
+        "image_file": "images/physaria-gracilis-provisional-face.jpg",
+        "photo_role": "whole voucher habit",
+        "look_for": "Compare stem branching and the placement of flowers/fruit against the other specimens.",
+        "why_it_matters": "Provides a real species face while encouraging plant-wide comparison.",
+        "status": "installed_provisional_voucher_not_diagnostic_macro"
+      },
+      {
+        "title": "4 · Compare recurvata flowering/fruiting habit",
+        "anchor_species_id": "physaria-recurvata",
+        "image_file": "images/physaria-recurvata-provisional-face.jpg",
+        "photo_role": "whole voucher habit",
+        "look_for": "Look for the fruiting portion and trace the fruit-bearing stalks. Recurved shape cannot be verified from this image alone.",
+        "why_it_matters": "Prevents overreading a blurry or small specimen view.",
+        "status": "installed_provisional_voucher_not_diagnostic_macro"
+      }
+    ],
+    "missing_examples": [
+      {
+        "title": "Physaria sessilis: no confirmed photograph available yet",
+        "anchor_species_id": "physaria-sessilis",
+        "photo_role": "verified whole plant with upper sessile leaves and mature silicles",
+        "status": "exact_species_photo_unavailable_do_not_substitute",
+        "source_check": "iNaturalist species taxon currently 0 observations and no default photo (2026-10-14); additional exact-species herbarium photo requires verified identification plus explicit publication rights",
+        "verification_requirements": [
+          "Accepted Physaria sessilis or unambiguous Lesquerella sessilis specimen identification",
+          "Photographer or herbarium permission/license suitable for public learner",
+          "Upper leaf attachment visibly sessile and ripe fruit whenever possible",
+          "Keep target-county nativity PROVISIONAL; photo does not confer range PASS"
+        ]
+      },
+      {
+        "title": "Side-by-side ripe silicles",
+        "photo_role": "mature fruit orientation, inflation and pubescence",
+        "status": "macro_needed"
+      },
+      {
+        "title": "Leaf hair morphology",
+        "photo_role": "stellate trichome close-up",
+        "status": "macro_needed"
+      },
+      {
+        "title": "Brassicaceae family replum",
+        "photo_role": "opened silicle with valve and central septum",
+        "status": "macro_needed"
+      }
+    ],
+    "memory_rule": "FOUR PETALS gets you to mustards; a ripe short SILICLE, hairy leaves, fruit stalk and habit help narrow to Physaria. Do not force a species ID from yellow flowers.",
+    "fruit_checklist": [
+      "Photograph a mature silicle in profile beside its stalk, not just a yellow flower.",
+      "Compare relative fruit inflation, outline, and orientation before selecting a species.",
+      "Seek the leaf base and stem attachment on the same individual, especially for P. sessilis.",
+      "A voucher-wide photograph is a face/recognition image; it cannot certify stellate hairs, valve pubescence or a replum.",
+      "Avoid claiming a visible dehiscence seam or internal pubescence until a real macro/dissection resolves the structure."
+    ],
+    "study_sequence_note": "Begin at the four physical voucher examples; the fifth is explicitly an image gap, not a placeholder substituted from another species. Direct specimen-level identification and photo reuse must both be verified."
+  }
+}

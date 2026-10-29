@@ -1,0 +1,139 @@
+{
+  "id": "juniperus-ashei",
+  "entry_type": "species",
+  "family": "Cupressaceae",
+  "genus": "Juniperus",
+  "species": "ashei",
+  "scientific_name": "Juniperus ashei",
+  "authority": "J.Buchholz",
+  "common_name": "Ashe Juniper",
+  "synonyms": [
+    "Sabina ashei (J.Buchholz) Y.Yang & K.S.Mao"
+  ],
+  "taxonomic_note": "Current Kew treatment recognizes var. ashei and var. ovata. This learner entry remains at species rank; no variety is assigned without separate evidence.",
+  "field_group": "Evergreen juniper / cedar",
+  "look_here_first": "On adult foliage, inspect the tiny scale leaves for a darker raised, nearly circular to hemispheric resin gland. Then confirm with dark-blue glaucous seed cones and thin shredding bark.",
+  "project_tracker_diagnostic": "Evergreen shrub/tree with appressed scale leaves bearing raised rounded dorsal glands, finely toothed margins, shredding bark, and dark purplish-blue glaucous seed cones usually about 6–9 mm.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Explicit target-zone records documented in UT North Hays flora, Travis County Balcones Canyonlands plant records, and USGS Honey Creek/Comal County work. No county presence inferred."
+  },
+  "morphology_keys": {
+    "habit": "Evergreen dioecious shrub to small tree, often irregular to rounded and sometimes multistemmed.",
+    "bark": "Brown to gray bark exfoliating in thin fibrous or shredding strips.",
+    "leaves": "Adult leaves are tiny appressed scales; typical blades about 1 mm long with finely toothed margins and a darker raised circular resin gland. Vigorous whip shoots may carry longer awl-like leaves.",
+    "reproductive": "Pollen cones are small and terminal. Mature seed cones are berrylike, dark purplish-blue and glaucous, typically 6–9 mm and commonly one-seeded.",
+    "best_field_traits": [
+      "raised rounded scale-leaf gland",
+      "finely toothed scale-leaf margins",
+      "dark blue glaucous seed cones",
+      "shredding fibrous bark"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Juniperus virginiana",
+      "Juniperus ashei var. ovata",
+      "Juniperus pinchotii"
+    ],
+    "key_distinctions": "Eastern redcedar has a pit-like/depressed adult scale-leaf gland and smaller 4.5–5 mm glaucous cones commonly with 1–2(–3) seeds; Ashe juniper has a raised rounded/hemispheric gland and larger 6.5–9.6 mm glaucous cones usually one-seeded. Kew currently keeps var. ovata within J. ashei, so seed count alone is not absolute. Redberry juniper develops copper to reddish mature cones."
+  },
+  "ecological_notes": {
+    "habitat": "Limestone glades, rocky slopes and bluffs, shallow calcareous soils, and oak-juniper woodland of the Edwards Plateau.",
+    "learning_note": "A useful genus anchor because the best separation characters are tiny structures on the scale leaves plus cone characters, not tree shape alone."
+  },
+  "tags": [
+    "Cupressaceae",
+    "Juniperus",
+    "Evergreen tree",
+    "Edwards Plateau",
+    "Woody ID"
+  ],
+  "curation_status": {
+    "version": "1.1-b024-comparison",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "images": [
+    {
+      "file": "images/01-female-cones-foliage.jpeg",
+      "role": "Female blue glaucous cones / adult foliage",
+      "creator": "Phil Bynum",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://research.fs.usda.gov/feis/species-reviews/junash",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-habit-habitat.jpeg",
+      "role": "Habit / architecture in rocky habitat",
+      "creator": "Shaun M. McCoshum",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://research.fs.usda.gov/feis/species-reviews/junash",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/glass-root-garden-600607665-blue-cones-scale-foliage.jpg",
+      "role": "Blue glaucous berry-like seed cones on scale-leaved branchlet; separates cones from flowers",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/600607665",
+      "observation_url": "https://www.inaturalist.org/observations/331121052",
+      "observation_id": 331121052,
+      "photo_id": 600607665,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/600607665/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-637169478-shredding-bark.jpg",
+      "role": "Mature multi-stem trunk with fibrous shredding bark; broad bark character rather than microscopic texture",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/637169478",
+      "observation_url": "https://www.inaturalist.org/observations/349298953",
+      "observation_id": 349298953,
+      "photo_id": 637169478,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/637169478/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "photo_note": "Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful."
+}

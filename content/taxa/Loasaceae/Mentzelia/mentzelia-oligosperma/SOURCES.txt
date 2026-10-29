@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/274127486
+Photo: https://www.inaturalist.org/photos/492868430
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T15:24:07.237723+00:00
+Mentzelia oligosperma Nutt. ex Sims
+https://www.gbif.org/occurrence/6235444567
+Cleveland Powell | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Rough barbed foliage, pale-yellow flowers, few-seeded capsule
+No anatomy arrows; no scientific or native-range changes.

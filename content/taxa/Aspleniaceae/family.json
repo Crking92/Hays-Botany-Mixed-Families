@@ -1,0 +1,158 @@
+{
+  "rank": "family",
+  "name": "Aspleniaceae",
+  "common_name": "Spleenwort family",
+  "lineage_context": {
+    "order": "Polypodiales",
+    "batch": "Polypodiales",
+    "close_project_families": [
+      "Thelypteridaceae",
+      "Polypodiaceae",
+      "Pteridaceae"
+    ],
+    "teaching_goal": "Teach the project Asplenium through clathrate stem scales and long linear/lunate sori with one-sided true indusia, then contrast that reproductive pattern with the round sori of the other project fern families."
+  },
+  "taxonomy_scope": {
+    "project_teaching_treatment": "Regional/FNA-style narrow Aspleniaceae for field learning.",
+    "current_kew_note": "POWO 2026 uses a broader Aspleniaceae that synonymizes Thelypteridaceae into Aspleniaceae. This learner retains the FNA-style Thelypteridaceae module as a practical regional teaching unit and labels the alternative circumscription explicitly."
+  },
+  "project_scope": {
+    "selection_mode": "Asplenium resiliens-centered project module",
+    "note": "The current project pool contains Asplenium resiliens. The species is accepted by current Kew and native to Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Turn the frond over. Look for elongate to linear sori lying along veins, usually each covered by a narrow true indusium attached along one side. Then inspect the stem/rhizome scales for a clathrate, stained-glass-like cell pattern.",
+    "vegetative": "Ferns with monomorphic fronds in the project concept. Stem scales are characteristically clathrate; frond division varies widely across the family.",
+    "reproductive": "Sori are commonly lunate to linear and borne on veins; true indusia usually mirror the sorus shape and attach along one side.",
+    "field_tip": "Linear sori + one-sided true indusium is the fastest practical spleenwort cue; do not rely on frond shape alone."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_018",
+    "teaching_order": "whole frond → black stipe/rachis → linear sori → one-sided true indusium → clathrate scale → round-sorus family comparison",
+    "intro": "Spleenworts become much easier when the underside of the frond is treated like a map. The sori are long lines instead of round dots.",
+    "steps": [
+      {
+        "title": "1 · Start with the black-stemmed spleenwort silhouette",
+        "photo_role": "Asplenium resiliens whole frond",
+        "look_for": "A narrow 1-pinnate blade with many small pinnae and a glossy black stipe and rachis.",
+        "why_it_matters": "This gives the crew a fast field gestalt before the reproductive confirmation.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Flip a fertile pinna over",
+        "photo_role": "sorus macro",
+        "look_for": "Several narrow elongate sori arranged along veins on each pinna.",
+        "why_it_matters": "Linear sori are the highest-value visible family clue in the regional Aspleniaceae concept.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find the true indusium",
+        "photo_role": "linear sorus + indusium close-up",
+        "look_for": "A narrow membrane attached along one side of each sorus and opening toward the other side.",
+        "why_it_matters": "Separates Asplenium from Polypodiaceae, whose sori lack a true indusium, and from local Pteridaceae false-indusium patterns.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "4 · Zoom into a clathrate scale",
+        "photo_role": "rhizome/stipe-base scale macro",
+        "look_for": "Dark radial walls and clearer tangential walls forming a lattice or stained-glass pattern.",
+        "why_it_matters": "FNA identifies clathrate scales plus linear indusiate sori as a strong Aspleniaceae combination.",
+        "status": "micromacro_pending"
+      },
+      {
+        "title": "5 · Limestone habitat is supporting evidence",
+        "photo_role": "fern in limestone crack/sinkhole",
+        "look_for": "A. resiliens commonly grows on limestone or other basic rock.",
+        "why_it_matters": "Useful Central Texas context, but habitat never replaces the sorus characters.",
+        "status": "local_habitat_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Aspleniaceae vs Polypodiaceae",
+        "rule": "Asplenium has linear/lunate sori with a true one-sided indusium. Pleopeltis has round sori without a true indusium and conspicuous peltate scales on the lower blade."
+      },
+      {
+        "title": "Aspleniaceae vs Thelypteridaceae (regional/FNA treatment)",
+        "rule": "Asplenium has linear sori and clathrate stem scales; Thelypteris has round sori, commonly reniform indusia, and conspicuous hairs/glands on the frond."
+      },
+      {
+        "title": "Aspleniaceae vs Pteridaceae",
+        "rule": "Local cliffbrake-type Pteridaceae often carries sori at the blade margin beneath a rolled false indusium; Asplenium sori sit along veins away from the margin under a separate true indusium."
+      }
+    ],
+    "caveat": "Family circumscription differs among modern references. Current Kew uses a broad Aspleniaceae that includes Thelypteridaceae, while Flora of North America retains them as separate families. The learner shows both frameworks rather than hiding the disagreement."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Asplenium",
+        "taxa_count": 1,
+        "fast_cue": "narrow 1-pinnate fern + dark glossy rachis + linear indusiate sori",
+        "role": "spleenwort door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Asplenium resiliens"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Asplenium resiliens",
+      "current_name": "Asplenium resiliens",
+      "note": "Accepted by current Kew; FNA also recognizes the species."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "linear sori with one-sided true indusia",
+      "annotation_goal": "label sorus, vein and indusium edge"
+    },
+    {
+      "priority": 1,
+      "structure": "black stipe and rachis",
+      "annotation_goal": "show glossy dark axis against pinnae"
+    },
+    {
+      "priority": 1,
+      "structure": "clathrate rhizome scale",
+      "annotation_goal": "label lattice-like scale cell walls"
+    },
+    {
+      "priority": 2,
+      "structure": "Aspleniaceae vs round-sorus fern card",
+      "annotation_goal": "linear sori versus round sori in Pleopeltis/Thelypteris"
+    },
+    {
+      "priority": 2,
+      "structure": "true vs false indusium",
+      "annotation_goal": "separate Asplenium membrane from Pteridaceae rolled blade margin"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Aspleniaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10072"
+    },
+    {
+      "source": "Flora of North America — Asplenium resiliens",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200004162"
+    },
+    {
+      "source": "POWO — Asplenium resiliens",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17050370-1"
+    },
+    {
+      "source": "POWO — broad Aspleniaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126788-1/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-018",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_linear_sorus_indusium_scale_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

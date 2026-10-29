@@ -1,0 +1,9 @@
+Approved source pool working taxon Marsilea vestita; original source rows 690.
+Taxonomy search https://powo.science.kew.org/results?q=Marsilea%20vestita
+Exact licensed image Commons file https://commons.wikimedia.org/wiki/File:Hairy_Water_Clover_(1055719284).jpg
+Physical original download via https://commons.wikimedia.org/wiki/Special:Redirect/file/Hairy%20Water%20Clover%20(1055719284).jpg
+Creator Jason Hollinger
+Image license CC BY 2.0
+Photo provisional role Provisional four-leaf aquatic fern recognition, sporocarp and hair detail not confirmed.
+Caution Utah photo, high enough resolution for recognition; not a Hays County occurrence voucher.
+Photo is an aid, not completed independent confirmation of all botanical parts or Hays-range nativity.

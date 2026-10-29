@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Senega%20lutea
+Source research-grade observation: https://www.inaturalist.org/observations/66899841
+Photo: https://www.inaturalist.org/photos/107941363
+Attribution: (c) Vitaly Charny, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

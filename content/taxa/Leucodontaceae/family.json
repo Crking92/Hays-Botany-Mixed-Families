@@ -1,0 +1,147 @@
+{
+  "rank": "family",
+  "name": "Leucodontaceae",
+  "common_name": "Leucodon / hook-moss family",
+  "lineage_context": {
+    "order": "Hypnales",
+    "batch": "Moss residuals",
+    "close_project_families": [
+      "Leucobryaceae",
+      "Pottiaceae"
+    ],
+    "teaching_goal": "Teach Leucodon julaceus as a pleurocarpous bark/rock moss with glossy cylindrical julaceous branches, tightly appressed ecostate leaves and exserted symmetric capsules."
+  },
+  "project_scope": {
+    "selection_mode": "Leucodon julaceus one-species family module",
+    "note": "Leucodon julaceus is accepted in FNA/WFO and FNA includes Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Read the branch silhouette before individual leaves. Leucodon julaceus often forms short curved cylindrical catkin-like branches because its overlapping leaves stay erect-appressed.",
+    "gametophyte": "Pleurocarpous moss on bark, logs, rock or soil; plants medium-sized and often somewhat glossy. Branches typically short, curved and julaceous.",
+    "leaf_anatomy": "Branch leaves overlap tightly, are not plicate in the project species, and lack a costa (ecostate).",
+    "sporophyte": "Capsules are symmetric, ovoid-cylindric and usually exserted beyond the perichaetial leaves; calyptra can split along one side and temporarily clasp the seta/capsule.",
+    "field_tip": "Creeping bark/rock moss + glossy cylindrical julaceous branches + tightly appressed ecostate leaves = project Leucodontaceae/Leucodon."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_029",
+    "teaching_order": "substrate/habit → julaceous branch → appressed ecostate leaf → capsule/calyptra → acrocarp-vs-pleurocarp comparison",
+    "intro": "Leucodon is easiest to recognize as architecture: its short branches look like tiny smooth catkins because the leaves overlap tightly around the stem.",
+    "steps": [
+      {
+        "title": "1 · Find the cylindrical branch",
+        "photo_role": "whole branch macro",
+        "look_for": "Short curved branch with leaves packed around the stem, giving a smooth wormlike/catkin-like profile.",
+        "why_it_matters": "This is the meaning of julaceous and the best visual memory cue.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Pull off one leaf and look for no costa",
+        "photo_role": "single-leaf macro/microscope",
+        "look_for": "No central costa running through the leaf.",
+        "why_it_matters": "Leucodon is characteristically ecostate and this separates it from many robust moss lookalikes.",
+        "status": "microscopy_pending"
+      },
+      {
+        "title": "3 · Check whether the leaves are plicate",
+        "photo_role": "leaf surface macro",
+        "look_for": "Project L. julaceus leaves remain comparatively smooth rather than strongly longitudinally folded.",
+        "why_it_matters": "FNA separates L. julaceus from related Leucodon species partly by its non-plicate leaves.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · See the capsule clear the branch leaves",
+        "photo_role": "sporophyte macro",
+        "look_for": "Ovoid-cylindric symmetric capsule barely to clearly exserted above the perichaetial leaves.",
+        "why_it_matters": "Adds reproductive confirmation.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Contrast growth architecture",
+        "photo_role": "three-family habit card",
+        "look_for": "Leucodon pleurocarpous creeping system with lateral branches versus Leucobryum/Pottiaceae upright acrocarpous cushions/turfs.",
+        "why_it_matters": "Teaches moss growth form as a higher-level ID tool.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Leucodontaceae vs Leucobryaceae",
+        "rule": "Leucodon is a pleurocarpous bark/rock moss with julaceous branches and ecostate leaves. Leucobryum is an upright pale cushion moss whose leaves are dominated by a broad leucocyst-rich costa."
+      },
+      {
+        "title": "Leucodontaceae vs Pottiaceae",
+        "rule": "Leucodon branch leaves overlap tightly and lack a costa; the project Pottiaceae concept is acrocarpous with a strong costa, papillose cells and conspicuously crisp/squarrose leaves."
+      }
+    ],
+    "caveat": "The cylindrical branch silhouette is highly useful but not unique to one species. Confirm the ecostate, non-plicate leaf and sporophyte characters when a species-level call matters."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Leucodon",
+        "taxa_count": 1,
+        "fast_cue": "glossy pleurocarp + short curved julaceous branches + appressed ecostate leaves",
+        "role": "hook-moss door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Leucodon julaceus"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Leucodon julaceus",
+      "current_name": "Leucodon julaceus",
+      "note": "Accepted in current WFO/FNA; FNA distribution includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "julaceous branch",
+      "annotation_goal": "label branch axis and tightly imbricate leaves"
+    },
+    {
+      "priority": 1,
+      "structure": "ecostate leaf",
+      "annotation_goal": "show absence of costa"
+    },
+    {
+      "priority": 2,
+      "structure": "non-plicate leaf",
+      "annotation_goal": "compare smooth leaf surface with plicate Leucodon lookalike"
+    },
+    {
+      "priority": 2,
+      "structure": "exserted symmetric capsule",
+      "annotation_goal": "label capsule, seta and perichaetial leaves"
+    },
+    {
+      "priority": 2,
+      "structure": "pleurocarp vs acrocarp",
+      "annotation_goal": "growth-form comparison"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Leucodon julaceus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250099211"
+    },
+    {
+      "source": "FNA — Leucodon",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=118387"
+    },
+    {
+      "source": "World Flora Online — Leucodon julaceus / Hypnales",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-0001163385"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing checked first; no direct moss/Leucodontaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-029",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_julaceous_ecostate_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

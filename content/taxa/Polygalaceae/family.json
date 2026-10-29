@@ -1,0 +1,269 @@
+{
+  "rank": "family",
+  "name": "Polygalaceae",
+  "common_name": "Milkwort family",
+  "lineage_context": {
+    "order": "Fabales",
+    "batch": "Fabales",
+    "close_project_families": [
+      "Fabaceae"
+    ],
+    "teaching_goal": "Teach the project milkworts through their unusual zygomorphic flower: 5 sepals with 2 enlarged petaloid wing sepals, 3–5 true petals including a keel, usually 8 stamens, and a superior usually 2-locular ovary; then reconcile the recent Polygala→Senega/Rhinotropis splits."
+  },
+  "project_scope": {
+    "selection_mode": "Source pool across Polygala, Rhinotropis and Senega; current teaching genera collapse to Rhinotropis + Senega.",
+    "note": "Four source rows represent three species-level concepts plus one accepted variety nested within Rhinotropis lindheimeri. Source Polygala alba is now Senega alba; source Polygala lindheimeri var. lindheimeri belongs under Rhinotropis lindheimeri var. lindheimeri."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look at one flower from the side. Find 5 sepals, but notice that the inner lateral pair are enlarged and petal-like ('wings'). Then find the true lower petal forming a keel around the stamens and style.",
+    "vegetative": "Project plants are herbs to subshrubs with simple exstipulate leaves, usually alternate but arrangement can vary in the family. Leaves alone are not a safe family ID.",
+    "reproductive": "Flowers bisexual and strongly zygomorphic. Calyx usually 5-merous with 3 smaller outer sepals and 2 enlarged inner wing sepals. Corolla commonly 3 petals in the project Senega-type architecture, with a lower keel often crested; Rhinotropis commonly has a beaked keel. Stamens commonly 8 with filaments united into a sheath/column. Ovary superior, usually 2-locular with one ovule per locule.",
+    "fruit": "Usually a flattened 2-locular dehiscent capsule in the project concepts, typically with one seed per locule; seeds are commonly pubescent and arillate.",
+    "field_tip": "The fastest family door is 'petal-looking sepals + true keel petal + united stamens.' Then use keel crest versus beak and habit to route to current genus."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_021",
+    "teaching_order": "flower face → wing sepals vs petals → keel → staminal sheath → superior ovary/capsule → Senega vs Rhinotropis → current-name card",
+    "intro": "Milkworts are perfect for visual anatomy because the flower looks pea-like at first glance, but the parts are not equivalent. The big 'wings' are sepals, not petals.",
+    "steps": [
+      {
+        "title": "1 · Prove the wings are sepals",
+        "photo_role": "flower front/side macro with colored overlays",
+        "look_for": "Two large lateral petaloid structures outside the true corolla; label them as inner sepals (wings), with the 3 smaller outer sepals also shown.",
+        "why_it_matters": "This prevents the most intuitive but incorrect read of a Polygalaceae flower.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Find the true keel petal",
+        "photo_role": "flower side view",
+        "look_for": "The lower median corolla petal folded into a keel around the reproductive column; in Senega-type project taxa the keel is crested, while Rhinotropis has a beaked/snouted keel.",
+        "why_it_matters": "Keel architecture is the easiest current-genus teaching split in this pool.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Expose the staminal sheath",
+        "photo_role": "opened flower / diagram",
+        "look_for": "Usually 8 stamens with filaments joined basally into a trough-like sheath around the style.",
+        "why_it_matters": "Confirms Polygalaceae reproductive architecture rather than relying on flower color.",
+        "status": "diagram_or_dissection_pending"
+      },
+      {
+        "title": "4 · Follow the flower to the capsule",
+        "photo_role": "flower-to-fruit sequence",
+        "look_for": "A superior usually 2-locular ovary maturing into a flattened capsule, commonly with one seed in each locule.",
+        "why_it_matters": "Adds a fruit confirmation and ties the flower to the family plan.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Senega door",
+        "photo_role": "Senega alba + S. lutea comparison",
+        "look_for": "Former broad-Polygala project species with a lobed/fimbriate keel crest rather than the unlobed beak of Rhinotropis; S. alba is white-flowered while S. lutea has bright yellow-orange capitate racemes.",
+        "why_it_matters": "Turns the recent generic split into a visible flower-architecture lesson rather than a memorization problem.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "6 · Rhinotropis door",
+        "photo_role": "Rhinotropis lindheimeri flower macro",
+        "look_for": "A distinct beaked or snout-like keel with an unlobed projection; project taxon is a dryland perennial/subshrub.",
+        "why_it_matters": "FNA specifically keys Rhinotropis by the beaked keel and related sepal/fruit characters.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Teach the recent name changes",
+        "photo_role": "taxonomy reconciliation card",
+        "look_for": "Polygala alba → Senega alba; Polygala lindheimeri → Rhinotropis lindheimeri; source var. lindheimeri → Rhinotropis lindheimeri var. lindheimeri.",
+        "why_it_matters": "Keeps older Texas floras, FNA-era names and the current Kew backbone connected without duplicate learner concepts.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Polygalaceae vs Fabaceae",
+        "rule": "Both may look 'pea-flowered,' but the structures differ. In Polygalaceae the large lateral wings are sepals and the lower keel is a petal; Fabaceae papilionoid flowers use banner, wings and keel as petals. Polygalaceae also commonly has an 8-stamen sheath and a 2-locular capsule rather than a one-carpel legume."
+      },
+      {
+        "title": "Senega vs Rhinotropis",
+        "rule": "Project Senega concepts retain the traditional crested-keel milkwort architecture; Rhinotropis is characterized by a beaked/snouted keel with an unlobed projection and often a dryland subshrub habit."
+      },
+      {
+        "title": "Polygalaceae vs Krameriaceae",
+        "rule": "Both may show enlarged petal-like sepals. Krameria has specialized oil-secreting petals, poricidal anthers and a one-seeded spiny fruit; project milkworts have a true keel petal, commonly eight basally united stamens, and a typically two-locular capsule. Compare opened flowers and mature fruits, not the outline alone."
+      },
+      {
+        "title": "Polygalaceae vs Violaceae",
+        "rule": "Viola has five true petals (the lower sometimes spurred), five stamens and a typically three-valved capsule. Project milkworts have two enlarged petal-like inner sepals, a true keel petal, and a usually two-locular capsule."
+      },
+      {
+        "title": "Polygalaceae versus Malpighiaceae (Senega/Rhinotropis versus Galphimia)",
+        "rule": "Milkworts can have petal-like inner SEPALS (two enlarged lateral wings), a distinct keel PETAL and usually eight stamens joined toward their bases; Galphimia has five free PETALS with narrowed claw bases and commonly ten stamens. Compare a verified open flower and petal/sepal attachment points before labeling structures. Neither yellow color nor five apparent showy parts alone separates the families.",
+        "photo_role": "matched exact-taxon Senega alba or Rhinotropis lindheimeri wing-sepal and keel flower-center views against Galphimia angustifolia petal-claw macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "rights_status": "unverified"
+      }
+    ],
+    "caveat": "Modern generic limits changed recently. Flora of North America (2021) still describes Senega alba and S. lutea under Polygala, while the current Kew 2026 backbone accepts Senega. Use the older descriptions for morphology but current names for canonical taxonomy.",
+    "anatomy_examples": [
+      {
+        "species": "Senega alba",
+        "part": "flower",
+        "plain_label": "Petal-like wings versus true keel",
+        "botanical_label": "petaloid inner sepals and keel petal",
+        "look_for": "In an opened flower distinguish the two enlarged inner sepals from the true keel petal; retain the three smaller outer sepals in the view.",
+        "photo_role": "exact-species frontal and oblique flower macro with separable organs",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "The showy wings are sepals; the keel is a petal."
+      },
+      {
+        "species": "Rhinotropis lindheimeri",
+        "part": "flower",
+        "plain_label": "Unlobed beak at keel tip",
+        "botanical_label": "keel beak versus Senega crest",
+        "look_for": "Side-on flower macro showing the keel tip; compare at matched scale with Senega alba, without inferring identity from leaf shape.",
+        "photo_role": "exact-species lateral keel macro paired with verified Senega alba",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Compare the unlobed beak with the divided or fringed Senega crest."
+      },
+      {
+        "species": "Senega alba",
+        "part": "flower",
+        "plain_label": "Joined bases of eight stamens",
+        "botanical_label": "eight stamens and basally connate filaments (staminal sheath)",
+        "look_for": "Opened keel exposing stamens and their filament bases without obscuring the style.",
+        "photo_role": "exact-species flower dissection macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Look for the united filament bases beneath the anthers."
+      },
+      {
+        "species": "Senega alba",
+        "part": "fruit",
+        "plain_label": "Two chambers inside the capsule",
+        "botanical_label": "superior bilocular ovary and dehiscent capsule",
+        "look_for": "Matched flower and mature opened fruit with the septum and seeds visible.",
+        "photo_role": "exact-species ovary and mature capsule dissection",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Follow the superior ovary to the two-chambered capsule."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 3,
+    "current_teaching_genus_count": 2,
+    "genera": [
+      {
+        "genus": "Senega",
+        "source_rows": 2,
+        "current_species_concepts": 2,
+        "fast_cue": "crested-keel milkwort; project concepts include white S. alba and orange-yellow S. lutea",
+        "role": "current crested-keel door"
+      },
+      {
+        "genus": "Rhinotropis",
+        "source_rows": 2,
+        "current_species_concepts": 1,
+        "fast_cue": "beaked/snouted keel + dryland perennial/subshrub",
+        "role": "current beaked-keel door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Polygala alba",
+    "Polygala lindheimeri var. lindheimeri",
+    "Rhinotropis lindheimeri",
+    "Senega lutea"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Polygala alba",
+      "current_name": "Senega alba",
+      "note": "Current Kew treats Polygala alba as a synonym of accepted Senega alba."
+    },
+    {
+      "source_name": "Polygala lindheimeri",
+      "current_name": "Rhinotropis lindheimeri",
+      "note": "Current Kew treats Polygala lindheimeri as the homotypic synonym of accepted Rhinotropis lindheimeri."
+    },
+    {
+      "source_name": "Polygala lindheimeri var. lindheimeri",
+      "current_name": "Rhinotropis lindheimeri var. lindheimeri",
+      "note": "Accepted current variety; do not create a second species concept beyond Rhinotropis lindheimeri."
+    },
+    {
+      "source_name": "Rhinotropis lindheimeri",
+      "current_name": "Rhinotropis lindheimeri",
+      "note": "Accepted current species with three accepted varieties."
+    },
+    {
+      "source_name": "Senega lutea",
+      "current_name": "Senega lutea",
+      "note": "Accepted current species; native range is eastern U.S. under Kew, so its local learner role/range belongs to species workflow rather than this family module."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "wing sepals vs true petals",
+      "annotation_goal": "use different overlay colors to label 3 outer sepals, 2 petaloid inner wing sepals, and true petals"
+    },
+    {
+      "priority": 1,
+      "structure": "crested keel vs beaked keel",
+      "annotation_goal": "Senega-style fimbriate/lobed crest beside Rhinotropis unlobed snout"
+    },
+    {
+      "priority": 1,
+      "structure": "8-stamen sheath",
+      "annotation_goal": "opened flower showing united filaments around style"
+    },
+    {
+      "priority": 1,
+      "structure": "superior 2-locular ovary → capsule",
+      "annotation_goal": "flower-to-fruit sequence with locules/seeds labeled"
+    },
+    {
+      "priority": 2,
+      "structure": "Polygala → Senega/Rhinotropis taxonomy card",
+      "annotation_goal": "map old source names to current accepted genera"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Polygalaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10716"
+    },
+    {
+      "source": "Flora of North America — Rhinotropis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=203107"
+    },
+    {
+      "source": "Flora of North America — Polygala",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=126390"
+    },
+    {
+      "source": "POWO — Senega alba",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77321503-1"
+    },
+    {
+      "source": "POWO — Senega lutea",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77321290-1"
+    },
+    {
+      "source": "POWO — Rhinotropis lindheimeri",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60456642-2"
+    },
+    {
+      "source": "POWO — Rhinotropis lindheimeri var. lindheimeri",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77230962-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-021",
+    "last_reviewed": "2026-10-20",
+    "visual_lock": "family_structure_live_wing_sepal_keel_stamen_capsule_taxonomy_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

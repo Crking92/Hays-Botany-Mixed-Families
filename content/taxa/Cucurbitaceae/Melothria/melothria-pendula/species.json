@@ -1,0 +1,63 @@
+{
+  "id": "melothria-pendula",
+  "family": "Cucurbitaceae",
+  "genus": "Melothria",
+  "species": "pendula",
+  "scientific_name": "Melothria pendula",
+  "common_name": "Creeping cucumber",
+  "look_here_first": "Delicate climbing vine with tendrils, tiny yellow five-petaled flowers, shallowly lobed leaves and small melon-like berries.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_047": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Melothria%20pendula",
+  "images": [
+    {
+      "file": "images/inat-15290567.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Katja Schulz, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/15290567",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review047-519e08105e675d0.jpg",
+      "role": "Trailing little-gourd vine showing deeply lobed leaves and long running stems in open ground; tendrils and fruits not clearly resolved; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Actual archived source photos visually screened and chosen for distinct botanical parts. Exact identification provisional.",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6251528029",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/650367911/original.jpg",
+      "source_determination": "Melothria pendula",
+      "source_observation_id": "6251528029",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/melothria-pendula/gbif-03f5f739e12a15.jpg",
+      "archive_image_sha256": "a8be55a3cbb8e1abc6f57a6d5bb580394903b800600c05a52e91354422e176ef",
+      "image_dimensions": [
+        1400,
+        903
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "descurainia-pinnata",
+  "family": "Brassicaceae",
+  "genus": "Descurainia",
+  "species": "pinnata",
+  "scientific_name": "Descurainia pinnata",
+  "common_name": "Western tansymustard",
+  "look_here_first": "Feathery highly dissected leaves, four-petaled yellow flowers and long slender mustard seedpods.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_045": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Descurainia%20pinnata",
+  "images": [
+    {
+      "file": "images/inat-1654918.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/1654918",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review045-9b5b7d1a4502ca6.jpg",
+      "role": "Tiny yellow four-parted flowers and slender developing mustard siliques held against fingers; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Selected supplementary morphological image after visually inspecting archived exact-name candidates. Source species determination provisional.",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6178299089",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623101501/original.jpg",
+      "source_determination": "Descurainia pinnata",
+      "source_observation_id": "6178299089",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/descurainia-pinnata/gbif-0bfab49afb16fd.jpg",
+      "archive_image_sha256": "bae24ef846dbee8ff4d8c345d1e3228ceba3f650f3ab0bf40eaa41fad390841f",
+      "image_dimensions": [
+        1400,
+        931
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

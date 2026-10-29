@@ -1,0 +1,3775 @@
+{
+  "summary": {
+    "status": "ALL_ASSIGNED_FAMILY_ORIGINAL_FILES_BYTE_EXACT_PRIVATE",
+    "repository": "Crking92/Hays-Botany-Mixed-Families",
+    "source_commit": "515387cbc23b8bf8931141ead9c44c92a7793699",
+    "families": [
+      "Apiaceae",
+      "Apodanthaceae",
+      "Aristolochiaceae",
+      "Aspleniaceae",
+      "Brassicaceae",
+      "Cleomaceae",
+      "Crassulaceae",
+      "Cucurbitaceae",
+      "Cupressaceae",
+      "Ephedraceae",
+      "Equisetaceae",
+      "Fouquieriaceae",
+      "Geraniaceae",
+      "Ginkgoaceae",
+      "Krameriaceae",
+      "Leucobryaceae",
+      "Leucodontaceae",
+      "Loasaceae",
+      "Malpighiaceae",
+      "Marsileaceae",
+      "Ophioglossaceae",
+      "Oxalidaceae",
+      "Pinaceae",
+      "Polygalaceae",
+      "Polypodiaceae",
+      "Pottiaceae",
+      "Primulaceae",
+      "Pteridaceae",
+      "Salviniaceae",
+      "Schizaeaceae",
+      "Selaginellaceae",
+      "Thelypteridaceae",
+      "Zygophyllaceae"
+    ],
+    "species": 105,
+    "total_original_files": 532,
+    "original_text_files": 362,
+    "source_media_private_quarantine": 170,
+    "original_files_missing": 0,
+    "public_site_deployed": false,
+    "hub_unchanged": true
+  },
+  "files": [
+    {
+      "source_path": "content/taxa/Apiaceae/Atrema/atrema-americanum/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Atrema/atrema-americanum/SOURCES.txt",
+      "git_blob_sha": "8ca78c4b3e40b2fd67c556507b6a6c021f8a7f32",
+      "bytes": 653,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Atrema/atrema-americanum/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Atrema/atrema-americanum/image-sources.csv",
+      "git_blob_sha": "0ce0b669c4d2c0d25b8a65a2436011c6142af613",
+      "bytes": 474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Atrema/atrema-americanum/images/inat-271528825.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Atrema/atrema-americanum/images/inat-271528825.jpg",
+      "git_blob_sha": "e78a69b3e3a54cf5294494e9af7cdee5112e06a1",
+      "bytes": 141597,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Atrema/atrema-americanum/species.json",
+      "destination": "content/taxa/Apiaceae/Atrema/atrema-americanum/species.json",
+      "git_blob_sha": "af5fb9df89fe0b8a83b21f9158c7de8378367d24",
+      "bytes": 1642,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/SOURCES.txt",
+      "git_blob_sha": "5c27d951e43a9bb5f8d16e2621de2960c370057a",
+      "bytes": 658,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/image-sources.csv",
+      "git_blob_sha": "5fc13ceccbc49b6f59ab40d4a1d7241a57345d62",
+      "bytes": 328,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/images/bowlesia-incana-sonnia-hill.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Bowlesia/bowlesia-incana/images/bowlesia-incana-sonnia-hill.jpg",
+      "git_blob_sha": "fc9373be481b8e1b325471a0a137d24622465c57",
+      "bytes": 340345,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/species.json",
+      "destination": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/species.json",
+      "git_blob_sha": "08edf0e4a67ba049d9aac960ef9da2f4a2aeee51",
+      "bytes": 1695,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Centella/centella-erecta/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Centella/centella-erecta/SOURCES.txt",
+      "git_blob_sha": "62d30de36ec5978a9381c681788cf5e2dd2771d0",
+      "bytes": 488,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Centella/centella-erecta/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Centella/centella-erecta/image-sources.csv",
+      "git_blob_sha": "d47d6127056a221cb7840572c9f23e3339408448",
+      "bytes": 475,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Centella/centella-erecta/images/inat-89006777.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Centella/centella-erecta/images/inat-89006777.jpg",
+      "git_blob_sha": "210a84a86b3e73f8d9c8f7d248f9a3c4152b57ea",
+      "bytes": 175519,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Centella/centella-erecta/species.json",
+      "destination": "content/taxa/Apiaceae/Centella/centella-erecta/species.json",
+      "git_blob_sha": "e97daaa1f3aba2f9c95f486a030473a7dfa5a80e",
+      "bytes": 1508,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/SOURCES.txt",
+      "git_blob_sha": "1d77b3ee20b0ca8901b907f6433deef6ba1dd0a5",
+      "bytes": 479,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/image-sources.csv",
+      "git_blob_sha": "db864ff51a2d5a390604219e37e60563b3467341",
+      "bytes": 469,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/images/inat-127541733.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/images/inat-127541733.jpg",
+      "git_blob_sha": "8ef967d28879ebd2d36aa3955494030b8006ce47",
+      "bytes": 132013,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/species.json",
+      "destination": "content/taxa/Apiaceae/Chaerophyllum/chaerophyllum-tainturieri/species.json",
+      "git_blob_sha": "da8b92605a3e046cd4b31de7c11f089eda6bd454",
+      "bytes": 1551,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Conium/conium-maculatum/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Conium/conium-maculatum/SOURCES.txt",
+      "git_blob_sha": "352c5aa1529b6fda7eb511946922492bf4ee88a9",
+      "bytes": 782,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Conium/conium-maculatum/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Conium/conium-maculatum/image-sources.csv",
+      "git_blob_sha": "d8e09e3f178803b7abebf221898a5e786952448a",
+      "bytes": 443,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Conium/conium-maculatum/images/conium-maculatum-harry-rose-stem.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Conium/conium-maculatum/images/conium-maculatum-harry-rose-stem.jpg",
+      "git_blob_sha": "7e211db979a8b950ae1bf28c0214340ba868cb43",
+      "bytes": 108623,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Conium/conium-maculatum/species.json",
+      "destination": "content/taxa/Apiaceae/Conium/conium-maculatum/species.json",
+      "git_blob_sha": "a5ff9b64521f6939d897f5f42c46eef6c3dcdb71",
+      "bytes": 1800,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/SOURCES.txt",
+      "git_blob_sha": "558cc4e99b4db7fd4ca81c5b2ab85229d4143270",
+      "bytes": 1407,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/image-sources.csv",
+      "git_blob_sha": "adfd80efd8a5d2b2f590554a162692bbee576c4d",
+      "bytes": 1830,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/images/inat-69542165.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/images/inat-69542165.jpg",
+      "git_blob_sha": "87fa95a5df5f495602962d93b401630941444ada",
+      "bytes": 281189,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/images/library-review045-54b0735689eefb5.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/images/library-review045-54b0735689eefb5.jpg",
+      "git_blob_sha": "4ff469c015a3d5b1ca5905f4bae667cb69f711dc",
+      "bytes": 183661,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/images/library-review045-a2237260095dec3.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/images/library-review045-a2237260095dec3.jpg",
+      "git_blob_sha": "c6f9a39b7419f3999e644c7679015b6a40c02b8e",
+      "bytes": 374442,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/species.json",
+      "destination": "content/taxa/Apiaceae/Cyclospermum/cyclospermum-leptophyllum/species.json",
+      "git_blob_sha": "5e002c6b10c7ce688261c0c18bf0dbe3548495f9",
+      "bytes": 5613,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/SOURCES.txt",
+      "git_blob_sha": "de9a204e5e5219da2876186ec273a039ed6e5327",
+      "bytes": 471,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/image-sources.csv",
+      "git_blob_sha": "920c9c523b2ae476084ffa795c8052e28789fe5c",
+      "bytes": 465,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/images/inat-85466037.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Daucosma/daucosma-laciniata/images/inat-85466037.jpg",
+      "git_blob_sha": "d68b9c52ad3b423b19ab43c8f05621f5e3df81fd",
+      "bytes": 133968,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/species.json",
+      "destination": "content/taxa/Apiaceae/Daucosma/daucosma-laciniata/species.json",
+      "git_blob_sha": "922c11c726313bc967ae6dc55ad661ed64772047",
+      "bytes": 1464,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Daucus/daucus-pusillus/SOURCES.txt",
+      "git_blob_sha": "6337e88454a30e66fda3b945ccf07b1f9e35237c",
+      "bytes": 1338,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Daucus/daucus-pusillus/image-sources.csv",
+      "git_blob_sha": "708652647c182390147a86531267af869a204f6a",
+      "bytes": 1808,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/images/inat-120994629.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Daucus/daucus-pusillus/images/inat-120994629.jpg",
+      "git_blob_sha": "45b345d71de725d73f9d6167508307f222c32a0e",
+      "bytes": 191235,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/images/library-review043-9d0f12bf09bfab4.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Daucus/daucus-pusillus/images/library-review043-9d0f12bf09bfab4.jpg",
+      "git_blob_sha": "ee17f1f32a0703c75b2a73390b03b1e6c7df3a94",
+      "bytes": 333449,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/images/library-review043-cbb00efb2143969.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Daucus/daucus-pusillus/images/library-review043-cbb00efb2143969.jpg",
+      "git_blob_sha": "09649a098f0782c9b12883d5a8482d957d5525fa",
+      "bytes": 273046,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Daucus/daucus-pusillus/species.json",
+      "destination": "content/taxa/Apiaceae/Daucus/daucus-pusillus/species.json",
+      "git_blob_sha": "f36d832b5509c79ea51d9947710a42515b2876e0",
+      "bytes": 5426,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/SOURCES.txt",
+      "git_blob_sha": "eb49bd25ed180fdd9258b73331870ab4b3f61df3",
+      "bytes": 1090,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/image-sources.csv",
+      "git_blob_sha": "0e26fa859bbfa3542cbd6b9be93cf252be7c165a",
+      "bytes": 1427,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_flowering-head-source-label_16-20.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_flowering-head-source-label_16-20.jpg",
+      "git_blob_sha": "034dba0ecab07f18de30e0a1d438028d8a0233ac",
+      "bytes": 290176,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_seed-collection_17-20.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_seed-collection_17-20.jpg",
+      "git_blob_sha": "7128278d257a27fffdd455ad875b4265a4471ea1",
+      "bytes": 388864,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/images/joey-inat-426079400.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Eryngium/eryngium-leavenworthii/images/joey-inat-426079400.jpg",
+      "git_blob_sha": "79d70c16c3dbb974b305192e3d4b4e90729e10b7",
+      "bytes": 176183,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/species.json",
+      "destination": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/species.json",
+      "git_blob_sha": "6139119bae356f6b6165934c830ae543ee0209a0",
+      "bytes": 6943,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/SOURCES.txt",
+      "git_blob_sha": "a2268b3d5da06680167ff5ff8c53d2471caf02f9",
+      "bytes": 2593,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/image-sources.csv",
+      "git_blob_sha": "511603fadcdcbc2fdf782b34acf7683a2f3dbe38",
+      "bytes": 1153,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/images/eryngium-yuccifolium-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Eryngium/eryngium-yuccifolium/images/eryngium-yuccifolium-provisional-face.jpg",
+      "git_blob_sha": "fe37a401bdcbf6504b853177405dd5932fd9c93c",
+      "bytes": 535475,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/images/gbif-manual-6479685932-6f6ae7a51.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Eryngium/eryngium-yuccifolium/images/gbif-manual-6479685932-6f6ae7a51.jpg",
+      "git_blob_sha": "38166ae63dddbba2a97b77db0e8ceaba9f32551a",
+      "bytes": 399219,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/species.json",
+      "destination": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/species.json",
+      "git_blob_sha": "9f1f907d5737d525c7ce10d546b74a1053141b7a",
+      "bytes": 4937,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Eryngium/genus.json",
+      "destination": "content/taxa/Apiaceae/Eryngium/genus.json",
+      "git_blob_sha": "f432ce2af28e0ccdb04dc90bf347e4e3513ae6d0",
+      "bytes": 11918,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/SOURCES.txt",
+      "git_blob_sha": "d501a99b9d3268381a3186c8b13009b885b8d15b",
+      "bytes": 491,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/image-sources.csv",
+      "git_blob_sha": "1944a4f172bf53da1f2f0681cbf5f68eb1ef9fd8",
+      "bytes": 476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/images/inat-285097327.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Polytaenia/polytaenia-nuttallii/images/inat-285097327.jpg",
+      "git_blob_sha": "fcfa38372fc6893c4b8e28bf25bede774711544f",
+      "bytes": 245868,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/species.json",
+      "destination": "content/taxa/Apiaceae/Polytaenia/polytaenia-nuttallii/species.json",
+      "git_blob_sha": "6c79ee5db4dfa0b68385f93c45de827885414272",
+      "bytes": 1495,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/SOURCES.txt",
+      "git_blob_sha": "93079501535285bb713938bcfe278d088a6d252c",
+      "bytes": 844,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/image-sources.csv",
+      "git_blob_sha": "c1c8251ff11a7495a3584d698a050a43b15f2c21",
+      "bytes": 567,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/images/commons-polytaenia-texana.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Polytaenia/polytaenia-texana/images/commons-polytaenia-texana.jpg",
+      "git_blob_sha": "7f181fae4d5c533e6dc2010e953239a60e950735",
+      "bytes": 671843,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/species.json",
+      "destination": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/species.json",
+      "git_blob_sha": "0fbf4b6d0f57e205b69ed211ab84aa080c2fa9a8",
+      "bytes": 1732,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/SOURCES.txt",
+      "git_blob_sha": "79bad0cbc568c8d1dbfeca4d8abb10976e4c2695",
+      "bytes": 913,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/image-sources.csv",
+      "git_blob_sha": "d1317d3831756731e0a97a3f3d2e32b85dd0aed0",
+      "bytes": 1156,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/images/inat-209942894.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Sanicula/sanicula-canadensis/images/inat-209942894.jpg",
+      "git_blob_sha": "99af4aeba9386d3ee17251781c9c9a106abcffe8",
+      "bytes": 132605,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/images/library-review036-8febf15a6e642e7.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Sanicula/sanicula-canadensis/images/library-review036-8febf15a6e642e7.jpg",
+      "git_blob_sha": "f772b577391fa7fed37a24ca22071517b691988a",
+      "bytes": 556894,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/species.json",
+      "destination": "content/taxa/Apiaceae/Sanicula/sanicula-canadensis/species.json",
+      "git_blob_sha": "70d4df88d4733d336f691e96b9e476439a423fd0",
+      "bytes": 3590,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Torilis/torilis-arvensis/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Torilis/torilis-arvensis/SOURCES.txt",
+      "git_blob_sha": "f6787aea3fc2ccfb54d2ce2fa9ed52b5cf2bbc43",
+      "bytes": 615,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Torilis/torilis-arvensis/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Torilis/torilis-arvensis/image-sources.csv",
+      "git_blob_sha": "acb48dbbcc90685d2c43d141bdf1338d7c33ecc1",
+      "bytes": 792,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Torilis/torilis-arvensis/images/gbif-manual-5938619246-c67302edb.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Torilis/torilis-arvensis/images/gbif-manual-5938619246-c67302edb.jpg",
+      "git_blob_sha": "70252ecba23cdc2f4256d6dbb0b482c530619b96",
+      "bytes": 318641,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Torilis/torilis-arvensis/images/inat-644564637.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Torilis/torilis-arvensis/images/inat-644564637.jpg",
+      "git_blob_sha": "ff8b4fed4374e4cdcbfb6e5706bcb6de1b75774d",
+      "bytes": 272011,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Torilis/torilis-arvensis/species.json",
+      "destination": "content/taxa/Apiaceae/Torilis/torilis-arvensis/species.json",
+      "git_blob_sha": "d98ea39e2b1391a2ded908bd2199076655797c5b",
+      "bytes": 2978,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/SOURCES.txt",
+      "destination": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/SOURCES.txt",
+      "git_blob_sha": "dd0ef3f22472351072264b738506ed31a401c5f3",
+      "bytes": 474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/image-sources.csv",
+      "destination": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/image-sources.csv",
+      "git_blob_sha": "4c3ac6af51515f9679053285a4e56dccefc7143d",
+      "bytes": 464,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/images/inat-2413900.jpg",
+      "destination": "migration/private-original-photo-holds/Apiaceae/Vesper/vesper-macrorhizus/images/inat-2413900.jpg",
+      "git_blob_sha": "19452d222b68c15574fbb37879f1a479fb06d87a",
+      "bytes": 317568,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/species.json",
+      "destination": "content/taxa/Apiaceae/Vesper/vesper-macrorhizus/species.json",
+      "git_blob_sha": "48db6a04e8e0f01f943f64de6ecaec346ebcbeb8",
+      "bytes": 1447,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/family-confusion.json",
+      "destination": "content/taxa/Apiaceae/family-confusion.json",
+      "git_blob_sha": "b3d3f862c70b89c1182cba65bab4dad6b03d4a34",
+      "bytes": 975,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apiaceae/family.json",
+      "destination": "content/taxa/Apiaceae/family.json",
+      "git_blob_sha": "417af10843e50522056f39ac30b0b5d0da9f6bd6",
+      "bytes": 9863,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/SOURCES.txt",
+      "destination": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/SOURCES.txt",
+      "git_blob_sha": "7f837f645bcaab39bb47f7eb3735872b9276dd74",
+      "bytes": 169,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/image-sources.csv",
+      "destination": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/image-sources.csv",
+      "git_blob_sha": "d7344c36a55be6f8d36618a6bd1665432062d7cf",
+      "bytes": 939,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/images/joey-201291379.jpg",
+      "destination": "migration/private-original-photo-holds/Apodanthaceae/Pilostyles/pilostyles-thurberi/images/joey-201291379.jpg",
+      "git_blob_sha": "2632cbf0eab67047b76ca13e9f6c23dfae8ba537",
+      "bytes": 144548,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/images/joey-201291412.jpg",
+      "destination": "migration/private-original-photo-holds/Apodanthaceae/Pilostyles/pilostyles-thurberi/images/joey-201291412.jpg",
+      "git_blob_sha": "4f73c9a970a81248742f4dc7b4df5b20075ad537",
+      "bytes": 95560,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/images/joey-201291443.jpg",
+      "destination": "migration/private-original-photo-holds/Apodanthaceae/Pilostyles/pilostyles-thurberi/images/joey-201291443.jpg",
+      "git_blob_sha": "fbf0979bcae8572463b080f25f6be6c9faf9eb1d",
+      "bytes": 144960,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/species.json",
+      "destination": "content/taxa/Apodanthaceae/Pilostyles/pilostyles-thurberi/species.json",
+      "git_blob_sha": "82a523b292e043f78ffe0bf1c582b8be6a57fdec",
+      "bytes": 2104,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Apodanthaceae/family.json",
+      "destination": "content/taxa/Apodanthaceae/family.json",
+      "git_blob_sha": "cc128908bfacabe9524359d9b0f106288a474173",
+      "bytes": 9927,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/SOURCES.txt",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/SOURCES.txt",
+      "git_blob_sha": "32ede8194753c264f5c601535bd09400890608bc",
+      "bytes": 2391,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/image-sources.csv",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/image-sources.csv",
+      "git_blob_sha": "9f93b16ca9e289d66e855dd433c969f212489fd7",
+      "bytes": 1439,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/images/01-flower-side-low-habit.jpg",
+      "destination": "migration/private-original-photo-holds/Aristolochiaceae/Aristolochia/aristolochia-erecta/images/01-flower-side-low-habit.jpg",
+      "git_blob_sha": "7d4f8713534a1cb5d1b3be2c21effb566ebd2e13",
+      "bytes": 251337,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/images/02-flower-closeup-limb-pattern.jpg",
+      "destination": "migration/private-original-photo-holds/Aristolochiaceae/Aristolochia/aristolochia-erecta/images/02-flower-closeup-limb-pattern.jpg",
+      "git_blob_sha": "2cc7ceb9018e6ffb918db154c89cb26d38e5fccf",
+      "bytes": 203538,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/images/03-prostrate-habit-bud.jpg",
+      "destination": "migration/private-original-photo-holds/Aristolochiaceae/Aristolochia/aristolochia-erecta/images/03-prostrate-habit-bud.jpg",
+      "git_blob_sha": "a436069c93f1f98658da77a02deb86bc936b7d7c",
+      "bytes": 254391,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/species.json",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/species.json",
+      "git_blob_sha": "28083eaceb86eee6c60eb275f3583ec1a894dd76",
+      "bytes": 5255,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/SOURCES.txt",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/SOURCES.txt",
+      "git_blob_sha": "55dd0e8d05ca7767b61a905ad3577bab95393918",
+      "bytes": 3230,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/image-sources.csv",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/image-sources.csv",
+      "git_blob_sha": "bb1acf038823bf00cfb441c1efff0bb8877fa51c",
+      "bytes": 1897,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/images/library-review010-b3cfc8af9071ab9.jpg",
+      "destination": "migration/private-original-photo-holds/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/images/library-review010-b3cfc8af9071ab9.jpg",
+      "git_blob_sha": "1a75f13b098673fa168d3af30f81f2278f7dcfcb",
+      "bytes": 606432,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/images/library-review010-c15a52de8a74d32.jpg",
+      "destination": "migration/private-original-photo-holds/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/images/library-review010-c15a52de8a74d32.jpg",
+      "git_blob_sha": "7c43fcd4a2a29e37413d6505cc0e2948eeb965cf",
+      "bytes": 231660,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/species.json",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/species.json",
+      "git_blob_sha": "b1cd294ae24ad0b57090a7b537bc891198550200",
+      "bytes": 8789,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/Aristolochia/genus.json",
+      "destination": "content/taxa/Aristolochiaceae/Aristolochia/genus.json",
+      "git_blob_sha": "bc1942fb5fdd891003e3dd56817ad9c4da30fe3d",
+      "bytes": 9253,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aristolochiaceae/family.json",
+      "destination": "content/taxa/Aristolochiaceae/family.json",
+      "git_blob_sha": "6e6d8c98cd5cabfee0bb46458491c4a9546dce97",
+      "bytes": 4422,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/SOURCES.txt",
+      "destination": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/SOURCES.txt",
+      "git_blob_sha": "c669a86050e9e8d3de39995975f1607e4c33a8ee",
+      "bytes": 1502,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/image-sources.csv",
+      "destination": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/image-sources.csv",
+      "git_blob_sha": "b74a4c05ed388853363dd5c9caddab65ec746ecd",
+      "bytes": 853,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/images/asplenium-resiliens-habit-commons.jpg",
+      "destination": "migration/private-original-photo-holds/Aspleniaceae/Asplenium/asplenium-resiliens/images/asplenium-resiliens-habit-commons.jpg",
+      "git_blob_sha": "51cc631b87f6c7018bed3f83df37125568428df4",
+      "bytes": 417311,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/images/gbif-manual-5938105993-795cb32f8.jpg",
+      "destination": "migration/private-original-photo-holds/Aspleniaceae/Asplenium/asplenium-resiliens/images/gbif-manual-5938105993-795cb32f8.jpg",
+      "git_blob_sha": "ef8c792017a9c7db644b181454001a897f5d5145",
+      "bytes": 492576,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/species.json",
+      "destination": "content/taxa/Aspleniaceae/Asplenium/asplenium-resiliens/species.json",
+      "git_blob_sha": "244f83ed8848ed23c3f1f0d54b4ba65521128d85",
+      "bytes": 5169,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Aspleniaceae/family.json",
+      "destination": "content/taxa/Aspleniaceae/family.json",
+      "git_blob_sha": "f5d5d38b02d0af35b0ad95f1cd75482f3fd388e9",
+      "bytes": 7636,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/SOURCES.txt",
+      "git_blob_sha": "667912776049f011c36035cf6f7117c1e227d279",
+      "bytes": 916,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/image-sources.csv",
+      "git_blob_sha": "7f724c9e8dfa97f0d5e3309e99490c450ae94df7",
+      "bytes": 1124,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/images/inat-17860837.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Capsella/capsella-bursa-pastoris/images/inat-17860837.jpg",
+      "git_blob_sha": "7b13ae425f39b743cabf9743b2b3db9890a09ffb",
+      "bytes": 157825,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/images/library-review052-3292797a1c8976a.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Capsella/capsella-bursa-pastoris/images/library-review052-3292797a1c8976a.jpg",
+      "git_blob_sha": "06c5f4ed98fd9d4e7d8295b778b0f959e23f89ac",
+      "bytes": 413615,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/species.json",
+      "destination": "content/taxa/Brassicaceae/Capsella/capsella-bursa-pastoris/species.json",
+      "git_blob_sha": "ee12e16bb5fb70cb07cf41cb352f7448de72ba24",
+      "bytes": 3485,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/SOURCES.txt",
+      "git_blob_sha": "49d5a139d0a0a2a4e2f630172d6315c71f88c8ef",
+      "bytes": 919,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/image-sources.csv",
+      "git_blob_sha": "3e22b6afba640f7514c929bfeec85c06c282944d",
+      "bytes": 1157,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/images/inat-1654918.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Descurainia/descurainia-pinnata/images/inat-1654918.jpg",
+      "git_blob_sha": "a14cd3e34d231d332d02286c7de33848cc63c717",
+      "bytes": 109817,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/images/library-review045-9b5b7d1a4502ca6.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Descurainia/descurainia-pinnata/images/library-review045-9b5b7d1a4502ca6.jpg",
+      "git_blob_sha": "a667666fc0752fc38d177c4e35d25328d6315f1b",
+      "bytes": 222107,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/species.json",
+      "destination": "content/taxa/Brassicaceae/Descurainia/descurainia-pinnata/species.json",
+      "git_blob_sha": "710b33128ba8d37fd79ba8b160a21262842c849f",
+      "bytes": 3574,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/SOURCES.txt",
+      "git_blob_sha": "db9163fe1a6cf55c12f1d850a57fdc0f0365b568",
+      "bytes": 1398,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/image-sources.csv",
+      "git_blob_sha": "4a150c395d17fe0c6e5c81fc49ab73076e46325f",
+      "bytes": 1778,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/inat-84341831.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/inat-84341831.jpg",
+      "git_blob_sha": "c823da145781b90b5269176591481e8669a6daa5",
+      "bytes": 283280,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/library-review054-37a95d4a80f59c2.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/library-review054-37a95d4a80f59c2.jpg",
+      "git_blob_sha": "5d49ab87525ee729ded98b850a028c59c103ac19",
+      "bytes": 383392,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/library-review054-f6c945f1b882619.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/library-review054-f6c945f1b882619.jpg",
+      "git_blob_sha": "c97e41adc5a59bc51d7c167dacb4d99af13d0879",
+      "bytes": 128515,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/species.json",
+      "destination": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/species.json",
+      "git_blob_sha": "c343eacaa142fe3093bcb01ab6bd4053784e5d80",
+      "bytes": 5344,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/genus.json",
+      "destination": "content/taxa/Brassicaceae/Lepidium/genus.json",
+      "git_blob_sha": "752a76b7cc9bae1b0287e0f78d3f295b913267eb",
+      "bytes": 3388,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/SOURCES.txt",
+      "git_blob_sha": "81a923444d46fa79358a00fc039e3870b985bd05",
+      "bytes": 468,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/image-sources.csv",
+      "git_blob_sha": "86ce3b9673ae656f88537b19944867333f45ee97",
+      "bytes": 449,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/images/inat-3638630.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Lepidium/lepidium-austrinum/images/inat-3638630.jpg",
+      "git_blob_sha": "f87a0310c160bee576c2c6b53602619d75210f8e",
+      "bytes": 224244,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/species.json",
+      "destination": "content/taxa/Brassicaceae/Lepidium/lepidium-austrinum/species.json",
+      "git_blob_sha": "f48111f9f0689c09f2ade775d79256e0b42713c2",
+      "bytes": 1490,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/SOURCES.txt",
+      "git_blob_sha": "bfac66e03f789f0d498abe0eabc83b03b03892d8",
+      "bytes": 669,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/image-sources.csv",
+      "git_blob_sha": "9d49a31a136d483fdf9d1e7ebfc73a2edefa927d",
+      "bytes": 539,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/images/commons-lepidium-virginicum.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Lepidium/lepidium-virginicum/images/commons-lepidium-virginicum.jpg",
+      "git_blob_sha": "a1b0b915fc9053d8965fcb9b4796b30cec8e9dda",
+      "bytes": 45839,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/species.json",
+      "destination": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/species.json",
+      "git_blob_sha": "f570e60e9333a96fa0cd565503ff61371b9ce8dd",
+      "bytes": 1579,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/SOURCES.txt",
+      "git_blob_sha": "7bfee8210e2a0bbff30b28f7f35bc3514a276114",
+      "bytes": 846,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/image-sources.csv",
+      "git_blob_sha": "a46b479e3577765f68679732c8995d07ad23b95e",
+      "bytes": 502,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/images/commons-nasturtium-officinale.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Nasturtium/nasturtium-officinale/images/commons-nasturtium-officinale.jpg",
+      "git_blob_sha": "87389d25de6b89acefe734ec8d94dd80682e6567",
+      "bytes": 206125,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/species.json",
+      "destination": "content/taxa/Brassicaceae/Nasturtium/nasturtium-officinale/species.json",
+      "git_blob_sha": "6b8f643c6070e3fda3671b85b9fbd4294147e988",
+      "bytes": 1789,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/SOURCES.txt",
+      "git_blob_sha": "fe7cc5415b80bf9a85bef8104675a8e6e1fdd488",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/image-sources.csv",
+      "git_blob_sha": "8ad6101e63ab1ee58049fbb3dc455bbe3ea33619",
+      "bytes": 473,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/images/inat-494398872.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/images/inat-494398872.jpg",
+      "git_blob_sha": "78011d860e8657409a96b2a36189591c310e2f28",
+      "bytes": 139473,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/species.json",
+      "destination": "content/taxa/Brassicaceae/Nerisyrenia/nerisyrenia-camporum/species.json",
+      "git_blob_sha": "6bc218dd392a12bd6b10ee8dba5096e2fd837f77",
+      "bytes": 1464,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/SOURCES.txt",
+      "git_blob_sha": "08abb9e448c2d2725ea7f3ec37d527ba1c67ecdc",
+      "bytes": 1146,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/image-sources.csv",
+      "git_blob_sha": "5e397ea7981cecefa5d38a679b03d17bb7a741a9",
+      "bytes": 1743,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/images/joey-inat-265390543.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Paysonia/paysonia-grandiflora/images/joey-inat-265390543.jpg",
+      "git_blob_sha": "eb2490f9bcb0382fa35404036ded57c6efc2a976",
+      "bytes": 72128,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/images/joey-inat-265390565.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Paysonia/paysonia-grandiflora/images/joey-inat-265390565.jpg",
+      "git_blob_sha": "ba3f44ac127b010e2abf552904bf3a46658db102",
+      "bytes": 65969,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/images/paysonia-grandiflora-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Paysonia/paysonia-grandiflora/images/paysonia-grandiflora-provisional-face.jpg",
+      "git_blob_sha": "3a91d66d4ab1094685e53ac13b3ae449a66c7d0b",
+      "bytes": 340505,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/species.json",
+      "destination": "content/taxa/Brassicaceae/Paysonia/paysonia-grandiflora/species.json",
+      "git_blob_sha": "850cd1d72ed79142b8f0faba97b548514895d02e",
+      "bytes": 5771,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/genus.json",
+      "destination": "content/taxa/Brassicaceae/Physaria/genus.json",
+      "git_blob_sha": "1755cefc1c6a3f7960aa41192017279e49ab5afa",
+      "bytes": 20041,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/SOURCES.txt",
+      "git_blob_sha": "7763755a931706040a5980eeeaffc7410b27ac34",
+      "bytes": 1099,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/image-sources.csv",
+      "git_blob_sha": "cdb4bad5a519bb72149ee7d2867fe8cade3edc03",
+      "bytes": 1141,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/images/gbif-manual-3455629215-91724b8ec.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-densiflora/images/gbif-manual-3455629215-91724b8ec.jpg",
+      "git_blob_sha": "193ef22fb43932d77508d79e80f3f0e2a046cdd3",
+      "bytes": 295943,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/images/physaria-densiflora-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-densiflora/images/physaria-densiflora-provisional-face.jpg",
+      "git_blob_sha": "6461dc79b10911ca91facff02ec9829bd7cb05e6",
+      "bytes": 157436,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/species.json",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-densiflora/species.json",
+      "git_blob_sha": "63f1ed48ebb6da74583947f9a374fb29f1bf1201",
+      "bytes": 4716,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/SOURCES.txt",
+      "git_blob_sha": "e3b18fe91a53ddbd19d9ceacaa80c853bf915925",
+      "bytes": 1103,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/image-sources.csv",
+      "git_blob_sha": "314064042102cfd6a1a26b8194ec0f0052766f67",
+      "bytes": 1150,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/images/gbif-manual-6188222630-a71eca13b.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-engelmannii/images/gbif-manual-6188222630-a71eca13b.jpg",
+      "git_blob_sha": "004d91ac89d3826be4f2280d243b6f84e8da8c08",
+      "bytes": 439402,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/images/physaria-engelmannii-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-engelmannii/images/physaria-engelmannii-provisional-face.jpg",
+      "git_blob_sha": "ce7b4ab64a5ccd590dcd7b907a533dad29b3c9cd",
+      "bytes": 178846,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/species.json",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-engelmannii/species.json",
+      "git_blob_sha": "4bebf122a008979be4a47560a9bdd5a27a9d6513",
+      "bytes": 4708,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/SOURCES.txt",
+      "git_blob_sha": "89174320c41e14e5857b70a33d20e722fefb3bb7",
+      "bytes": 1058,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/image-sources.csv",
+      "git_blob_sha": "0520719ff5875d909eedeae24da99e9045f1300c",
+      "bytes": 1128,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/images/gbif-manual-6179434852-47f4cbf4e.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-gracilis/images/gbif-manual-6179434852-47f4cbf4e.jpg",
+      "git_blob_sha": "5fa49ced1f40124fa6665c2c92b962db6745964c",
+      "bytes": 217823,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/images/physaria-gracilis-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-gracilis/images/physaria-gracilis-provisional-face.jpg",
+      "git_blob_sha": "e7af114f9ce8dc8295c4a66e5c987b4ff6ed6efc",
+      "bytes": 147709,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/species.json",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-gracilis/species.json",
+      "git_blob_sha": "b14574ba9fb731f3a0b410bc857302050517ce5f",
+      "bytes": 4629,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/SOURCES.txt",
+      "git_blob_sha": "b0bb15eab75aea1ea10c5e27b2564ba016f4e831",
+      "bytes": 1417,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/image-sources.csv",
+      "git_blob_sha": "83cc9c50eca4ac4af6a485e7f698e3d5c37fe0e1",
+      "bytes": 1651,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/images/joey-inat-261411645.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-recurvata/images/joey-inat-261411645.jpg",
+      "git_blob_sha": "6075ab353fca7931bb48f07b21e2d3384143e408",
+      "bytes": 124361,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/images/joey-inat-261411718.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-recurvata/images/joey-inat-261411718.jpg",
+      "git_blob_sha": "ecc6d1fc10830892524b69a46216eceb7537c862",
+      "bytes": 191329,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/images/physaria-recurvata-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-recurvata/images/physaria-recurvata-provisional-face.jpg",
+      "git_blob_sha": "88638d7344f73dd446e97d40a19b3793631a76c3",
+      "bytes": 172968,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/species.json",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-recurvata/species.json",
+      "git_blob_sha": "d8dafcebbbfe2b5f72b15e2fbc1907786e9f6b90",
+      "bytes": 5766,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/SOURCES.txt",
+      "git_blob_sha": "db4ac6c273435153f31b1e4f001ce1265ddb83d6",
+      "bytes": 439,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/image-sources.csv",
+      "git_blob_sha": "88f1d8ed6cc70e51ace648cf4b0a0ba90acfff54",
+      "bytes": 564,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/images/gbif-first-4907024415-b0cb31ecdb.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-sessilis/images/gbif-first-4907024415-b0cb31ecdb.jpg",
+      "git_blob_sha": "d1bda1b19d65090f834b45643dce5d93fa434d92",
+      "bytes": 97854,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/species.json",
+      "destination": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/species.json",
+      "git_blob_sha": "75225b68697e9b5ded5f2c5dd9ba28baef0a080c",
+      "bytes": 3966,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/SOURCES.txt",
+      "git_blob_sha": "c0b4584eda39746b72cd71ed0662c71d54e8ebce",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/image-sources.csv",
+      "git_blob_sha": "128d9a522448c23c2de53fac436f13f1a3cfeb82",
+      "bytes": 473,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/images/inat-335025441.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Planodes/planodes-virginicum/images/inat-335025441.jpg",
+      "git_blob_sha": "36e59637040559c1a710177b7370f8a436be69fe",
+      "bytes": 327924,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/species.json",
+      "destination": "content/taxa/Brassicaceae/Planodes/planodes-virginicum/species.json",
+      "git_blob_sha": "c46c955ab5c89536fe0f3ceedf963e0095a9d26d",
+      "bytes": 1449,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/SOURCES.txt",
+      "git_blob_sha": "c0551b29652b47f5751b833b88956f481e859145",
+      "bytes": 933,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/image-sources.csv",
+      "git_blob_sha": "265463e0a96106796283775d715f41f12b862993",
+      "bytes": 1138,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/images/inat-69809213.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Rapistrum/rapistrum-rugosum/images/inat-69809213.jpg",
+      "git_blob_sha": "309961ff6f81a8421b9f0fe92d84e1861e4319be",
+      "bytes": 83798,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/images/library-review054-4f1444bb9763bff.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Rapistrum/rapistrum-rugosum/images/library-review054-4f1444bb9763bff.jpg",
+      "git_blob_sha": "dc8af10fa37d753ce92b88594ae3135738605f80",
+      "bytes": 346389,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/species.json",
+      "destination": "content/taxa/Brassicaceae/Rapistrum/rapistrum-rugosum/species.json",
+      "git_blob_sha": "f8f7f8aebe6b84adae0f650574a7e00b2bb68399",
+      "bytes": 3511,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/SOURCES.txt",
+      "git_blob_sha": "3fde3d6ab8adb8f9e2e93550ae03dfad3dbe4deb",
+      "bytes": 487,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/image-sources.csv",
+      "git_blob_sha": "44a8a767c2bb48e1be2d6c2c2d4c68d95d437bb9",
+      "bytes": 476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/images/inat-504429305.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Sisymbrium/sisymbrium-altissimum/images/inat-504429305.jpg",
+      "git_blob_sha": "a80240e18d7456a79c2181691596cefe4f7d6598",
+      "bytes": 337012,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/species.json",
+      "destination": "content/taxa/Brassicaceae/Sisymbrium/sisymbrium-altissimum/species.json",
+      "git_blob_sha": "b5c1bb41a30c1ab5acd1dc20e3d2e05ff42abf5b",
+      "bytes": 1501,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/SOURCES.txt",
+      "git_blob_sha": "f9a4eddcd155ff8c3e8d733f299e08f5db93e0dc",
+      "bytes": 482,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/image-sources.csv",
+      "git_blob_sha": "6281dfb62e0c0d1a5de602bffd360524cd1e12bf",
+      "bytes": 474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/images/inat-119191059.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Streptanthus/streptanthus-petiolaris/images/inat-119191059.jpg",
+      "git_blob_sha": "01f1ef7f27b2361ea93404d53e2152712e09aee2",
+      "bytes": 84249,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/species.json",
+      "destination": "content/taxa/Brassicaceae/Streptanthus/streptanthus-petiolaris/species.json",
+      "git_blob_sha": "713188c470b2db206645eb76e277f42939ed84a6",
+      "bytes": 1487,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/SOURCES.txt",
+      "destination": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/SOURCES.txt",
+      "git_blob_sha": "824eb0293c84cc220b296b93bcf458673dfe0098",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/image-sources.csv",
+      "destination": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/image-sources.csv",
+      "git_blob_sha": "2042b568ed0c3fc7b4aa993ae74bb827ebe9d10a",
+      "bytes": 473,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/images/inat-260642436.jpg",
+      "destination": "migration/private-original-photo-holds/Brassicaceae/Tomostima/tomostima-cuneifolia/images/inat-260642436.jpg",
+      "git_blob_sha": "f5d04db9d24e5c1ce1f655e57da2185279042178",
+      "bytes": 288693,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/species.json",
+      "destination": "content/taxa/Brassicaceae/Tomostima/tomostima-cuneifolia/species.json",
+      "git_blob_sha": "2d45b90a5ba78e5add029f1711d183a61414c155",
+      "bytes": 1437,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Brassicaceae/family.json",
+      "destination": "content/taxa/Brassicaceae/family.json",
+      "git_blob_sha": "1847808d343ce8e5f5b95e0a22cc770f2c2637b3",
+      "bytes": 13804,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/SOURCES.txt",
+      "destination": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/SOURCES.txt",
+      "git_blob_sha": "e485e4983b1cdfc5fa46a8d1936fc2aed6afc344",
+      "bytes": 647,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/image-sources.csv",
+      "destination": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/image-sources.csv",
+      "git_blob_sha": "7bb0aa6b2f2912c5d6bceab65d2c90eda4e3f177",
+      "bytes": 464,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/images/inat-88035746.jpg",
+      "destination": "migration/private-original-photo-holds/Cleomaceae/Cleome/cleome-dodecandra/images/inat-88035746.jpg",
+      "git_blob_sha": "1dd04a4ee619cbc2f8037d7eb80f9f129916fd9a",
+      "bytes": 300186,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/species.json",
+      "destination": "content/taxa/Cleomaceae/Cleome/cleome-dodecandra/species.json",
+      "git_blob_sha": "0a2919809795929bfc3bee596b19d911520bf37a",
+      "bytes": 1603,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/SOURCES.txt",
+      "destination": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/SOURCES.txt",
+      "git_blob_sha": "e4cb8f1d639768a3d3f3671f615924928a18ed19",
+      "bytes": 682,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/image-sources.csv",
+      "destination": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/image-sources.csv",
+      "git_blob_sha": "4955be6dec073b44a2befe8e36e2d035f7904328",
+      "bytes": 477,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/images/inat-81663328.jpg",
+      "destination": "migration/private-original-photo-holds/Cleomaceae/Cleome/cleome-trachysperma/images/inat-81663328.jpg",
+      "git_blob_sha": "0230cba5071a56252d219972da3a157683df28b1",
+      "bytes": 141337,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/species.json",
+      "destination": "content/taxa/Cleomaceae/Cleome/cleome-trachysperma/species.json",
+      "git_blob_sha": "57025ba1367b3e8a8ba27bb630dc66c3bb3d6ed2",
+      "bytes": 1812,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cleomaceae/family.json",
+      "destination": "content/taxa/Cleomaceae/family.json",
+      "git_blob_sha": "a2a720174fe7b4d60dce53bbc810c26b448d6c58",
+      "bytes": 7774,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/SOURCES.txt",
+      "destination": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/SOURCES.txt",
+      "git_blob_sha": "6d343313b2017efdab9f286643291b81fc938269",
+      "bytes": 464,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/image-sources.csv",
+      "destination": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/image-sources.csv",
+      "git_blob_sha": "4b1211d877ad1ea06d838866ec1d6aa2d9bfea07",
+      "bytes": 457,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/images/inat-3358791.jpg",
+      "destination": "migration/private-original-photo-holds/Crassulaceae/Sedum/sedum-nuttallii/images/inat-3358791.jpg",
+      "git_blob_sha": "b053808328380b099002f8043abd7395041b46b2",
+      "bytes": 217925,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/species.json",
+      "destination": "content/taxa/Crassulaceae/Sedum/sedum-nuttallii/species.json",
+      "git_blob_sha": "800528a63c85116f3f7cb19e80a5e8a413a3442c",
+      "bytes": 1458,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Crassulaceae/family.json",
+      "destination": "content/taxa/Crassulaceae/family.json",
+      "git_blob_sha": "25a16d83c8c822d25a4dde7254e545445c91c132",
+      "bytes": 6170,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/SOURCES.txt",
+      "destination": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/SOURCES.txt",
+      "git_blob_sha": "2bbfa3b39f983be336e6ef5d41067859b93bfade",
+      "bytes": 1204,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/image-sources.csv",
+      "destination": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/image-sources.csv",
+      "git_blob_sha": "b96acddfa748883eba2a2d2179943f5a3ebe4497",
+      "bytes": 446,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/images/cucumis-melo-starr-080815-9781.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucumis/cucumis-melo/images/cucumis-melo-starr-080815-9781.jpg",
+      "git_blob_sha": "dc386d160ab5a63da8ebe10856e3c3ab58d69508",
+      "bytes": 193822,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/species.json",
+      "destination": "content/taxa/Cucurbitaceae/Cucumis/cucumis-melo/species.json",
+      "git_blob_sha": "18327aeaf6581aba475df0a3c4caa232d73ef370",
+      "bytes": 2016,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/SOURCES.txt",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/SOURCES.txt",
+      "git_blob_sha": "d21ff324b88cf6038e84cbf8d0bc625b3bc45a07",
+      "bytes": 1593,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/image-sources.csv",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/image-sources.csv",
+      "git_blob_sha": "f5a5b33afca06bce61515d899617efffb376780b",
+      "bytes": 1790,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg",
+      "git_blob_sha": "86f48ed17c3d25165a77ebc20ccceec6fe21b98f",
+      "bytes": 501874,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/library-review011-002e0d4e099ea29.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/library-review011-002e0d4e099ea29.jpg",
+      "git_blob_sha": "8dad944b078a44e71654d8532cc0571a8f6dbf58",
+      "bytes": 228841,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/library-review011-5c4b1fffce1070d.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/images/library-review011-5c4b1fffce1070d.jpg",
+      "git_blob_sha": "2601b91e6ca5a811aa99e048d0830c8c7e097900",
+      "bytes": 693166,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/species.json",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-foetidissima/species.json",
+      "git_blob_sha": "b0965e8927d4e0c83cc946f39d5d9711372dde56",
+      "bytes": 7833,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/SOURCES.txt",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/SOURCES.txt",
+      "git_blob_sha": "2b514b2491a8423ef28242bfdf3355a6539eb9a5",
+      "bytes": 473,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/image-sources.csv",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/image-sources.csv",
+      "git_blob_sha": "723286c246200a42ac7b050efe9f4a3f9404f93f",
+      "bytes": 469,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/images/inat-312484037.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucurbita/cucurbita-melopepo/images/inat-312484037.jpg",
+      "git_blob_sha": "55ac27cc385b297f1f0afaf6c935201dd1ec6338",
+      "bytes": 333138,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/species.json",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-melopepo/species.json",
+      "git_blob_sha": "da302691dc756dc383ac7d168bb83a0f4bbab36b",
+      "bytes": 1456,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/SOURCES.txt",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/SOURCES.txt",
+      "git_blob_sha": "94df35c5023efba067f988ba35421d25c63cd425",
+      "bytes": 1178,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/image-sources.csv",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/image-sources.csv",
+      "git_blob_sha": "ab505afe2cdb062f2f80d25c3c055229fc2ebbc0",
+      "bytes": 1210,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/images/cucurbita-pepo-straightneck-habit-commons.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucurbita/cucurbita-pepo/images/cucurbita-pepo-straightneck-habit-commons.jpg",
+      "git_blob_sha": "097101fde955213d049f678924be0283f20c262c",
+      "bytes": 434840,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/images/library-review015-75e1f1eb3bbeb91.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Cucurbita/cucurbita-pepo/images/library-review015-75e1f1eb3bbeb91.jpg",
+      "git_blob_sha": "6fc358917ed054349b0bed6c66bd9f3805b2baca",
+      "bytes": 243030,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/species.json",
+      "destination": "content/taxa/Cucurbitaceae/Cucurbita/cucurbita-pepo/species.json",
+      "git_blob_sha": "bf501b882c282ed495710ad2c3e796827da838fc",
+      "bytes": 6116,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/SOURCES.txt",
+      "destination": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/SOURCES.txt",
+      "git_blob_sha": "2eac03a46515ed548790658b3c0cf4b81570138f",
+      "bytes": 479,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/image-sources.csv",
+      "destination": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/image-sources.csv",
+      "git_blob_sha": "33d790c7d9e157444cc524059313b1d7d12ad67e",
+      "bytes": 471,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/images/inat-345863102.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/images/inat-345863102.jpg",
+      "git_blob_sha": "00f984a32fc46f41e45e919ec62cc639d48f9714",
+      "bytes": 137466,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/species.json",
+      "destination": "content/taxa/Cucurbitaceae/Ibervillea/ibervillea-lindheimeri/species.json",
+      "git_blob_sha": "625ede3c68b310cb27e39c36f3f2da4ba904c2f7",
+      "bytes": 1498,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/SOURCES.txt",
+      "destination": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/SOURCES.txt",
+      "git_blob_sha": "b427b392c19ad1d2832dca0e1ab2bd8f8dcd8ad9",
+      "bytes": 902,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/image-sources.csv",
+      "destination": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/image-sources.csv",
+      "git_blob_sha": "1bc4e92b1ba66b6d4f38a456672989d574ae240a",
+      "bytes": 1191,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/images/inat-15290567.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Melothria/melothria-pendula/images/inat-15290567.jpg",
+      "git_blob_sha": "2ca7c6d801f586a2641d25048697ac6440fdef7a",
+      "bytes": 112412,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/images/library-review047-519e08105e675d0.jpg",
+      "destination": "migration/private-original-photo-holds/Cucurbitaceae/Melothria/melothria-pendula/images/library-review047-519e08105e675d0.jpg",
+      "git_blob_sha": "bcb02214fd1541acf8889a6c3246110c188f310b",
+      "bytes": 599474,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/species.json",
+      "destination": "content/taxa/Cucurbitaceae/Melothria/melothria-pendula/species.json",
+      "git_blob_sha": "1d93fe3806e0ff919a8949fd66f7615b582b8f0b",
+      "bytes": 3599,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cucurbitaceae/family.json",
+      "destination": "content/taxa/Cucurbitaceae/family.json",
+      "git_blob_sha": "806a4563e853d66bf386633e0763e00242daf0a2",
+      "bytes": 14368,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/genus.json",
+      "destination": "content/taxa/Cupressaceae/Juniperus/genus.json",
+      "git_blob_sha": "33978782eff19ddae93dbcdd436eb128bce7e2b6",
+      "bytes": 5169,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/SOURCES.txt",
+      "destination": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/SOURCES.txt",
+      "git_blob_sha": "a56b256ead659a9af04e25c393457d8caacaa227",
+      "bytes": 2159,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/image-sources.csv",
+      "destination": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/image-sources.csv",
+      "git_blob_sha": "d08ca2f48693d1d0825318785cfd1aade0558ef6",
+      "bytes": 1457,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/images/01-female-cones-foliage.jpeg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Juniperus/juniperus-ashei/images/01-female-cones-foliage.jpeg",
+      "git_blob_sha": "fc87da5e5f0105d8b9446b1f0ab2a646dbaa0538",
+      "bytes": 41750,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/images/02-habit-habitat.jpeg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Juniperus/juniperus-ashei/images/02-habit-habitat.jpeg",
+      "git_blob_sha": "585cdc8223f2a031ab2956b9ca30a705e6a05adb",
+      "bytes": 564478,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/images/glass-root-garden-600607665-blue-cones-scale-foliage.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Juniperus/juniperus-ashei/images/glass-root-garden-600607665-blue-cones-scale-foliage.jpg",
+      "git_blob_sha": "8a723435caa61ec4efb2b1149ebd4036d2448353",
+      "bytes": 243752,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/images/glass-root-garden-637169478-shredding-bark.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Juniperus/juniperus-ashei/images/glass-root-garden-637169478-shredding-bark.jpg",
+      "git_blob_sha": "38e4daa5c39b76e0bb44dec112cd9937c9029cf8",
+      "bytes": 327482,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/species.json",
+      "destination": "content/taxa/Cupressaceae/Juniperus/juniperus-ashei/species.json",
+      "git_blob_sha": "17cca3cf5226f43e6421f0fd401c617418b6100d",
+      "bytes": 6762,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/SOURCES.txt",
+      "destination": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/SOURCES.txt",
+      "git_blob_sha": "802249fb839a8c1d52e96873d5365cf9bd3ee5bd",
+      "bytes": 2427,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/image-sources.csv",
+      "destination": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/image-sources.csv",
+      "git_blob_sha": "06c35037e8253a2249a266b7e391bb1bc8abda63",
+      "bytes": 937,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/images/gbif-manual-5938127638-d53f00e30.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Juniperus/juniperus-virginiana/images/gbif-manual-5938127638-d53f00e30.jpg",
+      "git_blob_sha": "b4fe036b7aa5d6753dfa4b7f088d8f1975501892",
+      "bytes": 289723,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/images/juniperus-virginiana_scale-foliage-source-label_19-20.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Juniperus/juniperus-virginiana/images/juniperus-virginiana_scale-foliage-source-label_19-20.jpg",
+      "git_blob_sha": "f56a2e327f198d195044eb7d6c4ff539f02e1de0",
+      "bytes": 195056,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/species.json",
+      "destination": "content/taxa/Cupressaceae/Juniperus/juniperus-virginiana/species.json",
+      "git_blob_sha": "bf6fed51602b48aa5397ffd154cf7a744e895dd2",
+      "bytes": 8603,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/genus.json",
+      "destination": "content/taxa/Cupressaceae/Taxodium/genus.json",
+      "git_blob_sha": "2486cc7e41afe5a273371eaabba4069ffd03a586",
+      "bytes": 681,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/SOURCES.txt",
+      "destination": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/SOURCES.txt",
+      "git_blob_sha": "b49ae1b644d5ce779d53abcb18c49048a9fc824e",
+      "bytes": 1805,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/image-sources.csv",
+      "destination": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/image-sources.csv",
+      "git_blob_sha": "5087de4ee4220e8771fc31364857a1df213c260f",
+      "bytes": 1738,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/images/01-texas-habit.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Taxodium/taxodium-distichum/images/01-texas-habit.jpg",
+      "git_blob_sha": "23b3f9e556834eb28176f753e4fdbbbb5a9639e9",
+      "bytes": 462404,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/images/02-foliage-cones.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Taxodium/taxodium-distichum/images/02-foliage-cones.jpg",
+      "git_blob_sha": "6aec5ed03f07192f1c18115724062206120e1dbf",
+      "bytes": 660691,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/images/03-bark.jpg",
+      "destination": "migration/private-original-photo-holds/Cupressaceae/Taxodium/taxodium-distichum/images/03-bark.jpg",
+      "git_blob_sha": "435cb0f40bb8e010c9ad6ad1663f7929272f8942",
+      "bytes": 527707,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/species.json",
+      "destination": "content/taxa/Cupressaceae/Taxodium/taxodium-distichum/species.json",
+      "git_blob_sha": "bd30e380a6bc38b967818604247bdbddd7d16510",
+      "bytes": 3342,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Cupressaceae/family.json",
+      "destination": "content/taxa/Cupressaceae/family.json",
+      "git_blob_sha": "336a5dd53b8405a2e177822cd36e017ce8528a74",
+      "bytes": 3716,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/SOURCES.txt",
+      "destination": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/SOURCES.txt",
+      "git_blob_sha": "607fceb83d6b1f3411c7306adaad2c0f18db66b5",
+      "bytes": 479,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/image-sources.csv",
+      "destination": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/image-sources.csv",
+      "git_blob_sha": "71b105b357ee5375b4d96a3880015b374ffcb5f9",
+      "bytes": 464,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/images/inat-2913111.jpg",
+      "destination": "migration/private-original-photo-holds/Ephedraceae/Ephedra/ephedra-antisyphilitica/images/inat-2913111.jpg",
+      "git_blob_sha": "772efe3861acd5efae8e153490ee5f5c147809a6",
+      "bytes": 284409,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/species.json",
+      "destination": "content/taxa/Ephedraceae/Ephedra/ephedra-antisyphilitica/species.json",
+      "git_blob_sha": "eec1398c3a12a76d4c4eeed761ed68772a14bfba",
+      "bytes": 1500,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/SOURCES.txt",
+      "destination": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/SOURCES.txt",
+      "git_blob_sha": "f5ebdf8adcc7add3c4947d64d3295e1cefcb7563",
+      "bytes": 864,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/image-sources.csv",
+      "destination": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/image-sources.csv",
+      "git_blob_sha": "b13b7a3e6e5492861f7e29d7284e22b5f9db97dd",
+      "bytes": 519,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "destination": "migration/private-original-photo-holds/Ephedraceae/Ephedra/ephedra-trifurca/images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "git_blob_sha": "f5cddc0c853bed12f6cefe02f5c2be6c0f88de6c",
+      "bytes": 120083,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/species.json",
+      "destination": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/species.json",
+      "git_blob_sha": "cabc46c36b2c19f10c75d8538f580b3ec781e467",
+      "bytes": 1708,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ephedraceae/family.json",
+      "destination": "content/taxa/Ephedraceae/family.json",
+      "git_blob_sha": "55c4f8e2fc24d4d0c45febbeb7c05baae3901a65",
+      "bytes": 8316,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/SOURCES.txt",
+      "destination": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/SOURCES.txt",
+      "git_blob_sha": "fd903477047e2084f5cc2716101244b29f213edb",
+      "bytes": 1356,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/image-sources.csv",
+      "destination": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/image-sources.csv",
+      "git_blob_sha": "005ced25bbb135b0b03c6ba435c04e7cf130560a",
+      "bytes": 1814,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/images/inat-59548486.jpg",
+      "destination": "migration/private-original-photo-holds/Equisetaceae/Equisetum/equisetum-hyemale/images/inat-59548486.jpg",
+      "git_blob_sha": "3a10d8dfb82fbff9ac0efeb5b9b23a00a12a5a79",
+      "bytes": 64557,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/images/library-review043-6cf452548f4056c.jpg",
+      "destination": "migration/private-original-photo-holds/Equisetaceae/Equisetum/equisetum-hyemale/images/library-review043-6cf452548f4056c.jpg",
+      "git_blob_sha": "c078174cb835f7212da524c3c1507795f682793c",
+      "bytes": 564882,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/images/library-review043-d4e7ebdf6d8bb1f.jpg",
+      "destination": "migration/private-original-photo-holds/Equisetaceae/Equisetum/equisetum-hyemale/images/library-review043-d4e7ebdf6d8bb1f.jpg",
+      "git_blob_sha": "6a935d1375eda29f0d592ddc75e18de9b20b0f42",
+      "bytes": 465553,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/species.json",
+      "destination": "content/taxa/Equisetaceae/Equisetum/equisetum-hyemale/species.json",
+      "git_blob_sha": "5be64e844848f86a27875f2d5aae73b1148e81b1",
+      "bytes": 5455,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Equisetaceae/family.json",
+      "destination": "content/taxa/Equisetaceae/family.json",
+      "git_blob_sha": "e4d177d261ceef2e152d7defe02ad8cb3765bdc9",
+      "bytes": 10121,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/SOURCES.txt",
+      "destination": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/SOURCES.txt",
+      "git_blob_sha": "8133f8f9a7ac82be40f969e4538cb85483a92009",
+      "bytes": 472,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/image-sources.csv",
+      "destination": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/image-sources.csv",
+      "git_blob_sha": "f36b9da193920669df2bffd3bfb60e20c3692f3e",
+      "bytes": 460,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/images/inat-635130438.jpg",
+      "destination": "migration/private-original-photo-holds/Fouquieriaceae/Fouquieria/fouquieria-splendens/images/inat-635130438.jpg",
+      "git_blob_sha": "ead5dcd83c632353a601b6df830cb4916a2b3636",
+      "bytes": 188503,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/species.json",
+      "destination": "content/taxa/Fouquieriaceae/Fouquieria/fouquieria-splendens/species.json",
+      "git_blob_sha": "e4a60f0cc35dff0d393f18e217980a50498a2534",
+      "bytes": 1453,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Fouquieriaceae/family.json",
+      "destination": "content/taxa/Fouquieriaceae/family.json",
+      "git_blob_sha": "0a7671830d615b004c570c8536be4f5b8d5a52ae",
+      "bytes": 6307,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/SOURCES.txt",
+      "destination": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/SOURCES.txt",
+      "git_blob_sha": "0894b962ba2063b329f9c0154328275c6a7b5e23",
+      "bytes": 87,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/image-sources.csv",
+      "destination": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/image-sources.csv",
+      "git_blob_sha": "ac22624b64c09cd98972b91f12359939242a1f79",
+      "bytes": 391,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/images/erodium-cicutarium-ivanhoe65.jpg",
+      "destination": "migration/private-original-photo-holds/Geraniaceae/Erodium/erodium-cicutarium/images/erodium-cicutarium-ivanhoe65.jpg",
+      "git_blob_sha": "6d9e52c0b0c0abc75112f34f6119423c4c9007cc",
+      "bytes": 255149,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/species.json",
+      "destination": "content/taxa/Geraniaceae/Erodium/erodium-cicutarium/species.json",
+      "git_blob_sha": "f7336ab4a54f9f4601f816240bd263f539811ae7",
+      "bytes": 1996,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-texanum/SOURCES.txt",
+      "destination": "content/taxa/Geraniaceae/Erodium/erodium-texanum/SOURCES.txt",
+      "git_blob_sha": "d4518124cd5e1a72d3a830bf78edcd7d2cfcc50c",
+      "bytes": 904,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-texanum/image-sources.csv",
+      "destination": "content/taxa/Geraniaceae/Erodium/erodium-texanum/image-sources.csv",
+      "git_blob_sha": "3a39f59f536de8ac67eed10796cababd65906ebd",
+      "bytes": 1171,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-texanum/images/inat-363514133.jpg",
+      "destination": "migration/private-original-photo-holds/Geraniaceae/Erodium/erodium-texanum/images/inat-363514133.jpg",
+      "git_blob_sha": "559a3124c48f23618180dfb8f7ef073884fee7f1",
+      "bytes": 141236,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-texanum/images/library-review047-1bb1900d7d7666e.jpg",
+      "destination": "migration/private-original-photo-holds/Geraniaceae/Erodium/erodium-texanum/images/library-review047-1bb1900d7d7666e.jpg",
+      "git_blob_sha": "0ec2ee39efb517d72652d1d8855edb2213cc12cf",
+      "bytes": 644337,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/erodium-texanum/species.json",
+      "destination": "content/taxa/Geraniaceae/Erodium/erodium-texanum/species.json",
+      "git_blob_sha": "2f036769c549c79e90ba973028fbdf1908130c6b",
+      "bytes": 3559,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Erodium/genus.json",
+      "destination": "content/taxa/Geraniaceae/Erodium/genus.json",
+      "git_blob_sha": "1ae9de85671085150ffacea6d47432593a98324c",
+      "bytes": 7485,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/genus.json",
+      "destination": "content/taxa/Geraniaceae/Geranium/genus.json",
+      "git_blob_sha": "1de577cbc0c5d35e5aabe95e547a58c8684892a5",
+      "bytes": 9440,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/SOURCES.txt",
+      "destination": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/SOURCES.txt",
+      "git_blob_sha": "41bc545c7e0ce746245521e9aeaf097397704221",
+      "bytes": 929,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/image-sources.csv",
+      "destination": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/image-sources.csv",
+      "git_blob_sha": "21e845e70d09f4c342ad4685a165fee10e56191e",
+      "bytes": 1133,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/images/inat-324671590.jpg",
+      "destination": "migration/private-original-photo-holds/Geraniaceae/Geranium/geranium-carolinianum/images/inat-324671590.jpg",
+      "git_blob_sha": "58371e324a55d65e97c9766356cc1ee54d4e8d67",
+      "bytes": 134908,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/images/library-review054-1ab9d3026baf1c8.jpg",
+      "destination": "migration/private-original-photo-holds/Geraniaceae/Geranium/geranium-carolinianum/images/library-review054-1ab9d3026baf1c8.jpg",
+      "git_blob_sha": "67f8647ab6efcc6a3e8228fbf3d1de67324b34b7",
+      "bytes": 421031,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/species.json",
+      "destination": "content/taxa/Geraniaceae/Geranium/geranium-carolinianum/species.json",
+      "git_blob_sha": "2270e624c0b694374ce8cdc9da4fab8457a86a0a",
+      "bytes": 3468,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-texanum/SOURCES.txt",
+      "destination": "content/taxa/Geraniaceae/Geranium/geranium-texanum/SOURCES.txt",
+      "git_blob_sha": "cac57827636e8a2cdce4f610781ad24b99664567",
+      "bytes": 481,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-texanum/image-sources.csv",
+      "destination": "content/taxa/Geraniaceae/Geranium/geranium-texanum/image-sources.csv",
+      "git_blob_sha": "df5d5935ba8893aceab068b62f4ab5240d8edf9b",
+      "bytes": 480,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-texanum/images/inat-262484738.jpg",
+      "destination": "migration/private-original-photo-holds/Geraniaceae/Geranium/geranium-texanum/images/inat-262484738.jpg",
+      "git_blob_sha": "3dbbc1bdb1f37b3ad5e6395123b21a3500139f80",
+      "bytes": 104513,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/Geranium/geranium-texanum/species.json",
+      "destination": "content/taxa/Geraniaceae/Geranium/geranium-texanum/species.json",
+      "git_blob_sha": "365f999e91388f7736e5616cd6ab445663c0ca9d",
+      "bytes": 1476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Geraniaceae/family.json",
+      "destination": "content/taxa/Geraniaceae/family.json",
+      "git_blob_sha": "e5a14b4927838f6c926e9b63bc10f3c014bfcd47",
+      "bytes": 7634,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/SOURCES.txt",
+      "destination": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/SOURCES.txt",
+      "git_blob_sha": "998acaed1ec45b0b2aaa1e6bca56b4dc3dfe257b",
+      "bytes": 1230,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/image-sources.csv",
+      "destination": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/image-sources.csv",
+      "git_blob_sha": "1f68c171aafc59b50d9d898d7e56b65fc2be8de7",
+      "bytes": 1703,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/ginkgo-biloba-fan-leaves-seed-commons.jpg",
+      "destination": "migration/private-original-photo-holds/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/ginkgo-biloba-fan-leaves-seed-commons.jpg",
+      "git_blob_sha": "26a99a4bfa07bc16c493837ba871cc10f67fb10e",
+      "bytes": 343743,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/library-review015-18b5905e41b2ce5.jpg",
+      "destination": "migration/private-original-photo-holds/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/library-review015-18b5905e41b2ce5.jpg",
+      "git_blob_sha": "823f02e8922e60455d521cb43c3a29ef4d25e414",
+      "bytes": 402273,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/library-review015-76708c74b7adfd5.jpg",
+      "destination": "migration/private-original-photo-holds/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/library-review015-76708c74b7adfd5.jpg",
+      "git_blob_sha": "2d1d6193cd5e803b57e3e3a055cf280df29eb6c5",
+      "bytes": 286396,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/species.json",
+      "destination": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/species.json",
+      "git_blob_sha": "f29411e48399555e53c236df968bccbcf7ea2764",
+      "bytes": 7389,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ginkgoaceae/family.json",
+      "destination": "content/taxa/Ginkgoaceae/family.json",
+      "git_blob_sha": "c454aaee372c701332fdaa8b597db9d2d5d67072",
+      "bytes": 7011,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-erecta/SOURCES.txt",
+      "destination": "content/taxa/Krameriaceae/Krameria/krameria-erecta/SOURCES.txt",
+      "git_blob_sha": "c116e622d5c292575515009fb885bf294231d38b",
+      "bytes": 476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-erecta/image-sources.csv",
+      "destination": "content/taxa/Krameriaceae/Krameria/krameria-erecta/image-sources.csv",
+      "git_blob_sha": "3babb5543f698e81b1610ab7712287e9818a7fdf",
+      "bytes": 476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-erecta/images/inat-280866215.jpg",
+      "destination": "migration/private-original-photo-holds/Krameriaceae/Krameria/krameria-erecta/images/inat-280866215.jpg",
+      "git_blob_sha": "7bb6d18bf9e5acf21200d99bd4fa7829d9a41c9f",
+      "bytes": 318546,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-erecta/species.json",
+      "destination": "content/taxa/Krameriaceae/Krameria/krameria-erecta/species.json",
+      "git_blob_sha": "bcc3304726dbccc4c9c6b0684e8dc4ddbaece479",
+      "bytes": 1491,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/SOURCES.txt",
+      "destination": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/SOURCES.txt",
+      "git_blob_sha": "f833ec112cb028037e74f4b15fb689597eb513c1",
+      "bytes": 631,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/image-sources.csv",
+      "destination": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/image-sources.csv",
+      "git_blob_sha": "80fd4a7cac2f8a175133e86e0bbc6e33e0a84d32",
+      "bytes": 795,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/images/gbif-manual-5938675533-76372dac1.jpg",
+      "destination": "migration/private-original-photo-holds/Krameriaceae/Krameria/krameria-lanceolata/images/gbif-manual-5938675533-76372dac1.jpg",
+      "git_blob_sha": "ce47fc51189c1ec47ddae4184a81187c6cf71844",
+      "bytes": 335123,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/images/inat-498681341.jpg",
+      "destination": "migration/private-original-photo-holds/Krameriaceae/Krameria/krameria-lanceolata/images/inat-498681341.jpg",
+      "git_blob_sha": "82a175d1448b2bd6c620bf2af5497677714f6d15",
+      "bytes": 241364,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/species.json",
+      "destination": "content/taxa/Krameriaceae/Krameria/krameria-lanceolata/species.json",
+      "git_blob_sha": "a891ca530f345014ea5bac752949501eff3d4842",
+      "bytes": 3117,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Krameriaceae/family.json",
+      "destination": "content/taxa/Krameriaceae/family.json",
+      "git_blob_sha": "b3a4133af668d49a2c677dce4619bb62570d53b4",
+      "bytes": 8456,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/SOURCES.txt",
+      "destination": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/SOURCES.txt",
+      "git_blob_sha": "418c51f8b367f0f0e2fe70695f807503b2194e34",
+      "bytes": 470,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/image-sources.csv",
+      "destination": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/image-sources.csv",
+      "git_blob_sha": "bba99fe561cb1f209ecfa1cfb3d5f5ac980cceeb",
+      "bytes": 466,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/images/inat-100711770.jpg",
+      "destination": "migration/private-original-photo-holds/Leucobryaceae/Leucobryum/leucobryum-albidum/images/inat-100711770.jpg",
+      "git_blob_sha": "0fa6663bab1a6574501fd6bea5e685a210717b97",
+      "bytes": 299675,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/species.json",
+      "destination": "content/taxa/Leucobryaceae/Leucobryum/leucobryum-albidum/species.json",
+      "git_blob_sha": "1337f0ca7fd3252916baf69f380f13e9b74af440",
+      "bytes": 1461,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucobryaceae/family.json",
+      "destination": "content/taxa/Leucobryaceae/family.json",
+      "git_blob_sha": "fd0076ff1cd7f8e5360a8baff599af3fcfa68cc4",
+      "bytes": 6745,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/SOURCES.txt",
+      "destination": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/SOURCES.txt",
+      "git_blob_sha": "0080d0faba53263dd164d4f107390b27e6578200",
+      "bytes": 471,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/image-sources.csv",
+      "destination": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/image-sources.csv",
+      "git_blob_sha": "407ad835fa5559f7f7580c0044eff7539f9dd45b",
+      "bytes": 468,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/images/inat-468896414.jpg",
+      "destination": "migration/private-original-photo-holds/Leucodontaceae/Leucodon/leucodon-julaceus/images/inat-468896414.jpg",
+      "git_blob_sha": "a066a17aa97eb4808141e02eef999c7167c8ab8d",
+      "bytes": 299224,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/species.json",
+      "destination": "content/taxa/Leucodontaceae/Leucodon/leucodon-julaceus/species.json",
+      "git_blob_sha": "4abb7bc6a6349aeedc8c5c2683bc758d75fff9c8",
+      "bytes": 1475,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Leucodontaceae/family.json",
+      "destination": "content/taxa/Leucodontaceae/family.json",
+      "git_blob_sha": "b7156ac3b1ae3e9d00990c2b331c52c1592cb023",
+      "bytes": 6705,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/SOURCES.txt",
+      "destination": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/SOURCES.txt",
+      "git_blob_sha": "6e6cd6c59f4dfec76d362cdee24d4f05499f44a0",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/image-sources.csv",
+      "destination": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/image-sources.csv",
+      "git_blob_sha": "e56eb90811d0248f4c5e766a0a35c98312e452ad",
+      "bytes": 476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/images/inat-592582693.jpg",
+      "destination": "migration/private-original-photo-holds/Loasaceae/Cevallia/cevallia-sinuata/images/inat-592582693.jpg",
+      "git_blob_sha": "24adb50efc5d75be959279b858984d489c44118e",
+      "bytes": 160024,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/species.json",
+      "destination": "content/taxa/Loasaceae/Cevallia/cevallia-sinuata/species.json",
+      "git_blob_sha": "9d3eb6b85c21a1b94c616aec7a57e6d7d826f29c",
+      "bytes": 1494,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/SOURCES.txt",
+      "destination": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/SOURCES.txt",
+      "git_blob_sha": "2627329cbb85e6c16a394296e8da687e4ff8d10f",
+      "bytes": 629,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/image-sources.csv",
+      "destination": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/image-sources.csv",
+      "git_blob_sha": "ea927b5f02e9e73bb526345881e8d707f0df53fc",
+      "bytes": 797,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/images/gbif-manual-6235444567-d01c9a58f.jpg",
+      "destination": "migration/private-original-photo-holds/Loasaceae/Mentzelia/mentzelia-oligosperma/images/gbif-manual-6235444567-d01c9a58f.jpg",
+      "git_blob_sha": "1c597b2baab58075d69955202f07774a06299061",
+      "bytes": 387335,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/images/inat-492868430.jpg",
+      "destination": "migration/private-original-photo-holds/Loasaceae/Mentzelia/mentzelia-oligosperma/images/inat-492868430.jpg",
+      "git_blob_sha": "8685f0f2983c1fdcbff901b8d32017a442b86b85",
+      "bytes": 305119,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/species.json",
+      "destination": "content/taxa/Loasaceae/Mentzelia/mentzelia-oligosperma/species.json",
+      "git_blob_sha": "3ce83362922536832b3bf6d6f90378fe4346c196",
+      "bytes": 3096,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Loasaceae/family.json",
+      "destination": "content/taxa/Loasaceae/family.json",
+      "git_blob_sha": "f80b5f07a752b1d638fa99ff587976dd11570e47",
+      "bytes": 6952,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/SOURCES.txt",
+      "destination": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/SOURCES.txt",
+      "git_blob_sha": "13d6e9e866cfaa295ce047909ad918f9df9d4b45",
+      "bytes": 664,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/image-sources.csv",
+      "destination": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/image-sources.csv",
+      "git_blob_sha": "a4b268cd932025b352ba2ff7f80943aa8000f000",
+      "bytes": 481,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/images/inat-154037149.jpg",
+      "destination": "migration/private-original-photo-holds/Malpighiaceae/Cottsia/cottsia-gracilis/images/inat-154037149.jpg",
+      "git_blob_sha": "889c90155815da3c4746afe8a54bbd3b3ca76549",
+      "bytes": 358738,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/species.json",
+      "destination": "content/taxa/Malpighiaceae/Cottsia/cottsia-gracilis/species.json",
+      "git_blob_sha": "c1baa16a8bb0840146c77a641fead450dedc20f8",
+      "bytes": 1619,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/SOURCES.txt",
+      "destination": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/SOURCES.txt",
+      "git_blob_sha": "7f837f645bcaab39bb47f7eb3735872b9276dd74",
+      "bytes": 169,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/image-sources.csv",
+      "destination": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/image-sources.csv",
+      "git_blob_sha": "3334c730d818617bf18513a6dd385a6d2621a537",
+      "bytes": 939,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/images/joey-332716807.jpg",
+      "destination": "migration/private-original-photo-holds/Malpighiaceae/Galphimia/galphimia-angustifolia/images/joey-332716807.jpg",
+      "git_blob_sha": "cb882b17a2e03ec0d694a346673c3c050c39efe5",
+      "bytes": 114244,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/images/joey-332716829.jpg",
+      "destination": "migration/private-original-photo-holds/Malpighiaceae/Galphimia/galphimia-angustifolia/images/joey-332716829.jpg",
+      "git_blob_sha": "5558e6f5cc89c1ad9c28cc366724521674cf61fd",
+      "bytes": 120624,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/images/joey-332716855.jpg",
+      "destination": "migration/private-original-photo-holds/Malpighiaceae/Galphimia/galphimia-angustifolia/images/joey-332716855.jpg",
+      "git_blob_sha": "e81f10aa3b68cf8f4472e7e4c985695180e047d3",
+      "bytes": 144385,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/species.json",
+      "destination": "content/taxa/Malpighiaceae/Galphimia/galphimia-angustifolia/species.json",
+      "git_blob_sha": "0e71b1c404df2822d58a73211f8e1ae532a95a8e",
+      "bytes": 2079,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/SOURCES.txt",
+      "destination": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/SOURCES.txt",
+      "git_blob_sha": "5204c338f5529c71964300466b584181e4a3bef7",
+      "bytes": 804,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/image-sources.csv",
+      "destination": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/image-sources.csv",
+      "git_blob_sha": "d9702bc2dee27d4a7cd0100cc65966602874eb21",
+      "bytes": 497,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/images/commons-galphimia-gracilis.jpg",
+      "destination": "migration/private-original-photo-holds/Malpighiaceae/Galphimia/galphimia-gracilis/images/commons-galphimia-gracilis.jpg",
+      "git_blob_sha": "4cc7cb56991f54f9f72567dec01424cd9c6bca84",
+      "bytes": 333251,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/species.json",
+      "destination": "content/taxa/Malpighiaceae/Galphimia/galphimia-gracilis/species.json",
+      "git_blob_sha": "8ff69537d176e366e997de832badb5da766ce8d3",
+      "bytes": 1531,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/SOURCES.txt",
+      "destination": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/SOURCES.txt",
+      "git_blob_sha": "f20e1cee3b6a491b7ae7d5557fb52ed4591fe005",
+      "bytes": 483,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/image-sources.csv",
+      "destination": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/image-sources.csv",
+      "git_blob_sha": "3684e7d6990073c755a94c8d7c066e4867260cdc",
+      "bytes": 476,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/images/inat-4821922.jpg",
+      "destination": "migration/private-original-photo-holds/Malpighiaceae/Malpighia/malpighia-glabra/images/inat-4821922.jpg",
+      "git_blob_sha": "b8a7b6ad71a8b226e49206e3c23bd1b37fad2f97",
+      "bytes": 80951,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/species.json",
+      "destination": "content/taxa/Malpighiaceae/Malpighia/malpighia-glabra/species.json",
+      "git_blob_sha": "0b64f8935938c62363c2cd3dc306253bb2f8dea6",
+      "bytes": 1474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Malpighiaceae/family.json",
+      "destination": "content/taxa/Malpighiaceae/family.json",
+      "git_blob_sha": "1d25fe6a2a6a36f3f21812940a5524ced2852a02",
+      "bytes": 8215,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/genus.json",
+      "destination": "content/taxa/Marsileaceae/Marsilea/genus.json",
+      "git_blob_sha": "1370a74388541f05733d5c1b5307aa53a7d6d265",
+      "bytes": 14517,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/SOURCES.txt",
+      "destination": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/SOURCES.txt",
+      "git_blob_sha": "2d781fcc51c6949deafdc64d32a706b941529fb9",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/image-sources.csv",
+      "destination": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/image-sources.csv",
+      "git_blob_sha": "5e90c06d53fbb7a17fd3df86116e08d6c2f26ec3",
+      "bytes": 474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/images/inat-462995346.jpg",
+      "destination": "migration/private-original-photo-holds/Marsileaceae/Marsilea/marsilea-macropoda/images/inat-462995346.jpg",
+      "git_blob_sha": "ae05af0ec3715635e784d5eb20302eb816ea4386",
+      "bytes": 115035,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/species.json",
+      "destination": "content/taxa/Marsileaceae/Marsilea/marsilea-macropoda/species.json",
+      "git_blob_sha": "89b5d15286dcbf362c048e1168d048f7b029783f",
+      "bytes": 1497,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/SOURCES.txt",
+      "destination": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/SOURCES.txt",
+      "git_blob_sha": "44978b138bd73d0ba571c5dd163bdd600a6a60e0",
+      "bytes": 754,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/image-sources.csv",
+      "destination": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/image-sources.csv",
+      "git_blob_sha": "04566aa1a9c7f098dd954f1a4f28bf00d222c99d",
+      "bytes": 527,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/images/commons-marsilea-vestita.jpg",
+      "destination": "migration/private-original-photo-holds/Marsileaceae/Marsilea/marsilea-vestita/images/commons-marsilea-vestita.jpg",
+      "git_blob_sha": "55d6b908316a1c6342a1b91617070e0f93107520",
+      "bytes": 174901,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/species.json",
+      "destination": "content/taxa/Marsileaceae/Marsilea/marsilea-vestita/species.json",
+      "git_blob_sha": "135539c6bc229e59e0b3912104d1b62483d4a83e",
+      "bytes": 1702,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Marsileaceae/family.json",
+      "destination": "content/taxa/Marsileaceae/family.json",
+      "git_blob_sha": "3eb7fae07e3d9d079c5af803396fd6d4e3eac29f",
+      "bytes": 12490,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/SOURCES.txt",
+      "destination": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/SOURCES.txt",
+      "git_blob_sha": "b3b1c521834f8bce93e19a02ea862d625ddf9eef",
+      "bytes": 634,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/image-sources.csv",
+      "destination": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/image-sources.csv",
+      "git_blob_sha": "ca25722f494b72e888a6ee9305fcd23dd5c32d95",
+      "bytes": 468,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/images/inat-600622078.jpg",
+      "destination": "migration/private-original-photo-holds/Ophioglossaceae/Botrychium/botrychium-biternatum/images/inat-600622078.jpg",
+      "git_blob_sha": "1f2b184a157cb673fccd48543e20e99093eda2df",
+      "bytes": 178397,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/species.json",
+      "destination": "content/taxa/Ophioglossaceae/Botrychium/botrychium-biternatum/species.json",
+      "git_blob_sha": "c4d380133b3a527d34170db1a687d7b1e51ae941",
+      "bytes": 1746,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Ophioglossaceae/family.json",
+      "destination": "content/taxa/Ophioglossaceae/family.json",
+      "git_blob_sha": "3fafafe7041e7ef50f06858de83e705ce6b136e2",
+      "bytes": 9681,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/genus.json",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/genus.json",
+      "git_blob_sha": "b891fab62d7e6000e1f169a630dc7601dec5af31",
+      "bytes": 16920,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/SOURCES.txt",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/SOURCES.txt",
+      "git_blob_sha": "efc2e27b40c0d178c0adb9862c5a55f55c8db024",
+      "bytes": 483,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/image-sources.csv",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/image-sources.csv",
+      "git_blob_sha": "ee8aaeebee39c28ab955bc313262218d802cfe10",
+      "bytes": 482,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/images/inat-116990833.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-albicans/images/inat-116990833.jpg",
+      "git_blob_sha": "2a211a28eb03d2acd7001dc665d8cc196aad4213",
+      "bytes": 267700,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/species.json",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-albicans/species.json",
+      "git_blob_sha": "ab076d39bc7bebf97c4350770193a4a432f4eaa6",
+      "bytes": 1486,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/SOURCES.txt",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/SOURCES.txt",
+      "git_blob_sha": "e6051f52a6beb09ddba3744c69518924daf46d30",
+      "bytes": 1574,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/image-sources.csv",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/image-sources.csv",
+      "git_blob_sha": "aacdfcd85e8ad78cb7d96f873c6989777be6e9b4",
+      "bytes": 550,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-abbamouse-fruit.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-abbamouse-fruit.jpg",
+      "git_blob_sha": "cde1fc0fb4922409695c42f5d3cdb6ba192a6cc5",
+      "bytes": 70484,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-lorichin-plant.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-lorichin-plant.jpg",
+      "git_blob_sha": "ca16229a8db577efaf66c8541408226816fd531d",
+      "bytes": 283860,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/species.json",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/species.json",
+      "git_blob_sha": "7953234ef33f79f10d807407bc54069ac72b0ce4",
+      "bytes": 4074,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/SOURCES.txt",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/SOURCES.txt",
+      "git_blob_sha": "ac6003b41f45b9f3c5a2d89386a41ab908c3cd50",
+      "bytes": 1501,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/image-sources.csv",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/image-sources.csv",
+      "git_blob_sha": "9adc73614d5e6d14bb2ed7bfdc9b15af446d55af",
+      "bytes": 526,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/images/oxalis-drummondii-conrad-uvalde-flower-leaves.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-drummondii/images/oxalis-drummondii-conrad-uvalde-flower-leaves.jpg",
+      "git_blob_sha": "88ee3545e9f4f67124fcf81e66d08df52219e7ef",
+      "bytes": 78755,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/images/oxalis-drummondii-conrad-uvalde-flower-side.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-drummondii/images/oxalis-drummondii-conrad-uvalde-flower-side.jpg",
+      "git_blob_sha": "261ca068abf940c068e260e172f17657ec7660ee",
+      "bytes": 44999,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/species.json",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-drummondii/species.json",
+      "git_blob_sha": "8a36fa288b4d44acac953bcac8811638fa7584b8",
+      "bytes": 4670,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/SOURCES.txt",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/SOURCES.txt",
+      "git_blob_sha": "7dbdc8d72faf6ff4fe073f9849351247c779d691",
+      "bytes": 1629,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/image-sources.csv",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/image-sources.csv",
+      "git_blob_sha": "91df5d81a57ef4e41c750cb6786e6acda6ca1846",
+      "bytes": 697,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/images/oxalis-stricta-cornell-flower-leaves.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-stricta/images/oxalis-stricta-cornell-flower-leaves.jpg",
+      "git_blob_sha": "1f7924625e81d47f242631d5284694bf5689cd3c",
+      "bytes": 88749,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/images/oxalis-stricta-cornell-habit.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-stricta/images/oxalis-stricta-cornell-habit.jpg",
+      "git_blob_sha": "0d095a2835bd00ce09c5241745f8e6cc0fdd2a38",
+      "bytes": 177385,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/species.json",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-stricta/species.json",
+      "git_blob_sha": "29f0eabd91231dc15aa05af33f9f3b695057288d",
+      "bytes": 4101,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/SOURCES.txt",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/SOURCES.txt",
+      "git_blob_sha": "7644d467bcf131f9989067675e9911ddfaa453ef",
+      "bytes": 540,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/image-sources.csv",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/image-sources.csv",
+      "git_blob_sha": "f157fca42826f2ba8b5be18a503ecaf3fe42aed6",
+      "bytes": 612,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/images/oxalis-violacea-dcrjsr-flower-leaves.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-violacea/images/oxalis-violacea-dcrjsr-flower-leaves.jpg",
+      "git_blob_sha": "37568e58f5825c17d24de0e2a2a166cd21cf8615",
+      "bytes": 130445,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/images/oxalis-violacea-fritzflohrreynolds-habit.jpg",
+      "destination": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-violacea/images/oxalis-violacea-fritzflohrreynolds-habit.jpg",
+      "git_blob_sha": "1d8d42fa3902d291ddc1e1009276eb46f9886bd7",
+      "bytes": 176893,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/species.json",
+      "destination": "content/taxa/Oxalidaceae/Oxalis/oxalis-violacea/species.json",
+      "git_blob_sha": "4a02675fd082a2b8905b522d9e2dc78631e99af6",
+      "bytes": 3691,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Oxalidaceae/family.json",
+      "destination": "content/taxa/Oxalidaceae/family.json",
+      "git_blob_sha": "302ea4a7fa74a5ee89794a83a3881ff5bf69c721",
+      "bytes": 10362,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-echinata/SOURCES.txt",
+      "destination": "content/taxa/Pinaceae/Pinus/pinus-echinata/SOURCES.txt",
+      "git_blob_sha": "fc6eceb5c895496f0040f3781387cc3eb3da88b7",
+      "bytes": 799,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-echinata/image-sources.csv",
+      "destination": "content/taxa/Pinaceae/Pinus/pinus-echinata/image-sources.csv",
+      "git_blob_sha": "a963feca790eff66001d618f8fd2176663b50991",
+      "bytes": 558,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-echinata/images/commons-pinus-echinata.jpg",
+      "destination": "migration/private-original-photo-holds/Pinaceae/Pinus/pinus-echinata/images/commons-pinus-echinata.jpg",
+      "git_blob_sha": "83fee84b339ba84b9dc9a4b4cd5b98eea561b0bc",
+      "bytes": 129659,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-echinata/species.json",
+      "destination": "content/taxa/Pinaceae/Pinus/pinus-echinata/species.json",
+      "git_blob_sha": "1471fd242c4e98f42321e729a6bc4f17f2d63145",
+      "bytes": 1694,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-taeda/SOURCES.txt",
+      "destination": "content/taxa/Pinaceae/Pinus/pinus-taeda/SOURCES.txt",
+      "git_blob_sha": "26b1e3a3fc88ad402a5b106134658b9d6053992a",
+      "bytes": 781,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-taeda/image-sources.csv",
+      "destination": "content/taxa/Pinaceae/Pinus/pinus-taeda/image-sources.csv",
+      "git_blob_sha": "7796f0945e5e6bc341e390ace248a5ad5f90bbfe",
+      "bytes": 531,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-taeda/images/commons-pinus-taeda.jpg",
+      "destination": "migration/private-original-photo-holds/Pinaceae/Pinus/pinus-taeda/images/commons-pinus-taeda.jpg",
+      "git_blob_sha": "7f49d09b21ccefb0c6f7c8d0800ddfd1426f839a",
+      "bytes": 232865,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/Pinus/pinus-taeda/species.json",
+      "destination": "content/taxa/Pinaceae/Pinus/pinus-taeda/species.json",
+      "git_blob_sha": "6aab6aad77d320678f3fff04fd4beaf85d2ee33e",
+      "bytes": 1688,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pinaceae/family.json",
+      "destination": "content/taxa/Pinaceae/family.json",
+      "git_blob_sha": "fe29b1b0a870fbfded1bcca2b93dff83715c865d",
+      "bytes": 7838,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/SOURCES.txt",
+      "destination": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/SOURCES.txt",
+      "git_blob_sha": "05b7def013b83d68d512551e6d13e1dfabb7a7a7",
+      "bytes": 700,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/image-sources.csv",
+      "destination": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/image-sources.csv",
+      "git_blob_sha": "be2f1288f477cd5009d09b40853ff4fa25cb2074",
+      "bytes": 472,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/images/inat-40543123.jpg",
+      "destination": "migration/private-original-photo-holds/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/images/inat-40543123.jpg",
+      "git_blob_sha": "dbcd34df0f80c4326779ffda0878a6bce3c78fd6",
+      "bytes": 81125,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/species.json",
+      "destination": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri-var-lindheimeri/species.json",
+      "git_blob_sha": "622b25bbd8d283e6efb89dd32bd3b25f82c5e89d",
+      "bytes": 1976,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/SOURCES.txt",
+      "destination": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/SOURCES.txt",
+      "git_blob_sha": "c55e8e474ee79ff157e50fcdcb7242ec423e6e96",
+      "bytes": 484,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/image-sources.csv",
+      "destination": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/image-sources.csv",
+      "git_blob_sha": "b3520d506e7a1463f7d622ab2ae6c09150468f4a",
+      "bytes": 475,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/images/inat-526963196.jpg",
+      "destination": "migration/private-original-photo-holds/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/images/inat-526963196.jpg",
+      "git_blob_sha": "37703be9cbc1d19c084c185bd9fea88841bed04f",
+      "bytes": 170315,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/species.json",
+      "destination": "content/taxa/Polygalaceae/Rhinotropis/rhinotropis-lindheimeri/species.json",
+      "git_blob_sha": "d7b798179f2842657b38725193f677c5c2810f8f",
+      "bytes": 1514,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-alba/SOURCES.txt",
+      "destination": "content/taxa/Polygalaceae/Senega/senega-alba/SOURCES.txt",
+      "git_blob_sha": "7f837f645bcaab39bb47f7eb3735872b9276dd74",
+      "bytes": 169,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-alba/image-sources.csv",
+      "destination": "content/taxa/Polygalaceae/Senega/senega-alba/image-sources.csv",
+      "git_blob_sha": "c8afde02ff3a5868fb21804feabb778740199a24",
+      "bytes": 939,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-alba/images/joey-260388773.jpg",
+      "destination": "migration/private-original-photo-holds/Polygalaceae/Senega/senega-alba/images/joey-260388773.jpg",
+      "git_blob_sha": "1954c8c802d9a85e67b99766e7735790bf8f641a",
+      "bytes": 53818,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-alba/images/joey-260388784.jpg",
+      "destination": "migration/private-original-photo-holds/Polygalaceae/Senega/senega-alba/images/joey-260388784.jpg",
+      "git_blob_sha": "68731572ddd7d42891ac6fda0d25aa996a37adea",
+      "bytes": 87961,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-alba/images/joey-260388800.jpg",
+      "destination": "migration/private-original-photo-holds/Polygalaceae/Senega/senega-alba/images/joey-260388800.jpg",
+      "git_blob_sha": "f27c6cc20c0a35e6a96c069b53b4202e4b53f077",
+      "bytes": 103211,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-alba/species.json",
+      "destination": "content/taxa/Polygalaceae/Senega/senega-alba/species.json",
+      "git_blob_sha": "690a5af26f8c1814932c5c579c8b6a2fa77522e3",
+      "bytes": 2057,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-lutea/SOURCES.txt",
+      "destination": "content/taxa/Polygalaceae/Senega/senega-lutea/SOURCES.txt",
+      "git_blob_sha": "0d6aa7ab54f4a5f409afcb56044d876525ac59ab",
+      "bytes": 472,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-lutea/image-sources.csv",
+      "destination": "content/taxa/Polygalaceae/Senega/senega-lutea/image-sources.csv",
+      "git_blob_sha": "d2eea2c4001ce06bb53fe33a6d692a33ea2e1658",
+      "bytes": 474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-lutea/images/inat-107941363.jpg",
+      "destination": "migration/private-original-photo-holds/Polygalaceae/Senega/senega-lutea/images/inat-107941363.jpg",
+      "git_blob_sha": "59fb6a4e80d7bb57d110f8932d2d051346bd9655",
+      "bytes": 324275,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/Senega/senega-lutea/species.json",
+      "destination": "content/taxa/Polygalaceae/Senega/senega-lutea/species.json",
+      "git_blob_sha": "47d20754c666e391c7d998f16b9437cf156e8952",
+      "bytes": 1454,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polygalaceae/family.json",
+      "destination": "content/taxa/Polygalaceae/family.json",
+      "git_blob_sha": "77913a8e9ded392b2d7cabfc882fd7bb1e90595e",
+      "bytes": 14805,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/SOURCES.txt",
+      "destination": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/SOURCES.txt",
+      "git_blob_sha": "c0d661c1bc14952e991b2814019cb856d2604708",
+      "bytes": 789,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/image-sources.csv",
+      "destination": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/image-sources.csv",
+      "git_blob_sha": "83bac5f45045db8e387ed59d67444a71de610b57",
+      "bytes": 546,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/images/commons-pleopeltis-michauxiana.jpg",
+      "destination": "migration/private-original-photo-holds/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/images/commons-pleopeltis-michauxiana.jpg",
+      "git_blob_sha": "eaaec869ace40d843b75ab812ae2fc2e890f0660",
+      "bytes": 449818,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/species.json",
+      "destination": "content/taxa/Polypodiaceae/Pleopeltis/pleopeltis-michauxiana/species.json",
+      "git_blob_sha": "6087a449688ef598771ad45cc511a36801a57012",
+      "bytes": 1736,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Polypodiaceae/family.json",
+      "destination": "content/taxa/Polypodiaceae/family.json",
+      "git_blob_sha": "32c0a5f29bcf733a70ec0d587543df65c173e7d4",
+      "bytes": 8200,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/SOURCES.txt",
+      "destination": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/SOURCES.txt",
+      "git_blob_sha": "b281f8871f54b74a19d10eaef81b15587bfbec96",
+      "bytes": 690,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/image-sources.csv",
+      "destination": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/image-sources.csv",
+      "git_blob_sha": "5218528536747660b6d8612bbb3ee6159ed2c910",
+      "bytes": 477,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/images/inat-464102651.jpg",
+      "destination": "migration/private-original-photo-holds/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/images/inat-464102651.jpg",
+      "git_blob_sha": "97ec62b9c52ac75bf751893d4e9f06f385b4f855",
+      "bytes": 105793,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/species.json",
+      "destination": "content/taxa/Pottiaceae/Pleurochaete/pleurochaete-squarrosa/species.json",
+      "git_blob_sha": "4a163e2efc1159b17f19a5194e0654106e2c23df",
+      "bytes": 1797,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pottiaceae/family.json",
+      "destination": "content/taxa/Pottiaceae/family.json",
+      "git_blob_sha": "af594ef536ea0b7493c81b4a0e648706b202076b",
+      "bytes": 8762,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/SOURCES.txt",
+      "destination": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/SOURCES.txt",
+      "git_blob_sha": "47d057da228e8a4a187c5a8ca9ce12ff298bcb20",
+      "bytes": 500,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/image-sources.csv",
+      "destination": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/image-sources.csv",
+      "git_blob_sha": "1366a2bd7feccd83240ac3771394f2c8ffc8943c",
+      "bytes": 486,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/images/inat-466598678.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Lysimachia/lysimachia-arvensis/images/inat-466598678.jpg",
+      "git_blob_sha": "f4d07da2f0266cb3050e5516b957e9995c091532",
+      "bytes": 133754,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/species.json",
+      "destination": "content/taxa/Primulaceae/Lysimachia/lysimachia-arvensis/species.json",
+      "git_blob_sha": "f2ced29b9693ce937bd1bc55380c2b75f7d7fb54",
+      "bytes": 1541,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/genus.json",
+      "destination": "content/taxa/Primulaceae/Samolus/genus.json",
+      "git_blob_sha": "e7291e9dca8763997bd91dd4e211793438fe7444",
+      "bytes": 3847,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/SOURCES.txt",
+      "destination": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/SOURCES.txt",
+      "git_blob_sha": "7f837f645bcaab39bb47f7eb3735872b9276dd74",
+      "bytes": 169,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/image-sources.csv",
+      "destination": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/image-sources.csv",
+      "git_blob_sha": "68313187774fe4604e895fc39c9eb2fccba29a74",
+      "bytes": 930,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/images/joey-99688428.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Samolus/samolus-ebracteatus/images/joey-99688428.jpg",
+      "git_blob_sha": "15b67809ac6d7ec30b6ae666da6243dfd571f339",
+      "bytes": 212137,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/images/joey-99688455.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Samolus/samolus-ebracteatus/images/joey-99688455.jpg",
+      "git_blob_sha": "085c704a1d7f9d3fe6d628372d503ce404fa0d68",
+      "bytes": 56339,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/images/joey-99688483.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Samolus/samolus-ebracteatus/images/joey-99688483.jpg",
+      "git_blob_sha": "7d58fd7568445ed2d1d3e4f1b9a32990653d653e",
+      "bytes": 39796,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/species.json",
+      "destination": "content/taxa/Primulaceae/Samolus/samolus-ebracteatus/species.json",
+      "git_blob_sha": "29425c139087b16863d1a98ca2389943bb25f639",
+      "bytes": 2109,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/SOURCES.txt",
+      "destination": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/SOURCES.txt",
+      "git_blob_sha": "6745336319b47cf6c7f27030caf6027ee7eaaf9d",
+      "bytes": 2124,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/image-sources.csv",
+      "destination": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/image-sources.csv",
+      "git_blob_sha": "777c527bd3cbb437ad88a273d463265946a9b3a5",
+      "bytes": 1896,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/images/01-cultivated-leaf-rosette.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Samolus/samolus-parviflorus/images/01-cultivated-leaf-rosette.jpg",
+      "git_blob_sha": "d1fc7d90831242ff6cf5df41dc729cba09bb183c",
+      "bytes": 169616,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/images/library-review013-2af389db8b21c1b.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Samolus/samolus-parviflorus/images/library-review013-2af389db8b21c1b.jpg",
+      "git_blob_sha": "6a12076fe16ea566279059db139a1bb26a6bae7c",
+      "bytes": 346587,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/images/library-review013-e12c61b9315b40a.jpg",
+      "destination": "migration/private-original-photo-holds/Primulaceae/Samolus/samolus-parviflorus/images/library-review013-e12c61b9315b40a.jpg",
+      "git_blob_sha": "eeea237e43646d4cb2f995a519b8195617dfa98d",
+      "bytes": 253857,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/species.json",
+      "destination": "content/taxa/Primulaceae/Samolus/samolus-parviflorus/species.json",
+      "git_blob_sha": "edce1447d74c2f9d22b5e00c11952129999966e8",
+      "bytes": 9396,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Primulaceae/family.json",
+      "destination": "content/taxa/Primulaceae/family.json",
+      "git_blob_sha": "205900d5210d39c15ba2f61b47a4e3771873c548",
+      "bytes": 13443,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/SOURCES.txt",
+      "git_blob_sha": "d5673f4bdb41f91cde31c9897a35558c281db98c",
+      "bytes": 1230,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/image-sources.csv",
+      "git_blob_sha": "e4a6054e795bf9163e641bd292b7826792f34e09",
+      "bytes": 1524,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/images/adiantum-capillus-veneris_fertile-frond-pseudoindusium_15-55.0.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Adiantum/adiantum-capillus-veneris/images/adiantum-capillus-veneris_fertile-frond-pseudoindusium_15-55.0.jpg",
+      "git_blob_sha": "582f2a8d56ad080f1bde8ebde34e8f12f1abb404",
+      "bytes": 124555,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/images/joey-inat-374140968.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Adiantum/adiantum-capillus-veneris/images/joey-inat-374140968.jpg",
+      "git_blob_sha": "524f17b2c506d7d8342730facc3aaefa3272269f",
+      "bytes": 109762,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/images/joey-inat-729804969.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Adiantum/adiantum-capillus-veneris/images/joey-inat-729804969.jpg",
+      "git_blob_sha": "baa6a470795b948007925faf550cd989f726cdb2",
+      "bytes": 227647,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/species.json",
+      "destination": "content/taxa/Pteridaceae/Adiantum/adiantum-capillus-veneris/species.json",
+      "git_blob_sha": "a080a504f22e6d2cf02fe8362892c66c6293ed12",
+      "bytes": 6369,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/SOURCES.txt",
+      "git_blob_sha": "c14f80d09bb70fc0eb927f5a80b2e6024fe0b454",
+      "bytes": 1057,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/image-sources.csv",
+      "git_blob_sha": "bd47f98847c3fd682ce920b294abf608236b0c81",
+      "bytes": 1300,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/images/adiantum-pedatum-provisional-face.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Adiantum/adiantum-pedatum/images/adiantum-pedatum-provisional-face.jpg",
+      "git_blob_sha": "1caf2e6aa0e8398ef2c4ce6527180c6660b0f209",
+      "bytes": 315469,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/images/library-review012-adfc1234bc82e97.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Adiantum/adiantum-pedatum/images/library-review012-adfc1234bc82e97.jpg",
+      "git_blob_sha": "8a7603d07f6b53d73e56a09c74632edebbaad5c2",
+      "bytes": 499354,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/species.json",
+      "destination": "content/taxa/Pteridaceae/Adiantum/adiantum-pedatum/species.json",
+      "git_blob_sha": "68641dc2e1129b5f192d98d633169f70d36e81f2",
+      "bytes": 5722,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Adiantum/genus.json",
+      "destination": "content/taxa/Pteridaceae/Adiantum/genus.json",
+      "git_blob_sha": "5fc43f08c5f9dc6002bbfeb96323d3f90416dd02",
+      "bytes": 4414,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/SOURCES.txt",
+      "git_blob_sha": "c60d1e9bc2ea05e7d379095c967b619f84da75ff",
+      "bytes": 646,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/image-sources.csv",
+      "git_blob_sha": "92bc45e8ea1ca90935600ff55090ea6219b1e762",
+      "bytes": 456,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/images/inat-110967444.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Hemionitis/hemionitis-alabamensis/images/inat-110967444.jpg",
+      "git_blob_sha": "3cc99f5363f75b4a2e85e407ef2771ead511bc04",
+      "bytes": 231056,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/species.json",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-alabamensis/species.json",
+      "git_blob_sha": "6f83900269900f0e2f0c95f6d9d2b6b61be2928e",
+      "bytes": 1660,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/SOURCES.txt",
+      "git_blob_sha": "8645ef9a9f164f26123ab283d5c7129b9c4f4ea3",
+      "bytes": 581,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/image-sources.csv",
+      "git_blob_sha": "86f29cbed2d375df783c289b2adb86ecdcbd78c5",
+      "bytes": 457,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/images/inat-276901519.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Hemionitis/hemionitis-artax/images/inat-276901519.jpg",
+      "git_blob_sha": "d54afcdffb6ee70f11d650170ba375d5d5c6a212",
+      "bytes": 266939,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/species.json",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-artax/species.json",
+      "git_blob_sha": "8a6db806f801b02a0abd32df679f6d20c9cc9068",
+      "bytes": 1608,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/SOURCES.txt",
+      "git_blob_sha": "4075289fda1d3d576e4e22d9c79c336b2856cc10",
+      "bytes": 663,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/image-sources.csv",
+      "git_blob_sha": "ad72ae544d6cd162ec45ac3b6b60f125863aad2b",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/images/inat-327939203.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Hemionitis/hemionitis-aspera/images/inat-327939203.jpg",
+      "git_blob_sha": "f647480a287b6e7d7e358d58aae749be1ed140f7",
+      "bytes": 294163,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/species.json",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-aspera/species.json",
+      "git_blob_sha": "0f73519cd5b5640f392f59570f6c3359da59321f",
+      "bytes": 1625,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/SOURCES.txt",
+      "git_blob_sha": "88135ee28b0f1c7b446eb498e4591dcd4022fc71",
+      "bytes": 578,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/image-sources.csv",
+      "git_blob_sha": "e5f604b763db68ab71fa7fd71a3fff0d0acdbef8",
+      "bytes": 456,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/images/inat-205998279.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Hemionitis/hemionitis-atropurpurea/images/inat-205998279.jpg",
+      "git_blob_sha": "006882bd5b5215edbaec81c3aba481a0587c1cb4",
+      "bytes": 238169,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/species.json",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-atropurpurea/species.json",
+      "git_blob_sha": "3a8bda7a4ba5f64556f87e90d8ec14daea30a8b9",
+      "bytes": 1624,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/SOURCES.txt",
+      "git_blob_sha": "b18a6c4d6ceea48aa1261f13933a0a592c7ab67e",
+      "bytes": 653,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/image-sources.csv",
+      "git_blob_sha": "f4d5a628837c51f335cd6d8a9ce279e5ca06d0fd",
+      "bytes": 471,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/images/inat-67721850.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Hemionitis/hemionitis-ovata/images/inat-67721850.jpg",
+      "git_blob_sha": "d1239e9435cdd3177fc6cd19f09a804a0f0fd882",
+      "bytes": 107279,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/species.json",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-ovata/species.json",
+      "git_blob_sha": "412eab3fc50b8e30acfdd5bbfdd1b40024549481",
+      "bytes": 1607,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/SOURCES.txt",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/SOURCES.txt",
+      "git_blob_sha": "16af1d8538e817cfdf0f9a50a2fcff9f306289e8",
+      "bytes": 651,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/image-sources.csv",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/image-sources.csv",
+      "git_blob_sha": "feaff42f7e785de0a9a1a1b0f32bd3ba6f8633f0",
+      "bytes": 463,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/images/inat-34680973.jpg",
+      "destination": "migration/private-original-photo-holds/Pteridaceae/Hemionitis/hemionitis-wrightiana/images/inat-34680973.jpg",
+      "git_blob_sha": "1ea9e7eff31e9485fb28f93673eb009b2a9b1097",
+      "bytes": 314720,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/species.json",
+      "destination": "content/taxa/Pteridaceae/Hemionitis/hemionitis-wrightiana/species.json",
+      "git_blob_sha": "3828767943a798466fcff4b1c9c2d617c02315ec",
+      "bytes": 1660,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/Pellaea/genus.json",
+      "destination": "content/taxa/Pteridaceae/Pellaea/genus.json",
+      "git_blob_sha": "634471c9118ad0eade0bd42028fb5c760ad7ca74",
+      "bytes": 5446,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Pteridaceae/family.json",
+      "destination": "content/taxa/Pteridaceae/family.json",
+      "git_blob_sha": "821e0ba5f63250e9632a69426745622a98a6dafb",
+      "bytes": 7496,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/SOURCES.txt",
+      "destination": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/SOURCES.txt",
+      "git_blob_sha": "4a680961841591e1187073416746bde22ddd11d4",
+      "bytes": 477,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/image-sources.csv",
+      "destination": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/image-sources.csv",
+      "git_blob_sha": "41734f29c0ef47fea97453d3e08d7778ed31e664",
+      "bytes": 474,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/images/inat-177808218.jpg",
+      "destination": "migration/private-original-photo-holds/Salviniaceae/Azolla/azolla-caroliniana/images/inat-177808218.jpg",
+      "git_blob_sha": "6878b244119d9cac56537d34a0fbed7c0b546731",
+      "bytes": 351982,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/species.json",
+      "destination": "content/taxa/Salviniaceae/Azolla/azolla-caroliniana/species.json",
+      "git_blob_sha": "9df47ee205cb619e5e75cf3dd3a9ddd2eefd77a3",
+      "bytes": 1503,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Salviniaceae/family.json",
+      "destination": "content/taxa/Salviniaceae/family.json",
+      "git_blob_sha": "b058e58785eba3f508f9638b0dc1114655232e0d",
+      "bytes": 10620,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/SOURCES.txt",
+      "destination": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/SOURCES.txt",
+      "git_blob_sha": "160e17b34f8d22edfb467f6de9f75e09f9d682eb",
+      "bytes": 1954,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/image-sources.csv",
+      "destination": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/image-sources.csv",
+      "git_blob_sha": "53ff1f6add6bb3aded700fbacc2b75f06b9717de",
+      "bytes": 1752,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/images/anemia-mexicana-habit-fertile-commons.jpg",
+      "destination": "migration/private-original-photo-holds/Schizaeaceae/Anemia/anemia-mexicana/images/anemia-mexicana-habit-fertile-commons.jpg",
+      "git_blob_sha": "8a52c29bc531cdd8eeee7d4523bdcd969bcc3232",
+      "bytes": 400195,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/images/library-review012-bd84dba4bf8403f.jpg",
+      "destination": "migration/private-original-photo-holds/Schizaeaceae/Anemia/anemia-mexicana/images/library-review012-bd84dba4bf8403f.jpg",
+      "git_blob_sha": "524826af811e945f4614f2c75135320ae38e2dbb",
+      "bytes": 266052,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/images/library-review012-f8ff312424b98f1.jpg",
+      "destination": "migration/private-original-photo-holds/Schizaeaceae/Anemia/anemia-mexicana/images/library-review012-f8ff312424b98f1.jpg",
+      "git_blob_sha": "a7f47e99e3023a65f56a543200513e06143f7e92",
+      "bytes": 224043,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/species.json",
+      "destination": "content/taxa/Schizaeaceae/Anemia/anemia-mexicana/species.json",
+      "git_blob_sha": "4416e550af24f2ac2fda9fb817bce14ad4d0529a",
+      "bytes": 7775,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/SOURCES.txt",
+      "destination": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/SOURCES.txt",
+      "git_blob_sha": "41817c0b1f420f5fdf61ef6c97e1dc1fc656c0aa",
+      "bytes": 1358,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/image-sources.csv",
+      "destination": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/image-sources.csv",
+      "git_blob_sha": "26c11d9ed67d497067e1c415a4e57fc172b5ca5f",
+      "bytes": 1811,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/images/inat-110549255.jpg",
+      "destination": "migration/private-original-photo-holds/Schizaeaceae/Lygodium/lygodium-japonicum/images/inat-110549255.jpg",
+      "git_blob_sha": "edbabc0eebaf0a0f57c72236bb203248f43b2e7c",
+      "bytes": 142544,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/images/library-review028-0ce98eb7db6e403.jpg",
+      "destination": "migration/private-original-photo-holds/Schizaeaceae/Lygodium/lygodium-japonicum/images/library-review028-0ce98eb7db6e403.jpg",
+      "git_blob_sha": "4b809c65b3f94f08f7f8f3ea639cf33ed42e3177",
+      "bytes": 363972,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/images/library-review028-7c88bdaab49983b.jpg",
+      "destination": "migration/private-original-photo-holds/Schizaeaceae/Lygodium/lygodium-japonicum/images/library-review028-7c88bdaab49983b.jpg",
+      "git_blob_sha": "770f8899bc2e41211d9148fa195073da7202754f",
+      "bytes": 367830,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/species.json",
+      "destination": "content/taxa/Schizaeaceae/Lygodium/lygodium-japonicum/species.json",
+      "git_blob_sha": "9cf8081674a7fb0ef6e1afdd8c685b4d35ce4d77",
+      "bytes": 5393,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Schizaeaceae/family.json",
+      "destination": "content/taxa/Schizaeaceae/family.json",
+      "git_blob_sha": "67c0bfa6ddc973768ef06884a9f6102d1e01207f",
+      "bytes": 11354,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/SOURCES.txt",
+      "destination": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/SOURCES.txt",
+      "git_blob_sha": "b16016d2c5ac23bcddc74239bc49281eb8f8ffc9",
+      "bytes": 684,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/image-sources.csv",
+      "destination": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/image-sources.csv",
+      "git_blob_sha": "8b18b39b31eb6da3458bfb88d440af027a3a088c",
+      "bytes": 512,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/images/commons-selaginella-apoda.jpg",
+      "destination": "migration/private-original-photo-holds/Selaginellaceae/Selaginella/selaginella-apoda/images/commons-selaginella-apoda.jpg",
+      "git_blob_sha": "65134170ab1d98921f467bea00fed95c5a0aad22",
+      "bytes": 302072,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/species.json",
+      "destination": "content/taxa/Selaginellaceae/Selaginella/selaginella-apoda/species.json",
+      "git_blob_sha": "7966e055c5c48b30014af9359078924b91a2d78c",
+      "bytes": 1699,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/SOURCES.txt",
+      "destination": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/SOURCES.txt",
+      "git_blob_sha": "5e8600c4deae38f719274cacbf889d232d9162f2",
+      "bytes": 467,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/image-sources.csv",
+      "destination": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/image-sources.csv",
+      "git_blob_sha": "45b0ccc0fae0142478e2fc2c9a308993b2278952",
+      "bytes": 458,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/images/inat-86346464.jpg",
+      "destination": "migration/private-original-photo-holds/Selaginellaceae/Selaginella/selaginella-arenicola/images/inat-86346464.jpg",
+      "git_blob_sha": "a43a0c978dfe4ff9c0b9e43b3b90a59b88c4f494",
+      "bytes": 106017,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/species.json",
+      "destination": "content/taxa/Selaginellaceae/Selaginella/selaginella-arenicola/species.json",
+      "git_blob_sha": "7a2b8d7cc3a1a7f0cec0a3ef441eda34107b3c68",
+      "bytes": 1507,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Selaginellaceae/family.json",
+      "destination": "content/taxa/Selaginellaceae/family.json",
+      "git_blob_sha": "eb4177d3b74b8d628d7c05dd35a76a7a32f064c4",
+      "bytes": 10675,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/SOURCES.txt",
+      "destination": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/SOURCES.txt",
+      "git_blob_sha": "b2f9292e0d3e282228678ecc3edb7b17e3ea7b1b",
+      "bytes": 650,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/image-sources.csv",
+      "destination": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/image-sources.csv",
+      "git_blob_sha": "688c9301208251d9b04a61acae5a8afa066b9d9e",
+      "bytes": 477,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/images/inat-183839437.jpg",
+      "destination": "migration/private-original-photo-holds/Thelypteridaceae/Thelypteris/thelypteris-kunthii/images/inat-183839437.jpg",
+      "git_blob_sha": "6ffcccbfc04b48b787812c706bba2e70bb791bcf",
+      "bytes": 261204,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/species.json",
+      "destination": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-kunthii/species.json",
+      "git_blob_sha": "60e9d691dd36c7b95aa3f8795da1b9c49fa0fbea",
+      "bytes": 1746,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/SOURCES.txt",
+      "destination": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/SOURCES.txt",
+      "git_blob_sha": "1376cfd55f3853dc8a0c1eefa50cc36aa37d572b",
+      "bytes": 641,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/image-sources.csv",
+      "destination": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/image-sources.csv",
+      "git_blob_sha": "c63648bc4672139502d7b072abbcf1833a4f0fce",
+      "bytes": 482,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/images/inat-336557398.jpg",
+      "destination": "migration/private-original-photo-holds/Thelypteridaceae/Thelypteris/thelypteris-ovata/images/inat-336557398.jpg",
+      "git_blob_sha": "83beeae395da6a93eac423b29bb86d264e6c2845",
+      "bytes": 340645,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/species.json",
+      "destination": "content/taxa/Thelypteridaceae/Thelypteris/thelypteris-ovata/species.json",
+      "git_blob_sha": "f658196cc001b26e35e1fe0b1bb1d13d94526fbd",
+      "bytes": 1642,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Thelypteridaceae/family.json",
+      "destination": "content/taxa/Thelypteridaceae/family.json",
+      "git_blob_sha": "8c919b810afb1a2cc2e4ca8da17b83501c275fac",
+      "bytes": 8881,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/SOURCES.txt",
+      "destination": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/SOURCES.txt",
+      "git_blob_sha": "27f170056cce46a085c0fa3063b0c8962ea08790",
+      "bytes": 916,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/image-sources.csv",
+      "destination": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/image-sources.csv",
+      "git_blob_sha": "423ab0807093acc29715a6f21d97e267778b2014",
+      "bytes": 1171,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/images/inat-788135.jpg",
+      "destination": "migration/private-original-photo-holds/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/images/inat-788135.jpg",
+      "git_blob_sha": "cc9ad1b268ee71348509999694a156290f35dc91",
+      "bytes": 211460,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/images/library-review049-2fd91d1198a0b4f.jpg",
+      "destination": "migration/private-original-photo-holds/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/images/library-review049-2fd91d1198a0b4f.jpg",
+      "git_blob_sha": "fdd3e849c7a79d32d27b679dfbc34dcf787e4f85",
+      "bytes": 445734,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/species.json",
+      "destination": "content/taxa/Zygophyllaceae/Guaiacum/guaiacum-angustifolium/species.json",
+      "git_blob_sha": "c700adfd369a21b4076924bb257d3c94fbd7a83c",
+      "bytes": 3371,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/SOURCES.txt",
+      "destination": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/SOURCES.txt",
+      "git_blob_sha": "01bb4d68e84a904d3aaf8a8517aa57353d9cca4b",
+      "bytes": 594,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/image-sources.csv",
+      "destination": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/image-sources.csv",
+      "git_blob_sha": "2f7097f88b4a9b01ab91ef0550b2c532942e0580",
+      "bytes": 477,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/images/inat-437268121.jpeg",
+      "destination": "migration/private-original-photo-holds/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/images/inat-437268121.jpeg",
+      "git_blob_sha": "0956191d78e71d067e3cebeb59e9e809a092c6ef",
+      "bytes": 67685,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/species.json",
+      "destination": "content/taxa/Zygophyllaceae/Kallstroemia/kallstroemia-parviflora/species.json",
+      "git_blob_sha": "c6fab662f2df73ef016d37c4d41ea71affb68721",
+      "bytes": 1509,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/SOURCES.txt",
+      "destination": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/SOURCES.txt",
+      "git_blob_sha": "9d2f9748fcfaf0e754197452239b6d6b8d85ade0",
+      "bytes": 478,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/image-sources.csv",
+      "destination": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/image-sources.csv",
+      "git_blob_sha": "7f3dd194da8e69a878c9d79029c4b1620ddcc34a",
+      "bytes": 475,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/images/inat-471892842.jpg",
+      "destination": "migration/private-original-photo-holds/Zygophyllaceae/Larrea/larrea-tridentata/images/inat-471892842.jpg",
+      "git_blob_sha": "3075af7f90639a021e7bf759bb55803a02cb9741",
+      "bytes": 360100,
+      "class": "PRIVATE_MEDIA_HOLD"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/species.json",
+      "destination": "content/taxa/Zygophyllaceae/Larrea/larrea-tridentata/species.json",
+      "git_blob_sha": "5e5218ac36cbdf36e8bf510b45ede392ca28fa4e",
+      "bytes": 1456,
+      "class": "DATA"
+    },
+    {
+      "source_path": "content/taxa/Zygophyllaceae/family.json",
+      "destination": "content/taxa/Zygophyllaceae/family.json",
+      "git_blob_sha": "5d4c37db2cd5292eef8ba0eea2ebfdf1834fd52d",
+      "bytes": 10214,
+      "class": "DATA"
+    }
+  ]
+}

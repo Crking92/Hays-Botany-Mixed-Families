@@ -1,0 +1,138 @@
+{
+  "rank": "family",
+  "name": "Apiaceae",
+  "common_name": "Carrot / parsley family",
+  "project_scope": {
+    "selection_mode": "Central Texas Eryngium-aware family reference module",
+    "note": "Built to prevent the common mistake that every Apiaceae must have a white compound umbel."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: (1) Photograph one complete inflorescence, but do not demand a compound umbel—Eryngium has dense heads. (2) Isolate ONE flower: look for five separate petals and stamens around a typically inferior ovary, often with two styles on a stylopodium. (3) Follow that same flower into a mature dry schizocarp; inspect its split into TWO one-seeded mericarps. (4) Only then use leaf sheaths, bracts and fruit ribs/wings/hooks to route among genera. Head shape or flower color alone cannot confirm Apiaceae.",
+    "leaves": "Usually alternate, often compound or deeply lobed; petiole base commonly sheathing.",
+    "flower": "Usually 5-merous with 5 stamens; two styles often rise from a stylopodium.",
+    "fruit": "Dry schizocarp separating into two one-seeded mericarps.",
+    "field_tip": "Umbel-like shape is only the doorway; inferior ovary + 2-merous schizocarp is the confirmation.",
+    "structural_clues": [
+      {
+        "formal": "inferior ovary",
+        "plain": "seed-forming part sits below the petals and stamens",
+        "use": "Confirm on a side-view or dissection, not a distant head photograph; Asteraceae also has inferior ovaries."
+      },
+      {
+        "formal": "five free petals and five separate stamens",
+        "plain": "one tiny flower has five distinct petals and five separate pollen-bearing stalks",
+        "use": "Compare with an Asteraceae floret's fused corolla and usually united anthers; count one flower, not an entire head."
+      },
+      {
+        "formal": "stylopodium and two styles",
+        "plain": "two little style stalks can rise from a disk on top of the ovary",
+        "use": "Strong reproductive clue in many local umbellifers; not safely visible in a whole-plant photo."
+      },
+      {
+        "formal": "schizocarp / paired mericarps",
+        "plain": "a dry fruit separates into two one-seeded halves",
+        "use": "Compare with one cypsela per Asteraceae floret and avoid confusing Eryngium's head with a composite flower head."
+      }
+    ],
+    "local_genus_routing": "Master Pool routing (not an assertion that each has an installed species): Eryngium—dense bracted heads, isolate a single flower and mature mericarps; Centella and Bowlesia—creeping/trailing herbs with small axillary clusters rather than showy compound umbels; Conium, Chaerophyllum, Cyclospermum, Daucus, Daucosma and Polytaenia—inspect leaf-sheathing petiole bases, umbel bracts and mature fruit ribs; Cymopterus—winged mericarps; Sanicula and Torilis—fruit armature (hooks/bristles); Bifora—paired swollen mericarps. Verify genus-level species-specific details against current genus lessons before using as hard key exclusions.",
+    "representative_canonical_species": [
+      "eryngium-leavenworthii",
+      "eryngium-yuccifolium"
+    ]
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole head/habit → isolate ONE flower → count petals/stamens and locate ovary/styles → split ripe fruit → compare a single Asteraceae floret and cypsela",
+    "intro": "Eryngium is the perfect Apiaceae lesson because it breaks the 'white umbrella flower' stereotype while keeping the same reproductive architecture.",
+    "steps": [
+      {
+        "title": "1 · Break the umbel stereotype",
+        "photo_role": "dense Eryngium flower head",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eryngium-leavenworthii.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Eryngium-leavenworthii.jpg",
+        "image_label": "Eryngium leavenworthii",
+        "image_credit": "CC BY-SA 3.0 / GFDL",
+        "look_for": "A dense thistle-like head rather than a classic compound umbel.",
+        "why_it_matters": "Shows that inflorescence shape alone cannot define Apiaceae.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Find the inferior ovary",
+        "photo_role": "flower base / ovary position",
+        "look_for": "The ovary sits below the other flower parts.",
+        "why_it_matters": "Inferior ovary is a stronger family cue than 'umbrella-shaped flowers.'",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Find the stylopodium",
+        "photo_role": "two styles on stylopodium",
+        "look_for": "Two styles arising from a swollen nectar disk/stylopodium.",
+        "why_it_matters": "This is classic technical Apiaceae flower architecture.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Split the fruit in two",
+        "photo_role": "schizocarp and mericarps",
+        "look_for": "A dry fruit separating into two one-seeded mericarps.",
+        "why_it_matters": "Fruit confirms the family even when the inflorescence is weird.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Compare two real eryngo head forms",
+        "photo_role": "verified whole plant, strap-shaped leaves and many globose flower heads",
+        "image_url": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/images/eryngium-yuccifolium-provisional-face.jpg",
+        "installed_path": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/images/eryngium-yuccifolium-provisional-face.jpg",
+        "species_id": "eryngium-yuccifolium",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Eryngium_yuccifolium.jpg",
+        "creator": "Eric Hunt",
+        "license": "CC BY-SA 4.0",
+        "public_reuse": "cc_by_sa",
+        "look_for": "Long strap-shaped basal leaves and many globose heads on upright stalks. Individual floral ovaries and styles are NOT resolved.",
+        "why_it_matters": "An actual installed photograph showing an Eryngium habit that does not resemble a typical carrot umbel.",
+        "caption": "Rattlesnake master: strap-like leaves and rounded heads. The family test still requires a close flower and mature fruit.",
+        "arrow_target": "One entire globose head and one basal strap leaf; do not point to an invisible style or ovary.",
+        "annotation_status": "annotation_pending",
+        "status": "installed_verified"
+      },
+      {
+        "title": "6 · Separate spiny bracts from a whole flower",
+        "photo_role": "verified bracted flowering-head macro; PRIVATE study reference only",
+        "installed_path": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_flowering-head-source-label_16-20.jpg",
+        "species_id": "eryngium-leavenworthii",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "public_reuse": false,
+        "look_for": "Purple dense head and conspicuous rigid spiny bracts. A single flower's petal count, stylopodium and mature mericarps cannot be verified here.",
+        "why_it_matters": "This installed frame is useful for a private-study bract/head distinction but not for reproductive dissection or public gallery reuse.",
+        "caption": "Leavenworth's eryngo: spiny bracts surround a dense head; each tiny flower must be inspected separately.",
+        "arrow_target": "Spiny involucral bract below the dense head only; do not mark individual styles or ovaries.",
+        "annotation_status": "annotation_pending",
+        "status": "installed_verified_private_study_only"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Apiaceae vs Asteraceae",
+        "rule": "Eryngium and Asteraceae can BOTH have dense heads of sessile tiny flowers and inferior ovaries. Isolate one unit: Eryngium (Apiaceae) typically has five separate petals, five separate stamens, two styles, and a dry fruit splitting into two mericarps; an Asteraceae floret has a fused corolla, typically united anthers, and one cypsela, sometimes with pappus. A head silhouette alone cannot separate them."
+      },
+      {
+        "title": "Apiaceae vs Araliaceae",
+        "rule": "Apiaceae is mostly herbaceous and typically has a dry 2-merous schizocarp; Araliaceae is more often woody with fleshy fruits."
+      }
+    ],
+    "caveat": "Never label an Eryngium head as one flower, or assume Apiaceae always has an umbel. An inferior ovary alone does not separate it from Asteraceae. Photo examples above prove only the structures actually visible; no arrow has been verified or installed.",
+    "diagnostic_photo_needs": [
+      "Matched Eryngium and Asteraceae whole heads AND isolated single flowers at the same scale: point to separate vs fused petals and free vs united anthers.",
+      "Macro of one Eryngium flower in side view showing inferior ovary, two styles and stylopodium (with ruler); separately photograph petal/stamen count.",
+      "Opened mature Eryngium schizocarp with two mericarps beside one Asteraceae cypsela and its pappus, if present.",
+      "Matched Centella/Bowlesia axillary inflorescences vs Daucus-type compound umbel and bracts; do not use generic flower-color photographs.",
+      "Local mature fruit comparison with ribs, wings or hooks for Cymopterus, Sanicula, Torilis and Daucus; verify exact taxon and reuse rights."
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "two exact-species installed head/habit files physically inspected; one CC BY-SA public reference and one Joey private-study frame; flower/ovary/fruit macros remain missing"
+  }
+}

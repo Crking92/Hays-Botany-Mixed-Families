@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/30006990-2
+Kew name-synonym evidence: https://powo.science.kew.org/taxon/30006990-2
+Photographed under scientific synonym: Pellaea atropurpurea
+Source research-grade observation: https://www.inaturalist.org/observations/121714897
+Photo: https://www.inaturalist.org/photos/205998279
+Attribution: (c) Tom Norton, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Daucus%20pusillus
+Source research-grade observation: https://www.inaturalist.org/observations/74059002
+Photo: https://www.inaturalist.org/photos/120994629
+Attribution: (c) Lynn Pyle, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 043 2026-10-17T00:23:39.068046+00:00
+Daucus pusillus
+Creator: Jane Weeden; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6234205177
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/daucus-pusillus/gbif-39a1db8bc3acb1.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 043 2026-10-17T00:23:39.068046+00:00
+Daucus pusillus
+Creator: Jackie T; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6234235253
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/daucus-pusillus/gbif-4ad6143dc0f04d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

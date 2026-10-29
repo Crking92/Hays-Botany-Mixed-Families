@@ -1,0 +1,66 @@
+{
+  "id": "torilis-arvensis",
+  "entry_type": "species",
+  "family": "Apiaceae",
+  "genus": "Torilis",
+  "species": "arvensis",
+  "scientific_name": "Torilis arvensis",
+  "common_name": "Hedge parsley",
+  "look_here_first": "Small umbels and hooked bristly fruits.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "morphology_reviewed": false,
+    "visual_reviewed": false,
+    "user_approved": true,
+    "visual_status": "provisional_one_photo_pending_diagnostic_review",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-16"
+  },
+  "project_inclusion": {
+    "range_status": "deferred",
+    "source": "approved Master Plant Pool"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/inat-644564637.jpg",
+      "role": "Provisional recognition/whole plant photo — diagnostic review pending",
+      "creator": "Calvin King",
+      "license": "All rights reserved — owner-authorized private study",
+      "source_page": "https://www.inaturalist.org/photos/644564637",
+      "study_use": "private only",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/gbif-manual-5938619246-c67302edb.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Hooked fruit bristles close-up, umbels and compound leaves",
+      "creator": "Ian Rainbow",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938619246",
+      "gbif_occurrence_id": "5938619246",
+      "source_determination": "Torilis arvensis (Huds.) Link",
+      "accepted_target": "Torilis arvensis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605743484/original.jpg",
+      "image_dimensions": [
+        1220,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-15",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

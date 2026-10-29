@@ -1,0 +1,176 @@
+{
+  "rank": "family",
+  "name": "Polypodiaceae",
+  "common_name": "Polypody / resurrection-fern family",
+  "lineage_context": {
+    "order": "Polypodiales",
+    "batch": "Polypodiales",
+    "close_project_families": [
+      "Aspleniaceae",
+      "Thelypteridaceae",
+      "Pteridaceae"
+    ],
+    "teaching_goal": "Teach the project Pleopeltis through a creeping epiphytic rhizome, peltate lower-blade scales, round naked sori, and the dramatic dry-to-hydrated resurrection response."
+  },
+  "project_scope": {
+    "selection_mode": "Pleopeltis michauxiana-centered project module",
+    "note": "Current Kew accepts Pleopeltis michauxiana as a species; older FNA treatment used Pleopeltis polypodioides var. michauxiana. Preserve the older name as searchable provenance."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Turn the frond over. In the project genus, look for discrete round sori with no true indusium, plus conspicuous peltate scales on the lower blade. Then trace the frond back to a creeping rhizome.",
+    "vegetative": "Perennial ferns commonly with creeping scaly rhizomes; many are epiphytic or rock-growing. Fronds often articulate at the rhizome and can abscise cleanly.",
+    "reproductive": "Sori usually round to oblong on the lower blade; true indusia are absent in the regional family concept.",
+    "field_tip": "Round naked sori + scaly lower surface + creeping epiphytic rhizome is the practical project Polypodiaceae door."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_018",
+    "teaching_order": "hydrated/dry habit → creeping rhizome → peltate blade scales → round naked sori → taxonomy card → family comparison",
+    "intro": "Resurrection fern gives us a nearly perfect visual lesson because the same frond changes dramatically with water, while the underside carries the family-defining sori and scales.",
+    "steps": [
+      {
+        "title": "1 · Use the same colony wet and dry",
+        "photo_role": "before/after hydration pair",
+        "look_for": "Hydrated fronds are green and spread open; dry fronds curl, gray/brown and appear dead before reviving with moisture.",
+        "why_it_matters": "Makes the common name unforgettable and teaches drought tolerance without confusing dormancy with death.",
+        "status": "high_priority_sequence_pending"
+      },
+      {
+        "title": "2 · Follow the creeping rhizome",
+        "photo_role": "rhizome on bark/rock",
+        "look_for": "A long creeping scaly rhizome running across bark or rock and anchoring the epiphytic colony.",
+        "why_it_matters": "Separates this growth form from clump-forming terrestrial ferns.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Find the peltate scales",
+        "photo_role": "abaxial blade macro",
+        "look_for": "Numerous shield-attached scales on the lower blade; FNA uses these scales as a key Pleopeltis character.",
+        "why_it_matters": "They help separate Pleopeltis from many smooth-backed polypodies.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Find round sori without a true indusium",
+        "photo_role": "fertile lobe underside",
+        "look_for": "Discrete round sori arranged in rows on each side of the segment midrib; no separate membranous cover remains over mature sori.",
+        "why_it_matters": "This is the key reproductive split from Asplenium and Thelypteris.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Look for the embossed sorus bumps",
+        "photo_role": "upper-surface close-up paired to underside",
+        "look_for": "In the michauxiana concept, sori can be deeply embossed enough to form visible bumps on the upper blade surface.",
+        "why_it_matters": "A highly specific project-species clue documented in FNA.",
+        "status": "comparison_macro_pending"
+      },
+      {
+        "title": "6 · Teach the name change",
+        "photo_role": "taxonomy card",
+        "look_for": "Pleopeltis polypodioides var. michauxiana / Polypodium polypodioides var. michauxianum → accepted Pleopeltis michauxiana under current Kew.",
+        "why_it_matters": "Keeps older field-guide and herbarium names useful without creating duplicate learner taxa.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Polypodiaceae vs Aspleniaceae",
+        "rule": "Pleopeltis has round sori without a true indusium; Asplenium has linear sori with one-sided true indusia."
+      },
+      {
+        "title": "Polypodiaceae vs Thelypteridaceae",
+        "rule": "Pleopeltis is typically creeping and epiphytic/rock-growing with peltate blade scales and naked sori; project Thelypteris is terrestrial with hairy/glandular fronds and round sori usually covered by reniform indusia."
+      },
+      {
+        "title": "Polypodiaceae vs Pteridaceae",
+        "rule": "Pleopeltis sori are discrete on the lower blade surface; local cliffbrake-type Pteridaceae concentrates sori near the margins beneath rolled leaf tissue."
+      }
+    ],
+    "caveat": "The resurrection response is memorable but is a species-level ecology clue, not a universal Polypodiaceae character. Family confirmation still comes from rhizome/frond and sorus architecture."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Pleopeltis",
+        "taxa_count": 1,
+        "fast_cue": "creeping epiphyte + scaly lower blade + round naked sori + resurrection behavior",
+        "role": "resurrection-fern door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Pleopeltis michauxiana"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Pleopeltis michauxiana",
+      "current_name": "Pleopeltis michauxiana",
+      "note": "Accepted by current Kew."
+    },
+    {
+      "source_name": "Pleopeltis polypodioides var. michauxiana",
+      "current_name": "Pleopeltis michauxiana",
+      "note": "Older FNA infraspecific treatment; current Kew treats it as a synonym of the accepted species."
+    },
+    {
+      "source_name": "Polypodium polypodioides var. michauxianum",
+      "current_name": "Pleopeltis michauxiana",
+      "note": "Older synonym provenance retained for searchability."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "hydrated vs dry resurrection pair",
+      "annotation_goal": "same taxon open/green versus curled/gray"
+    },
+    {
+      "priority": 1,
+      "structure": "peltate abaxial scale",
+      "annotation_goal": "label central attachment point and scale margins"
+    },
+    {
+      "priority": 1,
+      "structure": "round naked sorus",
+      "annotation_goal": "label sorus and absence of true indusium"
+    },
+    {
+      "priority": 1,
+      "structure": "upper-surface embossed sorus bump",
+      "annotation_goal": "pair upper and lower surfaces at same sorus position"
+    },
+    {
+      "priority": 2,
+      "structure": "creeping epiphytic rhizome",
+      "annotation_goal": "label rhizome, roots and frond attachment"
+    },
+    {
+      "priority": 2,
+      "structure": "taxonomy card",
+      "annotation_goal": "older variety/synonym names → Pleopeltis michauxiana"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Pleopeltis michauxiana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77147389-1"
+    },
+    {
+      "source": "Flora of North America — Polypodiaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10718"
+    },
+    {
+      "source": "Flora of North America — Pleopeltis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=125947"
+    },
+    {
+      "source": "NC State Extension — Pleopeltis michauxiana",
+      "url": "https://plants.ces.ncsu.edu/plants/pleopeltis-michauxiana/common-name/resurrection-fern/"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-018",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_resurrection_scales_round_sori_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pinus-taeda",
+  "family": "Pinaceae",
+  "genus": "Pinus",
+  "species": "taeda",
+  "scientific_name": "Pinus taeda",
+  "common_name": "Loblolly pine",
+  "look_here_first": "Look for long needles usually in bundles of three, large spiny cones, and rough plated bark. Count needles per fascicle and measure cone scales to distinguish other pines.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pinus%20taeda",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Bastrop Lost Pines photo does not demonstrate nativity to Hays or any target planting county.",
+  "images": [
+    {
+      "file": "images/commons-pinus-taeda.jpg",
+      "role": "Provisional loblolly pine tree habit, Texas Lost Pines source; needle fascicles and cones need macro photo",
+      "creator": "rutlo (Flickr)",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_taeda_Bastrop2.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Maintain author, source photo and original CC license attribution"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

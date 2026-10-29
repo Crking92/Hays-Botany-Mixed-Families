@@ -1,0 +1,40 @@
+{
+  "id": "pleurochaete-squarrosa",
+  "family": "Pottiaceae",
+  "genus": "Pleurochaete",
+  "species": "squarrosa",
+  "scientific_name": "Pleurochaete squarrosa",
+  "common_name": "Side-fruited crisp-moss",
+  "look_here_first": "Inspect moss leaf tips and their strongly recurved squarrose position on hydrated shoots; use magnification for sharply contrasting basal marginal leaf cells.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://www.britishbryologicalsociety.org.uk/learning/species-finder/tortella-squarrosa/",
+  "synonyms": [
+    "Tortella squarrosa"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching scientific synonym; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-464102651.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Honorine Rocher, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/464102651",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

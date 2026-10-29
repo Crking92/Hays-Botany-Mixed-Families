@@ -1,0 +1,265 @@
+{
+  "rank": "genus",
+  "family": "Marsileaceae",
+  "name": "Marsilea",
+  "common_group": "water-clover ferns",
+  "project_scope": {
+    "source": "Live Master Plant Pool + existing Marsileaceae family.json, 2026-10-12",
+    "species": [
+      "Marsilea macropoda",
+      "Marsilea vestita"
+    ],
+    "canonical_species_at_build": 0,
+    "selection_note": "Genus comparison only. No species installation, taxonomic re-adjudication, or target-zone range certification."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Find a four-part, clover-like frond, then TRACE ITS PETIOLE DOWN to the creeping rhizome. Search for hard, bean-like SPOROCARPS at or near the petiole base; on mature sporocarps compare the stalk, orientation, and distal tooth.",
+    "shared_traits": [
+      "Rooted aquatic/amphibious ferns spreading by creeping rhizomes; roots emerge at nodes.",
+      "Frond typically has four wedge- or fan-shaped pinnae at the end of a long petiole, but frond size changes with water depth and conditions.",
+      "No flowers, petals, fruits, or seeds. The hard sporocarp contains sori bearing microspores and megaspores.",
+      "Species separation requires mature attached sporocarps whenever possible; sterile leaves often do not support a secure identification."
+    ],
+    "family_door": "Compare with Trifolium repens (Fabaceae; three leaflets, flower heads and seed pods), Oxalis spp. (Oxalidaceae; usually three heart-shaped leaflets and flowers), and Azolla caroliniana (Salviniaceae; tiny floating fern with overlapping scale-like leaves rather than long-stalked four-pinna fronds)."
+  },
+  "look_here_first_sequence": [
+    "1. Confirm Marsilea by a four-pinna frond, creeping rhizome, and hard sporocarps near the petiole base; do not mistake sporocarps for seeds.",
+    "2. On several mature sporocarps, TRACE THE STALK: branched stalks strongly support M. macropoda; consistently unbranched stalks require checking the tooth and orientation for M. vestita.",
+    "3. Examine the sporocarp IN SIDE VIEW at 10–20×: strongly ascending with a missing/weak distal tooth favors M. macropoda; transverse to slightly nodding with a sharp, sometimes hooked distal tooth favors M. vestita.",
+    "4. Check the leaflet underside and margin: conspicuous white hairs projecting beyond the margin favor M. macropoda, but hairiness alone is not decisive.",
+    "5. If sterile, juvenile, damaged, or intermediate, record Marsilea sp. and photograph attached mature sporocarps rather than forcing a species."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Sporocarp-stalk branching",
+      "Marsilea macropoda": "Erect stalk frequently BRANCHED; unbranched stalks also occur.",
+      "Marsilea vestita": "Erect stalk UNBRANCHED.",
+      "weight": "high",
+      "caution": "An unbranched M. macropoda stalk can mimic M. vestita. Examine several stalks.",
+      "photo_role": "Matched close-up from petiole attachment through complete stalk and all sporocarps."
+    },
+    {
+      "character": "Sporocarp orientation",
+      "Marsilea macropoda": "Sporocarps strongly ASCENDING.",
+      "Marsilea vestita": "Sporocarps approximately PERPENDICULAR to stalk or slightly NODDING.",
+      "weight": "high",
+      "caution": "Keep stalk and sporocarp in same side-view frame; specimen handling can change apparent angle.",
+      "photo_role": "Paired lateral macros showing stalk-to-sporocarp angle."
+    },
+    {
+      "character": "Distal sporocarp tooth",
+      "Marsilea macropoda": "Absent or only a slightly raised area.",
+      "Marsilea vestita": "Distinct, acute distal tooth about 0.4–1.2 mm, often hooked.",
+      "weight": "highest",
+      "caution": "Inspect mature, intact sporocarps with magnification; do not confuse the proximal blunt tooth with the distal one.",
+      "photo_role": "Matched 10–20× side macros with arrows separately labeling distal tooth, proximal tooth and raphe."
+    },
+    {
+      "character": "Proximal sporocarp tooth",
+      "Marsilea macropoda": "Blunt, approximately 0.4–0.5 mm.",
+      "Marsilea vestita": "Blunt, approximately 0.3–0.6 mm.",
+      "weight": "low",
+      "caution": "Strong numerical overlap; proximal tooth does NOT separate the pair on its own.",
+      "photo_role": "Same tooth macros with millimeter calibration."
+    },
+    {
+      "character": "Sporocarp size (length × width)",
+      "Marsilea macropoda": "Approximately 6–9 × 4.5–5.5 mm.",
+      "Marsilea vestita": "Approximately 3.6–7.6 × 3–6.5 mm.",
+      "weight": "supporting",
+      "caution": "Dimensions overlap substantially; measure several mature sporocarps.",
+      "photo_role": "Paired intact sporocarps beside a millimeter ruler, side-on."
+    },
+    {
+      "character": "Sporocarp-stalk attachment above petiole base",
+      "Marsilea macropoda": "Approximately 2–4.5 mm above petiole base.",
+      "Marsilea vestita": "At base, occasionally as much as 3 mm above it.",
+      "weight": "supporting",
+      "caution": "Overlap around 2–3 mm. Preserve the entire base in the image.",
+      "photo_role": "Base macro with petiole origin, rhizome and stalk attachment all visible."
+    },
+    {
+      "character": "Pinnae size (length × width)",
+      "Marsilea macropoda": "Approximately 9–35 × 8–39 mm.",
+      "Marsilea vestita": "Approximately 4–19 × 4–16 mm.",
+      "weight": "supporting",
+      "caution": "Ranges overlap; water depth and leaf development change size.",
+      "photo_role": "Mature fronds from same habitat state, top view with scale."
+    },
+    {
+      "character": "Pinnae indumentum",
+      "Marsilea macropoda": "Conspicuously WHITE-HAIRY beneath; hairs often project beyond leaflet margin.",
+      "Marsilea vestita": "Sparsely hairy to nearly hairless with age; leaflets may be hairy or glabrescent.",
+      "weight": "supporting",
+      "caution": "Hair abrasion and leaf age matter; do not key on color or hair alone.",
+      "photo_role": "Matched underside and edge macro with light revealing projecting hairs."
+    },
+    {
+      "character": "Petiole length",
+      "Marsilea macropoda": "Approximately 5–39 cm.",
+      "Marsilea vestita": "Approximately 2–20 cm.",
+      "weight": "weak",
+      "caution": "Broad overlap and plastic response to depth; never use as primary ID.",
+      "photo_role": "Whole rooted plants with petiole scale and water-depth context."
+    },
+    {
+      "character": "Sori per sporocarp",
+      "Marsilea macropoda": "Approximately 19–23.",
+      "Marsilea vestita": "Approximately 14–22.",
+      "weight": "not_field_diagnostic",
+      "caution": "Broad overlap and requires dissection; teaching anatomy only.",
+      "photo_role": "Dissected sporocarp with sori labeled; optional specialist view."
+    }
+  ],
+  "overlap_cautions": [
+    "Do not identify sterile four-pinna leaves to species from leaflet size or hairiness alone.",
+    "M. macropoda can have unbranched sporocarp stalks; combine orientation, distal tooth and foliage.",
+    "Sporocarp length, stalk attachment, petiole length and sori counts overlap.",
+    "The existing family lesson flags putative M. macropoda × M. vestita intermediates reported from Blanco County (within the project target zone). Do not force an intermediate to either species; request review and voucher-quality images.",
+    "No native-range decision is implied by inclusion in this source-pool lesson."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Trifolium repens",
+      "family": "Fabaceae",
+      "why_confused": "Clover-like leaves on low wet-ground vegetation.",
+      "look_here_first": "Three leaflets, rounded flower heads and legume fruits; Marsilea has four pinnae and fern sporocarps, no flowers."
+    },
+    {
+      "taxon": "Oxalis spp.",
+      "family": "Oxalidaceae",
+      "why_confused": "Low three-leaflet plants mistaken for water clover.",
+      "look_here_first": "Three often notched/heart-shaped leaflets, five-petaled flowers and capsules; Marsilea has four pinnae and sporocarps."
+    },
+    {
+      "taxon": "Azolla caroliniana",
+      "family": "Salviniaceae",
+      "why_confused": "Small wetland fern in the same order Salviniales.",
+      "look_here_first": "Tiny free-floating branching mat with overlapping scale leaves, not rooted long-petioled four-pinna fronds."
+    },
+    {
+      "taxon": "Other Marsilea spp. in broader regional floras",
+      "family": "Marsileaceae",
+      "why_confused": "Non-pool species and historical names can occur in keys.",
+      "look_here_first": "Use full regional key if mature sporocarps disagree with either species; do not add an extra project taxon without approved source-pool/identity work."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "paired branched-versus-unbranched sporocarp stalks",
+      "character": "stalk branching",
+      "capture": "Mature stalks still attached to petiole base; label branch points and each sporocarp; 10× view.",
+      "status": "pending_diagnostic_photo_polish"
+    },
+    {
+      "priority": 1,
+      "role": "paired sporocarp side views",
+      "character": "ascending versus transverse/nodding orientation",
+      "capture": "Keep entire stalk and sporocarp in focus; label angle; add scale.",
+      "status": "pending_diagnostic_photo_polish"
+    },
+    {
+      "priority": 1,
+      "role": "paired distal-tooth macros",
+      "character": "weak/absent versus acute hooked distal tooth",
+      "capture": "10–20× or higher with millimeter scale; arrows to distal tooth, proximal tooth and raphe; inspect several intact mature sporocarps.",
+      "status": "pending_diagnostic_photo_polish"
+    },
+    {
+      "priority": 1,
+      "role": "paired petiole-base attachment macros",
+      "character": "sporocarp stalk attachment position",
+      "capture": "Show rhizome, petiole origin and stalk origin in one frame, with millimeter scale.",
+      "status": "pending_diagnostic_photo_polish"
+    },
+    {
+      "priority": 2,
+      "role": "paired leaflet underside and margin",
+      "character": "white projecting hairs versus sparse/glabrescent surface",
+      "capture": "Same magnification and side-lighting; label abaxial surface and margin.",
+      "status": "pending_diagnostic_photo_polish"
+    },
+    {
+      "priority": 2,
+      "role": "paired whole rooted fronds",
+      "character": "four pinnae, leaflet/petiole sizes, water depth",
+      "capture": "Fronds with 5 cm scale; show rhizome, mature frond, and water-depth context.",
+      "status": "pending_diagnostic_photo_polish"
+    },
+    {
+      "priority": 2,
+      "role": "Blanco County intermediate caution panel",
+      "character": "discordant stalk/tooth/hair characters",
+      "capture": "If a verified specimen is available, show at least two conflicting characters; mark intermediate/undetermined, not a species ID.",
+      "status": "pending_review_and_diagnostic_photo_polish"
+    },
+    {
+      "priority": 3,
+      "role": "sporocarp cross-section and sori diagram",
+      "character": "fern heterospory and anatomy",
+      "capture": "Clearly label sporocarp, sori, megaspores, microspores; diagram is teaching supplement, not species diagnosis.",
+      "status": "pending_diagnostic_photo_polish"
+    }
+  ],
+  "existing_media_reuse": {
+    "source": "content/taxa/Marsileaceae/family.json",
+    "note": "Existing family visual lesson supplies validated teaching targets but no exact image IDs were confirmed during this run. Do not invent Joey/user photo references; Diagnostic Photo Polish should check routing index and provenance before attaching any."
+  },
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "target": "Marsilea macropoda versus M. vestita",
+      "request": "Acquire exact-species provenance-tracked macros for branching, sporocarp angle, distal tooth, and petiole-base attachment first; family module has anatomical teaching requirements."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Marsilea macropoda × M. vestita putative Blanco County intermediates",
+      "request": "Confirm the family-module report of putative hybrid/intermediate populations in Blanco County against FNA/vouchers, and specify a stop-at-genus decision rule for discordant specimens. Do not change settled species concepts."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "target": "Marsilea macropoda; Marsilea vestita",
+      "request": "Both names occur in approved source pool and are absent from current canonical manifest. Species installation and taxonomic identity checks belong to installer, not this genus lesson."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Flora of North America: Marsilea macropoda",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500778",
+      "supports": "Stalk branching and attachment, leaflet pubescence and measurements, ascending sporocarps, distal tooth, sori counts."
+    },
+    {
+      "title": "Flora of North America: Marsilea vestita",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500781",
+      "supports": "Unbranched stalks, transverse/nodding sporocarps, hooked distal tooth, measurements and sori counts."
+    },
+    {
+      "title": "World Flora Online: Marsilea macropoda",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-0001109024",
+      "supports": "FNA descriptive morphology mirrored in current accessible species treatment."
+    },
+    {
+      "title": "World Flora Online: Marsilea vestita",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-0001109030",
+      "supports": "FNA descriptive morphology mirrored in current accessible species treatment."
+    },
+    {
+      "title": "Existing canonical family lesson",
+      "path": "content/taxa/Marsileaceae/family.json",
+      "supports": "Shared Marsileaceae architecture, project pair and Blanco County intermediate caution."
+    },
+    {
+      "title": "City of Austin Wetland Plant Guide",
+      "url": "https://www.austintexas.gov/sites/default/files/files/Watershed/blog/creekside/WetlandGuideByFamily_WEB.pdf",
+      "supports": "Central Texas wetland context and water-clover look-alike guidance."
+    }
+  ],
+  "curation_status": {
+    "stage": "genus_comparison_first_pass",
+    "scientific_review": "morphology_from_FNA_with_hybrid_handoff",
+    "visual_status": "diagnostic_photos_pending_not_learner_complete",
+    "canonical_species_installed": 0,
+    "updated_at": "2026-10-12"
+  }
+}

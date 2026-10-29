@@ -1,0 +1,40 @@
+{
+  "id": "thelypteris-kunthii",
+  "family": "Thelypteridaceae",
+  "genus": "Thelypteris",
+  "species": "kunthii",
+  "scientific_name": "Thelypteris kunthii",
+  "common_name": "Southern shield fern",
+  "look_here_first": "Turn over a mature frond and inspect the sori and indusia; compare arrangement of pinnae and deeply lobed pinnules along the rachis.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:251400-2",
+  "synonyms": [
+    "Pelazoneuron kunthii"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching scientific synonym; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-183839437.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) ellingham_l_020, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/183839437",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "rhinotropis-lindheimeri-var-lindheimeri",
+  "family": "Polygalaceae",
+  "genus": "Rhinotropis",
+  "species": "lindheimeri",
+  "entry_type": "infraspecific_taxon",
+  "infraspecific_rank": "variety",
+  "infraspecific_epithet": "lindheimeri",
+  "scientific_name": "Rhinotropis lindheimeri var. lindheimeri",
+  "common_name": "Lindheimer's milkwort, nominate variety",
+  "look_here_first": "Examine the woody shrubby habit, small clustered leaves and winglike lateral sepals on flowers; confirm pod shape and mature seeds with a hand lens.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77230962-1",
+  "synonyms": [
+    "Rhinotropis lindheimeri lindheimeri"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching taxon concept at its recorded rank; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-40543123.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Jerry Morrisey, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/40543123",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

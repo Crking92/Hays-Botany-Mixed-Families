@@ -1,0 +1,36 @@
+{
+  "id": "chaerophyllum-tainturieri",
+  "family": "Apiaceae",
+  "genus": "Chaerophyllum",
+  "species": "tainturieri",
+  "scientific_name": "Chaerophyllum tainturieri",
+  "common_name": "Hairy-fruited chervil",
+  "look_here_first": "Look for finely divided foliage and compound umbels of tiny pale flowers; inspect mature hairy fruits and leaf-sheath bases to separate parsley-family look-alikes.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Chaerophyllum%20tainturieri",
+  "images": [
+    {
+      "file": "images/inat-127541733.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) elevine, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/127541733",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

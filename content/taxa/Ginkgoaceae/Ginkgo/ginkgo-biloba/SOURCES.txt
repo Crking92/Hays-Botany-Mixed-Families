@@ -1,0 +1,18 @@
+Master Plant Pool row 511; approved installer preflight mass-04.
+POWO accepted species: https://powo.science.kew.org/taxon/262125-1
+Exact photo: Sten Porse, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ginkgo-biloba-fruit.jpg
+The pictured structure is a fleshy-coated naked seed, not true fruit. Native metrics excluded.
+
+LIBRARY-FIRST IMAGE SELECTION 015 2026-10-16T16:51:06.682166+00:00
+Ginkgo biloba
+Creator: Carla van der Boon; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5109942611
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/ginkgo-biloba/plantnet-via-gbif-12615f37348b0b.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 015 2026-10-16T16:51:06.682166+00:00
+Ginkgo biloba
+Creator: danielmzhz; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5109884695
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/ginkgo-biloba/plantnet-via-gbif-dce789ab0f42a5.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

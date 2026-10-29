@@ -1,0 +1,38 @@
+Juniperus ashei — SOURCES
+Reviewed: 2026-10-02
+Status: APPROVED FOR CURATION
+
+TAXONOMY
+Plants of the World Online — Juniperus ashei J.Buchholz:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A132457-2
+Flora of North America — Juniperus ashei:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500722
+
+STRICT TARGET-ZONE RANGE
+Hays County — UT Plant Resources Center Natural Purola flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis County — Balcones Canyonlands Preserve plant list:
+https://www.traviscountytx.gov/images/tnr/Docs/Plants.pdf
+Comal County — USGS Honey Creek State Natural Area Ashe juniper work:
+https://www.usgs.gov/centers/oklahoma-texas-water-science-center/science/effects-brush-management-water-budget-and-water
+
+MORPHOLOGY / COMPARISON
+UT Plant Resources Center — Juniperus ashei structures:
+https://www.biosci.utexas.edu/prc/DigFlora/JUAS/cedar.html
+UT Vascular Plants of Williamson County — detailed Juniperus ashei morphology:
+https://w3.biosci.utexas.edu/prc/K12/pages/Juniperus%20ashei.html
+Flora of North America Juniperus key:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=116875
+US Forest Service FEIS:
+https://research.fs.usda.gov/feis/species-reviews/junash
+
+IMAGES
+Exact installed images are the credited Forest Service FEIS/iNaturalist-derived images listed in image-sources.csv.
+UT structure pages remain diagnostic teaching references for leaf glands and other structures even when not directly copied into the learner.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 600607665 https://www.inaturalist.org/photos/600607665 | 331121052 | images/glass-root-garden-600607665-blue-cones-scale-foliage.jpg
+- 637169478 https://www.inaturalist.org/photos/637169478 | 349298953 | images/glass-root-garden-637169478-shredding-bark.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

@@ -1,0 +1,25 @@
+Scientific review reused: Google Master Plant Pool rows 1028–1029; workflow/FIVE_ACCEPTED_DESTINATIONS_2026-10-14.json
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:702845-1
+https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Samolus+parviflorus
+
+Photo source: https://commons.wikimedia.org/wiki/File:Samolus_valerandi_subsp._parviflorus_2019-04-28_01.jpg
+Creator: Agnieszka Kwiecień, Nova
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: width-limited thumbnail and installer JPEG optimization; no arrows or overlays. Retain attribution and ShareAlike for adaptations.
+Photo checked: 2026-10-14. Cultivated aquarium specimen in Wrocław University Botanical Garden, Poland; source explicitly identifies S. valerandi subsp. parviflorus as S. parviflorus synonym. Visually checked the leaf rosette; pedicel bract, flowers, staminodes, and capsules are absent from this image. Provisional recognition image only, not proof of the diagnostic key.
+
+Preferred user-photo check: observation 339589794, photo 617795305. Individual photo license null/all rights reserved; observation also needs_id. Neither licensing nor species-verification gate met. No personal image downloaded or installed.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Samolus parviflorus
+Creator: Jackie T; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6188245664
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/samolus-parviflorus/gbif-9f5a69c82e756b.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Samolus parviflorus
+Creator: Jackie T; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6188245664
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/samolus-parviflorus/gbif-f5de486f0d6ae0.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

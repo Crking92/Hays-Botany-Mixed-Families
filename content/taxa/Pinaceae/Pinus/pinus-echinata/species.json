@@ -1,0 +1,37 @@
+{
+  "id": "pinus-echinata",
+  "family": "Pinaceae",
+  "genus": "Pinus",
+  "species": "echinata",
+  "scientific_name": "Pinus echinata",
+  "common_name": "Shortleaf pine",
+  "look_here_first": "Inspect needles commonly two per fascicle, relatively short cones with small prickles, and bark resin pockets. Compare with other Pinus using needle length and cones.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pinus%20echinata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photo from New Jersey, not source provenance for Central Texas native planting.",
+  "images": [
+    {
+      "file": "images/commons-pinus-echinata.jpg",
+      "role": "Provisional shortleaf pine needle fascicle and immature conelet recognition view",
+      "creator": "John B. / Dendroica cerulea (Flickr)",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_echinata_conelet_and_leaves.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Maintain author, source photo and original CC license attribution"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "rank": "genus",
+  "family": "Pteridaceae",
+  "name": "Adiantum",
+  "common_group": "Maidenhair ferns",
+  "project_scope": {
+    "selection_mode": "B057 same-genus comparison",
+    "species_ids": [
+      "adiantum-capillus-veneris",
+      "adiantum-pedatum"
+    ],
+    "species_count": 2,
+    "nonlocal_comparisons": [
+      "adiantum-pedatum"
+    ]
+  },
+  "study_strategy": {
+    "priority": [
+      "Full mature frond outline: elongate/triangular versus horseshoe fan.",
+      "Location of major pinna attachment: along extended rachis versus radiating near stipe apex.",
+      "Fertile pinnule margin: false indusium is shared, not a species separator."
+    ],
+    "warning": "A. pedatum is not Texas-native under current Kew; do not confuse generic nursery/common-name use with local occurrence.",
+    "shared_traits": [
+      "Both are rhizomatous ferns with glossy dark stipes and fan- or wedge-shaped pinnules.",
+      "Both bear marginal sori under folded pinnule margins (false indusia), and reproduce by spores rather than seeds."
+    ]
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "A. capillus-veneris — Central Texas seep/cliff species with elongate branching fronds and fan-shaped pinnules.",
+      "A. pedatum — northern/eastern species with fanlike radiating pinnae; nonlocal comparison only."
+    ]
+  },
+  "curation_status": {
+    "version": "1.1-frond-comparison",
+    "last_reviewed": "2026-10-13",
+    "visual_status": "matched_diagnostic_photos_pending"
+  },
+  "look_here_first": "Trace a complete mature frond: A. capillus-veneris has an elongated, repeatedly branched blade; A. pedatum has major pinnae radiating near the stipe tip into a horseshoe-shaped fan. Both have black stalks and folded fertile margins.",
+  "quick_key": [
+    {
+      "if": "Frond branches lengthwise along an extended rachis",
+      "then": "Adiantum capillus-veneris — local target-zone PASS"
+    },
+    {
+      "if": "Major pinnae radiate near the distal stipe into a horseshoe fan",
+      "then": "Adiantum pedatum — nonlocal comparison / FAIL_TARGET_ZONE"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Maidenhair ferns: follow the branching",
+      "look_here_first": "Trace a complete mature frond: A. capillus-veneris has an elongated, repeatedly branched blade; A. pedatum has major pinnae radiating near the stipe tip into a horseshoe-shaped fan. Both have black stalks and folded fertile margins.",
+      "field_matrix": [
+        {
+          "character": "Complete frond",
+          "capillus_veneris": "Elongated or triangular, compound blade",
+          "pedatum": "Broad horseshoe/fan blade"
+        },
+        {
+          "character": "Pinna attachment",
+          "capillus_veneris": "Branches along extended rachis",
+          "pedatum": "Pinnae radiate near distal stipe"
+        },
+        {
+          "character": "Black stipe",
+          "capillus_veneris": "Present",
+          "pedatum": "Present; not diagnostic"
+        },
+        {
+          "character": "Reflexed false indusium",
+          "capillus_veneris": "Present",
+          "pedatum": "Present; shared"
+        }
+      ],
+      "caution": "A detached pinnule or black stalk cannot resolve the species. A. pedatum remains a nonlocal comparison."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched whole-frond pair",
+      "need": "Show full blade and stipe; arrows to primary branching junctions."
+    },
+    {
+      "role": "fertile pinnule underside",
+      "need": "Show folded false indusium and sori on both; label as shared."
+    },
+    {
+      "role": "pinnule and vein macro",
+      "need": "Show fanlike pinnules and forked veins; not species diagnostic."
+    }
+  ],
+  "overlap_cautions": [
+    "Both have black wiry stipes, fan-shaped pinnules and false indusia: these are shared traits.",
+    "Complete mature fronds are required; cropped or juvenile fronds can hide branching.",
+    "A. pedatum remains a nonlocal comparison, not a target-zone native."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Pellaea atropurpurea",
+      "difference": "Thicker leathery segments; check whole blade and fertile margins, not just dark stalks."
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "Matched full-frond and branching-junction views for both species, plus A. pedatum fertile-margin macro; retain licenses."
+    }
+  ]
+}

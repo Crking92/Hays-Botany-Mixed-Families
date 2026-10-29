@@ -1,0 +1,37 @@
+{
+  "id": "ephedra-trifurca",
+  "family": "Ephedraceae",
+  "genus": "Ephedra",
+  "species": "trifurca",
+  "scientific_name": "Ephedra trifurca",
+  "common_name": "Longleaf jointfir",
+  "look_here_first": "Look for mostly leafless green jointed stems with branching at nodes; inspect tiny opposite scale leaves and separate male versus female seed cones.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Ephedra%20trifurca",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographed from a labelled plant at Regional Parks Botanic Garden; not evidence of Texas nativity/occurrence.",
+  "images": [
+    {
+      "file": "images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "role": "Provisional recognition view: green jointed ephedra stems with small node leaves; reproductive cones not confirmed.",
+      "creator": "Derrick Coetzee (Dcoetzee)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ephedra_trifurca.jpg",
+      "study_use": "Noncommercial botanical visual learner",
+      "public_reuse": "Public domain/CC0; creator acknowledged"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nasturtium-officinale",
+  "family": "Brassicaceae",
+  "genus": "Nasturtium",
+  "species": "officinale",
+  "scientific_name": "Nasturtium officinale",
+  "common_name": "Watercress",
+  "look_here_first": "Find fleshy creeping stems in wet sites, pinnate leaves with a larger terminal leaflet and clusters of four-petaled white flowers; examine seed pods before final identity.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Nasturtium%20officinale",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Non-Texas original photo. Distribution and introduced/native status in Hays County requires separate review; do not recommend harvesting watercress from potentially polluted creeks.",
+  "images": [
+    {
+      "file": "images/commons-nasturtium-officinale.jpg",
+      "role": "Provisional leafy aquatic watercress habit recognition view",
+      "creator": "Paul venter",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nasturtium_officinale00.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution, license URL and ShareAlike terms apply to derivative reuse"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "rank": "family",
+  "name": "Thelypteridaceae",
+  "common_name": "Marsh / maiden fern family",
+  "lineage_context": {
+    "order": "Polypodiales",
+    "batch": "Polypodiales",
+    "close_project_families": [
+      "Aspleniaceae",
+      "Polypodiaceae",
+      "Pteridaceae"
+    ],
+    "teaching_goal": "Retain the regional/FNA Thelypteridaceae field concept for Thelypteris kunthii: terrestrial pinnate-pinnatifid fern with transparent hairs/glands and round sori usually covered by hairy reniform indusia."
+  },
+  "taxonomy_scope": {
+    "project_teaching_treatment": "Retained as a separate regional/FNA teaching family because it is morphologically useful and still common in North American fern literature.",
+    "current_kew_note": "POWO 2026 treats Thelypteridaceae as a synonym within a broad Aspleniaceae and lists Thelypteris there. This is an alternative family circumscription, not a species-name conflict."
+  },
+  "project_scope": {
+    "selection_mode": "Thelypteris kunthii-centered project module",
+    "note": "The current project pool contains Thelypteris kunthii. Kew accepts the species and includes Texas in its native range, while assigning the genus to broad Aspleniaceae."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Inspect the lower surface and the frond hairs. In the regional/FNA concept, Thelypteridaceae commonly has round sori with kidney-shaped true indusia plus transparent needlelike hairs and/or glands on the frond.",
+    "vegetative": "Mostly terrestrial ferns with creeping to erect rhizomes. Fronds commonly 1-pinnate to pinnate-pinnatifid; transparent hairs and glands are frequent and scales are generally much less conspicuous on mature blade axes than in many other fern families.",
+    "reproductive": "Sori commonly round and medial to supramedial on veins; indusia often reniform/kidney-shaped, sometimes reduced or absent in other family members.",
+    "field_tip": "Round sorus + reniform indusium + hairy/glandular terrestrial frond is the practical regional Thelypteridaceae door."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_018",
+    "teaching_order": "whole terrestrial frond → hairs/glands → round sori → hairy reniform indusium → vein-to-sinus pattern → broad-vs-narrow family taxonomy card",
+    "intro": "Thelypteris looks like a generic 'fern' until you zoom in. The lower blade is full of useful structure: hairs, glands, veins, round sori and tiny kidney-shaped indusia.",
+    "steps": [
+      {
+        "title": "1 · Start with the broad terrestrial frond",
+        "photo_role": "Thelypteris kunthii whole frond",
+        "look_for": "Large monomorphic fern with blade broadest toward the base and pinnae deeply incised toward the costa.",
+        "why_it_matters": "Sets it apart from the narrow black-stemmed Asplenium and small epiphytic Pleopeltis in this project batch.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Zoom into the hairs and glands",
+        "photo_role": "abaxial costa/vein macro",
+        "look_for": "Transparent hairs on costae, veins and blade tissue, often with small stalked yellowish glands.",
+        "why_it_matters": "FNA uses the hairy/glandular indument as an important Thelypteridaceae character suite.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find a round sorus",
+        "photo_role": "fertile pinna underside",
+        "look_for": "Round sori positioned roughly midway to above-midway between costa and margin.",
+        "why_it_matters": "Immediately separates the plant from linear-sorus Asplenium.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Find the hairy kidney-shaped indusium",
+        "photo_role": "sorus close-up / simple diagram",
+        "look_for": "A tan reniform true indusium over the sorus, often bearing short hairs in T. kunthii.",
+        "why_it_matters": "This is a strong reproductive tie-breaker from naked-sorus Pleopeltis and false-indusium cliffbrakes.",
+        "status": "micromacro_pending"
+      },
+      {
+        "title": "5 · Trace veins toward the sinus",
+        "photo_role": "backlit pinna segment",
+        "look_for": "In T. kunthii, proximal veins from adjacent segments run toward the sinus or nearly so.",
+        "why_it_matters": "Adds a technical confirmation character when close Thelypteris relatives are present.",
+        "status": "technical_visual_pending"
+      },
+      {
+        "title": "6 · Learn both family systems",
+        "photo_role": "taxonomy framework card",
+        "look_for": "FNA/regional framework: Thelypteridaceae separate. Current Kew: Thelypteridaceae synonymized into broad Aspleniaceae.",
+        "why_it_matters": "Lets the crew understand why different apps, floras and databases may show different family names for the same fern.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Thelypteridaceae vs Aspleniaceae (regional/FNA)",
+        "rule": "Thelypteris has round sori, commonly reniform indusia, and hairy/glandular fronds; Asplenium has linear sori with narrow one-sided indusia and clathrate stem scales."
+      },
+      {
+        "title": "Thelypteridaceae vs Polypodiaceae",
+        "rule": "Thelypteris is terrestrial and usually has a true reniform indusium; Pleopeltis is creeping/epiphytic with peltate lower-blade scales and round sori lacking a true indusium."
+      },
+      {
+        "title": "Thelypteridaceae vs Pteridaceae",
+        "rule": "Thelypteris sori are round and sit on the blade surface under true indusia; local cliffbrake-type Pteridaceae often has marginal sori hidden by a rolled false indusium."
+      }
+    ],
+    "caveat": "The family boundary is classification-dependent. The project deliberately preserves the FNA-style family as a labeled teaching unit while recording Kew's broader Aspleniaceae treatment."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Thelypteris",
+        "taxa_count": 1,
+        "fast_cue": "large terrestrial pinnate-pinnatifid fern + hairy/glandular underside + round sori + hairy reniform indusia",
+        "role": "maiden/shield-fern door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Thelypteris kunthii"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Thelypteris kunthii",
+      "current_name": "Thelypteris kunthii",
+      "note": "Species accepted by current Kew and FNA."
+    },
+    {
+      "source_family": "Thelypteridaceae",
+      "current_kew_family": "Aspleniaceae",
+      "note": "Kew treats Thelypteridaceae as a family synonym of broad Aspleniaceae; FNA retains Thelypteridaceae separately. Project keeps both frameworks explicit."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "round sorus + hairy reniform indusium",
+      "annotation_goal": "label sorus, indusium and hairs"
+    },
+    {
+      "priority": 1,
+      "structure": "transparent frond hairs + stalked glands",
+      "annotation_goal": "show costa/vein/blade indument"
+    },
+    {
+      "priority": 1,
+      "structure": "Asplenium-vs-Thelypteris sori",
+      "annotation_goal": "linear one-sided-indusium versus round reniform-indusium"
+    },
+    {
+      "priority": 2,
+      "structure": "pinna segment vein-to-sinus pattern",
+      "annotation_goal": "trace proximal adjacent veins toward sinus"
+    },
+    {
+      "priority": 2,
+      "structure": "family-circumscription card",
+      "annotation_goal": "FNA separate family vs Kew broad Aspleniaceae"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Thelypteridaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10887"
+    },
+    {
+      "source": "Flora of North America — Thelypteris",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=132776"
+    },
+    {
+      "source": "Flora of North America — Thelypteris kunthii",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501285"
+    },
+    {
+      "source": "POWO — Thelypteris kunthii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:251400-2"
+    },
+    {
+      "source": "POWO — Aspleniaceae broad family",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126788-1/general-information"
+    },
+    {
+      "source": "POWO search — Thelypteridaceae synonym of Aspleniaceae",
+      "url": "https://powo.science.kew.org/results?q=Thelypteridaceae"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-018",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_hairs_round_sori_reniform_indusia_taxonomy_card_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

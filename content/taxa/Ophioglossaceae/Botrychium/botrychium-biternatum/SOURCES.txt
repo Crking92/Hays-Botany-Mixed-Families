@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30394896-2
+Taxonomic name-synonym evidence: https://www.inaturalist.org/taxa/364152/taxonomy_details
+Photographed under scientific synonym: Sceptridium biternatum
+Source research-grade observation: https://www.inaturalist.org/observations/331128290
+Photo: https://www.inaturalist.org/photos/600622078
+Attribution: (c) powejx, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

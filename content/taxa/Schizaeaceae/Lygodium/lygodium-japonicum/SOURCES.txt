@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17143040-1
+Source research-grade observation: https://www.inaturalist.org/observations/68295177
+Photo: https://www.inaturalist.org/photos/110549255
+Attribution: (c) Michael J. Papay, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 028 2026-10-16T18:22:18.572489+00:00
+Lygodium japonicum
+Creator: Seth G. Breeding; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6131457594
+Stored archive: hays-photo-library-mass-38944876482 :: staged_images/lygodium-japonicum/gbif-1d4ed70b22d7b7.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 028 2026-10-16T18:22:18.572489+00:00
+Lygodium japonicum
+Creator: Northcut; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6195530294
+Stored archive: hays-photo-library-mass-38944876482 :: staged_images/lygodium-japonicum/gbif-35e9dc4e89ac74.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

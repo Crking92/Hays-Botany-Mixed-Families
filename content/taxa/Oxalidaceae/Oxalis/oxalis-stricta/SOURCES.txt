@@ -1,0 +1,10 @@
+Taxon: Oxalis stricta L.
+Source-pool: Master Plant Pool row 803; learner-approved, not a confirmed three-county native.
+Taxonomy / morphology: Flora of North America, https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416902
+Taxonomy / range: Plants of the World Online, Kew; see Master Plant Pool taxonomy review for accepted concept and Texas caveat.
+Range status: CONFLICT; FNA and POWO do not list Texas as native for this accepted concept, whereas the project Hays source pool includes it. Texas native status and source ID remain a voucher-level conflict; no target-zone PASS.
+Morphological distinction: O. dillenii usually has straight forward-appressed nonseptate hairs, fewer flowers (often 1–3), and longer 12–20 mm capsules. O. albicans has short curved/crisped nonseptate hairs; O. corniculata may root at prostrate nodes and has conspicuous broad free stipules.
+Photo provenance (downloaded by installer from Commons file redirect):
+- images/oxalis-stricta-cornell-habit.jpg: New York State IPM Program at Cornell University; CC BY 2.0; https://commons.wikimedia.org/wiki/File:Oxalis_stricta_-_whole_plant_(18872198510).jpg; role=habit; private study=yes; public reuse=yes with license conditions.
+- images/oxalis-stricta-cornell-flower-leaves.jpg: New York State IPM Program at Cornell University; CC BY 2.0; https://commons.wikimedia.org/wiki/File:Oxalis_stricta_-_flower,_leaves_(18439230793).jpg; role=flower_leaves; private study=yes; public reuse=yes with license conditions.
+Photos are initial learner faces, not diagnostic hair-septation proof; mark provisional and request targeted macro views.

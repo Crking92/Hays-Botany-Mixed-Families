@@ -1,0 +1,112 @@
+{
+  "id": "cucurbita-foetidissima",
+  "entry_type": "species",
+  "family": "Cucurbitaceae",
+  "genus": "Cucurbita",
+  "species": "foetidissima",
+  "scientific_name": "Cucurbita foetidissima",
+  "authority": "Kunth",
+  "common_name": "Buffalo gourd",
+  "look_here_first": "LOOK HERE FIRST: Find the rough triangular to broadly ovate leaf blades, usually unlobed or only shallowly lobed, on a long trailing vine. Look for small round, often striped young gourds. This is a perennial from a substantial tuberous rootstock; do not excavate plants merely to verify it. The staged photo shows the leaves, vines and striped fruits, not the underground root.",
+  "taxonomy_notes": "POWO/FNA accept Cucurbita foetidissima Kunth; Cucurbita perennis is a synonym. Do not treat it as cultivated Cucurbita pepo, or infer three-county native PASS from Texas-level nativity.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 316, taxonomy reviewed 2026-10-10",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Preserve existing internal source-pool range decision. No three-county native PASS or invasive label asserted."
+  },
+  "morphology_keys": {
+    "habit": "Long-running, coarse, trailing perennial vine from a large perennial rootstock; stems rough and bearing tendrils.",
+    "leaves_attachment": "Alternate, simple, rough leaves, typically triangular to broad-ovate, mostly unlobed or shallowly lobed; do not diagnose by odor alone.",
+    "flower_reproductive": "Separate male and female large yellow flowers on the same plant; inspect female inferior ovary below corolla and the calyx/corolla from the side.",
+    "fruit_seed": "Usually small globose gourds around 5–10 cm, green-striped when young and yellowing as mature; compare fruiting peduncle and seed with other Cucurbita.",
+    "stem_bud": "Trailing rough stems with axillary tendrils; perennial rootstock is a distinguishing life-history character but not safely visible in a normal field photograph."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cucurbita pepo (annual crop or escape; usually more deeply 5–7-lobed leaves and strongly pustulate-based stem hairs; fruit shape varies widely)",
+      "Cucurbita melopepo (annual wild/cultivated concepts with often lobed leaves; cultivated pattypan shapes alone are not species proof)"
+    ],
+    "key_distinctions": "Use a combination of broad mostly unlobed triangular rough leaves, small rounded gourds and perennial habit; smell and fruit stripes alone are not diagnostic."
+  },
+  "diagnostic_image_needs": [
+    "staged_source: actual fruit, leaves and vine visible; Paigeblue08 CC BY-SA 3.0; photo from Albuquerque NM, not a Texas voucher",
+    "needs_photo: root crown/perennial shoot regrowth without destructive digging",
+    "needs_photo: measured mature leaf both surfaces and petiole attachment",
+    "needs_photo: male and female flower lateral close-ups showing ovary position",
+    "needs_photo: fruiting peduncle attachment and mature seeds with scale",
+    "annotation_pending: arrows only after target structure visually confirmed"
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg",
+      "role": "Exact species vine with mostly unlobed triangular leaves and striped young round fruits; no rootstock shown",
+      "creator": "Paigeblue08",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cucurbita_foetidissima_fruit,_leaves,_and_vine.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 3.0"
+    },
+    {
+      "file": "images/library-review011-002e0d4e099ea29.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Distinctive fruit and broad vine foliage; existing narrow-leaf image needs separate identity audit",
+      "creator": "Casey Cowan",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6179193396",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622859308/original.jpg",
+      "source_determination": "Cucurbita foetidissima",
+      "source_observation_id": "6179193396",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/cucurbita-foetidissima/gbif-25d689c6a51518.jpg",
+      "archive_image_sha256": "b46c4704d58aaec45f9f85f7f44438eb1b00888d908d915fe497f26ce64e8399",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review011-5c4b1fffce1070d.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Distinctive fruit and broad vine foliage; existing narrow-leaf image needs separate identity audit",
+      "creator": "Rajan Rao",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6186142564",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630288305/original.jpg",
+      "source_determination": "Cucurbita foetidissima",
+      "source_observation_id": "6186142564",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/cucurbita-foetidissima/gbif-6ee2a1bae73ffe.jpg",
+      "archive_image_sha256": "0c7781291c82be0e1a20e1660c6c998e6ea2e63a773a8d1ae9237d7754eaea48",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_011": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

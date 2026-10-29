@@ -1,0 +1,82 @@
+{
+  "id": "taxodium-distichum",
+  "entry_type": "species",
+  "family": "Cupressaceae",
+  "genus": "Taxodium",
+  "species": "distichum",
+  "scientific_name": "Taxodium distichum",
+  "authority": "(L.) Rich.",
+  "common_name": "Baldcypress / Bald Cypress",
+  "taxonomic_note": "Current Kew accepts one species in Taxodium with three varieties; Central Texas baldcypress is represented at species level here, with var. distichum as the likely local infraspecific concept.",
+  "look_here_first": "Start with the deciduous feathery branchlets and buttressed wet-site trunk. Baldcypress is a large deciduous conifer with flat two-ranked leaves on many lateral shoots, fibrous reddish-brown bark, round woody cones, and often knees or a swollen fluted base near water.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays and Travis natural riparian-community documentation plus Williamson County occurrence/listing.",
+    "range_guardrail": "Species-level learner; no forced local variety assignment."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "large deciduous conifer",
+      "feathery two-ranked leaves on many lateral shoots",
+      "foliage turns coppery and sheds in winter",
+      "fibrous reddish-brown to gray bark",
+      "swollen/fluted trunk base in wet sites",
+      "pneumatophores or 'knees' may occur",
+      "round woody seed cones"
+    ],
+    "comparison_training": "Deciduous conifer + feathery two-ranked foliage + wet-site buttressed trunk/knees + round cones is the core field package."
+  },
+  "curation_status": {
+    "version": "1.0-b052",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "images/01-texas-habit.jpg",
+      "role": "Tree habit / wetland trunks and crowns",
+      "creator": "Thomas & Dianne Jones",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Taxodium_distichum_Caddo_Lake_TX_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-foliage-cones.jpg",
+      "role": "Leafy branchlets and rounded seed cones",
+      "creator": "Jamain",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Taxodium_distichum_cones_J1.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-bark.jpg",
+      "role": "Bark detail / fibrous ridges and furrows",
+      "creator": "MONGO",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bald_Cypress_(Taxodium_distichum)_bark_detail.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "First three physical exact-species photos: Texas wetland tree habit, foliage with rounded seed cones, and bark. Scientific PASS unchanged; no variety assignment."
+  }
+}

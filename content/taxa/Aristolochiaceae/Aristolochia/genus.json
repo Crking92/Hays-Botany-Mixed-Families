@@ -1,0 +1,142 @@
+{
+  "rank": "genus",
+  "family": "Aristolochiaceae",
+  "name": "Aristolochia",
+  "project_scope": {
+    "species_ids": [
+      "aristolochia-erecta",
+      "aristolochia-serpentaria"
+    ]
+  },
+  "shared_genus_traits": [
+    "Small perennial herbs in this local two-species lesson, with alternate simple entire leaves; neither needs to be a climbing pipevine.",
+    "Flowers have a bent or curved, fused petaloid CALYX (perianth), not separate petals; the base is inflated into a utricle, and the ovary is inferior.",
+    "Five or six stamens are united with the style as a gynostemium; dry many-seeded capsules split into valves (number differs between these two species)."
+  ],
+  "look_here_first": "First inspect mature leaves and where the inconspicuous flowers originate: A. erecta has very narrow linear-lanceolate leaves and solitary axillary flowers on new growth, whereas A. serpentaria has wider lanceolate–ovate leaves and flowers mostly near the stem base on slender scaly peduncles. Then count the perianth limb lobes (one strap versus three) and, when possible, the capsule valves (five versus six).",
+  "species_comparison_matrix": [
+    {
+      "character": "Mature leaf blade (FNA)",
+      "erecta": "Linear-lanceolate, ~10–15 × 0.5–1 cm; cuneate/attenuate base",
+      "serpentaria": "Lanceolate to ovate, ~5–15 × 1–5 cm; base truncate to cordate",
+      "priority": "FAST VEGETATIVE SPLIT; measure several fully grown leaves"
+    },
+    {
+      "character": "Flower position and stalk",
+      "erecta": "Solitary axillary flowers on new growth; bracteolate peduncle ~1–4 cm",
+      "serpentaria": "Usually from the stem base on short scaly/bracteolate peduncles; sometimes an additional axillary flower",
+      "priority": "FOLLOW THE STALK TO ITS ORIGIN"
+    },
+    {
+      "character": "Calyx limb (not petals)",
+      "erecta": "One conspicuous elongate strap-shaped lobe; bent tube below",
+      "serpentaria": "Three lobes on a bent, S-shaped tube; may be inconspicuous or not fully opened",
+      "priority": "PRIMARY REPRODUCTIVE CHARACTER"
+    },
+    {
+      "character": "Stamens / gynostemium (FNA)",
+      "erecta": "Five anthers; gynostemium five-lobed",
+      "serpentaria": "Six anthers; gynostemium three-lobed",
+      "priority": "MAGNIFICATION OR DISSECTION; not a first-pass field character"
+    },
+    {
+      "character": "Mature capsule (FNA)",
+      "erecta": "Ovoid, ~2.5 × 1–3 cm; five valves",
+      "serpentaria": "Globose, ~0.8–2 × 1–2 cm; six valves",
+      "priority": "CONFIRM WITH RIPE FRUIT, NOT IMMATURE SHAPE"
+    },
+    {
+      "character": "Typical shoot stature (FNA)",
+      "erecta": "Erect to sprawling herb to ~25 cm",
+      "serpentaria": "Erect to decumbent herb to ~60 cm",
+      "priority": "SUPPORT ONLY; variable with site and season"
+    }
+  ],
+  "overlap_and_cautions": [
+    "Both species can have curved brown-purple flowers hidden near the ground or in leaf litter; find the full flower stalk before assigning a species.",
+    "Leaf width and shoot height can vary; use several mature leaves plus calyx-limb architecture rather than a single leaf.",
+    "The flower's conspicuous tube is the fused CALYX, not a corolla; count actual limb lobes rather than color patches.",
+    "A. serpentaria can have closed/poorly opened flowers, making its three-lobed limb difficult to see. Record Aristolochia sp. if the limb and mature foliage cannot be evaluated.",
+    "Do not mistake a five-valved A. erecta capsule for the six-valved A. serpentaria capsule; valve count requires mature/dehiscing fruit.",
+    "The source-pool pair are both already canonical; do not create additional species cards or reopen the settled county-range decisions."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Aristolochia reticulata",
+      "scope": "Regional comparison only; not an added canonical/source-pool species",
+      "separate_by": "Broad ovate leaves ~7–12 × 3–6 cm, generally rounded tip and hispid lower surface; basal flowers have a funnel-shaped calyx tube and three-lobed limb. Distinguish from A. serpentaria with matched mature leaves, hairs, and complete calyx, not limb count alone.",
+      "status": "Targeted Taxonomy + Diagnostic Review confirmation before a learner ID card"
+    },
+    {
+      "taxon": "Sterile narrow-leaved grasses and sedges",
+      "separate_by": "Grass/sedge leaves have parallel venation and a sheath/collar around the culm; A. erecta has a petiolate dicot leaf with reticulate venation and, when flowering, a fused calyx tube."
+    },
+    {
+      "taxon": "Other small woodland herbs with cordate leaves",
+      "separate_by": "A. serpentaria has an unusual bent, fused petaloid calyx and inferior ovary; ordinary corollas with separate calyx and superior ovary are not Aristolochia."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "Paired entire mature leaf blades with mm ruler and labeled BASES: A. erecta narrow cuneate versus A. serpentaria broader truncate/cordate; include venation.",
+    "Same-height whole plant and low-node photograph showing EXACT origin of flower stalk: new-growth axil versus basal scaly peduncle.",
+    "Matched side-on calyx photos with utricle, bend, tube, and limb labeled; show no separate petals.",
+    "Matched face-on limb macros with arrow labels: one strap-shaped lobe in erecta versus three lobes in serpentaria; photograph opened flowers only.",
+    "Optional dissected gynostemium macros under magnification to verify 5 versus 6 anthers and 5- versus 3-lobed columns; do not force IDs from inaccessible organs.",
+    "Mature capsules photographed in profile and end view with a scale and counted valves: erecta five, serpentaria six.",
+    "Side-by-side A. serpentaria versus regional A. reticulata mature leaf underside hairs, apex/base and whole calyx, with confirmed source IDs."
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Verify a photo-backed A. serpentaria versus regional A. reticulata tie-breaker using FNA mature leaf apex, abaxial hairs, calyx-tube and peduncle morphology; do not install A. reticulata or reopen the settled two-species range records."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Prioritize matched limb-lobe and flower-stalk-origin macros; then mature 5- versus 6-valved capsule views. Reuse existing Joey A. erecta and Eric Hunt A. serpentaria records with their actual reuse restrictions."
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-measured-reproductive-comparison",
+    "visual_status": "canonical species images available; matched diagnostic structures incomplete",
+    "last_reviewed": "2026-10-11",
+    "genus_audit": "two canonical species comparison expanded; pending photo polish"
+  },
+  "field_identification_sequence": [
+    "At a node, verify alternate simple leaves and trace leaf attachment (do not rely on 'grasslike' appearance alone).",
+    "Measure two or three mature leaf blades including their width and basal shape; narrow ~0.5–1 cm favors A. erecta, broader ~1–5 cm supports A. serpentaria.",
+    "Search low on the plant and gently trace each flower stalk: axillary on new growth versus mostly basal scaly peduncles.",
+    "Photograph the complete fused calyx side-on, then its distal limb face-on: one strap-shaped lobe versus three lobes.",
+    "If ripe fruits are present, count dehiscence valves and photograph fruit profile with a scale: five versus six.",
+    "If characters conflict, leave the specimen at Aristolochia sp. and request a reproductive macro."
+  ],
+  "existing_media_reuse": [
+    {
+      "species_id": "aristolochia-erecta",
+      "species_record": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/species.json",
+      "image_roles": [
+        "Flower side view showing curved perianth tube, flower orientation, and low grass-mimic habit",
+        "Flower close-up showing the curved perianth tube, dark patterned limb, and scale"
+      ],
+      "creator": "Joey Santore",
+      "rights": "Private study only; public reuse not cleared",
+      "note": "Use existing canonical images for the lesson where diagnostic structure is visible; do not imply they show counted stamens, capsules or unpictured leaves."
+    },
+    {
+      "species_id": "aristolochia-serpentaria",
+      "species_record": "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/species.json",
+      "image_role": "Woodland habit and broad, cordate-based leaves",
+      "creator": "Eric Hunt",
+      "rights": "CC BY-SA 4.0; preserve attribution and share-alike requirements",
+      "note": "Existing reference from Arkansas is morphological context, not local county-range evidence."
+    }
+  ],
+  "diagnostic_science_sources": [
+    "https://www.worldfloraonline.org/taxon/wfo-0000547771",
+    "https://test.worldfloraonline.org/taxon/wfo-0000548329",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500163",
+    "https://w3.biosci.utexas.edu/prc/specimens/Aristolochiaceae.html",
+    "content/taxa/Aristolochiaceae/family.json",
+    "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-erecta/species.json",
+    "content/taxa/Aristolochiaceae/Aristolochia/aristolochia-serpentaria/species.json"
+  ]
+}

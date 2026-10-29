@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284601-2
+Source research-grade observation: https://www.inaturalist.org/observations/123897280
+Photo: https://www.inaturalist.org/photos/209942894
+Attribution: (c) Sandy Wolkenberg, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Sanicula canadensis
+Creator: natgrace18; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6178840489
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/sanicula-canadensis/gbif-d8a49e57934ad9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

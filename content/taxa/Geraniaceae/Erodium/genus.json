@@ -1,0 +1,156 @@
+{
+  "rank": "genus",
+  "family": "Geraniaceae",
+  "name": "Erodium",
+  "common_group": "storksbills / filarees",
+  "project_scope": {
+    "selection_mode": "two approved Master Plant Pool species; genus framework only",
+    "source_pool_species": [
+      "Erodium cicutarium",
+      "Erodium texanum"
+    ],
+    "canonical_species_ids": [],
+    "species_installation": "Approved Taxa Installer only; neither species appears in latest manifest",
+    "range_note": "Preserve separate existing native-range states; no new county PASS or native metric inferred."
+  },
+  "look_here_first": "Start with a full mature leaf: is it pinnately compound with many deeply cut leaflets, or a single rounded/ovate blade with 3–5 lobes? Confirm Erodium from a flower with five fertile stamens and five sterile staminodes, then from the long-beaked five-part fruit.",
+  "shared_genus_traits": [
+    "Herbaceous annuals or short-lived herbs with stipulate leaves, often in a basal rosette.",
+    "Flowers usually have five free sepals and five free petals; five fertile stamens plus five staminodes are characteristic.",
+    "Fruits are elongated beaked schizocarps separating into five one-seeded mericarps, each with a hygroscopically coiling awn."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Mature leaf construction (PRIMARY)",
+      "Erodium cicutarium": "Pinnately compound leaf with numerous leaflets; leaflets deeply pinnately lobed or cut, fernlike in outline.",
+      "Erodium texanum": "Simple blade, ovate to rounded, usually 3–5 broad lobes with toothed margins; not a series of separate leaflets.",
+      "how_to_see": "Lay entire leaf flat; label rachis, individual leaflets, and lobes. Compare basal mature leaves, not cotyledons."
+    },
+    {
+      "character": "Inflorescence flower count (SUPPORTING)",
+      "Erodium cicutarium": "Often 2–8 flowers per umbel-like cluster.",
+      "Erodium texanum": "Usually 2–3 flowers per cluster.",
+      "how_to_see": "Photograph intact peduncle and all pedicels; overlap at 2–3 flowers means not decisive."
+    },
+    {
+      "character": "Flower / fruit construction (GENUS CONFIRMATION)",
+      "Erodium cicutarium": "Five fertile stamens, five staminodes; elongated beak and five mericarps.",
+      "Erodium texanum": "Same genus architecture; do not use a long beak by itself to split species.",
+      "how_to_see": "Flower-center macro with anthers counted; ripe fruit macro showing beak, mericarps, and spiral awn."
+    },
+    {
+      "character": "Flower color / red stems (NOT DIAGNOSTIC)",
+      "Erodium cicutarium": "Pink-purple petals and reddish hairy stems possible.",
+      "Erodium texanum": "Pink-purple petals and reddish hairy stems possible.",
+      "how_to_see": "Treat color and stem tint as context only."
+    }
+  ],
+  "decision_sequence": [
+    "Find a complete mature leaf, including its attachment: many discrete leaflets on a rachis → E. cicutarium; one broadly lobed blade → E. texanum.",
+    "Check multiple leaves on the same individual and photograph an intact flowering cluster; 2–3 flowers overlaps both.",
+    "Verify five fertile stamens plus five staminodes and a five-mericarpped beaked fruit when available; these confirm Erodium rather than either species.",
+    "If only flowers or a detached fruit are available, retain Erodium sp. rather than forcing a species."
+  ],
+  "overlap_cautions": [
+    "Both species may have pink-purple flowers, reddish stems, a low spreading habit, and long beaked fruits.",
+    "Flower-cluster counts overlap; no single flower color or beak-length observation should determine the species.",
+    "The existing Joey video reference labeled E. texanum mentions 'dissected leaves'. Verify the exact photographed plant and whether the foliage is actually a simple lobed blade before treating that frame as diagnostic evidence.",
+    "Learner admission from the approved source pool is not a native-range certification; neither taxon is installed canonically."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Geranium carolinianum / Geranium texanum",
+      "separate": "Geranium typically has ten fertile stamens; Erodium has five fertile stamens plus five staminodes. Check flower center and fruit; both can have lobed leaves."
+    },
+    {
+      "taxon": "Other small Geraniaceae",
+      "separate": "Use mature beaked schizocarp and stamen arrangement rather than flower color alone."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "character": "leaf architecture",
+      "taxa": [
+        "Erodium cicutarium",
+        "Erodium texanum"
+      ],
+      "shot": "Matched mature basal leaves with a scale; annotate pinnate rachis/leaflets vs single 3–5-lobed blade",
+      "status": "not acquired; Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "character": "flower center",
+      "taxa": [
+        "Erodium cicutarium",
+        "Erodium texanum"
+      ],
+      "shot": "Matched flower-center macros marking five anther-bearing stamens and five staminodes",
+      "status": "not acquired; Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "character": "fruit mechanism",
+      "taxa": [
+        "Erodium cicutarium",
+        "Erodium texanum"
+      ],
+      "shot": "Long-beaked immature and mature fruits, five mericarps and coiled awns with scale",
+      "status": "not acquired; Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "character": "cluster architecture",
+      "taxa": [
+        "Erodium cicutarium",
+        "Erodium texanum"
+      ],
+      "shot": "Intact flowering clusters showing all pedicels and count",
+      "status": "not acquired; Diagnostic Photo Polish"
+    }
+  ],
+  "existing_media_reference": {
+    "source": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json",
+    "taxon": "Erodium texanum",
+    "frame_count": 1,
+    "role": "storksbill fruit / foliage",
+    "status": "identity and leaf architecture must be verified before use; private-study rights and original provenance must be checked"
+  },
+  "sources": [
+    {
+      "name": "UT Austin Vascular Plants of Williamson County: Erodium cicutarium",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Erodium%20cicutarium.html"
+    },
+    {
+      "name": "Arizona Cooperative Extension: Erodium texanum",
+      "url": "https://yavapaiplants.extension.arizona.edu/erodium-texanum"
+    },
+    {
+      "name": "Texas Wildbuds: Erodium texanum",
+      "url": "https://www.texaswildbuds.com/erodium-texanum.html"
+    },
+    {
+      "name": "Texas Wildbuds: Erodium cicutarium",
+      "url": "https://www.texaswildbuds.com/erodium-cicutarium.html"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Erodium texanum Joey frame",
+      "question": "Check foliage is a simple lobed blade rather than a pinnately compound E. cicutarium leaf; verify frame identity and provenance."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "target": "Erodium cicutarium; Erodium texanum",
+      "question": "Two approved source-pool taxa are absent from manifest; only installer may create species cards."
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-comparison-builder-2026-10-10",
+    "scientific_status": "provisional_morphology_framework",
+    "visual_status": "diagnostic_photos_pending",
+    "canonical_species_unchanged": true,
+    "range_decisions_unchanged": true
+  }
+}

@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:251400-2
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:251400-2
+Photographed under scientific synonym: Pelazoneuron kunthii
+Source research-grade observation: https://www.inaturalist.org/observations/109112931
+Photo: https://www.inaturalist.org/photos/183839437
+Attribution: (c) ellingham_l_020, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

@@ -1,0 +1,63 @@
+{
+  "id": "guaiacum-angustifolium",
+  "family": "Zygophyllaceae",
+  "genus": "Guaiacum",
+  "species": "angustifolium",
+  "scientific_name": "Guaiacum angustifolium",
+  "common_name": "Texas lignum-vitae",
+  "look_here_first": "Small woody shrub with paired tiny oblong leaflets, violet-blue five-petaled flowers and small colored fruit capsules.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_049": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Guaiacum%20angustifolium",
+  "images": [
+    {
+      "file": "images/inat-788135.jpg",
+      "role": "Look closer · purple flowers among narrow leaflets",
+      "creator": "(c) CH Hemphill, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/788135",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review049-2fd91d1198a0b4f.jpg",
+      "role": "Recognize · woody branch with leaves and reddish fruit",
+      "requested_diagnostic_view": "Woody twig with narrow leaflets and reddish developing capsule",
+      "creator": "Clifton Ladd, C.W.B.",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6130027656",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605946037/original.jpg",
+      "source_determination": "Guaiacum angustifolium",
+      "source_observation_id": "6130027656",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/guaiacum-angustifolium/gbif-e393409a4c3ea9.jpg",
+      "archive_image_sha256": "40f127b1661f221321cadb64829ca984e2d327473ae4de68255e142a29240cae",
+      "image_dimensions": [
+        1400,
+        788
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

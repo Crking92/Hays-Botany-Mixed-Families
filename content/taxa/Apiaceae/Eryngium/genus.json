@@ -1,0 +1,241 @@
+{
+  "rank": "genus",
+  "family": "Apiaceae",
+  "name": "Eryngium",
+  "common_group": "Eryngos / rattlesnake masters",
+  "project_scope": {
+    "selection_mode": "B040 science + B157 source-status reconciliation",
+    "canonical_species_ids": [
+      "eryngium-leavenworthii",
+      "eryngium-yuccifolium"
+    ],
+    "canonical_species_count": 2,
+    "reviewed_holds": [
+      "eryngium-yuccifolium"
+    ],
+    "source_concept_count": 2,
+    "note": "Both species have canonical learner cards. E. yuccifolium retains its unresolved target-zone native-range status; canonical admission is not native-range certification."
+  },
+  "study_strategy": {
+    "priority": [
+      "annual vs perennial habit",
+      "leaf architecture",
+      "head shape",
+      "bract crown",
+      "flowering-season color"
+    ],
+    "warning": "Both are spiny Apiaceae and can look 'thistle-like.' Leaf architecture is the fastest split.",
+    "look_here_first": [
+      "Start at mature basal leaves; compare leaf divisions, blade width, venation and spiny margins.",
+      "Determine annual taproot versus persistent perennial crown from intact specimens, not isolated cut stems.",
+      "Compare same-scale flowering heads: elongate head and projecting bract crown versus pale rounded heads.",
+      "If distinguishing from thistles, isolate a flower and fruit; inspect five-parted Apiaceae flower and paired mericarps rather than head silhouette."
+    ],
+    "overlap_cautions": [
+      "Both species have spiny foliage or bracts; spines alone do not identify species.",
+      "Purple pigmentation can be variable; dried heads lose color.",
+      "Young E. yuccifolium may not yet have flowering heads; basal leaves are critical.",
+      "Thistles (Asteraceae) can mimic a spiny head but contain composite florets and cypselae rather than separate Apiaceae flowers and paired mericarps."
+    ]
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "E. leavenworthii — annual; upper plant often purple; broad deeply divided spiny leaves; elongated heads with a conspicuous bract crown.",
+      "E. yuccifolium — perennial; long linear yucca-like leaves; pale globose heads; no purple bract crown."
+    ],
+    "caveat": "E. yuccifolium remains a range HOLD in this project until a third exact target-zone county is locked."
+  },
+  "curation_status": {
+    "version": "1.2-photo-led-comparison",
+    "last_reviewed": "2026-10-14",
+    "genus_audit": "complete_with_reviewed_hold",
+    "source_concepts_reconciled": true,
+    "genus_visual_upgrade": "two canonical species, five comparison characters, four anatomy roles, photo provenance and restrictions recorded; image pixels not independently verified"
+  },
+  "source_concept_status": [
+    {
+      "id": "eryngium-leavenworthii",
+      "scientific_name": "Eryngium leavenworthii",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "eryngium-yuccifolium",
+      "scientific_name": "Eryngium yuccifolium",
+      "status": "REVIEWED_RANGE_HOLD",
+      "note": "Bexar and Gillespie locked; third exact target-zone county still needed."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "Both species: whole plant including basal leaves and flowering stems",
+    "E. leavenworthii: basal leaf blade and spiny lobes with scale",
+    "E. yuccifolium: straplike basal leaf, venation and margin with scale",
+    "Both species: flowering head side view showing subtending bracts",
+    "Both species: mature fruit/mericarps and bract details with scale"
+  ],
+  "comparison_cautions": [
+    "Purple pigmentation is variable and not sufficient for species ID.",
+    "Young or cut plants may lack reproductive heads; compare mature basal leaves.",
+    "E. yuccifolium remains RANGE_UNRESOLVED in project target-zone metrics despite its canonical learner card."
+  ],
+  "look_here_first": "LOOK HERE FIRST: photograph basal leaves on an attached flowering stem. Deeply palmately divided, spiny leaves on a short-lived annual point toward E. leavenworthii; long, stiff, narrow, parallel-veined basal blades from a perennial crown point toward E. yuccifolium. Next compare mature head shape and the bract crown; purple coloration alone is not diagnostic.",
+  "shared_genus_traits": [
+    "Apiaceae with dense, bracted flower heads rather than the loose compound umbels typical of many carrot-family plants.",
+    "Small individual flowers within each head; inspect a single flower and the mature paired mericarps to distinguish an eryngo head from an Asteraceae capitulum.",
+    "Leaves and head bracts are often stiff or spiny; basal leaf architecture is a more dependable first split than head color."
+  ],
+  "genus_diagnostics": {
+    "shared_structure_examples": [
+      {
+        "term": "basal leaf blade and venation",
+        "plain": "Look at the lowest mature leaves, not just the purple flowering tips. One species has divided spiny blades; the other has long narrow blades with lengthwise veins.",
+        "species_examples": [
+          "eryngium-leavenworthii",
+          "eryngium-yuccifolium"
+        ],
+        "photo_role": "matched whole basal leaves attached to crown, ruler, and vein close-up",
+        "status": "needs_photo",
+        "annotation": "annotation_pending"
+      },
+      {
+        "term": "involucral bracts",
+        "plain": "Stiff pointed leaflike pieces form a collar or crown beneath and sometimes beyond each packed flower head.",
+        "species_examples": [
+          "eryngium-leavenworthii",
+          "eryngium-yuccifolium"
+        ],
+        "photo_role": "matched side-view heads and bracts with scale",
+        "status": "needs_photo",
+        "annotation": "annotation_pending"
+      },
+      {
+        "term": "individual flower and inferior ovary",
+        "plain": "A head contains many tiny flowers. Isolate one flower to see separate floral parts above the seed-forming ovary.",
+        "species_examples": [
+          "eryngium-leavenworthii",
+          "eryngium-yuccifolium"
+        ],
+        "photo_role": "dissected single flower with petals, stamens and ovary at macro scale",
+        "status": "needs_photo",
+        "annotation": "annotation_pending"
+      },
+      {
+        "term": "schizocarp / mericarps",
+        "plain": "The dry fruit divides into two one-seeded halves. This is a family clue that helps separate eryngos from thistles.",
+        "species_examples": [
+          "eryngium-leavenworthii",
+          "eryngium-yuccifolium"
+        ],
+        "photo_role": "mature fruit intact and separated paired mericarps under magnification",
+        "status": "needs_photo",
+        "annotation": "annotation_pending"
+      }
+    ]
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Life cycle and crown",
+      "leavenworthii": "Annual, taprooted",
+      "yuccifolium": "Perennial with persistent thickened rootstock",
+      "how_to_check": "Intact basal crown/root with scale; avoid uprooting protected plants."
+    },
+    {
+      "character": "Mature basal/upper leaf",
+      "leavenworthii": "Broad, deeply palmately divided spiny leaves; upper leaves conspicuous",
+      "yuccifolium": "Long stiff linear yucca-like blades with marginal spines and longitudinal veins",
+      "how_to_check": "Matched attached basal and upper leaf images; include a ruler."
+    },
+    {
+      "character": "Flower head and bracts",
+      "leavenworthii": "Often elongated purple heads with projecting crown of rigid spiny bracts",
+      "yuccifolium": "Rounded to ovoid pale heads; no comparable purple terminal crown",
+      "how_to_check": "Same-scale side and front view at full bloom."
+    },
+    {
+      "character": "Color reliability",
+      "leavenworthii": "Upper canopy often vivid purple",
+      "yuccifolium": "Pale greenish-white heads",
+      "how_to_check": "Supporting only; compare leaves and bracts first."
+    },
+    {
+      "character": "Fruit/family confirmation",
+      "leavenworthii": "Apiaceae paired mericarps from many individual flowers",
+      "yuccifolium": "Same shared fruit plan",
+      "how_to_check": "Dissect ripe head; genus/family clue, not a species split."
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Leavenworth's eryngo versus rattlesnake master",
+      "taxon_ids": [
+        "eryngium-leavenworthii",
+        "eryngium-yuccifolium"
+      ],
+      "look_here_first": "Palmately divided annual foliage versus long linear perennial foliage.",
+      "photo_requirements": [
+        "matched basal leaves and crown",
+        "matched mature heads and bract crowns",
+        "one-flower and mature fruit macros"
+      ],
+      "warning": "Do not identify from purple color alone."
+    },
+    {
+      "title": "Eryngium versus thistle heads",
+      "taxon_ids": [
+        "eryngium-leavenworthii",
+        "eryngium-yuccifolium"
+      ],
+      "look_here_first": "Inspect one individual flower and paired mature mericarps; thistle heads are Asteraceae composites with cypselae.",
+      "photo_requirements": [
+        "dissected Eryngium flower",
+        "mature paired mericarps",
+        "comparison Asteraceae head with floret"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "metadata_references_only_diagnostic_macros_pending",
+    "existing_media": [
+      {
+        "taxon_id": "eryngium-leavenworthii",
+        "file": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_flowering-head-source-label_16-20.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+        "source_record_id": "N4yq5Z1_0Eo-23",
+        "role": "flowering head and rigid bract context",
+        "status": "metadata_reference_not_independently_pixel_verified",
+        "caption": "Study-only labeled flowering-head frame; do not use as publicly cleared or proof of microscopic anatomy.",
+        "annotation": "annotation_pending"
+      },
+      {
+        "taxon_id": "eryngium-leavenworthii",
+        "file": "content/taxa/Apiaceae/Eryngium/eryngium-leavenworthii/images/eryngium-leavenworthii_seed-collection_17-20.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+        "role": "dry fruit and seed collection context",
+        "status": "metadata_reference_not_independently_pixel_verified",
+        "caption": "Study-only late-season reference; paired mericarps not verified from pixels.",
+        "annotation": "annotation_pending"
+      },
+      {
+        "taxon_id": "eryngium-yuccifolium",
+        "file": "content/taxa/Apiaceae/Eryngium/eryngium-yuccifolium/images/eryngium-yuccifolium-provisional-face.jpg",
+        "creator": "Eric Hunt",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Eryngium_yuccifolium.jpg",
+        "role": "whole flowering habit and pale rounded heads; basal leaf detail requires close-up",
+        "status": "species_record_reference_not_independently_pixel_verified",
+        "caption": "Exact-species provisional habit reference; no verified anatomy arrows.",
+        "annotation": "annotation_pending"
+      }
+    ],
+    "photo_gaps": [
+      "E. leavenworthii whole basal leaf and root/crown; existing saved frames emphasize heads.",
+      "E. yuccifolium spiny leaf margin and parallel venation close-up.",
+      "Matched same-scale head underside and involucral bract crown for both species.",
+      "Single Apiaceae flower dissection and mature paired mericarps with verified arrow targets."
+    ],
+    "photo_handoff": "Diagnostic Photo Polish: inspect rights-cleared exact-species images and install matched anatomical close-ups. Private-study Joey frames must not be promoted to public-use images without permission."
+  }
+}
