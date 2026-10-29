@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 105,
+  "photo_species": 14,
+  "photo_count": 19,
+  "entries": {
+    "atrema-americanum": {
+      "count": 0,
+      "first_src": null
+    },
+    "bowlesia-incana": {
+      "count": 0,
+      "first_src": null
+    },
+    "centella-erecta": {
+      "count": 0,
+      "first_src": null
+    },
+    "chaerophyllum-tainturieri": {
+      "count": 0,
+      "first_src": null
+    },
+    "conium-maculatum": {
+      "count": 1,
+      "first_src": "media/conium-maculatum/conium-maculatum-harry-rose-stem.jpg"
+    },
+    "cyclospermum-leptophyllum": {
+      "count": 0,
+      "first_src": null
+    },
+    "daucosma-laciniata": {
+      "count": 0,
+      "first_src": null
+    },
+    "daucus-pusillus": {
+      "count": 0,
+      "first_src": null
+    },
+    "eryngium-leavenworthii": {
+      "count": 0,
+      "first_src": null
+    },
+    "eryngium-yuccifolium": {
+      "count": 1,
+      "first_src": "media/eryngium-yuccifolium/eryngium-yuccifolium-provisional-face.jpg"
+    },
+    "polytaenia-nuttallii": {
+      "count": 0,
+      "first_src": null
+    },
+    "polytaenia-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "sanicula-canadensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "torilis-arvensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "vesper-macrorhizus": {
+      "count": 0,
+      "first_src": null
+    },
+    "pilostyles-thurberi": {
+      "count": 0,
+      "first_src": null
+    },
+    "aristolochia-erecta": {
+      "count": 0,
+      "first_src": null
+    },
+    "aristolochia-serpentaria": {
+      "count": 0,
+      "first_src": null
+    },
+    "asplenium-resiliens": {
+      "count": 1,
+      "first_src": "media/asplenium-resiliens/asplenium-resiliens-habit-commons.jpg"
+    },
+    "capsella-bursa-pastoris": {
+      "count": 0,
+      "first_src": null
+    },
+    "descurainia-pinnata": {
+      "count": 0,
+      "first_src": null
+    },
+    "diplotaxis-muralis": {
+      "count": 0,
+      "first_src": null
+    },
+    "lepidium-austrinum": {
+      "count": 0,
+      "first_src": null
+    },
+    "lepidium-virginicum": {
+      "count": 0,
+      "first_src": null
+    },
+    "nasturtium-officinale": {
+      "count": 0,
+      "first_src": null
+    },
+    "nerisyrenia-camporum": {
+      "count": 0,
+      "first_src": null
+    },
+    "paysonia-grandiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "physaria-densiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "physaria-engelmannii": {
+      "count": 0,
+      "first_src": null
+    },
+    "physaria-gracilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "physaria-recurvata": {
+      "count": 0,
+      "first_src": null
+    },
+    "physaria-sessilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "planodes-virginicum": {
+      "count": 0,
+      "first_src": null
+    },
+    "rapistrum-rugosum": {
+      "count": 0,
+      "first_src": null
+    },
+    "sisymbrium-altissimum": {
+      "count": 0,
+      "first_src": null
+    },
+    "streptanthus-petiolaris": {
+      "count": 0,
+      "first_src": null
+    },
+    "tomostima-cuneifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "cleome-dodecandra": {
+      "count": 0,
+      "first_src": null
+    },
+    "cleome-trachysperma": {
+      "count": 0,
+      "first_src": null
+    },
+    "sedum-nuttallii": {
+      "count": 0,
+      "first_src": null
+    },
+    "cucumis-melo": {
+      "count": 1,
+      "first_src": "media/cucumis-melo/cucumis-melo-starr-080815-9781.jpg"
+    },
+    "cucurbita-foetidissima": {
+      "count": 1,
+      "first_src": "media/cucurbita-foetidissima/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg"
+    },
+    "cucurbita-melopepo": {
+      "count": 0,
+      "first_src": null
+    },
+    "cucurbita-pepo": {
+      "count": 1,
+      "first_src": "media/cucurbita-pepo/cucurbita-pepo-straightneck-habit-commons.jpg"
+    },
+    "ibervillea-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "melothria-pendula": {
+      "count": 0,
+      "first_src": null
+    },
+    "juniperus-ashei": {
+      "count": 2,
+      "first_src": "media/juniperus-ashei/glass-root-garden-600607665-blue-cones-scale-foliage.jpg"
+    },
+    "juniperus-virginiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "taxodium-distichum": {
+      "count": 3,
+      "first_src": "media/taxodium-distichum/01-texas-habit.jpg"
+    },
+    "ephedra-antisyphilitica": {
+      "count": 0,
+      "first_src": null
+    },
+    "ephedra-trifurca": {
+      "count": 0,
+      "first_src": null
+    },
+    "equisetum-hyemale": {
+      "count": 0,
+      "first_src": null
+    },
+    "fouquieria-splendens": {
+      "count": 0,
+      "first_src": null
+    },
+    "erodium-cicutarium": {
+      "count": 0,
+      "first_src": null
+    },
+    "erodium-texanum": {
+      "count": 0,
+      "first_src": null
+    },
+    "geranium-carolinianum": {
+      "count": 0,
+      "first_src": null
+    },
+    "geranium-texanum": {
+      "count": 0,
+      "first_src": null
+    },
+    "ginkgo-biloba": {
+      "count": 1,
+      "first_src": "media/ginkgo-biloba/ginkgo-biloba-fan-leaves-seed-commons.jpg"
+    },
+    "krameria-erecta": {
+      "count": 0,
+      "first_src": null
+    },
+    "krameria-lanceolata": {
+      "count": 0,
+      "first_src": null
+    },
+    "leucobryum-albidum": {
+      "count": 0,
+      "first_src": null
+    },
+    "leucodon-julaceus": {
+      "count": 0,
+      "first_src": null
+    },
+    "cevallia-sinuata": {
+      "count": 0,
+      "first_src": null
+    },
+    "mentzelia-oligosperma": {
+      "count": 0,
+      "first_src": null
+    },
+    "cottsia-gracilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "galphimia-angustifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "galphimia-gracilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "malpighia-glabra": {
+      "count": 0,
+      "first_src": null
+    },
+    "marsilea-macropoda": {
+      "count": 0,
+      "first_src": null
+    },
+    "marsilea-vestita": {
+      "count": 0,
+      "first_src": null
+    },
+    "botrychium-biternatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "oxalis-albicans": {
+      "count": 0,
+      "first_src": null
+    },
+    "oxalis-dillenii": {
+      "count": 1,
+      "first_src": "media/oxalis-dillenii/oxalis-dillenii-abbamouse-fruit.jpg"
+    },
+    "oxalis-drummondii": {
+      "count": 0,
+      "first_src": null
+    },
+    "oxalis-stricta": {
+      "count": 2,
+      "first_src": "media/oxalis-stricta/oxalis-stricta-cornell-habit.jpg"
+    },
+    "oxalis-violacea": {
+      "count": 2,
+      "first_src": "media/oxalis-violacea/oxalis-violacea-fritzflohrreynolds-habit.jpg"
+    },
+    "pinus-echinata": {
+      "count": 0,
+      "first_src": null
+    },
+    "pinus-taeda": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhinotropis-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhinotropis-lindheimeri-var-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "senega-alba": {
+      "count": 0,
+      "first_src": null
+    },
+    "senega-lutea": {
+      "count": 0,
+      "first_src": null
+    },
+    "pleopeltis-michauxiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "pleurochaete-squarrosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "lysimachia-arvensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "samolus-ebracteatus": {
+      "count": 0,
+      "first_src": null
+    },
+    "samolus-parviflorus": {
+      "count": 1,
+      "first_src": "media/samolus-parviflorus/01-cultivated-leaf-rosette.jpg"
+    },
+    "adiantum-capillus-veneris": {
+      "count": 0,
+      "first_src": null
+    },
+    "adiantum-pedatum": {
+      "count": 1,
+      "first_src": "media/adiantum-pedatum/adiantum-pedatum-provisional-face.jpg"
+    },
+    "hemionitis-alabamensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "hemionitis-artax": {
+      "count": 0,
+      "first_src": null
+    },
+    "hemionitis-aspera": {
+      "count": 0,
+      "first_src": null
+    },
+    "hemionitis-atropurpurea": {
+      "count": 0,
+      "first_src": null
+    },
+    "hemionitis-ovata": {
+      "count": 0,
+      "first_src": null
+    },
+    "hemionitis-wrightiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "azolla-caroliniana": {
+      "count": 0,
+      "first_src": null
+    },
+    "anemia-mexicana": {
+      "count": 0,
+      "first_src": null
+    },
+    "lygodium-japonicum": {
+      "count": 0,
+      "first_src": null
+    },
+    "selaginella-apoda": {
+      "count": 0,
+      "first_src": null
+    },
+    "selaginella-arenicola": {
+      "count": 0,
+      "first_src": null
+    },
+    "thelypteris-kunthii": {
+      "count": 0,
+      "first_src": null
+    },
+    "thelypteris-ovata": {
+      "count": 0,
+      "first_src": null
+    },
+    "guaiacum-angustifolium": {
+      "count": 0,
+      "first_src": null
+    },
+    "kallstroemia-parviflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "larrea-tridentata": {
+      "count": 0,
+      "first_src": null
+    }
+  }
+}
