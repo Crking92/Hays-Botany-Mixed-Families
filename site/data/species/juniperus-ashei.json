@@ -43,8 +43,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/juniperus-ashei/glass-root-garden-600607665-blue-cones-scale-foliage.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/600607665",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "8a723435caa61ec4efb2b1149ebd4036d2448353",
+      "role": "Blue glaucous berry-like seed cones on scale-leaved branchlet; separates cones from flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/juniperus-ashei/glass-root-garden-637169478-shredding-bark.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/637169478",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "38e4daa5c39b76e0bb44dec112cd9937c9029cf8",
+      "role": "Mature multi-stem trunk with fibrous shredding bark; broad bark character rather than microscopic texture",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "48d6328af7dd46f264ab0fadd884860e217f1ef8d28b340c6cc18702fa8bba4e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

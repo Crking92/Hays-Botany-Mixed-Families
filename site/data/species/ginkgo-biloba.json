@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ginkgo-biloba/ginkgo-biloba-fan-leaves-seed-commons.jpg",
+      "creator": "Sten Porse",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ginkgo-biloba-fruit.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "26a99a4bfa07bc16c493837ba871cc10f67fb10e",
+      "role": "Exact-species laid-out fan leaves, twig and fleshy-coated seed (not true fruit); no vein macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e61b3e1e32f7cf45d4d3eebbeecbc2623a9ae38271835842163cc58d01c55aa4",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

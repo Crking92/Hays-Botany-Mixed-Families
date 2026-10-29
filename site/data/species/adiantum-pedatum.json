@@ -31,8 +31,22 @@
     "names": [],
     "differences": "Frond branching pattern first; then fertile pinnule margins and pinna arrangement."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/adiantum-pedatum/adiantum-pedatum-provisional-face.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Adiantum_pedatum_3.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "1caf2e6aa0e8398ef2c4ce6527180c6660b0f209",
+      "role": "Northern maidenhair fern frond overall recognition; later pinna and sori macros.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "762252d52a5e07127fd907b45e0e974b645e6cdb4306a088677d300f18754ad9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

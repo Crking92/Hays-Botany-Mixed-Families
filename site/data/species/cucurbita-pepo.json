@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cucurbita-pepo/cucurbita-pepo-straightneck-habit-commons.jpg",
+      "creator": "megankhines",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_straightneck_Summer_squash_bush_plant_and_flowers.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "097101fde955213d049f678924be0283f20c262c",
+      "role": "Exact species cultivated straightneck summer squash habit with lobed leaves and flowers; not a stem-hair or peduncle diagnostic macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "24c6a7a71236f439c3dbcdcc25a7863dd5617f55b34bea7556a028e968290895",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

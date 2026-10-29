@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/asplenium-resiliens/asplenium-resiliens-habit-commons.jpg",
+      "creator": "Sam Kieschnick",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asplenium_resiliens_habit.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "51cc631b87f6c7018bed3f83df37125568428df4",
+      "role": "Exact-species field habit with narrow pinnae and black rachis (sori not shown)",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "734dfa012eb40bceac46b71848b189703a0a5fd7c56b51415897d64c19f60abb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
