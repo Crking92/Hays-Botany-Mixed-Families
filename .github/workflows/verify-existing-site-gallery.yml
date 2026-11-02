@@ -4,18 +4,47 @@ on:
     branches: [main]
     paths:
       - 'scripts/verify_existing_site.py'
+      - 'site/data/species/**'
+      - 'site/data/gallery-index.json'
+      - 'site/data/collection-index.json'
+      - 'site/media/**'
       - '.github/workflows/verify-existing-site-gallery.yml'
   workflow_dispatch:
 permissions: {contents: read}
 jobs:
   audit-existing:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
       - name: Audit existing public records and photo blob hashes
         run: python3 scripts/verify_existing_site.py
+      - name: Wait for the public site to show the exact updated gallery and metadata
+        run: |
+          python3 - <<'PY'
+          import time,urllib.request
+          from pathlib import Path
+          base="https://crking92.github.io/Hays-Botany-Mixed-Families/site/data/"
+          paths=["gallery-index.json","collection-meta.json","collection-index.json"]
+          expected={name:(Path("site/data")/name).read_bytes() for name in paths}
+          for retry in range(30):
+              try:
+                  found=True
+                  for name in paths:
+                      req=urllib.request.Request(base+name+"?check="+str(retry),headers={"User-Agent":"HaysBotanyPublicPhotoAudit/1.0"})
+                      with urllib.request.urlopen(req,timeout=20) as r:
+                          if r.read()!=expected[name]:
+                              found=False
+                              break
+                  if found:
+                      print("LIVE_SITE_GALLERY_METADATA_CURRENT")
+                      break
+              except Exception as exc:
+                  print("Site update pending",repr(exc))
+              time.sleep(10)
+          else: raise SystemExit("Public site gallery metadata not at current GitHub revision")
+          PY
       - name: Verify published species JSON and gallery images
         run: python3 scripts/verify_existing_site.py --live https://crking92.github.io/Hays-Botany-Mixed-Families/site/

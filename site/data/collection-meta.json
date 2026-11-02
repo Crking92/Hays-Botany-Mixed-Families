@@ -35,5 +35,9 @@
     "Thelypteridaceae",
     "Zygophyllaceae"
   ],
-  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
+  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "Educational, noncommercial botany learner. Each photo retains original photographer/rights; CC BY-NC requires noncommercial use and attribution. Commercial reuse requires separate permission."
+  }
 }
