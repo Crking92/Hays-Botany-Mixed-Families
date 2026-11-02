@@ -8,13 +8,17 @@ on:
       - 'site/data/gallery-index.json'
       - 'site/data/collection-index.json'
       - 'site/media/**'
+      - 'site/data/species/**'
+      - 'site/data/gallery-index.json'
+      - 'site/data/collection-index.json'
+      - 'site/media/**'
       - '.github/workflows/verify-existing-site-gallery.yml'
   workflow_dispatch:
 permissions: {contents: read}
 jobs:
   audit-existing:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 22
     steps:
       - uses: actions/checkout@v4
         with:
@@ -45,6 +49,31 @@ jobs:
                   print("Site update pending",repr(exc))
               time.sleep(10)
           else: raise SystemExit("Public site gallery metadata not at current GitHub revision")
+          PY
+      - name: Wait for the published gallery and metadata to match main
+        run: |
+          python3 - <<'PY'
+          import time,urllib.request
+          from pathlib import Path
+          base="https://crking92.github.io/Hays-Botany-Mixed-Families/site/data/"
+          names=["gallery-index.json","collection-meta.json","collection-index.json"]
+          expected={name:(Path("site/data")/name).read_bytes() for name in names}
+          for attempt in range(30):
+              try:
+                  matched=True
+                  for name in names:
+                      req=urllib.request.Request(base+name+"?v="+str(attempt),headers={"User-Agent":"HaysBotanyPhotoFirstSiteAudit/1.0"})
+                      with urllib.request.urlopen(req,timeout=20) as response:
+                          if response.read()!=expected[name]:
+                              matched=False
+                              break
+                  if matched:
+                      print("LIVE_SITE_GALLERY_METADATA_MATCH")
+                      break
+              except Exception as exc:
+                  print("Still waiting for live Pages assets",repr(exc))
+              time.sleep(10)
+          else:raise SystemExit("Live website not yet serving the current gallery metadata")
           PY
       - name: Verify published species JSON and gallery images
         run: python3 scripts/verify_existing_site.py --live https://crking92.github.io/Hays-Botany-Mixed-Families/site/
