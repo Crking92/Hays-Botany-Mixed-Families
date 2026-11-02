@@ -44,7 +44,11 @@ for x in m["photos"]:
         photo=next((a for a in obs.get("photos",[]) if int(a.get("id",0))==pid),None)
         if photo is None:raise ValueError("Exact image ID not on source observation")
         license_code=str(photo.get("license_code") or "").lower().replace("_","-")
-        if license_code!="cc-by-nc":raise ValueError("Media license not independently CC BY-NC: "+license_code)
+        if license_code not in {"cc-by-nc","cc0"}:raise ValueError("Unsupported live photo-specific license: "+license_code)
+        # One downloaded photo's individual license changed to CC0 after the ZIP was saved.
+        # Record actual independently checked rights rather than perpetuating an older metadata value.
+        license_name,license_url=({"cc-by-nc":("CC BY-NC 4.0","https://creativecommons.org/licenses/by-nc/4.0/"),
+                                   "cc0":("CC0 1.0","https://creativecommons.org/publicdomain/zero/1.0/")})[license_code]
         creator=str(photo.get("attribution") or "").strip()
         if not creator or creator.lower() in {"no rights reserved","some rights reserved"}:
             creator=x["photographer"]
@@ -66,9 +70,9 @@ for x in m["photos"]:
           "review_operator":"Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
           "source_review_evidence":f"Provider live observation {oid} contains photo {pid} under individual {license_code} license; original image bytes have SHA256 {actual} matching original uploaded ZIP, with true creator attributed.",
           "taxon_review_evidence":f"Live iNaturalist taxon {taxon} matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-          "approval_note":"Existing owner standing noncommercial photo-first approval, with real photo-specific CC BY-NC and creator check plus original image hash and basic fern subject check.",
+          "approval_note":"Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
           "creator":creator,"source_page":f"https://www.inaturalist.org/photos/{pid}","source_page_is_exact":True,
-          "license":"CC BY-NC 4.0","license_url":"https://creativecommons.org/licenses/by-nc/4.0/",
+          "license":license_name,"license_url":license_url,
           "noncommercial_site_use_confirmed":True,
           "role":x["role"]+" (general fern view; diagnostic anatomy/precise identification deferred)",
           "modifications":"Original unchanged iNaturalist image",
