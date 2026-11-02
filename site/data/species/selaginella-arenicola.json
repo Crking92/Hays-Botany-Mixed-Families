@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/selaginella-arenicola/smithsonian-selaginella-arenicola-03476880.jpg",
+      "creator": "Ingrid P. Lin / Smithsonian National Museum of Natural History",
+      "source_page": "https://www.si.edu/object/selaginella-arenicola:nmnhbotany_16821804",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "4f876bd5b97c366f740c4435d5c6acc01d926d51",
+      "role": "Verified herbarium voucher, Palo Pinto County, Texas; dried mat-forming spikemoss habit (not an in-situ field photo)",
+      "modified": "Unaltered original Smithsonian specimen image",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Individual Smithsonian public-domain voucher and original exact media byte equality verified for owner-authorized photo-first publication.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Smithsonian voucher/barcode and original ZIP byte comparison",
+      "source_review_evidence": "Independent official Smithsonian specimen page review confirms barcode 03476880 and public-domain media for Selaginella arenicola. Exact media i=16240163/2000 downloaded bytes match user's original ZIP: d64b8348f6807d2cedd13d15cc151e4fcfe6c972db7f891f8a398cb0a70cc9e7",
+      "taxon_review_evidence": "Uploaded specimen photograph visibly reads Selaginella arenicola Underw. and barcode 03476880; same specific Smithsonian record confirms Palo Pinto TX specimen. Detailed living-plant anatomy deferred.",
+      "sha256": "d64b8348f6807d2cedd13d15cc151e4fcfe6c972db7f891f8a398cb0a70cc9e7"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "30f9a78a0a88668f54da4b2f8b4e2d36e3b89ebc145cf3df71a5a6db3d8f448e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

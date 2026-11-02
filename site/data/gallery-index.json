@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 20,
-  "photo_count": 44,
+  "photo_species": 21,
+  "photo_count": 45,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -402,8 +402,8 @@
       "first_src": "media/selaginella-apoda/inat-366943340.jpg"
     },
     "selaginella-arenicola": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/selaginella-arenicola/smithsonian-selaginella-arenicola-03476880.jpg"
     },
     "thelypteris-kunthii": {
       "count": 5,
