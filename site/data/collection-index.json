@@ -756,8 +756,8 @@
       "genus": "Pleurochaete",
       "scientific_name": "Pleurochaete squarrosa",
       "common_name": "Side-fruited crisp-moss",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lysimachia-arvensis",
@@ -792,8 +792,8 @@
       "genus": "Adiantum",
       "scientific_name": "Adiantum capillus-veneris",
       "common_name": "Southern Maidenhair / Venus-hair Fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "adiantum-pedatum",
@@ -810,8 +810,8 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis alabamensis",
       "common_name": "Alabama lip fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hemionitis-artax",
@@ -819,8 +819,8 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis artax",
       "common_name": "Powdery cloak fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hemionitis-aspera",
@@ -837,8 +837,8 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis atropurpurea",
       "common_name": "Purple-stem cliffbrake",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hemionitis-ovata",
@@ -846,8 +846,8 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis ovata",
       "common_name": "Ovalleaf cliffbrake",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hemionitis-wrightiana",
@@ -855,8 +855,8 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis wrightiana",
       "common_name": "Wright's cliffbrake",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "azolla-caroliniana",
