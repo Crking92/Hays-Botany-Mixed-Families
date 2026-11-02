@@ -14,13 +14,22 @@ LICENSES={
 }
 RECORD_SIZE=42
 # Only names already checked as direct synonyms, not broader unidentified look-alikes.
+# Source-backed, exact synonym pairs only; this does not grant broad genus-level IDs.
+# https://www.britishbryologicalsociety.org.uk/learning/species-finder/tortella-squarrosa/
+# https://powo.science.kew.org/taxon/77182269-1 (Hemionitis artax)
+# https://powo.science.kew.org/taxon/77182021-1 (Hemionitis alabamensis)
+# https://powo.science.kew.org/taxon/77181990-1 (Hemionitis atropurpurea)
+# https://powo.science.kew.org/taxon/77183106-1 (Hemionitis ovata)
+# https://powo.science.kew.org/taxon/77182620-1 (Hemionitis wrightiana)
 SYNONYMS={
- "azolla-caroliniana":{"azolla cristata"},
- "smilax-tamnoides":{"smilax hispida"},
- "capsicum-annuum-var-aviculare":{"capsicum annuum var. glabriusculum"},
- "buddleja-racemosa":{"buddleja sessiliflora"},
- "talinum-aurantiacum":{"phemeranthus aurantiacus"},
+ "pleurochaete-squarrosa":{"tortella squarrosa"},
+ "hemionitis-alabamensis":{"myriopteris alabamensis"},
+ "hemionitis-artax":{"argyrochosma dealbata"},
+ "hemionitis-atropurpurea":{"pellaea atropurpurea"},
+ "hemionitis-ovata":{"pellaea ovata"},
+ "hemionitis-wrightiana":{"pellaea wrightiana"},
 }
+
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
     for attempt in range(3):
@@ -38,9 +47,11 @@ def decode(m):
         if sidindex>=len(m["species"]) or ext not in (0,1):raise ValueError("Bad source record")
         yield m["species"][sidindex],pid,oid,hash_bytes.hex(),("jpeg" if ext else "jpg")
 def matches(expected,taxon):
-    target=expected.replace("-"," ")
-    name=taxon.lower().replace("×","x").strip()
-    return name==target or name.startswith(target+" subsp.") or name.startswith(target+" var.") or name in SYNONYMS.get(expected,set())
+    # Normalize hyphens used in binomials and ranks, but still require full-name identity.
+    norm=lambda n: re.sub(r"[^a-z0-9]+"," ",n.lower().replace("×","x")).strip()
+    target=norm(expected)
+    name=norm(taxon)
+    return name==target or name.startswith(target+" subsp ") or name.startswith(target+" var ") or name in {norm(v) for v in SYNONYMS.get(expected,set())}
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument("--manifest",type=Path,required=True)
