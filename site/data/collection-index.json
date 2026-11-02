@@ -909,8 +909,8 @@
       "genus": "Thelypteris",
       "scientific_name": "Thelypteris kunthii",
       "common_name": "Southern shield fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "thelypteris-ovata",
@@ -918,8 +918,8 @@
       "genus": "Thelypteris",
       "scientific_name": "Thelypteris ovata",
       "common_name": "Ovate maiden fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "guaiacum-angustifolium",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 14,
-  "photo_count": 19,
+  "photo_species": 16,
+  "photo_count": 28,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -406,12 +406,12 @@
       "first_src": null
     },
     "thelypteris-kunthii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/thelypteris-kunthii/inat-240587366.jpeg"
     },
     "thelypteris-ovata": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/thelypteris-ovata/inat-623210250.jpg"
     },
     "guaiacum-angustifolium": {
       "count": 0,
