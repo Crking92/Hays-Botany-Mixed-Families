@@ -1,0 +1,46 @@
+name: Verify Smithsonian CC0 Selaginella arenicola voucher
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/verify_smithsonian_selaginella_arenicola.py'
+      - '.github/workflows/publish-smithsonian-selaginella-arenicola.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: mixed-families-photo-release
+  cancel-in-progress: false
+jobs:
+  publish-voucher:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Independently verify Smithsonian specific specimen rights and original ZIP bytes
+        run: python3 scripts/verify_smithsonian_selaginella_arenicola.py
+      - name: Install exact source-verified voucher in correct species gallery
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/smithsonian-cleared" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/smithsonian-cleared" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/build_collection_preview.py
+      - name: Commit specimen image and individual CC0 source credit
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if ! git diff --cached --quiet; then
+            git diff --cached --check
+            git commit -m "Install original Smithsonian CC0 Selaginella arenicola specimen voucher"
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: smithsonian-selaginella-exact-image-proof
+          path: ${{ runner.temp }}/selaginella-smithsonian-source-review.json
+          if-no-files-found: warn
