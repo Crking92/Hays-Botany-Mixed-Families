@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 21,
-  "photo_count": 45,
+  "photo_species": 23,
+  "photo_count": 65,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -342,15 +342,15 @@
       "first_src": null
     },
     "lysimachia-arvensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/lysimachia-arvensis/inat-630651169.jpg"
     },
     "samolus-ebracteatus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/samolus-ebracteatus/inat-631487630.jpg"
     },
     "samolus-parviflorus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/samolus-parviflorus/01-cultivated-leaf-rosette.jpg"
     },
     "adiantum-capillus-veneris": {
@@ -358,7 +358,7 @@
       "first_src": null
     },
     "adiantum-pedatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/adiantum-pedatum/adiantum-pedatum-provisional-face.jpg"
     },
     "hemionitis-alabamensis": {
