@@ -1,0 +1,122 @@
+{
+  "family": "Thelypteridaceae",
+  "batch": "Thelypteridaceae ZIP 2026-11-02",
+  "zip_sha256": "1c9c97d37f3675fab5c47bc9729e546ea8ab721f9bc38f595758d39b42816697",
+  "originals_backup": "ChatGPT persistent Library /Hays-Botany-Photo-ZIPs/Thelypteridaceae-2026-11-02.zip",
+  "original_hashes_checked": "10/10 verified",
+  "duplicate_photo_hashes": 0,
+  "initial_photo_license": "CC BY-NC 4.0 (source-specific license recheck required before public publishing)",
+  "identity_review": "All ten contact-sheet photographs show credible ferns. Basic photo subject check now; detailed diagnostic species identification and anatomy later.",
+  "photos": [
+    {
+      "species_id": "thelypteris-kunthii",
+      "photo_id": 240587366,
+      "observation_id": 140541713,
+      "sha256": "77859060c26588fd9bfb6387f85b37532543259269fffa354779b803fffc154e",
+      "extension": "jpeg",
+      "photographer": "Thomas Montgomery",
+      "role": "Fern fronds beside rocky streamside habitat",
+      "source_url": "https://www.inaturalist.org/photos/240587366",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240587366/original.jpeg"
+    },
+    {
+      "species_id": "thelypteris-kunthii",
+      "photo_id": 604639115,
+      "observation_id": 333084428,
+      "sha256": "5fa31d4f90199bb6b50acad25da387d46e4088d722ddbfda59f1850de9b070ad",
+      "extension": "jpg",
+      "photographer": "j_pav",
+      "role": "Arching fern fronds and woodland habit",
+      "source_url": "https://www.inaturalist.org/photos/604639115",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604639115/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-kunthii",
+      "photo_id": 657751234,
+      "observation_id": 360463788,
+      "sha256": "86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a",
+      "extension": "jpg",
+      "photographer": "eandson",
+      "role": "Frond shape and many divided pinnae",
+      "source_url": "https://www.inaturalist.org/photos/657751234",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657751234/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-kunthii",
+      "photo_id": 625735196,
+      "observation_id": 343503207,
+      "sha256": "539ae5ea04f63e73319d34e6102a8bfd83733a48bb1b2354a0db588838212b02",
+      "extension": "jpg",
+      "photographer": "Trevor Hollister",
+      "role": "Pinnae and finely divided leaflets close-up",
+      "source_url": "https://www.inaturalist.org/photos/625735196",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625735196/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-kunthii",
+      "photo_id": 636702473,
+      "observation_id": 349084148,
+      "sha256": "b696f73cfa13af18dce724c278f8097f2ed01b77f538c17321fbbda22eb41979",
+      "extension": "jpg",
+      "photographer": "Beth Pickett",
+      "role": "Whole fern frond in ground-layer habitat",
+      "source_url": "https://www.inaturalist.org/photos/636702473",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636702473/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-ovata",
+      "photo_id": 624017095,
+      "observation_id": 342645095,
+      "sha256": "8aee13eb5cda0706508ba0eaff3f0a6dd9e211b05a38aaab73709a919b47f4ef",
+      "extension": "jpg",
+      "photographer": "Alissa Aldrich",
+      "role": "Fern fronds along a shaded rocky trunk",
+      "source_url": "https://www.inaturalist.org/photos/624017095",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624017095/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-ovata",
+      "photo_id": 625225428,
+      "observation_id": 343251314,
+      "sha256": "bc0c8653e6e5853b20bacb59fa46cf68ebe51b8143429da70f74220b7b400cb1",
+      "extension": "jpg",
+      "photographer": "Christian A. Lopez",
+      "role": "Frond form in rocky habitat",
+      "source_url": "https://www.inaturalist.org/photos/625225428",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625225428/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-ovata",
+      "photo_id": 622241510,
+      "observation_id": 341768738,
+      "sha256": "2e3cc11be71740a6ca274a33b0102224f230534e38048e4ea31888b3a32a8f39",
+      "extension": "jpg",
+      "photographer": "tikill",
+      "role": "Fern fronds growing near limestone rock",
+      "source_url": "https://www.inaturalist.org/photos/622241510",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622241510/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-ovata",
+      "photo_id": 623210250,
+      "observation_id": 342247494,
+      "sha256": "96d07673a74e304dc6d0c4c44cf73ab954a972d3399047033296242919ceb50e",
+      "extension": "jpg",
+      "photographer": "emclow",
+      "role": "Young fern frond detail among litter",
+      "source_url": "https://www.inaturalist.org/photos/623210250",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623210250/original.jpg"
+    },
+    {
+      "species_id": "thelypteris-ovata",
+      "photo_id": 626103822,
+      "observation_id": 343682922,
+      "sha256": "9b070940adee6d858d52c27ff375d575b47ca8fb673ffdd4142e187ad0361213",
+      "extension": "jpg",
+      "photographer": "gardenhen",
+      "role": "Open fern frond and rocky soil habitat",
+      "source_url": "https://www.inaturalist.org/photos/626103822",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626103822/original.jpg"
+    }
+  ]
+}
