@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 16,
-  "photo_count": 28,
+  "photo_species": 20,
+  "photo_count": 44,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -386,20 +386,20 @@
       "first_src": null
     },
     "azolla-caroliniana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/azolla-caroliniana/inat-298902767.jpg"
     },
     "anemia-mexicana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/anemia-mexicana/inat-625117805.jpg"
     },
     "lygodium-japonicum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/lygodium-japonicum/inat-137786510.jpg"
     },
     "selaginella-apoda": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/selaginella-apoda/inat-366943340.jpg"
     },
     "selaginella-arenicola": {
       "count": 0,
