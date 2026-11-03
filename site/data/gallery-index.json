@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 87,
-  "photo_count": 242,
+  "photo_count": 243,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -414,7 +414,7 @@
       "first_src": "media/thelypteris-ovata/inat-623210250.jpg"
     },
     "guaiacum-angustifolium": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/guaiacum-angustifolium/archived-c9fc04880c0563a4.jpg"
     },
     "kallstroemia-parviflora": {
