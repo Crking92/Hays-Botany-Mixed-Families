@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 99,
-  "photo_count": 306,
+  "photo_count": 307,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -378,7 +378,7 @@
       "first_src": "media/hemionitis-atropurpurea/inat-628229103.jpg"
     },
     "hemionitis-ovata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/hemionitis-ovata/inat-624747750.jpg"
     },
     "hemionitis-wrightiana": {
