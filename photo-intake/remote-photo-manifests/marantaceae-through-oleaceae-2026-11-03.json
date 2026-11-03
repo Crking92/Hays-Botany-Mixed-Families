@@ -1,0 +1,44 @@
+{
+  "batch_id": "marantaceae-through-oleaceae-2026-11-03",
+  "archive_name": "Marantaceae through oleaceae.zip",
+  "zip_sha256": "2968930e5ca1845d4cbb707fd849d0ea2914e54404c599467d64992c3bb8210f",
+  "library_backup": "NOT_STORED__USER_KEEPS_ORIGINAL_IN_LAPTOP_ARCHIVED_FOLDER",
+  "user_archive_note": "The original ZIP is retained on user laptop; ChatGPT Library storage intentionally avoided. Never claim original is saved to a remote archive.",
+  "family_assignments": [
+    "Marsileaceae"
+  ],
+  "source_image_count_for_repo": 10,
+  "inat_image_count": 10,
+  "held_offline_count": 0,
+  "archive_original_checksum_verified_count": 10,
+  "species": [
+    "marsilea-macropoda",
+    "marsilea-vestita"
+  ],
+  "records_base64": "ABxIpqUPva+p9pyX68IO8Zdr4xV2VClyKF/woJLpKMUxLY3Aj0PKLTYAAB5hXZQQ6GVebxOAtGj2AcHvGv5mH4XUAAUn6Ox7mLsI89+fn0Eo22oAAB6M/vsQ/09IRCJ0WZquWNWJQtVJFgCefxJmxqEr9+N+2N6RWPQdjX8AAADb0foAnmSpXfqy5VbVWpIAL4jrrjDW1M/GuWxRTZa4l9YoRaDC0i8AACi31+UWR4txVSJRiHMb3lKKDs/d1C7C+07VEc0kAsGfU8AFyTM1lEsAASf5TcgV48Mff0ZvmHm7VWHXqUghlb7rPhtHXBjPfmnCSXYeulx5qPwAAQbnqGYEPhnMxj3m6NLGTK3alnJpw3ODyje65UIT3RzQhrMoF4w/vSkAAQbh778EOvAouKqHQjHQMM7rI1bufpr3b5bMzu1A4p+Li0EdWNPuWkMBAQQeOrsCmHZ8W/cH7qL5iTtnTzVc8VYt1DVUBTIvks7nKw5o/63TGcsBAQSDNtoC2EHnGA41UgjdYrQxaAyoiXBgIG4bUDxDMUo2yrhSYixkUL0B",
+  "source_metadata_credits": {
+    "14406138": "Blake Bringhurst",
+    "69089979": "Minnette Marr",
+    "75708122": "forageatx",
+    "115470271": "Alison Northup",
+    "115845222": "Robby Deans",
+    "474523301": "Saunders Drukker",
+    "509697428": "txnaturewatch",
+    "512556795": "Jessica Huang AWB®",
+    "670649800": "milosmith",
+    "683136997": "tome"
+  },
+  "source_metadata_licenses": {
+    "14406138": "http://creativecommons.org/licenses/by/4.0/",
+    "69089979": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "75708122": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "115470271": "http://creativecommons.org/licenses/by/4.0/",
+    "115845222": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "474523301": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "509697428": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "512556795": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "670649800": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "683136997": "http://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "held_offline_media": []
+}
