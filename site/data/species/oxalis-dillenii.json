@@ -139,6 +139,25 @@
       "source_review_evidence": "Live iNaturalist observation 347412425, photo 633436688, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 288f649fd5a0163e667042f5d0161fb86439a52fc1447495bc800446e5e35c99. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis dillenii maps to indexed species oxalis-dillenii; specialist morphology and BONAP range deferred.",
       "sha256": "288f649fd5a0163e667042f5d0161fb86439a52fc1447495bc800446e5e35c99"
+    },
+    {
+      "src": "media/oxalis-dillenii/archived-e06bfc180a2e167e.jpg",
+      "creator": "lorichin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_plant_(01).jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0 FR",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+      "source_blob_sha": "ca16229a8db577efaf66c8541408226816fd531d",
+      "role": "habit",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Oxalis_dillenii_plant_(01).jpg; original individual photographer lorichin; archived specific reuse license CC BY-SA 2.0 FR; preserved photo byte SHA checked against original transfer manifest ca16229a8db577efaf66c8541408226816fd531d; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA ca16229a8db577efaf66c8541408226816fd531d; exact image source https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_plant_(01).jpg",
+      "taxon_review_evidence": "Original species record Oxalis dillenii linked to an original image and matching current commons photo of source taxon Oxalis dillenii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "e06bfc180a2e167e4141e52a780a9f4eb2c3d5862ac790d5be6c2f0d1e3026e0"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

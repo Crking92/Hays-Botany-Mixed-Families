@@ -1,0 +1,45 @@
+{
+  "repository": "Crking92/Hays-Botany-Mixed-Families",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PORTED_CC_2026-11-03",
+  "checked_at": "2026-11-03T19:35:46.753692+00:00",
+  "source_files": 170,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 157,
+    "already_public_identical_bytes": 9,
+    "not_an_explicit_older_cc_license": 3
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "oxalis-dillenii",
+      "family": "Oxalidaceae",
+      "filename": "oxalis-dillenii-lorichin-plant.jpg",
+      "original_path": "content/taxa/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-lorichin-plant.jpg",
+      "archive_path": "migration/private-original-photo-holds/Oxalidaceae/Oxalis/oxalis-dillenii/images/oxalis-dillenii-lorichin-plant.jpg",
+      "git_blob_sha": "ca16229a8db577efaf66c8541408226816fd531d",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "lorichin",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oxalis_dillenii_plant_(01).jpg",
+      "taxon": "Oxalis dillenii",
+      "src": "media/oxalis-dillenii/archived-e06bfc180a2e167e.jpg",
+      "sha256": "e06bfc180a2e167e4141e52a780a9f4eb2c3d5862ac790d5be6c2f0d1e3026e0"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

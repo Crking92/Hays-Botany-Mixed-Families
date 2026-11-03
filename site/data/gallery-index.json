@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 99,
-  "photo_count": 304,
+  "photo_count": 305,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -294,7 +294,7 @@
       "first_src": "media/oxalis-albicans/inat-115646168.jpeg"
     },
     "oxalis-dillenii": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/oxalis-dillenii/oxalis-dillenii-abbamouse-fruit.jpg"
     },
     "oxalis-drummondii": {
