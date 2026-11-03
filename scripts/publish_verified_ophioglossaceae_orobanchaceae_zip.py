@@ -15,6 +15,7 @@ LICENSES={
 RECORD_SIZE=42
 # Only names already checked as direct synonyms, not broader unidentified look-alikes.
 SYNONYMS={
+ "botrychium-biternatum":{"sceptridium biternatum"}, # Ferns of Texas: https://ferns.brit.org/?q=node%2F79
  "azolla-caroliniana":{"azolla cristata"},
  "smilax-tamnoides":{"smilax hispida"},
  "capsicum-annuum-var-aviculare":{"capsicum annuum var. glabriusculum"},
