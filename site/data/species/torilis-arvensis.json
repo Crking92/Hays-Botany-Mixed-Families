@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/torilis-arvensis/archived-45d88dd3ea771fb7.jpg",
+      "creator": "Ian Rainbow",
+      "source_page": "https://www.inaturalist.org/photos/605743484",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "70252ecba23cdc2f4256d6dbb0b482c530619b96",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 5938619246 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/605743484/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Ian Rainbow; dHash distance 0; archived source SHA 70252ecba23cdc2f4256d6dbb0b482c530619b96; exact image source https://www.inaturalist.org/photos/605743484",
+      "taxon_review_evidence": "Original species record Torilis arvensis linked to an original image and matching current gbif photo of source taxon Torilis arvensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "45d88dd3ea771fb77a11a56a84fe2b24a32aea1351418d3f4314d837e8e4c566"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bcca0cee1583b2a906a6c5f36615ff2c7e22f1bcaf6f2987e3a61a334d6ac0be",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

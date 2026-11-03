@@ -29,6 +29,25 @@
       "source_review_evidence": "iNaturalist observation 12393317 photo 17860837 individual CC code cc-by-nc; photographer (c) Jason Headley, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 7b13ae425f39b743cabf9743b2b3db9890a09ffb; exact image source https://www.inaturalist.org/photos/17860837",
       "taxon_review_evidence": "Original species record Capsella bursa-pastoris linked to an original image and matching current inat photo of source taxon Capsella bursa-pastoris. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "dedd0e7d9b7e48a7e3a90cfaeb87bff563608c292d491f72a3d414e53c583af4"
+    },
+    {
+      "src": "media/capsella-bursa-pastoris/archived-4fe19ec5f1092340.jpg",
+      "creator": "Linda Jo Conn",
+      "source_page": "https://www.inaturalist.org/photos/604953174",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "06c5f4ed98fd9d4e7d8295b778b0f959e23f89ac",
+      "role": "Look closer · basal leaves and small fruiting stems; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 5938522258 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/604953174/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Linda Jo Conn; dHash distance 0; archived source SHA 06c5f4ed98fd9d4e7d8295b778b0f959e23f89ac; exact image source https://www.inaturalist.org/photos/604953174",
+      "taxon_review_evidence": "Original species record Capsella bursa-pastoris linked to an original image and matching current gbif photo of source taxon Capsella bursa-pastoris. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "4fe19ec5f1092340b6f125725cde9949581778299962937ca25ce1a931b179a9"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

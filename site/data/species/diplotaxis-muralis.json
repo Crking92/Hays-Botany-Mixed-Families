@@ -29,6 +29,25 @@
       "source_review_evidence": "iNaturalist observation 53037896 photo 84341831 individual CC code cc-by-nc; photographer (c) Aleksandr_Levon, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA c823da145781b90b5269176591481e8669a6daa5; exact image source https://www.inaturalist.org/photos/84341831",
       "taxon_review_evidence": "Original species record Diplotaxis muralis linked to an original image and matching current inat photo of source taxon Diplotaxis muralis. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "3ab83c2517529eb14bf7653b5e69ad89b71f56f67bf5bf118db70392486eab5c"
+    },
+    {
+      "src": "media/diplotaxis-muralis/archived-8b972786820ed61d.jpg",
+      "creator": "Sam Kieschnick",
+      "source_page": "https://www.inaturalist.org/photos/615027829",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "5d49ab87525ee729ded98b850a028c59c103ac19",
+      "role": "Look closer · four yellow petals beside finely divided leaves; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6159283094 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/615027829/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Sam Kieschnick; dHash distance 0; archived source SHA 5d49ab87525ee729ded98b850a028c59c103ac19; exact image source https://www.inaturalist.org/photos/615027829",
+      "taxon_review_evidence": "Original species record Diplotaxis muralis linked to an original image and matching current gbif photo of source taxon Diplotaxis muralis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8b972786820ed61d36e60cca9e576990a3e739df7af9f2cb752fc2d2de715fb2"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

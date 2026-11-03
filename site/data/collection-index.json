@@ -54,7 +54,7 @@
       "genus": "Cyclospermum",
       "scientific_name": "Cyclospermum leptophyllum",
       "common_name": "Marsh parsley",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -72,7 +72,7 @@
       "genus": "Daucus",
       "scientific_name": "Daucus pusillus",
       "common_name": "American wild carrot",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -90,7 +90,7 @@
       "genus": "Eryngium",
       "scientific_name": "Eryngium yuccifolium",
       "common_name": "Rattlesnake master",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -117,8 +117,8 @@
       "genus": "Sanicula",
       "scientific_name": "Sanicula canadensis",
       "common_name": "Canada snakeroot",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "torilis-arvensis",
@@ -126,8 +126,8 @@
       "genus": "Torilis",
       "scientific_name": "Torilis arvensis",
       "common_name": "Hedge parsley",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vesper-macrorhizus",
@@ -135,8 +135,8 @@
       "genus": "Vesper",
       "scientific_name": "Vesper macrorhizus",
       "common_name": "Vesper macrorhizus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pilostyles-thurberi",
@@ -171,7 +171,7 @@
       "genus": "Asplenium",
       "scientific_name": "Asplenium resiliens",
       "common_name": "Blackstem spleenwort",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -180,7 +180,7 @@
       "genus": "Capsella",
       "scientific_name": "Capsella bursa-pastoris",
       "common_name": "Shepherd's purse",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -189,7 +189,7 @@
       "genus": "Descurainia",
       "scientific_name": "Descurainia pinnata",
       "common_name": "Western tansymustard",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -198,7 +198,7 @@
       "genus": "Diplotaxis",
       "scientific_name": "Diplotaxis muralis",
       "common_name": "Wallrocket",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -252,8 +252,8 @@
       "genus": "Physaria",
       "scientific_name": "Physaria densiflora",
       "common_name": "Denseflower bladderpod / low bladderpod",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physaria-engelmannii",
@@ -261,8 +261,8 @@
       "genus": "Physaria",
       "scientific_name": "Physaria engelmannii",
       "common_name": "Engelmann's bladderpod",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physaria-gracilis",
@@ -270,8 +270,8 @@
       "genus": "Physaria",
       "scientific_name": "Physaria gracilis",
       "common_name": "Spreading bladderpod / cloth-of-gold",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physaria-recurvata",
@@ -306,7 +306,7 @@
       "genus": "Rapistrum",
       "scientific_name": "Rapistrum rugosum",
       "common_name": "Bastard cabbage",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -315,8 +315,8 @@
       "genus": "Sisymbrium",
       "scientific_name": "Sisymbrium altissimum",
       "common_name": "Tall tumblemustard",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "streptanthus-petiolaris",
@@ -324,8 +324,8 @@
       "genus": "Streptanthus",
       "scientific_name": "Streptanthus petiolaris",
       "common_name": "Streptanthus petiolaris",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tomostima-cuneifolia",
@@ -333,8 +333,8 @@
       "genus": "Tomostima",
       "scientific_name": "Tomostima cuneifolia",
       "common_name": "Wedgeleaf draba",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cleome-dodecandra",
@@ -360,8 +360,8 @@
       "genus": "Sedum",
       "scientific_name": "Sedum nuttallii",
       "common_name": "Yellow stonecrop",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cucumis-melo",
@@ -378,7 +378,7 @@
       "genus": "Cucurbita",
       "scientific_name": "Cucurbita foetidissima",
       "common_name": "Buffalo gourd",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -396,7 +396,7 @@
       "genus": "Cucurbita",
       "scientific_name": "Cucurbita pepo",
       "common_name": "Pumpkin / summer squash",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -414,7 +414,7 @@
       "genus": "Melothria",
       "scientific_name": "Melothria pendula",
       "common_name": "Creeping cucumber",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -432,8 +432,8 @@
       "genus": "Juniperus",
       "scientific_name": "Juniperus virginiana",
       "common_name": "Eastern Redcedar",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "taxodium-distichum",
@@ -468,7 +468,7 @@
       "genus": "Equisetum",
       "scientific_name": "Equisetum hyemale",
       "common_name": "Scouringrush horsetail",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -495,7 +495,7 @@
       "genus": "Erodium",
       "scientific_name": "Erodium texanum",
       "common_name": "Texas filaree",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -504,7 +504,7 @@
       "genus": "Geranium",
       "scientific_name": "Geranium carolinianum",
       "common_name": "Carolina geranium",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -540,8 +540,8 @@
       "genus": "Krameria",
       "scientific_name": "Krameria lanceolata",
       "common_name": "Trailing ratany",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "leucobryum-albidum",
@@ -576,8 +576,8 @@
       "genus": "Mentzelia",
       "scientific_name": "Mentzelia oligosperma",
       "common_name": "Chickenthief mentzelia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cottsia-gracilis",
@@ -720,8 +720,8 @@
       "genus": "Rhinotropis",
       "scientific_name": "Rhinotropis lindheimeri var. lindheimeri",
       "common_name": "Lindheimer's milkwort, nominate variety",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "senega-alba",
@@ -738,8 +738,8 @@
       "genus": "Senega",
       "scientific_name": "Senega lutea",
       "common_name": "Orange milkwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pleopeltis-michauxiana",
@@ -783,7 +783,7 @@
       "genus": "Samolus",
       "scientific_name": "Samolus parviflorus",
       "common_name": "Seaside brookweed / water pimpernel",
-      "photo_count": 6,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -801,7 +801,7 @@
       "genus": "Adiantum",
       "scientific_name": "Adiantum pedatum",
       "common_name": "Northern maidenhair fern",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -873,7 +873,7 @@
       "genus": "Anemia",
       "scientific_name": "Anemia mexicana",
       "common_name": "Mexican flowering fern",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -882,7 +882,7 @@
       "genus": "Lygodium",
       "scientific_name": "Lygodium japonicum",
       "common_name": "Japanese climbing fern",
-      "photo_count": 6,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -900,7 +900,7 @@
       "genus": "Selaginella",
       "scientific_name": "Selaginella arenicola",
       "common_name": "Sand spikemoss",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

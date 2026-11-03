@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sedum-nuttallii/archived-3d2eb4954c815145.jpg",
+      "creator": "Bryan",
+      "source_page": "https://www.inaturalist.org/photos/3358791",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b053808328380b099002f8043abd7395041b46b2",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 2931258 photo 3358791 individual CC code cc-by-nc; photographer (c) Bryan, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA b053808328380b099002f8043abd7395041b46b2; exact image source https://www.inaturalist.org/photos/3358791",
+      "taxon_review_evidence": "Original species record Sedum nuttallii linked to an original image and matching current inat photo of source taxon Sedum nuttallii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "3d2eb4954c815145f1b4e1a4fbfb3d7e18ff98e4b6a773b077aaa0dcc863b300"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "917028baeff6ac54f1661f2899f7f1f8a81ae38f99cfd632c110a19621a9e016",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

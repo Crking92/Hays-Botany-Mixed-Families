@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/rhinotropis-lindheimeri-var-lindheimeri/archived-20f38ca111529df7.jpg",
+      "creator": "Jerry Morrisey",
+      "source_page": "https://www.inaturalist.org/photos/40543123",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "dbcd34df0f80c4326779ffda0878a6bce3c78fd6",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 26129296 photo 40543123 individual CC code cc-by-nc; photographer (c) Jerry Morrisey, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA dbcd34df0f80c4326779ffda0878a6bce3c78fd6; exact image source https://www.inaturalist.org/photos/40543123",
+      "taxon_review_evidence": "Original species record Rhinotropis lindheimeri var. lindheimeri linked to an original image and matching current inat photo of source taxon Rhinotropis lindheimeri lindheimeri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "20f38ca111529df758e2656d7e03695800f8fe09801706e27d3bdd8160df04c6"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "383a00e4e4c3cc42d69efa70c798fcd7acef7ace2f10b91c7b6d8b2f80ef9e93",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

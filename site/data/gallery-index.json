@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 70,
-  "photo_count": 182,
+  "photo_species": 85,
+  "photo_count": 224,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -26,7 +26,7 @@
       "first_src": "media/conium-maculatum/conium-maculatum-harry-rose-stem.jpg"
     },
     "cyclospermum-leptophyllum": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cyclospermum-leptophyllum/archived-2b654b1d7e89a0e5.jpg"
     },
     "daucosma-laciniata": {
@@ -34,7 +34,7 @@
       "first_src": "media/daucosma-laciniata/archived-a1e0961daebee842.jpg"
     },
     "daucus-pusillus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/daucus-pusillus/archived-686a93eb97724235.jpg"
     },
     "eryngium-leavenworthii": {
@@ -42,7 +42,7 @@
       "first_src": "media/eryngium-leavenworthii/archived-804f24954e82f4aa.jpg"
     },
     "eryngium-yuccifolium": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/eryngium-yuccifolium/eryngium-yuccifolium-provisional-face.jpg"
     },
     "polytaenia-nuttallii": {
@@ -54,16 +54,16 @@
       "first_src": null
     },
     "sanicula-canadensis": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/sanicula-canadensis/archived-5e3c1d652e5d7e40.jpg"
     },
     "torilis-arvensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/torilis-arvensis/archived-45d88dd3ea771fb7.jpg"
     },
     "vesper-macrorhizus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/vesper-macrorhizus/archived-2e14f0c13e2f09e0.jpg"
     },
     "pilostyles-thurberi": {
       "count": 0,
@@ -78,19 +78,19 @@
       "first_src": null
     },
     "asplenium-resiliens": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/asplenium-resiliens/asplenium-resiliens-habit-commons.jpg"
     },
     "capsella-bursa-pastoris": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/capsella-bursa-pastoris/archived-dedd0e7d9b7e48a7.jpg"
     },
     "descurainia-pinnata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/descurainia-pinnata/archived-26bfc82db2bfb7ea.jpg"
     },
     "diplotaxis-muralis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/diplotaxis-muralis/archived-3ab83c2517529eb1.jpg"
     },
     "lepidium-austrinum": {
@@ -114,16 +114,16 @@
       "first_src": "media/paysonia-grandiflora/archived-830d8d4f065b2e73.jpg"
     },
     "physaria-densiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/physaria-densiflora/archived-8110580e447cffb3.jpg"
     },
     "physaria-engelmannii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/physaria-engelmannii/archived-a784bf7159a35412.jpg"
     },
     "physaria-gracilis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/physaria-gracilis/archived-a021d15e6555cd2e.jpg"
     },
     "physaria-recurvata": {
       "count": 2,
@@ -138,20 +138,20 @@
       "first_src": "media/planodes-virginicum/archived-4355700ae63417b7.jpg"
     },
     "rapistrum-rugosum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/rapistrum-rugosum/archived-d4e3c877d5881874.jpg"
     },
     "sisymbrium-altissimum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sisymbrium-altissimum/archived-4daa8aca0cbd394a.jpg"
     },
     "streptanthus-petiolaris": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/streptanthus-petiolaris/archived-c79db426a2b6be1f.jpg"
     },
     "tomostima-cuneifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tomostima-cuneifolia/archived-7bcafee1fa07cbcf.jpg"
     },
     "cleome-dodecandra": {
       "count": 0,
@@ -162,15 +162,15 @@
       "first_src": null
     },
     "sedum-nuttallii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sedum-nuttallii/archived-3d2eb4954c815145.jpg"
     },
     "cucumis-melo": {
       "count": 1,
       "first_src": "media/cucumis-melo/cucumis-melo-starr-080815-9781.jpg"
     },
     "cucurbita-foetidissima": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cucurbita-foetidissima/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg"
     },
     "cucurbita-melopepo": {
@@ -178,7 +178,7 @@
       "first_src": "media/cucurbita-melopepo/archived-a97861c631517e95.jpg"
     },
     "cucurbita-pepo": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/cucurbita-pepo/cucurbita-pepo-straightneck-habit-commons.jpg"
     },
     "ibervillea-lindheimeri": {
@@ -186,7 +186,7 @@
       "first_src": "media/ibervillea-lindheimeri/archived-05a3075f27bd4ad8.jpg"
     },
     "melothria-pendula": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/melothria-pendula/archived-cb57397774f9f2fc.jpg"
     },
     "juniperus-ashei": {
@@ -194,8 +194,8 @@
       "first_src": "media/juniperus-ashei/glass-root-garden-600607665-blue-cones-scale-foliage.jpg"
     },
     "juniperus-virginiana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/juniperus-virginiana/archived-201505db573d8e3b.jpg"
     },
     "taxodium-distichum": {
       "count": 3,
@@ -210,7 +210,7 @@
       "first_src": null
     },
     "equisetum-hyemale": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/equisetum-hyemale/archived-cd8b6968be903198.jpg"
     },
     "fouquieria-splendens": {
@@ -222,11 +222,11 @@
       "first_src": null
     },
     "erodium-texanum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/erodium-texanum/archived-1f7a33abedf12612.jpg"
     },
     "geranium-carolinianum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/geranium-carolinianum/archived-8a97a8b093a14aba.jpg"
     },
     "geranium-texanum": {
@@ -242,8 +242,8 @@
       "first_src": "media/krameria-erecta/archived-0ddad4030c93e6ed.jpg"
     },
     "krameria-lanceolata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/krameria-lanceolata/archived-003704442c7926bc.jpg"
     },
     "leucobryum-albidum": {
       "count": 1,
@@ -258,8 +258,8 @@
       "first_src": "media/cevallia-sinuata/archived-5ce39bc8b1b8a02d.jpg"
     },
     "mentzelia-oligosperma": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/mentzelia-oligosperma/archived-4f34010154f8eeed.jpg"
     },
     "cottsia-gracilis": {
       "count": 0,
@@ -322,16 +322,16 @@
       "first_src": "media/rhinotropis-lindheimeri/inat-631626871.jpg"
     },
     "rhinotropis-lindheimeri-var-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/rhinotropis-lindheimeri-var-lindheimeri/archived-20f38ca111529df7.jpg"
     },
     "senega-alba": {
       "count": 0,
       "first_src": null
     },
     "senega-lutea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/senega-lutea/archived-f644c2b66e09782e.jpg"
     },
     "pleopeltis-michauxiana": {
       "count": 5,
@@ -350,7 +350,7 @@
       "first_src": "media/samolus-ebracteatus/inat-631487630.jpg"
     },
     "samolus-parviflorus": {
-      "count": 6,
+      "count": 8,
       "first_src": "media/samolus-parviflorus/01-cultivated-leaf-rosette.jpg"
     },
     "adiantum-capillus-veneris": {
@@ -358,7 +358,7 @@
       "first_src": "media/adiantum-capillus-veneris/inat-622676064.jpg"
     },
     "adiantum-pedatum": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/adiantum-pedatum/adiantum-pedatum-provisional-face.jpg"
     },
     "hemionitis-alabamensis": {
@@ -390,11 +390,11 @@
       "first_src": "media/azolla-caroliniana/inat-298902767.jpg"
     },
     "anemia-mexicana": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/anemia-mexicana/inat-625117805.jpg"
     },
     "lygodium-japonicum": {
-      "count": 6,
+      "count": 8,
       "first_src": "media/lygodium-japonicum/inat-137786510.jpg"
     },
     "selaginella-apoda": {
@@ -402,7 +402,7 @@
       "first_src": "media/selaginella-apoda/inat-366943340.jpg"
     },
     "selaginella-arenicola": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/selaginella-arenicola/smithsonian-selaginella-arenicola-03476880.jpg"
     },
     "thelypteris-kunthii": {

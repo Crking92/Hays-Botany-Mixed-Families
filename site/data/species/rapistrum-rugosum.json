@@ -29,6 +29,25 @@
       "source_review_evidence": "iNaturalist observation 44130034 photo 69809213 individual CC code cc-by-nc; photographer (c) cameralenswrangler, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 309961ff6f81a8421b9f0fe92d84e1861e4319be; exact image source https://www.inaturalist.org/photos/69809213",
       "taxon_review_evidence": "Original species record Rapistrum rugosum linked to an original image and matching current inat photo of source taxon Rapistrum rugosum. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "d4e3c877d588187404a3ddc3ba7817eb41138f4e838de924ae6b5ae1600e9ddc"
+    },
+    {
+      "src": "media/rapistrum-rugosum/archived-12c49709e66cdbbd.jpg",
+      "creator": "Sam Kieschnick",
+      "source_page": "https://www.inaturalist.org/photos/605457062",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "dc8af10fa37d753ce92b88594ae3135738605f80",
+      "role": "Recognize · small yellow flower clusters on branched stems; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 5938038595 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/605457062/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Sam Kieschnick; dHash distance 0; archived source SHA dc8af10fa37d753ce92b88594ae3135738605f80; exact image source https://www.inaturalist.org/photos/605457062",
+      "taxon_review_evidence": "Original species record Rapistrum rugosum linked to an original image and matching current gbif photo of source taxon Rapistrum rugosum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "12c49709e66cdbbde8f7321c49de3539d4edd5c28f173b16a57f5c2e7c905da6"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

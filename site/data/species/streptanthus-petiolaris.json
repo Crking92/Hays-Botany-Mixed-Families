@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/streptanthus-petiolaris/archived-c79db426a2b6be1f.jpg",
+      "creator": "blake hendon",
+      "source_page": "https://www.inaturalist.org/photos/119191059",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "01f1ef7f27b2361ea93404d53e2152712e09aee2",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 73038704 photo 119191059 individual CC code cc-by-nc; photographer (c) blake hendon, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 01f1ef7f27b2361ea93404d53e2152712e09aee2; exact image source https://www.inaturalist.org/photos/119191059",
+      "taxon_review_evidence": "Original species record Streptanthus petiolaris linked to an original image and matching current inat photo of source taxon Streptanthus petiolaris. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "c79db426a2b6be1ff2e91a8e37235b5482990b340e40d8917d4b3a9e75a83f97"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "09f759dea81d4a5548d1dd8389da1baa6382d66d6ab8d9f553d749ef34b1e60c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
