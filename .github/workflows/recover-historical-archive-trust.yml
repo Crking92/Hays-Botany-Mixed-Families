@@ -90,6 +90,7 @@ jobs:
             echo "published=false" >> "$GITHUB_OUTPUT"
           fi
           git commit -m "Recover older Commons photos from original per-image rights and credits"
+          git pull --rebase origin main
           git push origin HEAD:main
       - name: Request public Pages build for newly installed images
         if: steps.save.outputs.published == 'true'
