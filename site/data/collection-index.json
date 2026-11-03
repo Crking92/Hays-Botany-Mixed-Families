@@ -9,8 +9,8 @@
       "genus": "Atrema",
       "scientific_name": "Atrema americanum",
       "common_name": "American bifora",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "bowlesia-incana",
@@ -162,8 +162,8 @@
       "genus": "Aristolochia",
       "scientific_name": "Aristolochia serpentaria",
       "common_name": "Virginia snakeroot / Virginia Dutchman's pipe",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "asplenium-resiliens",
@@ -342,8 +342,8 @@
       "genus": "Cleome",
       "scientific_name": "Cleome dodecandra",
       "common_name": "Clammyweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cleome-trachysperma",
@@ -585,8 +585,8 @@
       "genus": "Cottsia",
       "scientific_name": "Cottsia gracilis",
       "common_name": "Trailing janusia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "galphimia-angustifolia",
@@ -810,7 +810,7 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis alabamensis",
       "common_name": "Alabama lip fern",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -819,7 +819,7 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis artax",
       "common_name": "Powdery cloak fern",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -828,8 +828,8 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis aspera",
       "common_name": "Rough lip fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hemionitis-atropurpurea",
@@ -837,7 +837,7 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis atropurpurea",
       "common_name": "Purple-stem cliffbrake",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Hemionitis",
       "scientific_name": "Hemionitis wrightiana",
       "common_name": "Wright's cliffbrake",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -909,7 +909,7 @@
       "genus": "Thelypteris",
       "scientific_name": "Thelypteris kunthii",
       "common_name": "Southern shield fern",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -918,7 +918,7 @@
       "genus": "Thelypteris",
       "scientific_name": "Thelypteris ovata",
       "common_name": "Ovate maiden fern",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

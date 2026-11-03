@@ -105,6 +105,25 @@
       "source_review_evidence": "Provider live observation 360463788 contains photo 657751234 under individual cc-by-nc license; original image bytes have SHA256 86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron kunthii matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
       "sha256": "86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a"
+    },
+    {
+      "src": "media/thelypteris-kunthii/archived-0a8ea46cc9134f06.jpg",
+      "creator": "ellingham_l_020",
+      "source_page": "https://www.inaturalist.org/photos/183839437",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "6ffcccbfc04b48b787812c706bba2e70bb791bcf",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 109112931 photo 183839437 individual CC code cc-by-nc; photographer (c) ellingham_l_020, some rights reserved (CC BY-NC); image dHash difference 0; source synonym verified by POWO https://powo.science.kew.org/taxon/251400-2; archived source SHA 6ffcccbfc04b48b787812c706bba2e70bb791bcf; exact image source https://www.inaturalist.org/photos/183839437",
+      "taxon_review_evidence": "Indexed species Thelypteris kunthii reconciled to source synonym Pelazoneuron kunthii per Kew POWO https://powo.science.kew.org/taxon/251400-2; source record Pelazoneuron kunthii linked to an original image and matching current inat photo of source taxon Pelazoneuron kunthii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0a8ea46cc9134f066efeddcf0098f68442aeaeb05473bb0c0303605f9e3aa082"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

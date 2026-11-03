@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/cottsia-gracilis/archived-c1aaa4bb73ecc746.jpg",
+      "creator": "Marianne Skov Jensen",
+      "source_page": "https://www.inaturalist.org/photos/154037149",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "889c90155815da3c4746afe8a54bbd3b3ca76549",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 92982393 photo 154037149 individual CC code cc-by-nc; photographer (c) Marianne Skov Jensen, some rights reserved (CC BY-NC); image dHash difference 0; source synonym verified by POWO https://powo.science.kew.org/taxon/60447723-2; archived source SHA 889c90155815da3c4746afe8a54bbd3b3ca76549; exact image source https://www.inaturalist.org/photos/154037149",
+      "taxon_review_evidence": "Indexed species Cottsia gracilis reconciled to source synonym Janusia gracilis per Kew POWO https://powo.science.kew.org/taxon/60447723-2; source record Janusia gracilis linked to an original image and matching current inat photo of source taxon Janusia gracilis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "c1aaa4bb73ecc7462e057cd079a5d62d3176ccab6998d8eb4699a11e0d003de5"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "31209d9cf7e113b167832ff30a851758db63e832fa66c92d31b6e5398d526d7d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

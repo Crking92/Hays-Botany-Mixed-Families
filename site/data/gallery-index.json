@@ -2,12 +2,12 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 87,
-  "photo_count": 243,
+  "photo_species": 92,
+  "photo_count": 255,
   "entries": {
     "atrema-americanum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/atrema-americanum/archived-a9c043713f1c71e2.jpg"
     },
     "bowlesia-incana": {
       "count": 0,
@@ -74,8 +74,8 @@
       "first_src": null
     },
     "aristolochia-serpentaria": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/aristolochia-serpentaria/archived-7213d33a11a855ab.jpg"
     },
     "asplenium-resiliens": {
       "count": 2,
@@ -154,8 +154,8 @@
       "first_src": "media/tomostima-cuneifolia/archived-7bcafee1fa07cbcf.jpg"
     },
     "cleome-dodecandra": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cleome-dodecandra/archived-2f66a6b668ff68b5.jpg"
     },
     "cleome-trachysperma": {
       "count": 0,
@@ -262,8 +262,8 @@
       "first_src": "media/mentzelia-oligosperma/archived-4f34010154f8eeed.jpg"
     },
     "cottsia-gracilis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cottsia-gracilis/archived-c1aaa4bb73ecc746.jpg"
     },
     "galphimia-angustifolia": {
       "count": 0,
@@ -362,19 +362,19 @@
       "first_src": "media/adiantum-pedatum/adiantum-pedatum-provisional-face.jpg"
     },
     "hemionitis-alabamensis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/hemionitis-alabamensis/inat-623440650.jpg"
     },
     "hemionitis-artax": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/hemionitis-artax/inat-273051819.jpeg"
     },
     "hemionitis-aspera": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/hemionitis-aspera/archived-07b61b48d99c2dd8.jpg"
     },
     "hemionitis-atropurpurea": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/hemionitis-atropurpurea/inat-628229103.jpg"
     },
     "hemionitis-ovata": {
@@ -382,7 +382,7 @@
       "first_src": "media/hemionitis-ovata/inat-624747750.jpg"
     },
     "hemionitis-wrightiana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/hemionitis-wrightiana/inat-627704231.jpg"
     },
     "azolla-caroliniana": {
@@ -406,11 +406,11 @@
       "first_src": "media/selaginella-arenicola/smithsonian-selaginella-arenicola-03476880.jpg"
     },
     "thelypteris-kunthii": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/thelypteris-kunthii/inat-240587366.jpeg"
     },
     "thelypteris-ovata": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/thelypteris-ovata/inat-623210250.jpg"
     },
     "guaiacum-angustifolium": {
