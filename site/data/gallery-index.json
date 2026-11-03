@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 96,
-  "photo_count": 292,
+  "photo_count": 297,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -262,7 +262,7 @@
       "first_src": "media/mentzelia-oligosperma/archived-4f34010154f8eeed.jpg"
     },
     "cottsia-gracilis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cottsia-gracilis/archived-c1aaa4bb73ecc746.jpg"
     },
     "galphimia-angustifolia": {
