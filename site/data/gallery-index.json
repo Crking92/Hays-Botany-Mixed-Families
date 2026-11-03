@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 94,
-  "photo_count": 257,
+  "photo_species": 96,
+  "photo_count": 292,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -246,19 +246,19 @@
       "first_src": "media/krameria-lanceolata/archived-003704442c7926bc.jpg"
     },
     "leucobryum-albidum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/leucobryum-albidum/archived-60b82ea26db7f3a5.jpg"
     },
     "leucodon-julaceus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/leucodon-julaceus/archived-facbe9ffc81ee260.jpg"
     },
     "cevallia-sinuata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cevallia-sinuata/archived-5ce39bc8b1b8a02d.jpg"
     },
     "mentzelia-oligosperma": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/mentzelia-oligosperma/archived-4f34010154f8eeed.jpg"
     },
     "cottsia-gracilis": {
@@ -266,15 +266,15 @@
       "first_src": "media/cottsia-gracilis/archived-c1aaa4bb73ecc746.jpg"
     },
     "galphimia-angustifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/galphimia-angustifolia/inat-636851871.jpg"
     },
     "galphimia-gracilis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/galphimia-gracilis/inat-152766033.jpg"
     },
     "malpighia-glabra": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/malpighia-glabra/archived-ddad86b5d3bd2cbc.jpg"
     },
     "marsilea-macropoda": {

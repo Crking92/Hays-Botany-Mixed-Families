@@ -549,7 +549,7 @@
       "genus": "Leucobryum",
       "scientific_name": "Leucobryum albidum",
       "common_name": "White cushion moss",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -558,7 +558,7 @@
       "genus": "Leucodon",
       "scientific_name": "Leucodon julaceus",
       "common_name": "Leucodon moss",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -567,7 +567,7 @@
       "genus": "Cevallia",
       "scientific_name": "Cevallia sinuata",
       "common_name": "Cevallia",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -576,7 +576,7 @@
       "genus": "Mentzelia",
       "scientific_name": "Mentzelia oligosperma",
       "common_name": "Chickenthief mentzelia",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -594,8 +594,8 @@
       "genus": "Galphimia",
       "scientific_name": "Galphimia angustifolia",
       "common_name": "Narrowleaf goldshower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "galphimia-gracilis",
@@ -603,8 +603,8 @@
       "genus": "Galphimia",
       "scientific_name": "Galphimia gracilis",
       "common_name": "Slender goldshower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "malpighia-glabra",
@@ -612,7 +612,7 @@
       "genus": "Malpighia",
       "scientific_name": "Malpighia glabra",
       "common_name": "Barbados cherry",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
