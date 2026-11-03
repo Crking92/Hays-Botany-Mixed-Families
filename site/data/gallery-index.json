@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 85,
-  "photo_count": 224,
+  "photo_species": 86,
+  "photo_count": 229,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -286,8 +286,8 @@
       "first_src": null
     },
     "botrychium-biternatum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/botrychium-biternatum/inat-473756115.jpg"
     },
     "oxalis-albicans": {
       "count": 5,
