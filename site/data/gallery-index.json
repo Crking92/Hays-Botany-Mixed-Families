@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 86,
-  "photo_count": 232,
+  "photo_species": 87,
+  "photo_count": 242,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -278,12 +278,12 @@
       "first_src": "media/malpighia-glabra/archived-ddad86b5d3bd2cbc.jpg"
     },
     "marsilea-macropoda": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/marsilea-macropoda/archived-fcaa165f5e3b9531.jpg"
     },
     "marsilea-vestita": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/marsilea-vestita/inat-115470271.jpeg"
     },
     "botrychium-biternatum": {
       "count": 5,
