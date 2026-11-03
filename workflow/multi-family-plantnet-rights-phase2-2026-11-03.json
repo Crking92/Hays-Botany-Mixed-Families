@@ -1,0 +1,50 @@
+{
+  "repository": "Crking92/Hays-Botany-Mixed-Families",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:16:22.332114+00:00",
+  "candidate_pool": 3,
+  "selected": 3,
+  "published": 3,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "diplotaxis-muralis",
+      "original_path": "content/taxa/Brassicaceae/Diplotaxis/diplotaxis-muralis/images/library-review054-f6c945f1b882619.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Aranda García Víctor / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110335993",
+      "src": "media/diplotaxis-muralis/plantnet-archive-3bc2946526fbb15d.jpg",
+      "sha256": "3bc2946526fbb15d513391c138b94e1f2714c0c2f707eb15fd62a365d0c60844",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/40f98faba513bb29bba2a31e6e3581fad5a02a8d of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Aranda García Víctor and media license field Aranda García Víctor (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob c97e41adc5a59bc51d7c167dacb4d99af13d0879; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "ginkgo-biloba",
+      "original_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/library-review015-18b5905e41b2ce5.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Carla van der Boon / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109942611",
+      "src": "media/ginkgo-biloba/plantnet-archive-6f3274efa4864214.jpg",
+      "sha256": "6f3274efa486421486a7f5f30e41ab8fba2c5739de70f523438defbe748625ba",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/dc5cb5f79fae340495c86d1e3d7978b6527bfbc2 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Carla van der Boon and media license field Carla van der Boon (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 823f02e8922e60455d521cb43c3a29ef4d25e414; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "ginkgo-biloba",
+      "original_path": "content/taxa/Ginkgoaceae/Ginkgo/ginkgo-biloba/images/library-review015-76708c74b7adfd5.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "danielmzhz / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109884695",
+      "src": "media/ginkgo-biloba/plantnet-archive-3d4872b1e6f9659f.jpg",
+      "sha256": "3d4872b1e6f9659f4148f5da834a6bf77c1ac0de4c58ae0b3983f4b0d4ae9d97",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/083d14af1c979d830558c0db34fd3055521dec37 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author danielmzhz and media license field danielmzhz (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 2d1d6193cd5e803b57e3e3a055cf280df29eb6c5; same-image fingerprint distance 0"
+    }
+  ],
+  "cumulative_published": 3,
+  "held_by_reason": {}
+}
