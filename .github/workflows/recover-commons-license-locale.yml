@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 299ba5ce5965197a3e447b5c3c6511ed23639648
+          ref: 6ce850eeb4a4b83bee00c8c6ab7ef4e18f2d9a23
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
