@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 99,
-  "photo_count": 322,
+  "photo_count": 347,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -214,23 +214,23 @@
       "first_src": "media/equisetum-hyemale/archived-cd8b6968be903198.jpg"
     },
     "fouquieria-splendens": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/fouquieria-splendens/archived-7e8e945edcd8e6fa.jpg"
     },
     "erodium-cicutarium": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/erodium-cicutarium/archived-6503466aedf72fd6.jpg"
     },
     "erodium-texanum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/erodium-texanum/archived-1f7a33abedf12612.jpg"
     },
     "geranium-carolinianum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/geranium-carolinianum/archived-8a97a8b093a14aba.jpg"
     },
     "geranium-texanum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/geranium-texanum/archived-7e75d1cd16f3ed00.jpg"
     },
     "ginkgo-biloba": {
