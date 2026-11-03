@@ -39,8 +39,47 @@
     "names": [],
     "differences": "The major learner cue here is taxonomic: this one is Paysonia, not Physaria. It is the 'bigflower' member of the old Lesquerella set."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/paysonia-grandiflora/archived-830d8d4f065b2e73.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/265390565",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "ba3f44ac127b010e2abf552904bf3a46658db102",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 153642245 photo 265390565 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA ba3f44ac127b010e2abf552904bf3a46658db102; exact image source https://www.inaturalist.org/photos/265390565",
+      "taxon_review_evidence": "Original species record Paysonia grandiflora linked to an original image and matching current inat photo of source taxon Paysonia grandiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "830d8d4f065b2e7332a288b5d4044186f77e0681cfb9bf14071a402d7285707a"
+    },
+    {
+      "src": "media/paysonia-grandiflora/archived-89c1c7ab92afeb01.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/265390543",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "eb2490f9bcb0382fa35404036ded57c6efc2a976",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 153642245 photo 265390543 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA eb2490f9bcb0382fa35404036ded57c6efc2a976; exact image source https://www.inaturalist.org/photos/265390543",
+      "taxon_review_evidence": "Original species record Paysonia grandiflora linked to an original image and matching current inat photo of source taxon Paysonia grandiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "89c1c7ab92afeb0107cda70ebf7a0677fb49805d4ecf33b988eeb210ddf46f05"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3f83d626d86a507f4c4633a02df8e8964e4b27ba2382ce04f943cc48c713f4f9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

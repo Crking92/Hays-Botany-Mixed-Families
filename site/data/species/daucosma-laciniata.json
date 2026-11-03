@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/daucosma-laciniata/archived-a1e0961daebee842.jpg",
+      "creator": "jarendt",
+      "source_page": "https://www.inaturalist.org/photos/85466037",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d68b9c52ad3b423b19ab43c8f05621f5e3df81fd",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 52378006 photo 85466037 individual CC code cc-by-nc; photographer (c) jarendt, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA d68b9c52ad3b423b19ab43c8f05621f5e3df81fd; exact image source https://www.inaturalist.org/photos/85466037",
+      "taxon_review_evidence": "Original species record Daucosma laciniata linked to an original image and matching current inat photo of source taxon Daucosma laciniata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a1e0961daebee842ca0192926b1a19391a12fa8f0eb3f9a0a78b3b55341e356d"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7f900f2fd0dd231f62fb7889332cc55e897b038eb0724120956eb8d03931b73a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

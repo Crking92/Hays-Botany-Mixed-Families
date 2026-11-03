@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/capsella-bursa-pastoris/archived-dedd0e7d9b7e48a7.jpg",
+      "creator": "Jason Headley",
+      "source_page": "https://www.inaturalist.org/photos/17860837",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7b13ae425f39b743cabf9743b2b3db9890a09ffb",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 12393317 photo 17860837 individual CC code cc-by-nc; photographer (c) Jason Headley, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 7b13ae425f39b743cabf9743b2b3db9890a09ffb; exact image source https://www.inaturalist.org/photos/17860837",
+      "taxon_review_evidence": "Original species record Capsella bursa-pastoris linked to an original image and matching current inat photo of source taxon Capsella bursa-pastoris. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "dedd0e7d9b7e48a7e3a90cfaeb87bff563608c292d491f72a3d414e53c583af4"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "533c147b06b34f22fe5a75507aede22b15799613037768202b09377679a023be",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

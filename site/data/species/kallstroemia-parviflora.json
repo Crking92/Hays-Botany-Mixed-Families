@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/kallstroemia-parviflora/archived-f92e20393dc7b158.jpeg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/437268121",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0956191d78e71d067e3cebeb59e9e809a092c6ef",
+      "role": "Provisional species recognition photo (not diagnostic certified)",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 245079246 photo 437268121 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 0956191d78e71d067e3cebeb59e9e809a092c6ef; exact image source https://www.inaturalist.org/photos/437268121",
+      "taxon_review_evidence": "Original species record Kallstroemia parviflora linked to an original image and matching current inat photo of source taxon Kallstroemia parviflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "f92e20393dc7b158033cf1b960b6cf6dd4f44c4839ecc3aab6ecc6a9f8e46315"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "23e1ba44d099b5474fa5bc4952337eb55018ab54d971c13f4b6f9db6751965e5",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

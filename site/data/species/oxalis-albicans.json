@@ -86,6 +86,25 @@
       "source_review_evidence": "Live iNaturalist observation 285241520, photo 512699593, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c38980ef4aa1efd1a516e70854b25652cafc7242ed0b0662ccaa3fa0df2ed7dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis albicans maps to indexed species oxalis-albicans; specialist morphology and BONAP range deferred.",
       "sha256": "c38980ef4aa1efd1a516e70854b25652cafc7242ed0b0662ccaa3fa0df2ed7dd"
+    },
+    {
+      "src": "media/oxalis-albicans/archived-0d04ee651c16cde0.jpg",
+      "creator": "Sierra Renee McMartin",
+      "source_page": "https://www.inaturalist.org/photos/116990833",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2a211a28eb03d2acd7001dc665d8cc196aad4213",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 71819033 photo 116990833 individual CC code cc-by-nc; photographer (c) Sierra Renee McMartin, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 2a211a28eb03d2acd7001dc665d8cc196aad4213; exact image source https://www.inaturalist.org/photos/116990833",
+      "taxon_review_evidence": "Original species record Oxalis albicans linked to an original image and matching current inat photo of source taxon Oxalis albicans. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0d04ee651c16cde0dd22c3d47225c7746bef50279074c8b963f43d07530cc248"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

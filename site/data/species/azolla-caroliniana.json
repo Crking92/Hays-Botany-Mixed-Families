@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 5752235, photo 7139642, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53d620127bd11c85ad47df2cb4032ad046d29d70ea04bb4fe25b9a6e25f73ed4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Azolla caroliniana maps to indexed species azolla-caroliniana; specialist morphology and BONAP range deferred.",
       "sha256": "53d620127bd11c85ad47df2cb4032ad046d29d70ea04bb4fe25b9a6e25f73ed4"
+    },
+    {
+      "src": "media/azolla-caroliniana/archived-22e245c0de06f999.jpg",
+      "creator": "Ganna Boiko",
+      "source_page": "https://www.inaturalist.org/photos/177808218",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "6878b244119d9cac56537d34a0fbed7c0b546731",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 105907603 photo 177808218 individual CC code cc-by-nc; photographer (c) Ganna Boiko, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 6878b244119d9cac56537d34a0fbed7c0b546731; exact image source https://www.inaturalist.org/photos/177808218",
+      "taxon_review_evidence": "Original species record Azolla caroliniana linked to an original image and matching current inat photo of source taxon Azolla caroliniana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "22e245c0de06f99901aee0200563ae4d1113bc693c20fb6da4c38c732c9dcade"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

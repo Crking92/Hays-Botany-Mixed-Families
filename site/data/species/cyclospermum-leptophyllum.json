@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/cyclospermum-leptophyllum/archived-2b654b1d7e89a0e5.jpg",
+      "creator": "Lesley",
+      "source_page": "https://www.inaturalist.org/photos/69542165",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "87fa95a5df5f495602962d93b401630941444ada",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 43847643 photo 69542165 individual CC code cc-by-nc; photographer (c) Lesley, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 87fa95a5df5f495602962d93b401630941444ada; exact image source https://www.inaturalist.org/photos/69542165",
+      "taxon_review_evidence": "Original species record Cyclospermum leptophyllum linked to an original image and matching current inat photo of source taxon Cyclospermum leptophyllum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2b654b1d7e89a0e5cf6c4b8c5f360a49656019e308a6a95840ca1e66305c4968"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a369cc5253ab196e0ce4434b2cb02a933963ab476587d56c78dc086d369be802",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

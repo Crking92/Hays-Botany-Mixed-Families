@@ -35,8 +35,28 @@
     "names": [],
     "differences": "Eryngium yuccifolium is a perennial with long yucca-like linear leaves and pale greenish-white globose heads, lacking the purple palmately divided canopy."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/eryngium-leavenworthii/archived-804f24954e82f4aa.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/426079400",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "79d70c16c3dbb974b305192e3d4b4e90729e10b7",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 239253587 photo 426079400 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 79d70c16c3dbb974b305192e3d4b4e90729e10b7; exact image source https://www.inaturalist.org/photos/426079400",
+      "taxon_review_evidence": "Original species record Eryngium leavenworthii linked to an original image and matching current inat photo of source taxon Eryngium leavenworthii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "804f24954e82f4aa8bacd7a8abe90922f2f7cc7543e21403576b0654875edce7"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a412248bf1f37d892322b55d3223901d575c226be38444b5933a392b7d9b9430",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

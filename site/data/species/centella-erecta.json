@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/centella-erecta/archived-2ddd23e73763a6bb.jpg",
+      "creator": "J. Richard Abbott",
+      "source_page": "https://www.inaturalist.org/photos/89006777",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "210a84a86b3e73f8d9c8f7d248f9a3c4152b57ea",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 55879752 photo 89006777 individual CC code cc-by-nc; photographer (c) J. Richard Abbott, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 210a84a86b3e73f8d9c8f7d248f9a3c4152b57ea; exact image source https://www.inaturalist.org/photos/89006777",
+      "taxon_review_evidence": "Original species record Centella erecta linked to an original image and matching current inat photo of source taxon Centella erecta. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2ddd23e73763a6bb1f8d80dfa4257b7ff642302ff7d857e4af4a06b6c172d15c"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4f1029dafe8b508af11bed4c7e02bd736679ef890bf0610b9adea084980021e6",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
