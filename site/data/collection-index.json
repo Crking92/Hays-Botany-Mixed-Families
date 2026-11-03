@@ -648,8 +648,8 @@
       "genus": "Oxalis",
       "scientific_name": "Oxalis albicans",
       "common_name": "Pale woodsorrel",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oxalis-dillenii",
@@ -657,7 +657,7 @@
       "genus": "Oxalis",
       "scientific_name": "Oxalis dillenii",
       "common_name": "Dillen's yellow woodsorrel",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,8 +666,8 @@
       "genus": "Oxalis",
       "scientific_name": "Oxalis drummondii",
       "common_name": "Drummond's woodsorrel",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oxalis-stricta",
@@ -675,7 +675,7 @@
       "genus": "Oxalis",
       "scientific_name": "Oxalis stricta",
       "common_name": "Common yellow woodsorrel",
-      "photo_count": 2,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -684,7 +684,7 @@
       "genus": "Oxalis",
       "scientific_name": "Oxalis violacea",
       "common_name": "Violet woodsorrel",
-      "photo_count": 2,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -693,8 +693,8 @@
       "genus": "Pinus",
       "scientific_name": "Pinus echinata",
       "common_name": "Shortleaf pine",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pinus-taeda",
@@ -702,8 +702,8 @@
       "genus": "Pinus",
       "scientific_name": "Pinus taeda",
       "common_name": "Loblolly pine",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhinotropis-lindheimeri",

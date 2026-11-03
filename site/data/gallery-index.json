@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 32,
-  "photo_count": 110,
+  "photo_species": 36,
+  "photo_count": 139,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -290,32 +290,32 @@
       "first_src": null
     },
     "oxalis-albicans": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/oxalis-albicans/inat-115646168.jpeg"
     },
     "oxalis-dillenii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/oxalis-dillenii/oxalis-dillenii-abbamouse-fruit.jpg"
     },
     "oxalis-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/oxalis-drummondii/inat-628809449.jpg"
     },
     "oxalis-stricta": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/oxalis-stricta/oxalis-stricta-cornell-habit.jpg"
     },
     "oxalis-violacea": {
-      "count": 2,
+      "count": 4,
       "first_src": "media/oxalis-violacea/oxalis-violacea-fritzflohrreynolds-habit.jpg"
     },
     "pinus-echinata": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/pinus-echinata/inat-621069105.jpg"
     },
     "pinus-taeda": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pinus-taeda/inat-60510121.jpg"
     },
     "rhinotropis-lindheimeri": {
       "count": 5,
