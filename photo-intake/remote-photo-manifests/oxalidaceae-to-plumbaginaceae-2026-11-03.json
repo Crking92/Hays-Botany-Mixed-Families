@@ -1,0 +1,49 @@
+{
+  "batch_id": "oxalidaceae-through-plumbaginaceae-2026-11-03",
+  "zip_sha256": "f9d90a108f7e15ff8ae0a110ae6841dff6c2f39457271dbff3fa9cc97383a59b",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Oxalidaceae-through-Plumbaginaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 214,
+  "source_image_count_for_this_repo": 29,
+  "species": [
+    "oxalis-albicans",
+    "oxalis-dillenii",
+    "oxalis-drummondii",
+    "oxalis-stricta",
+    "oxalis-violacea",
+    "pinus-echinata",
+    "pinus-taeda"
+  ],
+  "records_base64": "AB6PLMkRAHCww4mA70qh79GlFucIVLJWUsr8ckLtCwZizKo/oN8u190AAAb5xPsESDn6asFYMQgp57T1rOqWx3wXDDJyZZGBR0dsYEA0EFXwJTcAAAbkntgEPGoSocWQciI9xJcw2YAK/UFX94tL+WtdhLIwR+ZP9dzKO5YBAAiOPckFMLPhIkcOmispT2X0txhT9WodrfMxyk6fQXxUxDdNM6B/migBASWIiN0UmE+kTgVuJXkzwN9aCtba8ynI4qib4vdLUbgXkEx5Y13bHc8AASVwJLUUi8p7F9mCsi69F+a/7WhAcC/6bubFpKyr1fli4EhrbHOUQA4AASV2w6AUj0aTlonslIC9T9jSf6wosWbmZcfJW3VvzVBm/ISps5wtLwQAASVIhrEUd7yPoX7Wk1zJKWXFi63RUj+dYz49yOO5EW1qFRUzN7/Kr7YAASXBehAUtRfJKI9kn9WgFj5mcEL10BYfuGQ5pS/BRHSVvIAERuXjXJkAAiV63ukUkVqKiyntUl27xgsCy0J9mRMnMvuJI+PPq4gM604UUMUvuTEAAiaB6CoVG0xhvIhAkiYhZZfGD8c/AA9k9W2hLWnKU8eG1f/myrsaFqMAAiZ1iPwVFFjHgLCi03waaq4RXnAHK0y8znA8fYQGzg2QwFUEKmiJCJ0AAiZgnuEVB8R3PHyJwUYgF8lHx7CoTZjdZOIy95IMDE/HeKWAJjCSfDIAAiZ5YVAVFpgZ1hUXwcbLoes1hHzhDhMsTajB4PuywkX18GE+EPt5bH4AAybrwYAVVl92a3ulXDn43O2duEay00uWVoKEosmlFg3hn/f7XQxnlZsAAybEw3cVQjaVf4+ODmihZpt5OL+HAKESKMcyBYZJa7OPD6i6B6DyRh4AAybkOdAVUogk1EgM4sFT5/COhfBEVlq8thWmp4bmUjCi/DILlspD7tAAAybj7ekVUm0Cbt8IApiU5+pWMwHnmfm+IUcAEhZjIzLbbKS7OQFR44EABATICdUDAt+92V/C0m5KB8iaNEMen8PVTZY67F2nX76uiYYv86VgMvoBBAILx3EBUk3Uh6+lOcdgqaPzw2sS+j3lTJt1aoUChbQnG6iAdSjvaJYBBSVTihYUfSXsTk907AeeCKY2AWf+5RwS74qQP+/DZmC7H2FUSH0LUuoABSUEwzEUVk7KKicGtQ93jpa5gWLn9oxd7PRJn0zkoyO0XM/l+46YO4cABSVgBZIUg4ea7CbMXHQoj/1fcU7lwkH5C9FRuRYvz5DLIHqzTajJasYABSawbloVNzC0I/rYmsIb5dr57Lixeg6reJCETA0rTnjPiiUR9WAQuawABgObV9YCRWh0k2kCeYFkUv71NGp/jJpP1t5kjDrOJ9kAr44iFLwTcHwABgObT6kCRWfJesjSykzVMGbLnwZpQZr/LX6mMmcrLDaESJafsTYWUasABgObUFACRWgGSJB0YGDDIvSy+uzfm94HnSYgktJ8pxO2nxS6J49qz/4ABgObUS0CRWhDHLAv1sPcT1jz8Q4EdLYVLPfqrKY1/QOcTD16hTeFt1YABgObUEkCRWgl8r7xziHRoD+6XNvq1z/3RqCHlirh9qiWaqutF8c27jkA",
+  "held_offline_media": [
+    {
+      "species": "oxalis-albicans",
+      "filename": "photo_3_e9ae1963fecbc8b6.jpg",
+      "hold_reason": "Exact collection image media license and taxon provenance unresolved"
+    },
+    {
+      "species": "oxalis-stricta",
+      "filename": "photo_0_f095a29c1590b86d.jpg",
+      "hold_reason": "Exact collection image media license and taxon provenance unresolved"
+    },
+    {
+      "species": "oxalis-violacea",
+      "filename": "photo_0_1840b8c70b690b1d.jpg",
+      "hold_reason": "Exact collection image media license and taxon provenance unresolved"
+    },
+    {
+      "species": "oxalis-violacea",
+      "filename": "photo_1_ffb555672e4d5059.jpg",
+      "hold_reason": "Exact collection image media license and taxon provenance unresolved"
+    },
+    {
+      "species": "oxalis-violacea",
+      "filename": "photo_3_dd37e5fe4696f7c2.jpg",
+      "hold_reason": "Exact collection image media license and taxon provenance unresolved"
+    },
+    {
+      "species": "pinus-echinata",
+      "filename": "photo_0_647adc3ce2a9fc8c.jpg",
+      "hold_reason": "Exact collection image media license and taxon provenance unresolved"
+    }
+  ]
+}
