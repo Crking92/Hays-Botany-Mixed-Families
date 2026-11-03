@@ -1,0 +1,52 @@
+{
+  "repository": "Crking92/Hays-Botany-Mixed-Families",
+  "batch_key": "MULTIFAMILY_COMMONS_CC0_DEED_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:38:17.242532+00:00",
+  "source_files": 170,
+  "historical_cc0_deed_holds": 2,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 168
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "ephedra-trifurca",
+      "family": "Ephedraceae",
+      "filename": "commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "original_path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ephedraceae/Ephedra/ephedra-trifurca/images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "git_blob_sha": "f5cddc0c853bed12f6cefe02f5c2be6c0f88de6c",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "polytaenia-texana",
+      "family": "Apiaceae",
+      "filename": "commons-polytaenia-texana.jpg",
+      "original_path": "content/taxa/Apiaceae/Polytaenia/polytaenia-texana/images/commons-polytaenia-texana.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apiaceae/Polytaenia/polytaenia-texana/images/commons-polytaenia-texana.jpg",
+      "git_blob_sha": "7f181fae4d5c533e6dc2010e953239a60e950735",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 2
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}
