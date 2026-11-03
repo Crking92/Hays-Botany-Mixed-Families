@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 99,
-  "photo_count": 305,
+  "photo_count": 306,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -390,7 +390,7 @@
       "first_src": "media/azolla-caroliniana/inat-298902767.jpg"
     },
     "anemia-mexicana": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/anemia-mexicana/inat-625117805.jpg"
     },
     "lygodium-japonicum": {
