@@ -108,8 +108,8 @@
       "genus": "Polytaenia",
       "scientific_name": "Polytaenia texana",
       "common_name": "Texas prairie parsley",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sanicula-canadensis",
@@ -225,8 +225,8 @@
       "genus": "Nasturtium",
       "scientific_name": "Nasturtium officinale",
       "common_name": "Watercress",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nerisyrenia-camporum",
@@ -486,8 +486,8 @@
       "genus": "Erodium",
       "scientific_name": "Erodium cicutarium",
       "common_name": "Redstem filaree",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "erodium-texanum",
@@ -603,7 +603,7 @@
       "genus": "Galphimia",
       "scientific_name": "Galphimia gracilis",
       "common_name": "Slender goldshower",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,7 +630,7 @@
       "genus": "Marsilea",
       "scientific_name": "Marsilea vestita",
       "common_name": "Hairy water clover",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -747,7 +747,7 @@
       "genus": "Pleopeltis",
       "scientific_name": "Pleopeltis michauxiana",
       "common_name": "Resurrection fern",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -891,7 +891,7 @@
       "genus": "Selaginella",
       "scientific_name": "Selaginella apoda",
       "common_name": "Meadow spikemoss",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

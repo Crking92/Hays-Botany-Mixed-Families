@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 96,
-  "photo_count": 297,
+  "photo_species": 99,
+  "photo_count": 304,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -50,8 +50,8 @@
       "first_src": "media/polytaenia-nuttallii/archived-dc71542c7e6dab43.jpg"
     },
     "polytaenia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/polytaenia-texana/archived-ffc4425b5bb9c4d0.jpg"
     },
     "sanicula-canadensis": {
       "count": 2,
@@ -102,8 +102,8 @@
       "first_src": null
     },
     "nasturtium-officinale": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/nasturtium-officinale/archived-f0b40d92f33d6d93.jpg"
     },
     "nerisyrenia-camporum": {
       "count": 1,
@@ -218,8 +218,8 @@
       "first_src": "media/fouquieria-splendens/archived-7e8e945edcd8e6fa.jpg"
     },
     "erodium-cicutarium": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/erodium-cicutarium/archived-6503466aedf72fd6.jpg"
     },
     "erodium-texanum": {
       "count": 2,
@@ -270,7 +270,7 @@
       "first_src": "media/galphimia-angustifolia/inat-636851871.jpg"
     },
     "galphimia-gracilis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/galphimia-gracilis/inat-152766033.jpg"
     },
     "malpighia-glabra": {
@@ -282,7 +282,7 @@
       "first_src": "media/marsilea-macropoda/archived-fcaa165f5e3b9531.jpg"
     },
     "marsilea-vestita": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/marsilea-vestita/inat-115470271.jpeg"
     },
     "botrychium-biternatum": {
@@ -334,7 +334,7 @@
       "first_src": "media/senega-lutea/archived-f644c2b66e09782e.jpg"
     },
     "pleopeltis-michauxiana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pleopeltis-michauxiana/inat-368137763.jpeg"
     },
     "pleurochaete-squarrosa": {
@@ -398,7 +398,7 @@
       "first_src": "media/lygodium-japonicum/inat-137786510.jpg"
     },
     "selaginella-apoda": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/selaginella-apoda/inat-366943340.jpg"
     },
     "selaginella-arenicola": {

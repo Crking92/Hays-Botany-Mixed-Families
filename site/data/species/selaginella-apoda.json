@@ -29,6 +29,25 @@
       "source_review_evidence": "Live iNaturalist observation 207450698, photo 366943340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9a0a939de7677c9571399c43386fb89b8407b05aaefb0a5f9e6c81c086ce0ad9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Selaginella apoda maps to indexed species selaginella-apoda; specialist morphology and BONAP range deferred.",
       "sha256": "9a0a939de7677c9571399c43386fb89b8407b05aaefb0a5f9e6c81c086ce0ad9"
+    },
+    {
+      "src": "media/selaginella-apoda/archived-0ed0ff814250f5da.jpg",
+      "creator": "Jaknouse",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Selaginella_apoda1.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "65134170ab1d98921f467bea00fed95c5a0aad22",
+      "role": "Provisional whole mat appearance; spores and leaf-scale anatomical characters still unresolved.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Selaginella_apoda1.jpg; original individual photographer Jaknouse; archived specific reuse license CC BY-SA 3.0; preserved photo byte SHA checked against original transfer manifest 65134170ab1d98921f467bea00fed95c5a0aad22; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 65134170ab1d98921f467bea00fed95c5a0aad22; exact image source https://commons.wikimedia.org/wiki/File:Selaginella_apoda1.jpg",
+      "taxon_review_evidence": "Original species record Selaginella apoda linked to an original image and matching current commons photo of source taxon Selaginella apoda. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0ed0ff814250f5da2183188d6a9a5368ce4ee9d40979ce2ffaa39e2405fe9408"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
