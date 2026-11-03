@@ -1,0 +1,81 @@
+{
+  "batch_id": "polemoniaceae-through-potamogetonaceae-2026-11-03",
+  "zip_sha256": "6e73645df01103db7ca2bf63d197261bb0d8a6d0ddce7ba35c04c216b8b14ef8",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Polemoniaceae-through-Potamogetonaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 165,
+  "family_set": [
+    "Polygalaceae",
+    "Polypodiaceae"
+  ],
+  "species": [
+    "pleopeltis-michauxiana",
+    "rhinotropis-lindheimeri"
+  ],
+  "records_base64": "ASWl3HcUpy+Adug5Cx6UprqS8NkxRP1lhV/xeykbfSTfg1woNyt/Tm8AASW9SIcUsvOLxNZ1Iq4yBbYqKLJMzzlUwD28G1eZgVe75luMnWfa3SsAASWpABIUqMLVccQBsUX+IYM2mui7oCMXpwwP62zSEE881CjwLL2wni4AASZtKQwVDw4kF9OYD07OAmPvBSXQrU3XagG/v3I8RVXuUxEqjx/6pVkAASaz7KEVOSanecRnW7qqGO9APSzPaY8hyOLnfIgvPGwe9LX8JVYAO68AACUkP4UUZbBADlmAVcPWA9fpnT1NOyRbAZIiWNb6/HrLCYPsl0gVFFIAAB1QdBMQTIc7nv2S4mEKTc2TcaiPErRK8kOryqQKX31l4IIe7tGSe2oAABY/uUcMlSwLWYcdjEwEdL5hlYX5AHXXupCvmMZjjKBZoba/A8vNGP0AABY+QDQMlIyoz8Tzgr2xYRT2kHcJw0FZ6FBavX5BYxrrSjavM+7AjG8BABXxViMMZzMLn28koALc2zuvwsRQCjBH6YMFOuAZ7oWN8eJ/3oHxnscB",
+  "held_offline_media": [
+    {
+      "family": "Polygalaceae",
+      "species_id": "rhinotropis-lindheimeri-var-lindheimeri",
+      "filename": "Polygalaceae/Rhinotropis_lindheimeri_var__lindheimeri/photos/photo_0_65fffffe0b0ae018.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807253561,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp64360810571141710102.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "65fffffe0b0ae0187dd0ddd79fb69a5032a1d358d71adfc16923596cf3d87586"
+    },
+    {
+      "family": "Polygalaceae",
+      "species_id": "rhinotropis-lindheimeri-var-lindheimeri",
+      "filename": "Polygalaceae/Rhinotropis_lindheimeri_var__lindheimeri/photos/photo_1_f9dfab6e0048f3c5.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807366097,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp640166961213656338.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "f9dfab6e0048f3c54224085576971430f154a952dce75f0ed7613cacb207423d"
+    },
+    {
+      "family": "Polygalaceae",
+      "species_id": "rhinotropis-lindheimeri-var-lindheimeri",
+      "filename": "Polygalaceae/Rhinotropis_lindheimeri_var__lindheimeri/photos/photo_2_64d71b23cd797df9.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807601279,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp67024062681441663515.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "64d71b23cd797df9b72856d4fddde8570873ee288bf41c7a151a7cf09bf19b05"
+    },
+    {
+      "family": "Polygalaceae",
+      "species_id": "rhinotropis-lindheimeri-var-lindheimeri",
+      "filename": "Polygalaceae/Rhinotropis_lindheimeri_var__lindheimeri/photos/photo_3_3c846eec7358c624.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 3866889343,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp61151495500464086153.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "3c846eec7358c62405930d7b9d253bb9621b27dc54ccc4c7ff602c8b76a0a804"
+    },
+    {
+      "family": "Polygalaceae",
+      "species_id": "rhinotropis-lindheimeri-var-lindheimeri",
+      "filename": "Polygalaceae/Rhinotropis_lindheimeri_var__lindheimeri/photos/photo_4_71caa5c4cd717bdd.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807326592,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65841928969701043510.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "71caa5c4cd717bdd5684cf0fbc879e65a0a4be4a50c5a5feaf0618e228d013ba"
+    }
+  ],
+  "source_metadata_credits": {
+    "368137763": "Jared Gorrell",
+    "373178420": "Curren Frasch",
+    "373274951": "Bill Dodd",
+    "491811859": "rhonda0408",
+    "623132549": "Christian A. Lopez",
+    "631626871": "Curren Frasch",
+    "631832594": "vgabbard",
+    "633161863": "senorsurfer",
+    "644688140": "Michelle W. （鍾偉瑋）",
+    "649325729": "steve emmons"
+  },
+  "source_metadata_license_was_candidate_only": true,
+  "intake_note": "Physical ZIP image SHA256 verified; contact sheet visually examined at general organism level; verify current exact iNaturalist photo license and original image hash before public release. Specialist anatomy and strict local BONAP range review deferred."
+}
