@@ -1,0 +1,44 @@
+{
+  "repository": "Crking92/Hays-Botany-Mixed-Families",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:39:59.542412+00:00",
+  "source_files": 170,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 169
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "bowlesia-incana",
+      "family": "Apiaceae",
+      "filename": "bowlesia-incana-sonnia-hill.jpg",
+      "original_path": "content/taxa/Apiaceae/Bowlesia/bowlesia-incana/images/bowlesia-incana-sonnia-hill.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apiaceae/Bowlesia/bowlesia-incana/images/bowlesia-incana-sonnia-hill.jpg",
+      "git_blob_sha": "fc9373be481b8e1b325471a0a137d24622465c57",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bowlesia_incana_(2020).jpg",
+      "taxon": "Bowlesia incana",
+      "src": "media/bowlesia-incana/archived-3aeb81dda946f7e7.jpg",
+      "sha256": "3aeb81dda946f7e7b071f4d2503f034ce15c4d10bba9d588839e1950ee0a2e5d"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

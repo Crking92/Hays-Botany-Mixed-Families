@@ -2,16 +2,16 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 93,
-  "photo_count": 256,
+  "photo_species": 94,
+  "photo_count": 257,
   "entries": {
     "atrema-americanum": {
       "count": 1,
       "first_src": "media/atrema-americanum/archived-a9c043713f1c71e2.jpg"
     },
     "bowlesia-incana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/bowlesia-incana/archived-3aeb81dda946f7e7.jpg"
     },
     "centella-erecta": {
       "count": 1,
