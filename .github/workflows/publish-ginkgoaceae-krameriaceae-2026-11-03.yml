@@ -16,7 +16,7 @@ concurrency:
 jobs:
   publish-source-cleared-originals:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 85
     steps:
       - uses: actions/checkout@v4
         with:
@@ -47,13 +47,16 @@ jobs:
           else
             git diff --cached --check
             git commit -m "Publish credited Ginkgoaceae–Krameriaceae original photos"
-            for attempt in 1 2 3 4; do
+            # Upload verified original image objects once to an isolated, temporary public-licensed branch.
+            # Subsequent main-branch retries transfer only small index commits, avoiding a large-pack race.
+            git push origin HEAD:refs/heads/photo-first-gk-20261103
+            for attempt in $(seq 1 20); do
               if git push origin HEAD:main; then
                 echo "PUBLICATION_COMMIT_PUSHED"
                 break
               fi
-              if test "$attempt" -eq 4; then
-                echo "Failed to push after four safe attempts" >&2
+              if test "$attempt" -eq 20; then
+                echo "Could not publish after 20 non-force retries" >&2
                 exit 1
               fi
               git fetch origin main
@@ -70,6 +73,7 @@ jobs:
               git diff --cached --check
               git commit -m "Reapply source-cleared Ginkgoaceae–Krameriaceae photos to current gallery"
             done
+            git push origin --delete photo-first-gk-20261103 || true
           fi
       - name: Retain audit of individual image licenses and institutional holds
         if: always()
