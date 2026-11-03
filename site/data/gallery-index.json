@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 30,
-  "photo_count": 100,
+  "photo_species": 32,
+  "photo_count": 110,
   "entries": {
     "atrema-americanum": {
       "count": 0,
@@ -318,8 +318,8 @@
       "first_src": null
     },
     "rhinotropis-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/rhinotropis-lindheimeri/inat-631626871.jpg"
     },
     "rhinotropis-lindheimeri-var-lindheimeri": {
       "count": 0,
@@ -334,8 +334,8 @@
       "first_src": null
     },
     "pleopeltis-michauxiana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pleopeltis-michauxiana/inat-368137763.jpeg"
     },
     "pleurochaete-squarrosa": {
       "count": 5,

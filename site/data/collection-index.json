@@ -711,8 +711,8 @@
       "genus": "Rhinotropis",
       "scientific_name": "Rhinotropis lindheimeri",
       "common_name": "Lindheimer's milkwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhinotropis-lindheimeri-var-lindheimeri",
@@ -747,8 +747,8 @@
       "genus": "Pleopeltis",
       "scientific_name": "Pleopeltis michauxiana",
       "common_name": "Resurrection fern",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pleurochaete-squarrosa",
