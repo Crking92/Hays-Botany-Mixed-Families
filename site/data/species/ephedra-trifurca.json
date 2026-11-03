@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ephedra-trifurca/archived-bab627040e9fb4fa.jpg",
+      "creator": "Derrick Coetzee",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ephedra_trifurca.jpg",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "f5cddc0c853bed12f6cefe02f5c2be6c0f88de6c",
+      "role": "Provisional recognition view: green jointed ephedra stems with small node leaves; reproductive cones not confirmed.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia exact file page author and CC0 1.0 independently checked 2026-11-03; direct original file https://upload.wikimedia.org/wikipedia/commons/8/84/Ephedra_trifurca.jpg; archived original pixel difference 0; archived source SHA f5cddc0c853bed12f6cefe02f5c2be6c0f88de6c; exact image source https://commons.wikimedia.org/wiki/File:Ephedra_trifurca.jpg",
+      "taxon_review_evidence": "Original species record Ephedra trifurca linked to an original image and matching current commons photo of source taxon Ephedra trifurca. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "bab627040e9fb4fa7b0b4ced7fad596177eaa9757b2d9d1742045313f491b67d"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c4a781f641c8bdaf825809d2853bd80fbaf471e8d19e5025d9a6419ffa165c99",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

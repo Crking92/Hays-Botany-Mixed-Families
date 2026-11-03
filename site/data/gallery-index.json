@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 92,
-  "photo_count": 255,
+  "photo_species": 93,
+  "photo_count": 256,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -206,8 +206,8 @@
       "first_src": "media/ephedra-antisyphilitica/archived-66d6bbf2d09bba92.jpg"
     },
     "ephedra-trifurca": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ephedra-trifurca/archived-bab627040e9fb4fa.jpg"
     },
     "equisetum-hyemale": {
       "count": 3,

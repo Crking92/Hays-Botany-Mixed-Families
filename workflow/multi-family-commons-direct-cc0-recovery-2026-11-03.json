@@ -1,0 +1,44 @@
+{
+  "repository": "Crking92/Hays-Botany-Mixed-Families",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC0_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:27:23.266718+00:00",
+  "source_files": 170,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 169
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "ephedra-trifurca",
+      "family": "Ephedraceae",
+      "filename": "commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "original_path": "content/taxa/Ephedraceae/Ephedra/ephedra-trifurca/images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ephedraceae/Ephedra/ephedra-trifurca/images/commons-ephedra-trifurca-derrick-coetzee.jpg",
+      "git_blob_sha": "f5cddc0c853bed12f6cefe02f5c2be6c0f88de6c",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Derrick Coetzee",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ephedra_trifurca.jpg",
+      "taxon": "Ephedra trifurca",
+      "src": "media/ephedra-trifurca/archived-bab627040e9fb4fa.jpg",
+      "sha256": "bab627040e9fb4fa7b0b4ced7fad596177eaa9757b2d9d1742045313f491b67d"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
