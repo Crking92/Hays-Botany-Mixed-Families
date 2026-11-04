@@ -13,8 +13,9 @@ LICENSES={
  "cc-by-nc-sa":("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/")
 }
 RECORD_SIZE=42
-# Taxonomy substitutions need individually supported evidence; none presumed.
-SYNONYMS={}
+# Only source-name synonyms explicitly confirmed by Kew POWO.
+# Kew POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:838497-1
+SYNONYMS={"atrema-americanum":["bifora americana"]}
 
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
