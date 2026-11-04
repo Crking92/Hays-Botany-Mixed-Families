@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 99,
-  "photo_count": 347,
+  "photo_count": 360,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -202,15 +202,15 @@
       "first_src": "media/taxodium-distichum/01-texas-habit.jpg"
     },
     "ephedra-antisyphilitica": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/ephedra-antisyphilitica/archived-66d6bbf2d09bba92.jpg"
     },
     "ephedra-trifurca": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ephedra-trifurca/archived-bab627040e9fb4fa.jpg"
     },
     "equisetum-hyemale": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/equisetum-hyemale/archived-cd8b6968be903198.jpg"
     },
     "fouquieria-splendens": {
