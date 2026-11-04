@@ -3,30 +3,30 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 105,
-  "photo_count": 525,
+  "photo_count": 560,
   "entries": {
     "atrema-americanum": {
       "count": 1,
       "first_src": "media/atrema-americanum/archived-a9c043713f1c71e2.jpg"
     },
     "bowlesia-incana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/bowlesia-incana/archived-3aeb81dda946f7e7.jpg"
     },
     "centella-erecta": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/centella-erecta/archived-2ddd23e73763a6bb.jpg"
     },
     "chaerophyllum-tainturieri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/chaerophyllum-tainturieri/archived-6b2b85d62324e384.jpg"
     },
     "conium-maculatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/conium-maculatum/conium-maculatum-harry-rose-stem.jpg"
     },
     "cyclospermum-leptophyllum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/cyclospermum-leptophyllum/archived-2b654b1d7e89a0e5.jpg"
     },
     "daucosma-laciniata": {
@@ -34,11 +34,11 @@
       "first_src": "media/daucosma-laciniata/archived-a1e0961daebee842.jpg"
     },
     "daucus-pusillus": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/daucus-pusillus/archived-686a93eb97724235.jpg"
     },
     "eryngium-leavenworthii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/eryngium-leavenworthii/archived-804f24954e82f4aa.jpg"
     },
     "eryngium-yuccifolium": {
