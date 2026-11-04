@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 102,
-  "photo_count": 456,
+  "photo_count": 491,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -118,15 +118,15 @@
       "first_src": "media/physaria-densiflora/archived-8110580e447cffb3.jpg"
     },
     "physaria-engelmannii": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/physaria-engelmannii/archived-a784bf7159a35412.jpg"
     },
     "physaria-gracilis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/physaria-gracilis/archived-a021d15e6555cd2e.jpg"
     },
     "physaria-recurvata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/physaria-recurvata/archived-a342250c472f8946.jpg"
     },
     "physaria-sessilis": {
@@ -134,23 +134,23 @@
       "first_src": "media/physaria-sessilis/archived-306dbbfc77093013.jpg"
     },
     "planodes-virginicum": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/planodes-virginicum/archived-4355700ae63417b7.jpg"
     },
     "rapistrum-rugosum": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/rapistrum-rugosum/archived-d4e3c877d5881874.jpg"
     },
     "sisymbrium-altissimum": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/sisymbrium-altissimum/archived-4daa8aca0cbd394a.jpg"
     },
     "streptanthus-petiolaris": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/streptanthus-petiolaris/archived-c79db426a2b6be1f.jpg"
     },
     "tomostima-cuneifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tomostima-cuneifolia/archived-7bcafee1fa07cbcf.jpg"
     },
     "cleome-dodecandra": {
