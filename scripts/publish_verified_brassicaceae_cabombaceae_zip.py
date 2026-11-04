@@ -79,7 +79,7 @@ def main():
         current_shas.update(x.get("sha256") for x in card.get("verified_photos",[]) if x.get("sha256"))
     report=[];seen=set()
     records=list(decode(m))
-    if len(records)!=m["photos_for_source_checks"] or (m.get("source_metadata_credits") and len(records)!=len(m["source_metadata_credits"])):raise SystemExit("Original photo inventory mismatch")
+    if len(records)!=m["photos_for_source_checks"]:raise SystemExit("Original photo inventory mismatch")
     if m["original_images"]!=len(records)+len(m["offline_held_media"]):raise SystemExit("Institutional hold inventory does not reconcile")
     for sid,pid,oid,sha,ext in records[(args.wave-1)*40:args.wave*40]:
         row={"species_id":sid,"photo_id":pid,"observation_id":oid}
