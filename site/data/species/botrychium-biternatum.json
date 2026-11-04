@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 343009329, photo 624732417, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3929035d074e855411d5c8b6549189e0fae1038245af6b5bd5661f9aae32e736. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Sceptridium biternatum maps to indexed species botrychium-biternatum; specialist morphology and BONAP range deferred.",
       "sha256": "3929035d074e855411d5c8b6549189e0fae1038245af6b5bd5661f9aae32e736"
+    },
+    {
+      "src": "media/botrychium-biternatum/archived-bcd420b1e9fac6e4.jpg",
+      "creator": "powejx",
+      "source_page": "https://www.inaturalist.org/photos/600622078",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1f2b184a157cb673fccd48543e20e99093eda2df",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 331128290 photo 600622078 individual CC code cc-by-nc; photographer (c) powejx, some rights reserved (CC BY-NC); image dHash difference 0; source synonym verified by POWO https://namethatplant.net/plantdetail.shtml?plant=217; archived source SHA 1f2b184a157cb673fccd48543e20e99093eda2df; exact image source https://www.inaturalist.org/photos/600622078",
+      "taxon_review_evidence": "Indexed species Botrychium biternatum reconciled to source synonym Sceptridium biternatum per Kew POWO https://namethatplant.net/plantdetail.shtml?plant=217; source record Sceptridium biternatum linked to an original image and matching current inat photo of source taxon Sceptridium biternatum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "bcd420b1e9fac6e4a979adeecdbd357504f5c7e60bd3590622396b9bbead2d4a"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

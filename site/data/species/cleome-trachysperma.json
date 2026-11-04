@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/cleome-trachysperma/archived-68ef18c8e0188489.jpg",
+      "creator": "Marianne Skov Jensen",
+      "source_page": "https://www.inaturalist.org/photos/81663328",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0230cba5071a56252d219972da3a157683df28b1",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 51401679 photo 81663328 individual CC code cc-by-nc; photographer (c) Marianne Skov Jensen, some rights reserved (CC BY-NC); image dHash difference 0; source synonym verified by POWO https://powo.science.kew.org/taxon/60602-2; archived source SHA 0230cba5071a56252d219972da3a157683df28b1; exact image source https://www.inaturalist.org/photos/81663328",
+      "taxon_review_evidence": "Indexed species Cleome trachysperma reconciled to source synonym Polanisia dodecandra trachysperma per Kew POWO https://powo.science.kew.org/taxon/60602-2; source record Polanisia dodecandra trachysperma linked to an original image and matching current inat photo of source taxon Polanisia dodecandra trachysperma. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "68ef18c8e0188489cbd8dc921f27fc3ad76eda435b3cf41aaf04300de256a7ff"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9d91274211e2f966021bed33522ed9c5db6f691ef9920a8013df0d304edfcd0a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

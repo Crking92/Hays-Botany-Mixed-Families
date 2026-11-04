@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 100,
-  "photo_count": 409,
+  "photo_species": 101,
+  "photo_count": 412,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -158,8 +158,8 @@
       "first_src": "media/cleome-dodecandra/archived-2f66a6b668ff68b5.jpg"
     },
     "cleome-trachysperma": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cleome-trachysperma/archived-68ef18c8e0188489.jpg"
     },
     "sedum-nuttallii": {
       "count": 6,
@@ -286,7 +286,7 @@
       "first_src": "media/marsilea-vestita/inat-115470271.jpeg"
     },
     "botrychium-biternatum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/botrychium-biternatum/inat-473756115.jpg"
     },
     "oxalis-albicans": {
@@ -338,7 +338,7 @@
       "first_src": "media/pleopeltis-michauxiana/inat-368137763.jpeg"
     },
     "pleurochaete-squarrosa": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pleurochaete-squarrosa/inat-646574233.jpg"
     },
     "lysimachia-arvensis": {

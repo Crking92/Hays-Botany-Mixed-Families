@@ -351,8 +351,8 @@
       "genus": "Cleome",
       "scientific_name": "Cleome trachysperma",
       "common_name": "Western clammyweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sedum-nuttallii",
@@ -639,7 +639,7 @@
       "genus": "Botrychium",
       "scientific_name": "Botrychium biternatum",
       "common_name": "Southern grapefern",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -756,7 +756,7 @@
       "genus": "Pleurochaete",
       "scientific_name": "Pleurochaete squarrosa",
       "common_name": "Side-fruited crisp-moss",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
