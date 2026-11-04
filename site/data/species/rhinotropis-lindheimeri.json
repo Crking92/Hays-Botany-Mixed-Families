@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ef298fcf3e38bd8b260ce3a62f52200c6fae7ad3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346500992, photo 631626871, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76e8390b1e94a6ba92f0d93144fd65855ff17b291b7d24df835c28372b7f4e6f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhinotropis lindheimeri maps to indexed species rhinotropis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "76e8390b1e94a6ba92f0d93144fd65855ff17b291b7d24df835c28372b7f4e6f"
+      "sha256": "76e8390b1e94a6ba92f0d93144fd65855ff17b291b7d24df835c28372b7f4e6f",
+      "display_sha256": "25a28872f4bb4779fa2fb3f2ab8558117cc706c3f1507955ffd14adced257268",
+      "display_blob_sha": "488597945f6021584948f11645220274c32c0996",
+      "display_original_site_sha256": "76e8390b1e94a6ba92f0d93144fd65855ff17b291b7d24df835c28372b7f4e6f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhinotropis-lindheimeri/inat-631832594.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2261a4bbc9b290286f23737a59497082fa4c6a02",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346604245, photo 631832594, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 71c401b145fe2183369ae8bba02317a70c0feb6cd2104f3cd428f02cbdb09e2e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhinotropis lindheimeri maps to indexed species rhinotropis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "71c401b145fe2183369ae8bba02317a70c0feb6cd2104f3cd428f02cbdb09e2e"
+      "sha256": "71c401b145fe2183369ae8bba02317a70c0feb6cd2104f3cd428f02cbdb09e2e",
+      "display_sha256": "82b0cde815d90609ab39fb1565e9a7772f4b45d9bddbd483a3c99ed7c03c6a88",
+      "display_blob_sha": "cbb14f05fef696fb61f0c82b4aca4cc41c081745",
+      "display_original_site_sha256": "71c401b145fe2183369ae8bba02317a70c0feb6cd2104f3cd428f02cbdb09e2e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhinotropis-lindheimeri/inat-633161863.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "de399ce385fe6cea7fd825d573a65e71c0486c11",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347272075, photo 633161863, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c4d67522ae3205b62a28b24ccf3954c03dbc1b57998157bbe65b8c9d67dadd2b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhinotropis lindheimeri maps to indexed species rhinotropis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "c4d67522ae3205b62a28b24ccf3954c03dbc1b57998157bbe65b8c9d67dadd2b"
+      "sha256": "c4d67522ae3205b62a28b24ccf3954c03dbc1b57998157bbe65b8c9d67dadd2b",
+      "display_sha256": "d13596423c0e2ba5b7b09f371cfcb666b02f0fa5966710b72a7b15f8ed5cd3c8",
+      "display_blob_sha": "b48918e299f7ce3b3706506dd47b2b5ff76d7ff8",
+      "display_original_site_sha256": "c4d67522ae3205b62a28b24ccf3954c03dbc1b57998157bbe65b8c9d67dadd2b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhinotropis-lindheimeri/inat-644688140.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08a36a33866db3e0288ec7f923d02844ab262656",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356066983, photo 649325729, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79c4675bbaaa18ef403d2ccf698f21c8e2e77c882f3c6c1ef4b5fc2556003baf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhinotropis lindheimeri maps to indexed species rhinotropis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "79c4675bbaaa18ef403d2ccf698f21c8e2e77c882f3c6c1ef4b5fc2556003baf"
+      "sha256": "79c4675bbaaa18ef403d2ccf698f21c8e2e77c882f3c6c1ef4b5fc2556003baf",
+      "display_sha256": "6add4f1717e6ecc3dd81b436c1230349c243fabbc585b397ff95e786ea57020d",
+      "display_blob_sha": "b3371cff39e4f7bec2541097343d39171cb03791",
+      "display_original_site_sha256": "79c4675bbaaa18ef403d2ccf698f21c8e2e77c882f3c6c1ef4b5fc2556003baf",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhinotropis-lindheimeri/archived-a673e3c8bb422e60.jpg",

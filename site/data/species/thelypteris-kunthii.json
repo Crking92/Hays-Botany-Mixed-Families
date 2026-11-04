@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "146ee9fafeb1f6c29346ab19ae02c8fd4c969252",
       "role": "Fern fronds beside rocky streamside habitat (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 140541713 contains photo 240587366 under individual cc-by-nc license; original image bytes have SHA256 77859060c26588fd9bfb6387f85b37532543259269fffa354779b803fffc154e matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron kunthii matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "77859060c26588fd9bfb6387f85b37532543259269fffa354779b803fffc154e"
+      "sha256": "77859060c26588fd9bfb6387f85b37532543259269fffa354779b803fffc154e",
+      "display_sha256": "3b44dc3926cdf0cd6bfc5b0315831cc4d92708bb77402325dba6ebf99d9d4b4c",
+      "display_blob_sha": "966fdb8c00e97136b13819a58328f17d73c5c872",
+      "display_original_site_sha256": "77859060c26588fd9bfb6387f85b37532543259269fffa354779b803fffc154e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-kunthii/inat-604639115.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "360b85462891a5bdf49281adea33c90e9ae17eec",
       "role": "Arching fern fronds and woodland habit (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 333084428 contains photo 604639115 under individual cc-by-nc license; original image bytes have SHA256 5fa31d4f90199bb6b50acad25da387d46e4088d722ddbfda59f1850de9b070ad matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron kunthii matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "5fa31d4f90199bb6b50acad25da387d46e4088d722ddbfda59f1850de9b070ad"
+      "sha256": "5fa31d4f90199bb6b50acad25da387d46e4088d722ddbfda59f1850de9b070ad",
+      "display_sha256": "c0e77367f7d2cef8048ee2fc562b0b5bfe96d6e18e4190ae0357bb8081a4ddf7",
+      "display_blob_sha": "7b30d61d47962ef179189a870f73fb48e75c29ee",
+      "display_original_site_sha256": "5fa31d4f90199bb6b50acad25da387d46e4088d722ddbfda59f1850de9b070ad",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-kunthii/inat-625735196.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "a90ae975cb43f66f307f748ec01839d6802f9514",
       "role": "Pinnae and finely divided leaflets close-up (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 343503207 contains photo 625735196 under individual cc0 license; original image bytes have SHA256 539ae5ea04f63e73319d34e6102a8bfd83733a48bb1b2354a0db588838212b02 matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron kunthii matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "539ae5ea04f63e73319d34e6102a8bfd83733a48bb1b2354a0db588838212b02"
+      "sha256": "539ae5ea04f63e73319d34e6102a8bfd83733a48bb1b2354a0db588838212b02",
+      "display_sha256": "973e1ba3cd71d6f6651e5315eb713be70dd25156d104cb9995d710b51f159060",
+      "display_blob_sha": "4a29fafad3dc9d9ae0777fbd4e77ffc239f5d811",
+      "display_original_site_sha256": "539ae5ea04f63e73319d34e6102a8bfd83733a48bb1b2354a0db588838212b02",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-kunthii/inat-636702473.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb49029e731d826c5cee789af23ff2fd87e753e8",
       "role": "Frond shape and many divided pinnae (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 360463788 contains photo 657751234 under individual cc-by-nc license; original image bytes have SHA256 86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron kunthii matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a"
+      "sha256": "86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a",
+      "display_sha256": "eb253d99c1e74f300f76fa0d4b3d20b288cee06d940f83274b08357cd8e7c56d",
+      "display_blob_sha": "9a8e1e0cd41ebd497351bb0d8ebfa18da51c1c4c",
+      "display_original_site_sha256": "86e1342aa26108572876951e41811660a04bedf999cd18b66ef9b4a74069249a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-kunthii/archived-0a8ea46cc9134f06.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a606d4e9146ec757f3a043ce5a9222a30d74b32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341120333, photo 620915214, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d390adac54d46f5d2222db195075090a4c4ec8dad39a69f123c5b883d9cbc530. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nerisyrenia camporum maps to indexed species nerisyrenia-camporum; specialist morphology and BONAP range deferred.",
-      "sha256": "d390adac54d46f5d2222db195075090a4c4ec8dad39a69f123c5b883d9cbc530"
+      "sha256": "d390adac54d46f5d2222db195075090a4c4ec8dad39a69f123c5b883d9cbc530",
+      "display_sha256": "0d88734f19abe12e8f99b159cb880f17131ec3a8bd0ac97fd60e5c7ff40e56c2",
+      "display_blob_sha": "aecb45dec577492e817ed38f2457546f137e37d9",
+      "display_original_site_sha256": "d390adac54d46f5d2222db195075090a4c4ec8dad39a69f123c5b883d9cbc530",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nerisyrenia-camporum/inat-621033492.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ca5dc297ac28e5d15af390be094acaf09ecbbc88",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341177974, photo 621033492, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a72ea4d1158a7cc2c27974b915fc77d4e0bb55b5c9bfc82b2fcd296f4f4b8c62. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nerisyrenia camporum maps to indexed species nerisyrenia-camporum; specialist morphology and BONAP range deferred.",
-      "sha256": "a72ea4d1158a7cc2c27974b915fc77d4e0bb55b5c9bfc82b2fcd296f4f4b8c62"
+      "sha256": "a72ea4d1158a7cc2c27974b915fc77d4e0bb55b5c9bfc82b2fcd296f4f4b8c62",
+      "display_sha256": "b689192f7f0ef1a2e2e5f59bf6b0decaa5d0ae0af0622b0e74e2753c606347c9",
+      "display_blob_sha": "41fc4453fb168e4278db5060feca2e895d58154c",
+      "display_original_site_sha256": "a72ea4d1158a7cc2c27974b915fc77d4e0bb55b5c9bfc82b2fcd296f4f4b8c62",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nerisyrenia-camporum/inat-621239981.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "586e015e4a3bbb2b71816e99cf3a676dc20aa3a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341278647, photo 621239981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7971c6fc5e4b3c98655c7169f34b568fdc102bb4f7a8a88a3cd88df9bb8891fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nerisyrenia camporum maps to indexed species nerisyrenia-camporum; specialist morphology and BONAP range deferred.",
-      "sha256": "7971c6fc5e4b3c98655c7169f34b568fdc102bb4f7a8a88a3cd88df9bb8891fb"
+      "sha256": "7971c6fc5e4b3c98655c7169f34b568fdc102bb4f7a8a88a3cd88df9bb8891fb",
+      "display_sha256": "fdf65fdcb9e96feb7b1393e67b21164867afe5b065f3e18a30bcc92582f53484",
+      "display_blob_sha": "bf69fac5e3505d706073db7772512bb1785914f9",
+      "display_original_site_sha256": "7971c6fc5e4b3c98655c7169f34b568fdc102bb4f7a8a88a3cd88df9bb8891fb",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nerisyrenia-camporum/inat-621278299.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b2fbb6a573793490111c47687d47a7ca896998af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341297362, photo 621278299, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 997c4dcdba09c7a1cb040383b17535db04c18b06948d601b4a80b786ae96278d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nerisyrenia camporum maps to indexed species nerisyrenia-camporum; specialist morphology and BONAP range deferred.",
-      "sha256": "997c4dcdba09c7a1cb040383b17535db04c18b06948d601b4a80b786ae96278d"
+      "sha256": "997c4dcdba09c7a1cb040383b17535db04c18b06948d601b4a80b786ae96278d",
+      "display_sha256": "8d85c9f0650c7d006eec30489d76ab5127095121186e44a624655a2116340d0a",
+      "display_blob_sha": "5cc4909ff36b8150659f6fd5871d2b6d76d93b3b",
+      "display_original_site_sha256": "997c4dcdba09c7a1cb040383b17535db04c18b06948d601b4a80b786ae96278d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nerisyrenia-camporum/inat-628728344.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e217876d7e4bddb7264280b22f36824b290d6908",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345029424, photo 628728344, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5823cecd2a25b67ca9a7f154418739edc60c0ea5697913e3fabe1918eba201c9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nerisyrenia camporum maps to indexed species nerisyrenia-camporum; specialist morphology and BONAP range deferred.",
-      "sha256": "5823cecd2a25b67ca9a7f154418739edc60c0ea5697913e3fabe1918eba201c9"
+      "sha256": "5823cecd2a25b67ca9a7f154418739edc60c0ea5697913e3fabe1918eba201c9",
+      "display_sha256": "92dfb42b4545d1d57ccc1e5ae6fd14639c1216ff9098b8902b8d181949f8b404",
+      "display_blob_sha": "ae167b1a93242c495a067ce9ad6ab8eaf19f716b",
+      "display_original_site_sha256": "5823cecd2a25b67ca9a7f154418739edc60c0ea5697913e3fabe1918eba201c9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

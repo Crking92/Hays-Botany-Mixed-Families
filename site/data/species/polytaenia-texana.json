@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d9f27f7ef5700e7b192f1b1bff1df21e6a0e4207",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341019276, photo 620703820, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 83499b45e27b73e3e84c468c6191986d4c8c8672dd520c3ff1fa2939e4eddf98. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia texana maps to indexed species polytaenia-texana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "83499b45e27b73e3e84c468c6191986d4c8c8672dd520c3ff1fa2939e4eddf98"
+      "sha256": "83499b45e27b73e3e84c468c6191986d4c8c8672dd520c3ff1fa2939e4eddf98",
+      "display_sha256": "356a642e55446489cd6468f700f8db49f289a906b0ac4a31dd47ec18e0e6956b",
+      "display_blob_sha": "7eaee3fdc6f2075ec0535d09204951c8828ddb84",
+      "display_original_site_sha256": "83499b45e27b73e3e84c468c6191986d4c8c8672dd520c3ff1fa2939e4eddf98",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/polytaenia-texana/inat-621941568.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dddc41a5b109e07d9e6f5221ba1a4c237e581bcf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341618632, photo 621941568, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6e509724c94a325f2611571964beb9881fa2327aaee90acb3ebd75dddb4a17f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia texana maps to indexed species polytaenia-texana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6e509724c94a325f2611571964beb9881fa2327aaee90acb3ebd75dddb4a17f5"
+      "sha256": "6e509724c94a325f2611571964beb9881fa2327aaee90acb3ebd75dddb4a17f5",
+      "display_sha256": "70ff0817ffdf261de55fc7c5f7f4dc74420b598793c9534219320a671a1e1231",
+      "display_blob_sha": "1b71860198616d82521f00157cce2bb94f1cbb1a",
+      "display_original_site_sha256": "6e509724c94a325f2611571964beb9881fa2327aaee90acb3ebd75dddb4a17f5",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/polytaenia-texana/inat-626310239.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d5e0f83ae09fff1e49110be64cdbcc0e32d74ea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343785885, photo 626310239, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bfd61087817c4656ea55695260f2af28e785d93f06a1812a38663ada7e7a16b5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia texana maps to indexed species polytaenia-texana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "bfd61087817c4656ea55695260f2af28e785d93f06a1812a38663ada7e7a16b5"
+      "sha256": "bfd61087817c4656ea55695260f2af28e785d93f06a1812a38663ada7e7a16b5",
+      "display_sha256": "8d7d1e9e1e434fbf03aaaf6d367e91fdfeabd9fd68c051dfda6215af6cc6b108",
+      "display_blob_sha": "2d06753f908b2f54f5b0f25c88e16e8573724e83",
+      "display_original_site_sha256": "bfd61087817c4656ea55695260f2af28e785d93f06a1812a38663ada7e7a16b5",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/polytaenia-texana/inat-629989738.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "633c4e5daca8c013c044e1ffc0f81f63dcca232d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345668444, photo 629989738, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c8037437ff334391436cc57f5ca74793224beaafa8b6d70f3923817c1eedf80c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia texana maps to indexed species polytaenia-texana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c8037437ff334391436cc57f5ca74793224beaafa8b6d70f3923817c1eedf80c"
+      "sha256": "c8037437ff334391436cc57f5ca74793224beaafa8b6d70f3923817c1eedf80c",
+      "display_sha256": "f0c92c2626935e29bd00e62b9f4f80d3c10c40978d85cc26104aa3c2bb89a6c8",
+      "display_blob_sha": "1b4675a12df235cf80492a765112cd8df42cdddb",
+      "display_original_site_sha256": "c8037437ff334391436cc57f5ca74793224beaafa8b6d70f3923817c1eedf80c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/polytaenia-texana/inat-637014262.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abfc15709f0ed799961d69d4c04cbfc93090487a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349219552, photo 637014262, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1123ca342483fa2d595d13cdd18621b3b11154c1ad649c4b6952b12e4cb47494. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia texana maps to indexed species polytaenia-texana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1123ca342483fa2d595d13cdd18621b3b11154c1ad649c4b6952b12e4cb47494"
+      "sha256": "1123ca342483fa2d595d13cdd18621b3b11154c1ad649c4b6952b12e4cb47494",
+      "display_sha256": "7323264d9725299e008f6f672634bbc384e9f148eb827569503d48cc3e725ad0",
+      "display_blob_sha": "5469386d058428479fb19a7ece979a3d8492d511",
+      "display_original_site_sha256": "1123ca342483fa2d595d13cdd18621b3b11154c1ad649c4b6952b12e4cb47494",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

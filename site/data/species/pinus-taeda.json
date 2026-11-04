@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d34d6c237a3ee2dd42ac8f4487130f297093d48a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 38102985, photo 60510121, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ac8d2ca4cd53066cb9f0669419aff2d7ea632672b2c368448969fb1361651ab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus taeda maps to indexed species pinus-taeda; specialist morphology and BONAP range deferred.",
-      "sha256": "7ac8d2ca4cd53066cb9f0669419aff2d7ea632672b2c368448969fb1361651ab"
+      "sha256": "7ac8d2ca4cd53066cb9f0669419aff2d7ea632672b2c368448969fb1361651ab",
+      "display_sha256": "087dac8fcee2fe1ed011b94b13b78128c38e26475d9caeebd71ca864078a63d0",
+      "display_blob_sha": "2250adf0a0637db07089a454d805a84d11d9976c",
+      "display_original_site_sha256": "7ac8d2ca4cd53066cb9f0669419aff2d7ea632672b2c368448969fb1361651ab",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-taeda/inat-60510281.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0226a02fda3335a71c8ad98151ef9e1e2d77bec6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 38103077, photo 60510281, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2bef1ce21d1a03fba5cdbead73ff746a087962ae1f6a8966aabad17c736ee39. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus taeda maps to indexed species pinus-taeda; specialist morphology and BONAP range deferred.",
-      "sha256": "f2bef1ce21d1a03fba5cdbead73ff746a087962ae1f6a8966aabad17c736ee39"
+      "sha256": "f2bef1ce21d1a03fba5cdbead73ff746a087962ae1f6a8966aabad17c736ee39",
+      "display_sha256": "bd3afc92e878039014984cb6d8deba023fd42da6ae9030633f05816e9d2ea32e",
+      "display_blob_sha": "32b5a1fd531337174f6f1cd1644d5456e40f69d3",
+      "display_original_site_sha256": "f2bef1ce21d1a03fba5cdbead73ff746a087962ae1f6a8966aabad17c736ee39",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-taeda/inat-60510288.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "82438947e9aae23f7ef03aede9be7492dcee1d20",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 38103046, photo 60510288, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4890746060c322f4b2faecdf9bde079d262092d27ca713b69f14ba278f6acffe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus taeda maps to indexed species pinus-taeda; specialist morphology and BONAP range deferred.",
-      "sha256": "4890746060c322f4b2faecdf9bde079d262092d27ca713b69f14ba278f6acffe"
+      "sha256": "4890746060c322f4b2faecdf9bde079d262092d27ca713b69f14ba278f6acffe",
+      "display_sha256": "bff91036cec6439759911aadd0181451250a0329bddda5377f29f6f4afb5d9ff",
+      "display_blob_sha": "009fdeed4119b7b704bd9b915c0f25bcac9fc0d0",
+      "display_original_site_sha256": "4890746060c322f4b2faecdf9bde079d262092d27ca713b69f14ba278f6acffe",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-taeda/inat-60510509.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd91a651fc20cf9b62638d098730dc3865206523",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 38103107, photo 60510509, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1cb02fd6c3dc4f58f3f10e0474b6152cf7eaaca635fd039c4c3d7a853785b756. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus taeda maps to indexed species pinus-taeda; specialist morphology and BONAP range deferred.",
-      "sha256": "1cb02fd6c3dc4f58f3f10e0474b6152cf7eaaca635fd039c4c3d7a853785b756"
+      "sha256": "1cb02fd6c3dc4f58f3f10e0474b6152cf7eaaca635fd039c4c3d7a853785b756",
+      "display_sha256": "054f7e6b5c76d784e6afef09f45793b2a3e2318f57308fa40e004a5586fc4391",
+      "display_blob_sha": "ced5caeeccf8a24e8b5db8b6f6e47b9f158231d2",
+      "display_original_site_sha256": "1cb02fd6c3dc4f58f3f10e0474b6152cf7eaaca635fd039c4c3d7a853785b756",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-taeda/inat-60512214.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25ac6f31aa4bbcec237f232948a99971870c5e77",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 38103156, photo 60512214, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93690279816452fef5346a7f8c9a4fd6de648c3ace27d900af8e2214bc13707c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus taeda maps to indexed species pinus-taeda; specialist morphology and BONAP range deferred.",
-      "sha256": "93690279816452fef5346a7f8c9a4fd6de648c3ace27d900af8e2214bc13707c"
+      "sha256": "93690279816452fef5346a7f8c9a4fd6de648c3ace27d900af8e2214bc13707c",
+      "display_sha256": "841b0a020dad2bd7bef1c06687460df9fcebb444cfdc8964541865c40dcc6f39",
+      "display_blob_sha": "b6051430594c37a78b9c27dc20cbab092d5ea958",
+      "display_original_site_sha256": "93690279816452fef5346a7f8c9a4fd6de648c3ace27d900af8e2214bc13707c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-taeda/archived-1652c88d73eeddd9.jpg",

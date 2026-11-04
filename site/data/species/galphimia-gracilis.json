@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a6460dd18ed0f8cf6726c74d2d54208eb335d96",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 92277811, photo 152766033, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4608cb062c4d29e1c9892bf450cfa2375c87eed83660a56a900fa68dbe5a94c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia gracilis maps to indexed species galphimia-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "4608cb062c4d29e1c9892bf450cfa2375c87eed83660a56a900fa68dbe5a94c3"
+      "sha256": "4608cb062c4d29e1c9892bf450cfa2375c87eed83660a56a900fa68dbe5a94c3",
+      "display_sha256": "e4b1fe83a2cd2ca7c456a3394f697849ea0a9a057c8bba3df332e31efaa39539",
+      "display_blob_sha": "788df5a1e46c079f56fabf152d9a3691b9976819",
+      "display_original_site_sha256": "4608cb062c4d29e1c9892bf450cfa2375c87eed83660a56a900fa68dbe5a94c3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-gracilis/inat-205625692.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2b924e132c896e51872178b5d82c53e659fd08b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 121511926, photo 205625692, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48ac9a337e728672054f642e73f23c8d51585e8db9f6a15a4e300bae66cfd9d8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia gracilis maps to indexed species galphimia-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "48ac9a337e728672054f642e73f23c8d51585e8db9f6a15a4e300bae66cfd9d8"
+      "sha256": "48ac9a337e728672054f642e73f23c8d51585e8db9f6a15a4e300bae66cfd9d8",
+      "display_sha256": "3330e77fd5f786f327b32ae4bdb6ce8d949b68f99a66c5bf5961c834816c9974",
+      "display_blob_sha": "e93df87192cb216006fd0109a2034530af8e053b",
+      "display_original_site_sha256": "48ac9a337e728672054f642e73f23c8d51585e8db9f6a15a4e300bae66cfd9d8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-gracilis/inat-300741146.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05e26f61c89dedcdd5800dff45dff89aec4329e0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 173191689, photo 300741146, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 396531c2ae74926bcf6f1bd7c151fae20d37def2eeeb838a6bcadf24e4ec53b7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia gracilis maps to indexed species galphimia-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "396531c2ae74926bcf6f1bd7c151fae20d37def2eeeb838a6bcadf24e4ec53b7"
+      "sha256": "396531c2ae74926bcf6f1bd7c151fae20d37def2eeeb838a6bcadf24e4ec53b7",
+      "display_sha256": "322d09db3d000ac70b90c9f74c5a18528ffb9e768831be6596b91971e2b4d207",
+      "display_blob_sha": "f57cf78fb27332166fbc7a4757cb329ff2d5640a",
+      "display_original_site_sha256": "396531c2ae74926bcf6f1bd7c151fae20d37def2eeeb838a6bcadf24e4ec53b7",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-gracilis/inat-44764570.jpeg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bbcdf1e1c7c12051a36c6fed902ebef0baba91f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 28705034, photo 44764570, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 27a21b84a3b7033c35b78ff4526148e573c186e1d822c485788648d8b7ecbd29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia gracilis maps to indexed species galphimia-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "27a21b84a3b7033c35b78ff4526148e573c186e1d822c485788648d8b7ecbd29"
+      "sha256": "27a21b84a3b7033c35b78ff4526148e573c186e1d822c485788648d8b7ecbd29",
+      "display_sha256": "01cff4070bc6ea0b5d5a5108cb9db79c502d47c4416fd07b449d7e5b99f33786",
+      "display_blob_sha": "fea085e3c7f8b17851abe3385f07314628438dcf",
+      "display_original_site_sha256": "27a21b84a3b7033c35b78ff4526148e573c186e1d822c485788648d8b7ecbd29",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-gracilis/inat-675970391.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f9175f6f10e66cdaee5b26c0e935c2e9dbc56a72",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370035703, photo 675970391, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa0c67b60fe8b34a103e6a1ccce3b0c92bb6078a4f31e9b40142778c6929176f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia gracilis maps to indexed species galphimia-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "fa0c67b60fe8b34a103e6a1ccce3b0c92bb6078a4f31e9b40142778c6929176f"
+      "sha256": "fa0c67b60fe8b34a103e6a1ccce3b0c92bb6078a4f31e9b40142778c6929176f",
+      "display_sha256": "9f7d85f7a7553720803fa46f019534b1d38fad514e81b81e3512ddc8bb8af796",
+      "display_blob_sha": "13bb9ab870d3f020fa9ded98ca6383c0b4c24d07",
+      "display_original_site_sha256": "fa0c67b60fe8b34a103e6a1ccce3b0c92bb6078a4f31e9b40142778c6929176f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-gracilis/archived-695a073fbe3d978e.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ac30de66dc574e69adb8878419bcff6c4fbae67",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350373502, photo 639271989, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ba749a503845a8b43a495569d1a4d340ef44913a67cd35531b0de6c1ad32a949. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium austrinum maps to indexed species lepidium-austrinum; specialist morphology and BONAP range deferred.",
-      "sha256": "ba749a503845a8b43a495569d1a4d340ef44913a67cd35531b0de6c1ad32a949"
+      "sha256": "ba749a503845a8b43a495569d1a4d340ef44913a67cd35531b0de6c1ad32a949",
+      "display_sha256": "164ec2335782c372e1090ef5952688e95c458a741764426839d9ec8405816413",
+      "display_blob_sha": "fa10bac197c8f53d73ad3449100f29b620566ff7",
+      "display_original_site_sha256": "ba749a503845a8b43a495569d1a4d340ef44913a67cd35531b0de6c1ad32a949",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-austrinum/inat-642463024.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c713ce49847315cc8742fa0b075aaa681d865a3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352018814, photo 642463024, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4e3ee2829fb59ed26d834c9e7cc7bb828ac7662f900c5b028d030e4489918613. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium austrinum maps to indexed species lepidium-austrinum; specialist morphology and BONAP range deferred.",
-      "sha256": "4e3ee2829fb59ed26d834c9e7cc7bb828ac7662f900c5b028d030e4489918613"
+      "sha256": "4e3ee2829fb59ed26d834c9e7cc7bb828ac7662f900c5b028d030e4489918613",
+      "display_sha256": "408992880c04401cd802abc7092c1a502f86d8a39b7d9f85144a2dcc3845f105",
+      "display_blob_sha": "22dcf1bdd7490afb8fb39af9fbd3a3b1830bdf1c",
+      "display_original_site_sha256": "4e3ee2829fb59ed26d834c9e7cc7bb828ac7662f900c5b028d030e4489918613",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-austrinum/inat-645094970.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cdfed690dcbd47e4d7f53932c456ceb21de01f93",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353567065, photo 645094970, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 55cd127cc94d8df5d8acc8df05cec8e0055663b88707362b8718b5c48dca386e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium austrinum maps to indexed species lepidium-austrinum; specialist morphology and BONAP range deferred.",
-      "sha256": "55cd127cc94d8df5d8acc8df05cec8e0055663b88707362b8718b5c48dca386e"
+      "sha256": "55cd127cc94d8df5d8acc8df05cec8e0055663b88707362b8718b5c48dca386e",
+      "display_sha256": "ec4e5cd207da89796e74908a25397571df2396be4dba134f96d983527508ec7a",
+      "display_blob_sha": "f0a7f6051e82b65edc896bd52aefead87a74822c",
+      "display_original_site_sha256": "55cd127cc94d8df5d8acc8df05cec8e0055663b88707362b8718b5c48dca386e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-austrinum/inat-647428123.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d38704fb21d4a8225ebd0deb4dfc0e6682d2649c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354932446, photo 647428123, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a98f49c1fac4818cc54ce231e62532f9929c20c9bc2f0ff9be0378aa20c1a25e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium austrinum maps to indexed species lepidium-austrinum; specialist morphology and BONAP range deferred.",
-      "sha256": "a98f49c1fac4818cc54ce231e62532f9929c20c9bc2f0ff9be0378aa20c1a25e"
+      "sha256": "a98f49c1fac4818cc54ce231e62532f9929c20c9bc2f0ff9be0378aa20c1a25e",
+      "display_sha256": "c402d614a067d9b4c678e92d957ff7802ce57d95fc6c3d4071a7ff6b31891784",
+      "display_blob_sha": "1e3f5190f73b9ab584d00e2e835cf6a64f7845a8",
+      "display_original_site_sha256": "a98f49c1fac4818cc54ce231e62532f9929c20c9bc2f0ff9be0378aa20c1a25e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-austrinum/inat-649592797.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4cbacd01618e447235e8b75fa4235e1db659a628",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356210955, photo 649592797, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 808d822ca2a85d0e89d55bd94965cd8924f0747cde1bc90e18b2a2d989058e63. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium austrinum maps to indexed species lepidium-austrinum; specialist morphology and BONAP range deferred.",
-      "sha256": "808d822ca2a85d0e89d55bd94965cd8924f0747cde1bc90e18b2a2d989058e63"
+      "sha256": "808d822ca2a85d0e89d55bd94965cd8924f0747cde1bc90e18b2a2d989058e63",
+      "display_sha256": "d1f0af1d7f243fe2e46f38390b7c6f54c64231f6cc04ec043cb870caa975481e",
+      "display_blob_sha": "fd0582115a2bad2f95bc914a55c9e7649a5e7c50",
+      "display_original_site_sha256": "808d822ca2a85d0e89d55bd94965cd8924f0747cde1bc90e18b2a2d989058e63",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

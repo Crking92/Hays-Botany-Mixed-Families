@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "bc9dafdec7165ecc50a51545ac36951918b50946",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 151002188, photo 260476245, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e28f7bcc77b6bb95e388dd33fdabb510cf2f8e21238f323e17acea5baace6104. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria densiflora maps to indexed species physaria-densiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "e28f7bcc77b6bb95e388dd33fdabb510cf2f8e21238f323e17acea5baace6104"
+      "sha256": "e28f7bcc77b6bb95e388dd33fdabb510cf2f8e21238f323e17acea5baace6104",
+      "display_sha256": "2f117aaf9f19b985806fd15e0113b79811adb2d5c238b0127f519fc0f11a07eb",
+      "display_blob_sha": "3278fb0000ba6db0407cb667aa4db8987ff874e7",
+      "display_original_site_sha256": "e28f7bcc77b6bb95e388dd33fdabb510cf2f8e21238f323e17acea5baace6104",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-densiflora/inat-261146745.jpg",
@@ -110,7 +115,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "c492b53b35173f51e369379fcab92dace4d83cef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 150972058, photo 260419099, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9271137a07a78e4ecca32f815f9e1f4915715a0f7cd9ae067f8374b8f979e2b6. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria densiflora maps to indexed species physaria-densiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "9271137a07a78e4ecca32f815f9e1f4915715a0f7cd9ae067f8374b8f979e2b6"
+      "sha256": "9271137a07a78e4ecca32f815f9e1f4915715a0f7cd9ae067f8374b8f979e2b6",
+      "display_sha256": "2dc7abf5bc537e655a49e9ac69c11637e4575ad52b26a8b440a647130ba966c5",
+      "display_blob_sha": "3e8b73c30652a10291c0a7cecee3e0d542593616",
+      "display_original_site_sha256": "9271137a07a78e4ecca32f815f9e1f4915715a0f7cd9ae067f8374b8f979e2b6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

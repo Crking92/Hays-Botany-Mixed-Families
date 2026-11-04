@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bad2fbe1a917304190275a1a98d0135e8908e5e9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 252052770, photo 451125457, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 179fdf343b1992f6bc1adbdfcb8789a367a285a7fe47f89844448ce7b83864ea. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Cevallia sinuata maps to indexed species cevallia-sinuata; specialist morphology and BONAP range deferred.",
-      "sha256": "179fdf343b1992f6bc1adbdfcb8789a367a285a7fe47f89844448ce7b83864ea"
+      "sha256": "179fdf343b1992f6bc1adbdfcb8789a367a285a7fe47f89844448ce7b83864ea",
+      "display_sha256": "71024113371eef2374c992c12e2363ad448ae25a7d02567c6564b83e4b6a6879",
+      "display_blob_sha": "cc8ba404cd39f3b10132ca4c7e0a7b8bb79d32b9",
+      "display_original_site_sha256": "179fdf343b1992f6bc1adbdfcb8789a367a285a7fe47f89844448ce7b83864ea",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cevallia-sinuata/inat-621564789.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "071e309e9f72e85ce76c08904ef5184ab8b38586",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341434680, photo 621564789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dfc04406ee7344d4e66db65a67901e88958b94ed2c627e4a2dda715ef9302989. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Cevallia sinuata maps to indexed species cevallia-sinuata; specialist morphology and BONAP range deferred.",
-      "sha256": "dfc04406ee7344d4e66db65a67901e88958b94ed2c627e4a2dda715ef9302989"
+      "sha256": "dfc04406ee7344d4e66db65a67901e88958b94ed2c627e4a2dda715ef9302989",
+      "display_sha256": "a37c5f3dfc716b699309ef82db10b50c064118993f9673599f9e91256b51b3d0",
+      "display_blob_sha": "012ecc856b4f8550a96e7b2cbfe21073a32e4187",
+      "display_original_site_sha256": "dfc04406ee7344d4e66db65a67901e88958b94ed2c627e4a2dda715ef9302989",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cevallia-sinuata/inat-621573213.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3d3b660edde99f80453ac641dd58e9a9a2c79e78",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341438935, photo 621573213, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3aacb260927b829c3d48d4fcec1e4006df4e96541898f9d8e33468709ff45e0a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Cevallia sinuata maps to indexed species cevallia-sinuata; specialist morphology and BONAP range deferred.",
-      "sha256": "3aacb260927b829c3d48d4fcec1e4006df4e96541898f9d8e33468709ff45e0a"
+      "sha256": "3aacb260927b829c3d48d4fcec1e4006df4e96541898f9d8e33468709ff45e0a",
+      "display_sha256": "f7bef147c9c36df91df68182d6d6c9923b7f0bbed58293196738583408e65916",
+      "display_blob_sha": "8f93f469fdd5e0b33947ccabee4484d385e5476a",
+      "display_original_site_sha256": "3aacb260927b829c3d48d4fcec1e4006df4e96541898f9d8e33468709ff45e0a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cevallia-sinuata/inat-623433597.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "87685dc55de796f00cc1ea4d142a1b86a026ec98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342356792, photo 623433597, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 33ea15223bb80ee0963b13b19d30773d9dfbd848d256a068a88689c8e9c2ca3b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Cevallia sinuata maps to indexed species cevallia-sinuata; specialist morphology and BONAP range deferred.",
-      "sha256": "33ea15223bb80ee0963b13b19d30773d9dfbd848d256a068a88689c8e9c2ca3b"
+      "sha256": "33ea15223bb80ee0963b13b19d30773d9dfbd848d256a068a88689c8e9c2ca3b",
+      "display_sha256": "6e879aec30a4406dc27d03b81a2df931d83b9a2a1b7f5f742c214ff73eb97df9",
+      "display_blob_sha": "13c61e24bb587d307e3431f86587fca841d82bc4",
+      "display_original_site_sha256": "33ea15223bb80ee0963b13b19d30773d9dfbd848d256a068a88689c8e9c2ca3b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cevallia-sinuata/inat-624641777.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f8670e20d4aff38b464ec8c606ca6f16e1bd76e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342964496, photo 624641777, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5976ac7e32d0d0d2c9c6b18d09d6601c8616cef3b3735f9cc950026ade94a4df. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Cevallia sinuata maps to indexed species cevallia-sinuata; specialist morphology and BONAP range deferred.",
-      "sha256": "5976ac7e32d0d0d2c9c6b18d09d6601c8616cef3b3735f9cc950026ade94a4df"
+      "sha256": "5976ac7e32d0d0d2c9c6b18d09d6601c8616cef3b3735f9cc950026ade94a4df",
+      "display_sha256": "1f23ef3c21da9591665f562461deff881c6983611aad5123f0726cd6882d19f1",
+      "display_blob_sha": "1d3a44ddaf59e3d71cb327d1b46eb2c0e276a657",
+      "display_original_site_sha256": "5976ac7e32d0d0d2c9c6b18d09d6601c8616cef3b3735f9cc950026ade94a4df",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

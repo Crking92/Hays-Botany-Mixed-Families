@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ea27163c58d21a74ba2cafb68feaac17f3324bd0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 166516632, photo 288366194, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2d460e406d4993a799858cdeeef9331b21c471e20df5316724117ccae5f442b4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia nuttallii maps to indexed species polytaenia-nuttallii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2d460e406d4993a799858cdeeef9331b21c471e20df5316724117ccae5f442b4"
+      "sha256": "2d460e406d4993a799858cdeeef9331b21c471e20df5316724117ccae5f442b4",
+      "display_sha256": "d11992407bb773d656a1b202d6aa8dfe665c9c066ad4ea76dacd84386e058e75",
+      "display_blob_sha": "3d2a01c2231b2191a0db8c7e02c1dabb244be994",
+      "display_original_site_sha256": "2d460e406d4993a799858cdeeef9331b21c471e20df5316724117ccae5f442b4",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/polytaenia-nuttallii/inat-624078522.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85a5479b4faa51d00f4ea4a8140f1dc1dd365658",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342677491, photo 624078522, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b9af57c6797f3f39000e0364929c447524faa42a7d710e3ec76f9fa713a75a52. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Polytaenia nuttallii maps to indexed species polytaenia-nuttallii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b9af57c6797f3f39000e0364929c447524faa42a7d710e3ec76f9fa713a75a52"
+      "sha256": "b9af57c6797f3f39000e0364929c447524faa42a7d710e3ec76f9fa713a75a52",
+      "display_sha256": "82560ab15f690445e0eb3d690f80bb20291c5d1dda6fe778dc824ec4160fc736",
+      "display_blob_sha": "559aed1bf3b228dbbada3ebb28fb9ec549ff8fc5",
+      "display_original_site_sha256": "b9af57c6797f3f39000e0364929c447524faa42a7d710e3ec76f9fa713a75a52",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

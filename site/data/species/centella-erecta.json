@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ed061bad24cc943a3b43a33a15daf9e61ed700e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 89270725, photo 147399718, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f6f2db58bc2986c9f1a299e4b034ea4a2b3add1402fc0814982636e915e83d3f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centella erecta maps to indexed species centella-erecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f6f2db58bc2986c9f1a299e4b034ea4a2b3add1402fc0814982636e915e83d3f"
+      "sha256": "f6f2db58bc2986c9f1a299e4b034ea4a2b3add1402fc0814982636e915e83d3f",
+      "display_sha256": "8211e37ca0645f079f0ea73b126233462a389d7fa099f606ada00ba75853c3b2",
+      "display_blob_sha": "a6d3e8823716162433da563aa96754c196d33849",
+      "display_original_site_sha256": "f6f2db58bc2986c9f1a299e4b034ea4a2b3add1402fc0814982636e915e83d3f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centella-erecta/inat-409483358.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f51edf7c687ebc33817a984470388f430db1134",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 230607630, photo 409483358, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f4e326cbb7b8909cc9a8c88c6bbbbe34123dca3cc5a8e67b5b728bc50abd09f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centella erecta maps to indexed species centella-erecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9f4e326cbb7b8909cc9a8c88c6bbbbe34123dca3cc5a8e67b5b728bc50abd09f"
+      "sha256": "9f4e326cbb7b8909cc9a8c88c6bbbbe34123dca3cc5a8e67b5b728bc50abd09f",
+      "display_sha256": "dbffd62538251824e38695139f654ff73189df670a9a05407d1f25dcbf12e6e2",
+      "display_blob_sha": "d6858b1ef3213eaa621ebdf12cf87d80f972f2ca",
+      "display_original_site_sha256": "9f4e326cbb7b8909cc9a8c88c6bbbbe34123dca3cc5a8e67b5b728bc50abd09f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centella-erecta/inat-648853784.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ded5d8f83e95d04bd84a05dedcfb9536e519e715",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355798623, photo 648853784, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc06ad4c765c84c1c32501967b0a91208ffe83122a9ad756bbcc93ac01986e8a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centella erecta maps to indexed species centella-erecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "dc06ad4c765c84c1c32501967b0a91208ffe83122a9ad756bbcc93ac01986e8a"
+      "sha256": "dc06ad4c765c84c1c32501967b0a91208ffe83122a9ad756bbcc93ac01986e8a",
+      "display_sha256": "3600819f61c8cc59896dc2647f5558176e3cf6f61d7d404435201452e3037cfd",
+      "display_blob_sha": "de360c14fcddf4b80a97a61f8197d8fdae8ccf8f",
+      "display_original_site_sha256": "dc06ad4c765c84c1c32501967b0a91208ffe83122a9ad756bbcc93ac01986e8a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centella-erecta/inat-71072589.jpeg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e68b306d1b62e34163ea1a8983315d2c66d76c9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 44819671, photo 71072589, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 698fc5008e3088913654b8616695a65ef5f1186ed78e63d124d65861cab6ceac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centella erecta maps to indexed species centella-erecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "698fc5008e3088913654b8616695a65ef5f1186ed78e63d124d65861cab6ceac"
+      "sha256": "698fc5008e3088913654b8616695a65ef5f1186ed78e63d124d65861cab6ceac",
+      "display_sha256": "03e4792ba8d8c558f264b16dc5aa1de8b541ad31e43a6f181a50f46b61468119",
+      "display_blob_sha": "9355f52241ec37afc13830f4377099d8f016071e",
+      "display_original_site_sha256": "698fc5008e3088913654b8616695a65ef5f1186ed78e63d124d65861cab6ceac",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centella-erecta/inat-9742549.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79be542ef4666dcfa739ae44dca460a73b3bd0c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 7482536, photo 9742549, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7434bd2267d8f57ec930096644d8445b777ecfca7a3020e89facf041be79a5bd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Centella erecta maps to indexed species centella-erecta (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "7434bd2267d8f57ec930096644d8445b777ecfca7a3020e89facf041be79a5bd"
+      "sha256": "7434bd2267d8f57ec930096644d8445b777ecfca7a3020e89facf041be79a5bd",
+      "display_sha256": "b095748400b16ff1908b7b23d6b2f9465d47e48e3bee642f6396c2ee316be0e7",
+      "display_blob_sha": "522f52f84f35ce397349d096509146cddb37f356",
+      "display_original_site_sha256": "7434bd2267d8f57ec930096644d8445b777ecfca7a3020e89facf041be79a5bd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "418f6ea6ccd551e3ba6d50a6cfe4876340bfc51e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346143839, photo 630922067, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6aac89a0c465ed57175297b3e6a90cf1da2d2859266514776d6c50c0de3a5308. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria erecta maps to indexed species krameria-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "6aac89a0c465ed57175297b3e6a90cf1da2d2859266514776d6c50c0de3a5308"
+      "sha256": "6aac89a0c465ed57175297b3e6a90cf1da2d2859266514776d6c50c0de3a5308",
+      "display_sha256": "a324ea92f194db0adf5a5d620810902da6a9ffb24673d444e49cb0859e56f158",
+      "display_blob_sha": "a75408c36ab042d650dfc41dd4ebf619b99bd9f1",
+      "display_original_site_sha256": "6aac89a0c465ed57175297b3e6a90cf1da2d2859266514776d6c50c0de3a5308",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-erecta/inat-631199153.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "36befd250d0ff70357f98f18275d380cda0d984b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346282185, photo 631199153, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9daacfbd000391c0889bf341c7017af67a61a7c408cea0dc9cfbc936001317fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria erecta maps to indexed species krameria-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "9daacfbd000391c0889bf341c7017af67a61a7c408cea0dc9cfbc936001317fa"
+      "sha256": "9daacfbd000391c0889bf341c7017af67a61a7c408cea0dc9cfbc936001317fa",
+      "display_sha256": "222a0670291345a3062e0b48f460f000e423cbbe137f7493fabc580b57fda10a",
+      "display_blob_sha": "c8a60aa430c2f0daa3aef8f8cccb7df49f625a11",
+      "display_original_site_sha256": "9daacfbd000391c0889bf341c7017af67a61a7c408cea0dc9cfbc936001317fa",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-erecta/inat-631597584.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "893a08097277bf79c005c0e7eef20dc299783a5d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346485419, photo 631597584, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 586f48a4bf7a143d735eab26858ac9c132c36d6f30135e15cb9c272ed1ecac14. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria erecta maps to indexed species krameria-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "586f48a4bf7a143d735eab26858ac9c132c36d6f30135e15cb9c272ed1ecac14"
+      "sha256": "586f48a4bf7a143d735eab26858ac9c132c36d6f30135e15cb9c272ed1ecac14",
+      "display_sha256": "338afb969753af0bc43e1292884a5a661e3368dfff5ade72d6f778e389f1ec41",
+      "display_blob_sha": "61f076774b9930cd00b4286d4cce6d2f75bb3452",
+      "display_original_site_sha256": "586f48a4bf7a143d735eab26858ac9c132c36d6f30135e15cb9c272ed1ecac14",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-erecta/inat-633409956.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a5bdd8caad848692862dbcfb0a3159cecff396dd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347400322, photo 633409956, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e57da2f0d66b0bcfd325b54bac2c10e01850e1ac5f23369823576131433f3476. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria erecta maps to indexed species krameria-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "e57da2f0d66b0bcfd325b54bac2c10e01850e1ac5f23369823576131433f3476"
+      "sha256": "e57da2f0d66b0bcfd325b54bac2c10e01850e1ac5f23369823576131433f3476",
+      "display_sha256": "e3ed9838c7bae0f24b1383bd70c723d35c9fe683839933f6dad375cb717334a3",
+      "display_blob_sha": "dd18dec0928e881d1e48d6982e0047996217b7fb",
+      "display_original_site_sha256": "e57da2f0d66b0bcfd325b54bac2c10e01850e1ac5f23369823576131433f3476",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-erecta/inat-640530280.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3c5e343e8f7238d28970d395ecabc6cc45d5b157",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 351029531, photo 640530280, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e62dabeda86ad75c41c4f054879b1414901b915e8f8ac79b7d3ca2d56af7541. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria erecta maps to indexed species krameria-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "2e62dabeda86ad75c41c4f054879b1414901b915e8f8ac79b7d3ca2d56af7541"
+      "sha256": "2e62dabeda86ad75c41c4f054879b1414901b915e8f8ac79b7d3ca2d56af7541",
+      "display_sha256": "d6a40f44491399462f420ba12fd3e942e6d6f94cc9019ea47e5b648835c957f7",
+      "display_blob_sha": "c29fecb1155c93a7d6ed12df4a81edabc5179f86",
+      "display_original_site_sha256": "2e62dabeda86ad75c41c4f054879b1414901b915e8f8ac79b7d3ca2d56af7541",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -76,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fe5434b1fcd4671960b93901ed89194f44ae48f3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -84,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 150920217, photo 260323955, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d43b38c112d3c57f2321796753e959e460192912f487a6d73add5c29ecf55f81. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria gracilis maps to indexed species physaria-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "d43b38c112d3c57f2321796753e959e460192912f487a6d73add5c29ecf55f81"
+      "sha256": "d43b38c112d3c57f2321796753e959e460192912f487a6d73add5c29ecf55f81",
+      "display_sha256": "d71cb96ce5383c5dfd9f318189640bd213cb50a8eb0aecb795600aab21ad74f1",
+      "display_blob_sha": "7c512a0ecb72d41c21be4196d4b5657c7ecc084a",
+      "display_original_site_sha256": "d43b38c112d3c57f2321796753e959e460192912f487a6d73add5c29ecf55f81",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-gracilis/inat-357721630.jpeg",
@@ -95,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08722de11271b236058b78bcb20c7b1efd823d75",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 202538843, photo 357721630, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1b1b995885c7539bc2c23d0045bc1415a736d67307c7bc72a9a4d4ba4480b8e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria gracilis maps to indexed species physaria-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "d1b1b995885c7539bc2c23d0045bc1415a736d67307c7bc72a9a4d4ba4480b8e"
+      "sha256": "d1b1b995885c7539bc2c23d0045bc1415a736d67307c7bc72a9a4d4ba4480b8e",
+      "display_sha256": "716365044e5d44c86340d347c7d2ca2fa934d54648749b25a1c421e494626f58",
+      "display_blob_sha": "980fd1396a4a0d4a3a93e5b624403cf0ca72ccf0",
+      "display_original_site_sha256": "d1b1b995885c7539bc2c23d0045bc1415a736d67307c7bc72a9a4d4ba4480b8e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-gracilis/inat-485763854.jpeg",
@@ -114,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "771d433429810cdcf3fa4de2c1fed58093aa8a1d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 270127576, photo 485763854, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8387b49f37cc87b711517690b3a0d0daafb8627880eeb5ca6e697040e692078d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria gracilis maps to indexed species physaria-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "8387b49f37cc87b711517690b3a0d0daafb8627880eeb5ca6e697040e692078d"
+      "sha256": "8387b49f37cc87b711517690b3a0d0daafb8627880eeb5ca6e697040e692078d",
+      "display_sha256": "4d4d66db00ba8b035c71b93606c17d10f6acc2127a9e5e237192d386d352f419",
+      "display_blob_sha": "c47e064b68e819a73b1189472827eacbce97952b",
+      "display_original_site_sha256": "8387b49f37cc87b711517690b3a0d0daafb8627880eeb5ca6e697040e692078d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-gracilis/inat-488509914.jpeg",
@@ -133,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "776cb7715b070adf43f3475547197bea70c18f4e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 271573474, photo 488509914, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 35f1214c6a63ac54e65dde7459645941a23520960d1cb927b90dcc7baa3c9af1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria gracilis maps to indexed species physaria-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "35f1214c6a63ac54e65dde7459645941a23520960d1cb927b90dcc7baa3c9af1"
+      "sha256": "35f1214c6a63ac54e65dde7459645941a23520960d1cb927b90dcc7baa3c9af1",
+      "display_sha256": "e4f1df13fade4d7a614ea9738464f03fa216b16d4754f1f590cc03ea46a8cea2",
+      "display_blob_sha": "92db9aef3cf01a13b097217e66ac60853132b189",
+      "display_original_site_sha256": "35f1214c6a63ac54e65dde7459645941a23520960d1cb927b90dcc7baa3c9af1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-gracilis/inat-662902274.jpg",
@@ -152,7 +172,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b2f17c6777e75ebb885fa8f849e321d2d0bf2e35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +180,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 363168001, photo 662902274, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aba9240ec1a428843be1f480bbfc6ac7d37bd44efa1cfbe671d5d7291d75796d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria gracilis maps to indexed species physaria-gracilis; specialist morphology and BONAP range deferred.",
-      "sha256": "aba9240ec1a428843be1f480bbfc6ac7d37bd44efa1cfbe671d5d7291d75796d"
+      "sha256": "aba9240ec1a428843be1f480bbfc6ac7d37bd44efa1cfbe671d5d7291d75796d",
+      "display_sha256": "42f9641eda09cc304783691422366aa3118f77e115a2f24a33066b6ebb684f9f",
+      "display_blob_sha": "613ef3e4146361d9e24a673f4335c4962a9ab21a",
+      "display_original_site_sha256": "aba9240ec1a428843be1f480bbfc6ac7d37bd44efa1cfbe671d5d7291d75796d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

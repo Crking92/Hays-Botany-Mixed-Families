@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a06cf324e59832db312bdc146caa96e88fbe0b88",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 312051027, photo 563359485, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 063d79c818f03f59aa8eff40c16cfce32af9c15d3784f70d4ac422c19aee1eaf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra antisyphilitica maps to indexed species ephedra-antisyphilitica; specialist morphology and BONAP range deferred.",
-      "sha256": "063d79c818f03f59aa8eff40c16cfce32af9c15d3784f70d4ac422c19aee1eaf"
+      "sha256": "063d79c818f03f59aa8eff40c16cfce32af9c15d3784f70d4ac422c19aee1eaf",
+      "display_sha256": "4f2544216cb339e36f1ab3cf253abdbc6e8e67d6e4b1fd2abb4506e7ffe1ad3c",
+      "display_blob_sha": "531fb04c9ca705d12fad2b4dd7ca18e3be6e4c1d",
+      "display_original_site_sha256": "063d79c818f03f59aa8eff40c16cfce32af9c15d3784f70d4ac422c19aee1eaf",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ephedra-antisyphilitica/inat-622401315.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b45a4339d3a423ffcefbd5c4b08f7d3b3d98d05",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341844854, photo 622401315, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0124923008259e7705a8b2f1a2a10290997080f452fd396849da6ccd587b5ce. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra antisyphilitica maps to indexed species ephedra-antisyphilitica; specialist morphology and BONAP range deferred.",
-      "sha256": "a0124923008259e7705a8b2f1a2a10290997080f452fd396849da6ccd587b5ce"
+      "sha256": "a0124923008259e7705a8b2f1a2a10290997080f452fd396849da6ccd587b5ce",
+      "display_sha256": "1ecc5b020b1111cd29803fa30714be05f61dd61745a91d9a3524c3c062582412",
+      "display_blob_sha": "4cfa3d1efe5a126ccb5933ca5f42d826617453d2",
+      "display_original_site_sha256": "a0124923008259e7705a8b2f1a2a10290997080f452fd396849da6ccd587b5ce",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ephedra-antisyphilitica/inat-633507595.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "37f6f86266150feda7650730c0f9c5187e829844",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347446627, photo 633507595, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: bbb16260c6ef5c5c07e67c7106ae842a85ff20af6ad4dfe7a8992744ec318244. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra antisyphilitica maps to indexed species ephedra-antisyphilitica; specialist morphology and BONAP range deferred.",
-      "sha256": "bbb16260c6ef5c5c07e67c7106ae842a85ff20af6ad4dfe7a8992744ec318244"
+      "sha256": "bbb16260c6ef5c5c07e67c7106ae842a85ff20af6ad4dfe7a8992744ec318244",
+      "display_sha256": "7ecd778f9388029631a7974d4a30faba40ba9c8c1e3ad20afdaf33f6e8967989",
+      "display_blob_sha": "324a18c6d8e0ebe8c1422f28f1b29e04f484e28f",
+      "display_original_site_sha256": "bbb16260c6ef5c5c07e67c7106ae842a85ff20af6ad4dfe7a8992744ec318244",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

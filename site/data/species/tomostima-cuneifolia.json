@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1bf912a3c10373b47e78fe45d2d91ea3451e46ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 150085254, photo 258724523, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d235e8df8ea29f2b67a38dc7925a943570f332273cfa656ca86e3f04e5d93611. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tomostima cuneifolia maps to indexed species tomostima-cuneifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "d235e8df8ea29f2b67a38dc7925a943570f332273cfa656ca86e3f04e5d93611"
+      "sha256": "d235e8df8ea29f2b67a38dc7925a943570f332273cfa656ca86e3f04e5d93611",
+      "display_sha256": "7175899207b48df3ddb7d312aa77df5095b3db95f7d3d534620f098f98e1342b",
+      "display_blob_sha": "ccff8a35cdea4fa1692a72e4a6db9be9a4dc5b25",
+      "display_original_site_sha256": "d235e8df8ea29f2b67a38dc7925a943570f332273cfa656ca86e3f04e5d93611",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tomostima-cuneifolia/inat-259069742.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1f59e85f30c370996b2034ccf5f0a2815c7679ed",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 150266853, photo 259069742, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0bdcac2d2ef6f0495579022be0cd40ba39582751fd8c7db9930c6bb2cb81ce42. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tomostima cuneifolia maps to indexed species tomostima-cuneifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "0bdcac2d2ef6f0495579022be0cd40ba39582751fd8c7db9930c6bb2cb81ce42"
+      "sha256": "0bdcac2d2ef6f0495579022be0cd40ba39582751fd8c7db9930c6bb2cb81ce42",
+      "display_sha256": "91419a4148822cbf6420b7ee15b6db4fa6d2dc5cd50e1708337abf3aa355359d",
+      "display_blob_sha": "266c9e7d0aedb226e834088bee3381242fb47439",
+      "display_original_site_sha256": "0bdcac2d2ef6f0495579022be0cd40ba39582751fd8c7db9930c6bb2cb81ce42",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tomostima-cuneifolia/inat-355101326.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aae55c7f0c083bfaa1c230ef00f289b88fba1049",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 201188366, photo 355101586, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b681f292af8d34f7e0f9cdd4c1a7ba81804fdcf88e83132cd42b678bdaeea446. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tomostima cuneifolia maps to indexed species tomostima-cuneifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "b681f292af8d34f7e0f9cdd4c1a7ba81804fdcf88e83132cd42b678bdaeea446"
+      "sha256": "b681f292af8d34f7e0f9cdd4c1a7ba81804fdcf88e83132cd42b678bdaeea446",
+      "display_sha256": "4a5714ee18700b08327907ee8f7b3282db15f305f565bb4ccb716d1f537acb32",
+      "display_blob_sha": "27d0bdfcacf0e50fe20fbf8e5525e3f3a835309a",
+      "display_original_site_sha256": "b681f292af8d34f7e0f9cdd4c1a7ba81804fdcf88e83132cd42b678bdaeea446",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tomostima-cuneifolia/inat-475102536.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f53bf772aee07c068e29c980449e8f2ecea0705b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 264580160, photo 475102536, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 09736ebebcecd5705d7485d63af9092fa60c7314c7565c92b5d61eba0d97690a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tomostima cuneifolia maps to indexed species tomostima-cuneifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "09736ebebcecd5705d7485d63af9092fa60c7314c7565c92b5d61eba0d97690a"
+      "sha256": "09736ebebcecd5705d7485d63af9092fa60c7314c7565c92b5d61eba0d97690a",
+      "display_sha256": "ddbbc4b43db45515345127419235a40dde6831d63b40a745af730c8742857e7b",
+      "display_blob_sha": "f383cce2ba22dfec922ddabe27926e96a437684a",
+      "display_original_site_sha256": "09736ebebcecd5705d7485d63af9092fa60c7314c7565c92b5d61eba0d97690a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd71b92ea31cc1a58fb0709ca48bf371bd0a648e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346426213, photo 631479881, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8230f01f9ede6522dc4a398c73d1035223f50f6a4932c3943df0741e80ab2e76. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria recurvata maps to indexed species physaria-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "8230f01f9ede6522dc4a398c73d1035223f50f6a4932c3943df0741e80ab2e76"
+      "sha256": "8230f01f9ede6522dc4a398c73d1035223f50f6a4932c3943df0741e80ab2e76",
+      "display_sha256": "a1dc688fa424c3116ef4d5efbd6ee626107de27ee9372d4a40d8f14cc50f7f96",
+      "display_blob_sha": "26684b64e856f231e1ebdb49d39dd225be926fc0",
+      "display_original_site_sha256": "8230f01f9ede6522dc4a398c73d1035223f50f6a4932c3943df0741e80ab2e76",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-recurvata/inat-641020909.jpg",
@@ -125,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "912520d68afb1a2ff869ea0f223d29f0aa63372b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352825192, photo 643857692, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e88961fc78e96c125844044910b964221885e0bfca498f3d35a845d70697b1a3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria recurvata maps to indexed species physaria-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "e88961fc78e96c125844044910b964221885e0bfca498f3d35a845d70697b1a3"
+      "sha256": "e88961fc78e96c125844044910b964221885e0bfca498f3d35a845d70697b1a3",
+      "display_sha256": "3dc03550adf0248ff8860a0f3e6d648ba88d57f9a9d5422b1d6a437dbc67b98e",
+      "display_blob_sha": "8d4d254a24b5e92148fcefec5892c09e947f2c5c",
+      "display_original_site_sha256": "e88961fc78e96c125844044910b964221885e0bfca498f3d35a845d70697b1a3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-recurvata/inat-647527256.jpg",
@@ -144,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6613c6cae8dcf5d536d0d3ff5858775b4af1fd69",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354985795, photo 647527256, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fcbe92f57ddfb04a0b0b84987f5cab4f00fb1a303f8475c1203f91405169a9ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria recurvata maps to indexed species physaria-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "fcbe92f57ddfb04a0b0b84987f5cab4f00fb1a303f8475c1203f91405169a9ca"
+      "sha256": "fcbe92f57ddfb04a0b0b84987f5cab4f00fb1a303f8475c1203f91405169a9ca",
+      "display_sha256": "02bf715a6b81f41de2c7a59a0c3a90e063c0966e62c7e8863efc70cf60090c1c",
+      "display_blob_sha": "bde4033bfa63b74dfd1a2b86fa4e15e0a830841a",
+      "display_original_site_sha256": "fcbe92f57ddfb04a0b0b84987f5cab4f00fb1a303f8475c1203f91405169a9ca",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-recurvata/inat-649591736.jpg",
@@ -163,7 +178,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "688c9be1f5a953ba4adde1da3e24b19ff4ef652c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -171,7 +186,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356210403, photo 649591736, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0d1c2022461cb97c7ed5c13fc283f50494d32d8c05bc220c2af54d6ae3d2451. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria recurvata maps to indexed species physaria-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "a0d1c2022461cb97c7ed5c13fc283f50494d32d8c05bc220c2af54d6ae3d2451"
+      "sha256": "a0d1c2022461cb97c7ed5c13fc283f50494d32d8c05bc220c2af54d6ae3d2451",
+      "display_sha256": "f5cbe1bd5768bbca3ca454f724a42b86a697feaf2836258614251d25c3101edf",
+      "display_blob_sha": "43702d1627bbb657739d9565653851fb74b3f039",
+      "display_original_site_sha256": "a0d1c2022461cb97c7ed5c13fc283f50494d32d8c05bc220c2af54d6ae3d2451",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

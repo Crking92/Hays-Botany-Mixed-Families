@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "441f6ecf1855c435011594dd5a2e25ee8c70c763",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 210629702, photo 372531307, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3c2160dcb9461208ce90842520e0c8806e083149970b4c4a25bc559b5291f802. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nasturtium officinale maps to indexed species nasturtium-officinale; specialist morphology and BONAP range deferred.",
-      "sha256": "3c2160dcb9461208ce90842520e0c8806e083149970b4c4a25bc559b5291f802"
+      "sha256": "3c2160dcb9461208ce90842520e0c8806e083149970b4c4a25bc559b5291f802",
+      "display_sha256": "c6bd4d8cfb7645514bb591654bda51a96d22cd84ee2fd079dbca663b84332159",
+      "display_blob_sha": "0bbd476d999282b57326d433d56a302c9fc6eeab",
+      "display_original_site_sha256": "3c2160dcb9461208ce90842520e0c8806e083149970b4c4a25bc559b5291f802",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nasturtium-officinale/inat-483957178.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eaa815aa791dcdee9ee7b3d091c2c8c4ded71518",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 269182740, photo 483957178, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0689fe45014bcfb96f1869646fbb7247a44927b9cb173c640a700611d26501b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nasturtium officinale maps to indexed species nasturtium-officinale; specialist morphology and BONAP range deferred.",
-      "sha256": "0689fe45014bcfb96f1869646fbb7247a44927b9cb173c640a700611d26501b1"
+      "sha256": "0689fe45014bcfb96f1869646fbb7247a44927b9cb173c640a700611d26501b1",
+      "display_sha256": "3aa9b56ef6468455ec1049a028acd5d43305e2b6fa7cecacfa0ef9f2bef27ae7",
+      "display_blob_sha": "e304b3370d6629097f9f449de1dc6b5837a31b6f",
+      "display_original_site_sha256": "0689fe45014bcfb96f1869646fbb7247a44927b9cb173c640a700611d26501b1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nasturtium-officinale/inat-500701960.jpeg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cdda671477a19f6380ec3b4c3de2484d2c93d6c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353525512, photo 645029892, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14cab2b69ce8d3100a4bda2ffd35ac113cbd1c7533f8ae3490ecb24146443aaa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nasturtium officinale maps to indexed species nasturtium-officinale; specialist morphology and BONAP range deferred.",
-      "sha256": "14cab2b69ce8d3100a4bda2ffd35ac113cbd1c7533f8ae3490ecb24146443aaa"
+      "sha256": "14cab2b69ce8d3100a4bda2ffd35ac113cbd1c7533f8ae3490ecb24146443aaa",
+      "display_sha256": "882049d75cfff1484975a625bd83dddb2c885cdfe53d213dd2bda65b9ff8abce",
+      "display_blob_sha": "5946d19d4bbe54f6166b7da4dc9dad60cf27bf24",
+      "display_original_site_sha256": "14cab2b69ce8d3100a4bda2ffd35ac113cbd1c7533f8ae3490ecb24146443aaa",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nasturtium-officinale/inat-655974484.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aa388dcf7b559cafdc30cc1e3dc192f2e01e139b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 359529279, photo 655974484, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec7b107a8447ab005af6490ea35a9769f4522a9b6285d8a2b69be8d8dfbfbc52. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Nasturtium officinale maps to indexed species nasturtium-officinale; specialist morphology and BONAP range deferred.",
-      "sha256": "ec7b107a8447ab005af6490ea35a9769f4522a9b6285d8a2b69be8d8dfbfbc52"
+      "sha256": "ec7b107a8447ab005af6490ea35a9769f4522a9b6285d8a2b69be8d8dfbfbc52",
+      "display_sha256": "505493b4cf48354e5cc3ec799091838ac0a4d7f71df03898744c4474b0d819b4",
+      "display_blob_sha": "ddd36123e5fc79b3ab8c8bb5c56d9e9c66889df4",
+      "display_original_site_sha256": "ec7b107a8447ab005af6490ea35a9769f4522a9b6285d8a2b69be8d8dfbfbc52",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

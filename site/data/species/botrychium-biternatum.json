@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cb2e1ff13bfcda4be119c46c6ec6dd97b1dcb7fe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 263689350, photo 473756115, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 52315bc9422a515c0084412b2ae7ec4e6faab1057d841bfb55cb9abb1c1c3492. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Sceptridium biternatum maps to indexed species botrychium-biternatum; specialist morphology and BONAP range deferred.",
-      "sha256": "52315bc9422a515c0084412b2ae7ec4e6faab1057d841bfb55cb9abb1c1c3492"
+      "sha256": "52315bc9422a515c0084412b2ae7ec4e6faab1057d841bfb55cb9abb1c1c3492",
+      "display_sha256": "96b1abac5755bfed60b7c45d9ebbb0bea0030015da2110df783fa0eaebe624e7",
+      "display_blob_sha": "ade61a605ce03499a875722065e56a7464734ac1",
+      "display_original_site_sha256": "52315bc9422a515c0084412b2ae7ec4e6faab1057d841bfb55cb9abb1c1c3492",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/botrychium-biternatum/inat-476829638.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0f2afca0dea83239b02c5a71d0390006177e5f1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 265462658, photo 476829638, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3c92c65c02f73d697c8a3a0b0d478d4d1668a849c2b3466b266823ed645f4505. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Sceptridium biternatum maps to indexed species botrychium-biternatum; specialist morphology and BONAP range deferred.",
-      "sha256": "3c92c65c02f73d697c8a3a0b0d478d4d1668a849c2b3466b266823ed645f4505"
+      "sha256": "3c92c65c02f73d697c8a3a0b0d478d4d1668a849c2b3466b266823ed645f4505",
+      "display_sha256": "2b6a5ff23da2a69a361a2b032019e93d3f53d0666d35be1667e3065a2e474807",
+      "display_blob_sha": "bcba73406dd785320e7449a156edb08bdb6b3b99",
+      "display_original_site_sha256": "3c92c65c02f73d697c8a3a0b0d478d4d1668a849c2b3466b266823ed645f4505",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/botrychium-biternatum/inat-620410469.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "97f7cc578d5712752dd39df101ea3ba3c4da1a15",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340875150, photo 620410469, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 35793d1079b85ac703c2dd070a068d0559100840c5f51eefd8c6cf40272437ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Sceptridium biternatum maps to indexed species botrychium-biternatum; specialist morphology and BONAP range deferred.",
-      "sha256": "35793d1079b85ac703c2dd070a068d0559100840c5f51eefd8c6cf40272437ca"
+      "sha256": "35793d1079b85ac703c2dd070a068d0559100840c5f51eefd8c6cf40272437ca",
+      "display_sha256": "7326ce45ff72073a698f73e5a9f3feb4609626a047513d187c13e91e582756b2",
+      "display_blob_sha": "6cfacd381e7eb49d47afb5680d26ce6f3c349e1b",
+      "display_original_site_sha256": "35793d1079b85ac703c2dd070a068d0559100840c5f51eefd8c6cf40272437ca",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/botrychium-biternatum/inat-621265985.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d7b2180ccc9096c1fe499058b3e112fe3756c4da",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341291921, photo 621265985, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a121d1d2d2081d75161620c3d9604a89b01eff6e5ea90fe2830fe6c227cec590. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Sceptridium biternatum maps to indexed species botrychium-biternatum; specialist morphology and BONAP range deferred.",
-      "sha256": "a121d1d2d2081d75161620c3d9604a89b01eff6e5ea90fe2830fe6c227cec590"
+      "sha256": "a121d1d2d2081d75161620c3d9604a89b01eff6e5ea90fe2830fe6c227cec590",
+      "display_sha256": "90217b59528506bd62eef5d9cf22731db69f5b6ba9804bb36302b47fac46c403",
+      "display_blob_sha": "dbb193add1299f5634c612f00b1dc43a0feb9294",
+      "display_original_site_sha256": "a121d1d2d2081d75161620c3d9604a89b01eff6e5ea90fe2830fe6c227cec590",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/botrychium-biternatum/inat-624732417.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a3340a75d872aea184747559e7178473922a536",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343009329, photo 624732417, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3929035d074e855411d5c8b6549189e0fae1038245af6b5bd5661f9aae32e736. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Sceptridium biternatum maps to indexed species botrychium-biternatum; specialist morphology and BONAP range deferred.",
-      "sha256": "3929035d074e855411d5c8b6549189e0fae1038245af6b5bd5661f9aae32e736"
+      "sha256": "3929035d074e855411d5c8b6549189e0fae1038245af6b5bd5661f9aae32e736",
+      "display_sha256": "1dd30be3a9e4d2bae451e1db1604f3c7cac5ac84e26b504fb60312a19fa6617f",
+      "display_blob_sha": "c13f93c26aacf4b7f070cd893520d0b29efb89de",
+      "display_original_site_sha256": "3929035d074e855411d5c8b6549189e0fae1038245af6b5bd5661f9aae32e736",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/botrychium-biternatum/archived-bcd420b1e9fac6e4.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e323116bd0b0f7e5584384b77db21a226e73b69",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346816213, photo 632251582, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 72773c97c431c25d9a382e18eacdc65b8a510cf8f3bd2c96a061b6a0ea6df112. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Sisymbrium altissimum maps to indexed species sisymbrium-altissimum; specialist morphology and BONAP range deferred.",
-      "sha256": "72773c97c431c25d9a382e18eacdc65b8a510cf8f3bd2c96a061b6a0ea6df112"
+      "sha256": "72773c97c431c25d9a382e18eacdc65b8a510cf8f3bd2c96a061b6a0ea6df112",
+      "display_sha256": "50e3871bd113eaa55315aac5d1e47cbdc669f18c7b0699e5004197540489ae2b",
+      "display_blob_sha": "da46d35263d6100746d5f81355b7653d03f570b9",
+      "display_original_site_sha256": "72773c97c431c25d9a382e18eacdc65b8a510cf8f3bd2c96a061b6a0ea6df112",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sisymbrium-altissimum/inat-647022829.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "02d19f41ab01c83f11150761dc0a71bdefe8188c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354701929, photo 647022829, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43fa4580fc61c2f3cc2f1941b116fcb773b695a96f6e819f046d41a93848b95c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Sisymbrium altissimum maps to indexed species sisymbrium-altissimum; specialist morphology and BONAP range deferred.",
-      "sha256": "43fa4580fc61c2f3cc2f1941b116fcb773b695a96f6e819f046d41a93848b95c"
+      "sha256": "43fa4580fc61c2f3cc2f1941b116fcb773b695a96f6e819f046d41a93848b95c",
+      "display_sha256": "1036f6e7f592c73c48cae937edd65844d7ba05228335e2f33f13fd5654b076ac",
+      "display_blob_sha": "0e4844cfdc3cc084d5baacbb397f18c4c9447353",
+      "display_original_site_sha256": "43fa4580fc61c2f3cc2f1941b116fcb773b695a96f6e819f046d41a93848b95c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sisymbrium-altissimum/inat-669527352.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a04951316864c43ae955253e6b5322f9c9a1b341",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 366659221, photo 669527352, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b265b05bf1a3c8acbb99b77ba6ca09e2ca5ca7a5d9399865d4d339518c5bce8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Sisymbrium altissimum maps to indexed species sisymbrium-altissimum; specialist morphology and BONAP range deferred.",
-      "sha256": "2b265b05bf1a3c8acbb99b77ba6ca09e2ca5ca7a5d9399865d4d339518c5bce8"
+      "sha256": "2b265b05bf1a3c8acbb99b77ba6ca09e2ca5ca7a5d9399865d4d339518c5bce8",
+      "display_sha256": "111c6cc1af836d29aaac2748d09b358c0a70d4a0b1705e07617e2afd07efa120",
+      "display_blob_sha": "07cd7f624ea4960303ac568702575f4f266c5595",
+      "display_original_site_sha256": "2b265b05bf1a3c8acbb99b77ba6ca09e2ca5ca7a5d9399865d4d339518c5bce8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sisymbrium-altissimum/inat-645660973.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "b06d08662780adb3963ebb982ae34f2ed4bdcb45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353899017, photo 645660973, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0eebafc1b9b51116201f21700e942585e2511816d10b30ebe924261548adc1b. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Sisymbrium altissimum maps to indexed species sisymbrium-altissimum; specialist morphology and BONAP range deferred.",
-      "sha256": "d0eebafc1b9b51116201f21700e942585e2511816d10b30ebe924261548adc1b"
+      "sha256": "d0eebafc1b9b51116201f21700e942585e2511816d10b30ebe924261548adc1b",
+      "display_sha256": "68bbca6a1ba83a9491ebb29b8ee256b9ee3df01c2cbe27546fe3a156e2fc24ef",
+      "display_blob_sha": "216fd906d56a63a46907f6c00ae6be7e55ca35d9",
+      "display_original_site_sha256": "d0eebafc1b9b51116201f21700e942585e2511816d10b30ebe924261548adc1b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

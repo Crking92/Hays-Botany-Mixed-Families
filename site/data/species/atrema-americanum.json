@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cf6e11ba91d5f836e0a808709449eccd3ffd7dab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 206159520, photo 364603400, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b9ab117fa132a607b0fd50cae96eef68d51e08afe9773a5df7aed686acefacb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bifora americana maps to indexed species atrema-americanum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0b9ab117fa132a607b0fd50cae96eef68d51e08afe9773a5df7aed686acefacb"
+      "sha256": "0b9ab117fa132a607b0fd50cae96eef68d51e08afe9773a5df7aed686acefacb",
+      "display_sha256": "548fdcf323374b607e68ee750d99a88f6b7956dc74ba7fda2cc9350f4221d9bd",
+      "display_blob_sha": "09c98e149e7116050bdee0951c9717dbef8b1e27",
+      "display_original_site_sha256": "0b9ab117fa132a607b0fd50cae96eef68d51e08afe9773a5df7aed686acefacb",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/atrema-americanum/inat-372092419.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f3ac6e1908f7a65b55f004ee83cc075a3d89d3c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 210366444, photo 372092419, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 44e6fc7a0e3a85f195946ab97e15850508b3aa7b3357025ae467dc1fca49cf0f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bifora americana maps to indexed species atrema-americanum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "44e6fc7a0e3a85f195946ab97e15850508b3aa7b3357025ae467dc1fca49cf0f"
+      "sha256": "44e6fc7a0e3a85f195946ab97e15850508b3aa7b3357025ae467dc1fca49cf0f",
+      "display_sha256": "a5219b4bccaebd05aa1c97bc29a9d2b9ccd443d050d60b2f1cd04fd26a2dfe21",
+      "display_blob_sha": "213cbe5e7942915cd81893e0e16a19ec9df38bd8",
+      "display_original_site_sha256": "44e6fc7a0e3a85f195946ab97e15850508b3aa7b3357025ae467dc1fca49cf0f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/atrema-americanum/inat-640968549.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a3ed7eeecd4cb37eb7b4369c2e5d3b5b4bd45a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 351253917, photo 640968549, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf207ffb4c808414f895bc3de7904918832e085c31199090e2cb6228e7ad80c8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bifora americana maps to indexed species atrema-americanum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cf207ffb4c808414f895bc3de7904918832e085c31199090e2cb6228e7ad80c8"
+      "sha256": "cf207ffb4c808414f895bc3de7904918832e085c31199090e2cb6228e7ad80c8",
+      "display_sha256": "4b6919aeb080445e896b04d3059d92b2e954969a9d55bf713dc30bef1f53f07d",
+      "display_blob_sha": "f18e393f63652027db6081a38ed7b7e7f1608527",
+      "display_original_site_sha256": "cf207ffb4c808414f895bc3de7904918832e085c31199090e2cb6228e7ad80c8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/atrema-americanum/inat-649276115.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b3c6fc206b9f0be45a42a085f695559088241e0b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356038397, photo 649276115, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a088de5d5cadc27f4d1dff5615978e3f5905807d76a5f66ebd87b2a9078fc0d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bifora americana maps to indexed species atrema-americanum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5a088de5d5cadc27f4d1dff5615978e3f5905807d76a5f66ebd87b2a9078fc0d"
+      "sha256": "5a088de5d5cadc27f4d1dff5615978e3f5905807d76a5f66ebd87b2a9078fc0d",
+      "display_sha256": "fbaec6bd48df37d9f513e3dfe7d67fb2f66ded512adf76f4c40e38c11a023e0c",
+      "display_blob_sha": "a7b0e35d5f8fc8a4521f85be92fb6de23bef8bf9",
+      "display_original_site_sha256": "5a088de5d5cadc27f4d1dff5615978e3f5905807d76a5f66ebd87b2a9078fc0d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/atrema-americanum/inat-661782875.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2de6b64c691efb628f6af157effff8285b56b1ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 362581349, photo 661782875, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e29d5fd054949815f8ac7c9b2885dd0b8d7ca7d23421b35628173b60ed175c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bifora americana maps to indexed species atrema-americanum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5e29d5fd054949815f8ac7c9b2885dd0b8d7ca7d23421b35628173b60ed175c0"
+      "sha256": "5e29d5fd054949815f8ac7c9b2885dd0b8d7ca7d23421b35628173b60ed175c0",
+      "display_sha256": "34e2684c27682d447c6b25f47ad97238b87fe16269af491c465e84c152fab40f",
+      "display_blob_sha": "8621450d185066ca15e9bd6d746cad39939b6836",
+      "display_original_site_sha256": "5e29d5fd054949815f8ac7c9b2885dd0b8d7ca7d23421b35628173b60ed175c0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c8a0fed28efa678c001ca37fded5775c9e58c98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -57,7 +57,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341983111, photo 622676064, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc15a6235afa9d9558c91f4f17153f810533ef25ef18439daf58f65e9426588c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum capillus-veneris maps to indexed species adiantum-capillus-veneris; specialist morphology and BONAP range deferred.",
-      "sha256": "fc15a6235afa9d9558c91f4f17153f810533ef25ef18439daf58f65e9426588c"
+      "sha256": "fc15a6235afa9d9558c91f4f17153f810533ef25ef18439daf58f65e9426588c",
+      "display_sha256": "88213aa1243a11d5d4fa14e6fa6d50ccd8327bc3e8132c67b56bc1d2d9ee06b6",
+      "display_blob_sha": "45185328f8af12bfa45db04710c4cd4175cb4eee",
+      "display_original_site_sha256": "fc15a6235afa9d9558c91f4f17153f810533ef25ef18439daf58f65e9426588c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-capillus-veneris/inat-623307861.jpg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27c928b2f93a8ee7cbf9c8f9e7690283b702836e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342295702, photo 623307861, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 08b430ff22e7835f5ab6831e0722722f772c79bf9fdefb4ec9029b826d37f7c6.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum capillus-veneris maps to indexed species adiantum-capillus-veneris; specialist morphology and BONAP range deferred.",
-      "sha256": "08b430ff22e7835f5ab6831e0722722f772c79bf9fdefb4ec9029b826d37f7c6"
+      "sha256": "08b430ff22e7835f5ab6831e0722722f772c79bf9fdefb4ec9029b826d37f7c6",
+      "display_sha256": "1f9b97f64e4d1cf4cc3cfe361712fd023e5c9f68e84b45d4f74c0fee360b0da0",
+      "display_blob_sha": "bf5a254deca5231dc341b8f4347816f4565d0f5d",
+      "display_original_site_sha256": "08b430ff22e7835f5ab6831e0722722f772c79bf9fdefb4ec9029b826d37f7c6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-capillus-veneris/inat-624028729.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e39b52f82441d53fe1a73319339e0da686e2ba48",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342651594, photo 624028729, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4862e7b77d012e4941cf2fd0923516dde26b9ac93af987530289a421d4ae49a4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum capillus-veneris maps to indexed species adiantum-capillus-veneris; specialist morphology and BONAP range deferred.",
-      "sha256": "4862e7b77d012e4941cf2fd0923516dde26b9ac93af987530289a421d4ae49a4"
+      "sha256": "4862e7b77d012e4941cf2fd0923516dde26b9ac93af987530289a421d4ae49a4",
+      "display_sha256": "09fa8996bf668c6bc24a5bcee8057991d00b60306ca9422d85666bae5b3f4a5e",
+      "display_blob_sha": "0ce2e35fdc18ca0ff25938a0d58fa5f9c1a7047f",
+      "display_original_site_sha256": "4862e7b77d012e4941cf2fd0923516dde26b9ac93af987530289a421d4ae49a4",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-capillus-veneris/inat-624207276.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a5bf80eba33bbbf1c5e80071e8908ec883e4a7a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342747701, photo 624207276, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24f9c5eea26e390174e02a5b8439074d9697b77d87504fafb80c73e6d375fa1b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum capillus-veneris maps to indexed species adiantum-capillus-veneris; specialist morphology and BONAP range deferred.",
-      "sha256": "24f9c5eea26e390174e02a5b8439074d9697b77d87504fafb80c73e6d375fa1b"
+      "sha256": "24f9c5eea26e390174e02a5b8439074d9697b77d87504fafb80c73e6d375fa1b",
+      "display_sha256": "c7e438891fa7440ded75568182439f0b9682b66995db6b2879cd895672672d8d",
+      "display_blob_sha": "7eb473293fd632986da3fa3d304a5bfd80a9df3a",
+      "display_original_site_sha256": "24f9c5eea26e390174e02a5b8439074d9697b77d87504fafb80c73e6d375fa1b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-capillus-veneris/inat-624747669.jpg",
@@ -125,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11bfe601e1e89f7b2c755cb55e7e5b198d8b6cd8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343017370, photo 624747669, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f64957900fc67bca526db425bfa849d4bc56a74d34b8259c090bfd38513767b1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum capillus-veneris maps to indexed species adiantum-capillus-veneris; specialist morphology and BONAP range deferred.",
-      "sha256": "f64957900fc67bca526db425bfa849d4bc56a74d34b8259c090bfd38513767b1"
+      "sha256": "f64957900fc67bca526db425bfa849d4bc56a74d34b8259c090bfd38513767b1",
+      "display_sha256": "e9ade25baa779a1b51df42cfe8199e2a85e39c1ed19da893e71248781021b3ec",
+      "display_blob_sha": "9c7f3c09983b55ab551df92fe7b7c6c4a8673385",
+      "display_original_site_sha256": "f64957900fc67bca526db425bfa849d4bc56a74d34b8259c090bfd38513767b1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-capillus-veneris/archived-9af273c09753e583.jpg",

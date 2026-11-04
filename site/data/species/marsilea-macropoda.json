@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dfcacc353543c2067c3ad5a5a88414831ff80db8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 10380457, photo 14406138, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5dfab2e556d55a92002f88ebae30d6d4cfc6b96c514d96b897d62845a0c2d22f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea macropoda maps to indexed species marsilea-macropoda; specialist morphology and BONAP range deferred.",
-      "sha256": "5dfab2e556d55a92002f88ebae30d6d4cfc6b96c514d96b897d62845a0c2d22f"
+      "sha256": "5dfab2e556d55a92002f88ebae30d6d4cfc6b96c514d96b897d62845a0c2d22f",
+      "display_sha256": "048190162883fe6a9c1731cf82e6e94111861d2a3c2cfcfcc94a30d8fdc47b83",
+      "display_blob_sha": "8dcb7c8fd829d9a759998f48d4e990280cab603b",
+      "display_original_site_sha256": "5dfab2e556d55a92002f88ebae30d6d4cfc6b96c514d96b897d62845a0c2d22f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-macropoda/inat-474523301.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a763fe9613a4e8bb6cd3a5a1c2da6714443a9075",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 264089513, photo 474523301, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f69c97ebc20ef1976be31576542972285ff0a092e928c5312d8dc08f43ca2d36. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea macropoda maps to indexed species marsilea-macropoda; specialist morphology and BONAP range deferred.",
-      "sha256": "f69c97ebc20ef1976be31576542972285ff0a092e928c5312d8dc08f43ca2d36"
+      "sha256": "f69c97ebc20ef1976be31576542972285ff0a092e928c5312d8dc08f43ca2d36",
+      "display_sha256": "1e1a79d57f6d003705cddebfe7ebbcfd22adc1e556813f05f5ac4b0ff40d1913",
+      "display_blob_sha": "722b4bdc552dcd6d02481ab07ab66e20738fb615",
+      "display_original_site_sha256": "f69c97ebc20ef1976be31576542972285ff0a092e928c5312d8dc08f43ca2d36",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-macropoda/inat-509697428.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b05f75afa380f383f4bb73dd33e25c4673046054",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 283665758, photo 509697428, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6f1380b468f601c1ef1afe661f85d4000527e8ec7b98bb08f3df9f9f4128db6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea macropoda maps to indexed species marsilea-macropoda; specialist morphology and BONAP range deferred.",
-      "sha256": "6f1380b468f601c1ef1afe661f85d4000527e8ec7b98bb08f3df9f9f4128db6a"
+      "sha256": "6f1380b468f601c1ef1afe661f85d4000527e8ec7b98bb08f3df9f9f4128db6a",
+      "display_sha256": "4105fb87944a25590bb4938e210f441152ce856b2eeda6e33d69babc6c06d603",
+      "display_blob_sha": "a4170616153f070659472563aabd2d2e0e0dba6f",
+      "display_original_site_sha256": "6f1380b468f601c1ef1afe661f85d4000527e8ec7b98bb08f3df9f9f4128db6a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-macropoda/inat-512556795.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "649b1374890bb11d6093b752b4b0ab56d7798681",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 285167432, photo 512556795, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 442274599aae58d58942d54916009e7f1266c6a12bf7e37ed8de9158f41d8d7f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea macropoda maps to indexed species marsilea-macropoda; specialist morphology and BONAP range deferred.",
-      "sha256": "442274599aae58d58942d54916009e7f1266c6a12bf7e37ed8de9158f41d8d7f"
+      "sha256": "442274599aae58d58942d54916009e7f1266c6a12bf7e37ed8de9158f41d8d7f",
+      "display_sha256": "8457210323b44c04d86ba27b2cc3e5df7b39b9bb4e4e5e96102cedc8d6104b62",
+      "display_blob_sha": "0e5b18b9f832a844dc2184519c4117b0c690e531",
+      "display_original_site_sha256": "442274599aae58d58942d54916009e7f1266c6a12bf7e37ed8de9158f41d8d7f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-macropoda/inat-683136997.jpg",

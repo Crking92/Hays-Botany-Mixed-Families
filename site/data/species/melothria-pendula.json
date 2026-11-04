@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7de35ba86a43967ce2d2816345482423bb42ff72",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 203553404, photo 359660580, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7da38284b9ea574600c4c2482a0aad9e5ed7066ca9f74b703d26d3d304456364. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Melothria pendula maps to indexed species melothria-pendula; specialist morphology and BONAP range deferred.",
-      "sha256": "7da38284b9ea574600c4c2482a0aad9e5ed7066ca9f74b703d26d3d304456364"
+      "sha256": "7da38284b9ea574600c4c2482a0aad9e5ed7066ca9f74b703d26d3d304456364",
+      "display_sha256": "5a36f5108b62dfef9aa5bd5f1414b30255bb20fac8258a6b9e4ea42525a8d079",
+      "display_blob_sha": "6988843bb046e0681918fbc53c85e1a1ebce6a31",
+      "display_original_site_sha256": "7da38284b9ea574600c4c2482a0aad9e5ed7066ca9f74b703d26d3d304456364",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melothria-pendula/inat-367303407.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d41b48b53aec92c28153df6f3f469780188278f6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 207642303, photo 367303407, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18b0bcdbe343d1e69a2d5568746b5139de0242bc6120e66a925e558c52aebec9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Melothria pendula maps to indexed species melothria-pendula; specialist morphology and BONAP range deferred.",
-      "sha256": "18b0bcdbe343d1e69a2d5568746b5139de0242bc6120e66a925e558c52aebec9"
+      "sha256": "18b0bcdbe343d1e69a2d5568746b5139de0242bc6120e66a925e558c52aebec9",
+      "display_sha256": "99d3f5012e7950f61611a145448e22266f1d304f3c0c1f255d24ac5e418c8e7a",
+      "display_blob_sha": "079f665d4d494a46ce4aa9f03b3be6df7186ce03",
+      "display_original_site_sha256": "18b0bcdbe343d1e69a2d5568746b5139de0242bc6120e66a925e558c52aebec9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melothria-pendula/inat-368136425.jpeg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c1fc2d48d07b69163eafe215043a925bf78c81b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 208088772, photo 368136425, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2aeb93f6cf10c92aa22ea93b9a0076f3037170f65268d692b6ac5fb0d98f6a21. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Melothria pendula maps to indexed species melothria-pendula; specialist morphology and BONAP range deferred.",
-      "sha256": "2aeb93f6cf10c92aa22ea93b9a0076f3037170f65268d692b6ac5fb0d98f6a21"
+      "sha256": "2aeb93f6cf10c92aa22ea93b9a0076f3037170f65268d692b6ac5fb0d98f6a21",
+      "display_sha256": "d71e116751a504b7ad5b9ad1840f123d320c8e9f176cf561b9be9ef95c040a02",
+      "display_blob_sha": "1df6716f0d0829d275bbcfa25d2f159c2a20b40c",
+      "display_original_site_sha256": "2aeb93f6cf10c92aa22ea93b9a0076f3037170f65268d692b6ac5fb0d98f6a21",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melothria-pendula/inat-384016691.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba250b1f6e3e1d2cde3887656bb2538cbae93835",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 217098496, photo 384016691, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c911c9591f99ed2807d74728c8463c865c18e231d20d41e75f48947a9dfefb52. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Melothria pendula maps to indexed species melothria-pendula; specialist morphology and BONAP range deferred.",
-      "sha256": "c911c9591f99ed2807d74728c8463c865c18e231d20d41e75f48947a9dfefb52"
+      "sha256": "c911c9591f99ed2807d74728c8463c865c18e231d20d41e75f48947a9dfefb52",
+      "display_sha256": "d7cbf465c2c4af5302e6deab754d80a69f16a016ec99c059abd9b5937e2f96b4",
+      "display_blob_sha": "e7ff85a618474f87ea0d7a243cd84902c4f823c5",
+      "display_original_site_sha256": "c911c9591f99ed2807d74728c8463c865c18e231d20d41e75f48947a9dfefb52",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melothria-pendula/inat-511117781.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f7e6c468405689f639227c90e41da1f9c6e604d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 284406377, photo 511117781, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 95f7c3620e394c8cfea55db1777e60bad70de5301a175d2dd8c7b0503c2cf058. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Melothria pendula maps to indexed species melothria-pendula; specialist morphology and BONAP range deferred.",
-      "sha256": "95f7c3620e394c8cfea55db1777e60bad70de5301a175d2dd8c7b0503c2cf058"
+      "sha256": "95f7c3620e394c8cfea55db1777e60bad70de5301a175d2dd8c7b0503c2cf058",
+      "display_sha256": "ce6223f8bc7bde18ef9228ebebbe9cc1e91efa3b349638bde6b0f46e41741f04",
+      "display_blob_sha": "5729214490f2df7161d403da7e34ab32af7a92eb",
+      "display_original_site_sha256": "95f7c3620e394c8cfea55db1777e60bad70de5301a175d2dd8c7b0503c2cf058",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

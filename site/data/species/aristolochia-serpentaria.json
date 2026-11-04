@@ -99,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1eb60e4c12d31e702005238ef1e698cfa802c103",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +107,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345824899, photo 630295073, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0d38ffd1a762f87fdf0e6d6252c95ca9757bc732762e42d71da1fd6c44abfadb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia serpentaria maps to indexed species aristolochia-serpentaria; specialist morphology and BONAP range deferred.",
-      "sha256": "0d38ffd1a762f87fdf0e6d6252c95ca9757bc732762e42d71da1fd6c44abfadb"
+      "sha256": "0d38ffd1a762f87fdf0e6d6252c95ca9757bc732762e42d71da1fd6c44abfadb",
+      "display_sha256": "cbb845220bfc75fdd2d23c961c92e9e7c18da00307ad77e3bfa2cc93b70c465c",
+      "display_blob_sha": "e20dabd0c299a734255961f8c8deeb05692af32c",
+      "display_original_site_sha256": "0d38ffd1a762f87fdf0e6d6252c95ca9757bc732762e42d71da1fd6c44abfadb",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-serpentaria/inat-633320262.jpg",
@@ -118,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "09a39251a84ba4c6155d22a2abb0b383a8a98e63",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +131,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 347353608, photo 633320262, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 662a876bb9daf59a5a655ccd61d4093c05e17332473de355739a4385cc44b0ba. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia serpentaria maps to indexed species aristolochia-serpentaria; specialist morphology and BONAP range deferred.",
-      "sha256": "662a876bb9daf59a5a655ccd61d4093c05e17332473de355739a4385cc44b0ba"
+      "sha256": "662a876bb9daf59a5a655ccd61d4093c05e17332473de355739a4385cc44b0ba",
+      "display_sha256": "98e9df15a2c98a84eccdfc45d1110afd63b21f851be73faf4999e88b8591dcc0",
+      "display_blob_sha": "640d64bddbd63fd40b80e8469631df00e2bbe489",
+      "display_original_site_sha256": "662a876bb9daf59a5a655ccd61d4093c05e17332473de355739a4385cc44b0ba",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-serpentaria/inat-648687271.jpg",
@@ -137,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "20b92f9065c13b4c2c552b8c04e9bb3d1fb9311e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +155,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355712101, photo 648687271, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4fb75794edf2b16f474f1af3103c7bdbf0b7422eb99e5dc16d5f2999403b84b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia serpentaria maps to indexed species aristolochia-serpentaria; specialist morphology and BONAP range deferred.",
-      "sha256": "4fb75794edf2b16f474f1af3103c7bdbf0b7422eb99e5dc16d5f2999403b84b0"
+      "sha256": "4fb75794edf2b16f474f1af3103c7bdbf0b7422eb99e5dc16d5f2999403b84b0",
+      "display_sha256": "8e6d86fd11f5f2178f0b52eb80aaaff549019e2e14ab03ebdb2157e0a9cf7102",
+      "display_blob_sha": "1bf06ae1eb126fec8321eb76c3e9cee4f4ed37cd",
+      "display_original_site_sha256": "4fb75794edf2b16f474f1af3103c7bdbf0b7422eb99e5dc16d5f2999403b84b0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-serpentaria/inat-648998496.jpg",
@@ -156,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5296ba161eca47d3bdc8535322fe44d83f29880f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -164,7 +179,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355884443, photo 648998496, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 74ba0e8c036700b6a9cbdced7b71b4958758e7782ed83f81c2eb5e663a3d5323. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia serpentaria maps to indexed species aristolochia-serpentaria; specialist morphology and BONAP range deferred.",
-      "sha256": "74ba0e8c036700b6a9cbdced7b71b4958758e7782ed83f81c2eb5e663a3d5323"
+      "sha256": "74ba0e8c036700b6a9cbdced7b71b4958758e7782ed83f81c2eb5e663a3d5323",
+      "display_sha256": "09f0280d858a71f45cbe0c8b082147330c41e85fb24cb88751b2761045c00567",
+      "display_blob_sha": "b62a837c96240be8dc7748f722c7850bc8be379e",
+      "display_original_site_sha256": "74ba0e8c036700b6a9cbdced7b71b4958758e7782ed83f81c2eb5e663a3d5323",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-serpentaria/inat-657608478.jpg",
@@ -175,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b58337b868af145bb855b692348fa40482feb7a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -183,7 +203,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 360391552, photo 657608478, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d98eeec02598dca77bfb134e9695385b89c494c40b478878d24942d21957d0f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia serpentaria maps to indexed species aristolochia-serpentaria; specialist morphology and BONAP range deferred.",
-      "sha256": "d98eeec02598dca77bfb134e9695385b89c494c40b478878d24942d21957d0f5"
+      "sha256": "d98eeec02598dca77bfb134e9695385b89c494c40b478878d24942d21957d0f5",
+      "display_sha256": "92ad2ffa5bd64571d3dec52f4d1707c61e18f8c5bd4a4f829cc7d99641481761",
+      "display_blob_sha": "fb67f6f12b32bd1a0013bce1e7a97ea8538b64f3",
+      "display_original_site_sha256": "d98eeec02598dca77bfb134e9695385b89c494c40b478878d24942d21957d0f5",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

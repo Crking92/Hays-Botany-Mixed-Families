@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "0af70420958f8807ba8d18467d758fedd88f0e33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 199532828, photo 351895544, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 60a706c746ef442afa165fe4ace82f8ae2812b7143e1a6c31341c892e3b38486. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Diplotaxis muralis maps to indexed species diplotaxis-muralis; specialist morphology and BONAP range deferred.",
-      "sha256": "60a706c746ef442afa165fe4ace82f8ae2812b7143e1a6c31341c892e3b38486"
+      "sha256": "60a706c746ef442afa165fe4ace82f8ae2812b7143e1a6c31341c892e3b38486",
+      "display_sha256": "d450863051282135288ffee2c6f9edaf45189e1a3732f40e86840098a7e9a6b3",
+      "display_blob_sha": "438203fb4a2bf8a334ad2c84b7e9924b64d0c758",
+      "display_original_site_sha256": "60a706c746ef442afa165fe4ace82f8ae2812b7143e1a6c31341c892e3b38486",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diplotaxis-muralis/inat-565539964.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b614297d6df6027176bc70d1894bfa3e5ef0b188",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 313185215, photo 565539964, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb1e23307928f99624689943f3719a76fd9493981db6796bceec6341ca2690ab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Diplotaxis muralis maps to indexed species diplotaxis-muralis; specialist morphology and BONAP range deferred.",
-      "sha256": "eb1e23307928f99624689943f3719a76fd9493981db6796bceec6341ca2690ab"
+      "sha256": "eb1e23307928f99624689943f3719a76fd9493981db6796bceec6341ca2690ab",
+      "display_sha256": "d49806454bb182a4ed71b534d57385ff4f4ac4b55be06675cb470fa1fbef5bdc",
+      "display_blob_sha": "30481a067bd40e4de9172aa7335f25cfb9bc2ade",
+      "display_original_site_sha256": "eb1e23307928f99624689943f3719a76fd9493981db6796bceec6341ca2690ab",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diplotaxis-muralis/inat-592073475.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99e85a1996bfc6db0da32d36592efd1cd55d1e90",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 326867650, photo 592073475, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e67debdee96be5917e0393480a476c70c21d3a726a433476eef31428d3163d8e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Diplotaxis muralis maps to indexed species diplotaxis-muralis; specialist morphology and BONAP range deferred.",
-      "sha256": "e67debdee96be5917e0393480a476c70c21d3a726a433476eef31428d3163d8e"
+      "sha256": "e67debdee96be5917e0393480a476c70c21d3a726a433476eef31428d3163d8e",
+      "display_sha256": "8ce15921e0e5551f25de7f8b8871a5f772698f0a9c8ba41d53c6504cc9d6abd4",
+      "display_blob_sha": "4d5d876fb80289932c942d410dbd85fe7df7928d",
+      "display_original_site_sha256": "e67debdee96be5917e0393480a476c70c21d3a726a433476eef31428d3163d8e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diplotaxis-muralis/inat-595345497.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7356acd15fb36a0ba08da8c1f34cfffd98a0e689",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 328532836, photo 595345497, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b9f6d380836539d14456ff9e79da31b19fcb4ae6bde6f0cc03cde4850fea1503. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Diplotaxis muralis maps to indexed species diplotaxis-muralis; specialist morphology and BONAP range deferred.",
-      "sha256": "b9f6d380836539d14456ff9e79da31b19fcb4ae6bde6f0cc03cde4850fea1503"
+      "sha256": "b9f6d380836539d14456ff9e79da31b19fcb4ae6bde6f0cc03cde4850fea1503",
+      "display_sha256": "69b60d5ac32630c472403e018502d835ed2b2f4c9c84530651dbd16a5fc638eb",
+      "display_blob_sha": "8b3620593eaf8f3fd8992833e0dddd6f71cd8324",
+      "display_original_site_sha256": "b9f6d380836539d14456ff9e79da31b19fcb4ae6bde6f0cc03cde4850fea1503",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -79,7 +79,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dc26b7c73a45e12d9761aa073ab9d3e8595ba06d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +87,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341166844, photo 621010531, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e602d12dd732436af15f8afa274763bd949e3e224d07c2cc0f06ac69340cb369. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus ashei maps to indexed species juniperus-ashei; specialist morphology and BONAP range deferred.",
-      "sha256": "e602d12dd732436af15f8afa274763bd949e3e224d07c2cc0f06ac69340cb369"
+      "sha256": "e602d12dd732436af15f8afa274763bd949e3e224d07c2cc0f06ac69340cb369",
+      "display_sha256": "8d0ed8280c5930b2f303d6bd7cf3f45f820b585dab3132a7d59859458184cdde",
+      "display_blob_sha": "00dd7c18a5f5a9579555a93a42ddf6d75eb46a2b",
+      "display_original_site_sha256": "e602d12dd732436af15f8afa274763bd949e3e224d07c2cc0f06ac69340cb369",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-ashei/inat-621011192.jpg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7b41b2387c88bfdba6a3db2110a9094409cf57e5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +111,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341167110, photo 621011192, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af51ffa95e0fc719a3b7a44693bb83e4ce2386b36f02cea4e17df037e207084d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus ashei maps to indexed species juniperus-ashei; specialist morphology and BONAP range deferred.",
-      "sha256": "af51ffa95e0fc719a3b7a44693bb83e4ce2386b36f02cea4e17df037e207084d"
+      "sha256": "af51ffa95e0fc719a3b7a44693bb83e4ce2386b36f02cea4e17df037e207084d",
+      "display_sha256": "3acaed0fe50372f834652f5c06848e263cd43a098609f2ac242b6db7cbe89c73",
+      "display_blob_sha": "d0376765caab716808a208327be2096ffce93060",
+      "display_original_site_sha256": "af51ffa95e0fc719a3b7a44693bb83e4ce2386b36f02cea4e17df037e207084d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-ashei/inat-622220353.jpg",
@@ -117,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f6a256838e70cd3e2a8fc3742f653e9b7e7f5ce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +135,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341757781, photo 622220353, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e88e11685e7f27474023a62d423ad682f114748f6c97e61b87e0272ea256844. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus ashei maps to indexed species juniperus-ashei; specialist morphology and BONAP range deferred.",
-      "sha256": "8e88e11685e7f27474023a62d423ad682f114748f6c97e61b87e0272ea256844"
+      "sha256": "8e88e11685e7f27474023a62d423ad682f114748f6c97e61b87e0272ea256844",
+      "display_sha256": "24d9effa4e0789d16114c7ba63a9c68f775a62d4593a05915f7b7a6cd9802cdd",
+      "display_blob_sha": "48d6913cb3a9a23da09bad114a6978a245b9ba84",
+      "display_original_site_sha256": "8e88e11685e7f27474023a62d423ad682f114748f6c97e61b87e0272ea256844",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-ashei/inat-623708209.jpg",
@@ -136,7 +151,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bac6f551493741d3ae0de4a454ddb00bf998103e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -144,7 +159,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342492024, photo 623708209, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 357267e1033de6617600a92f6f5e96468c348982be237d0430f50e69c89c7c2f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus ashei maps to indexed species juniperus-ashei; specialist morphology and BONAP range deferred.",
-      "sha256": "357267e1033de6617600a92f6f5e96468c348982be237d0430f50e69c89c7c2f"
+      "sha256": "357267e1033de6617600a92f6f5e96468c348982be237d0430f50e69c89c7c2f",
+      "display_sha256": "7dc4b9c53792a127fe03fb0a7641215031b76c188d104c9f63896d3d8ec0fba1",
+      "display_blob_sha": "70066f8ab7bf73826a522c55e2493218115d3392",
+      "display_original_site_sha256": "357267e1033de6617600a92f6f5e96468c348982be237d0430f50e69c89c7c2f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-ashei/inat-624746858.jpg",
@@ -155,7 +175,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6db83bd7bd6386d40e72c1d9807318ded5ed4248",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -163,7 +183,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016691, photo 624746858, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 256d1f009a05ab97ffc87965e38f08ff0e35002dc3c46e429b5dddf350a4854c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus ashei maps to indexed species juniperus-ashei; specialist morphology and BONAP range deferred.",
-      "sha256": "256d1f009a05ab97ffc87965e38f08ff0e35002dc3c46e429b5dddf350a4854c"
+      "sha256": "256d1f009a05ab97ffc87965e38f08ff0e35002dc3c46e429b5dddf350a4854c",
+      "display_sha256": "5c6a0ea844ca8181a079a86019d9c05001bc9109aa7497556c440f0ef844ee9d",
+      "display_blob_sha": "8aa4940624f6378727bc0bdd353c503149ea2c4a",
+      "display_original_site_sha256": "256d1f009a05ab97ffc87965e38f08ff0e35002dc3c46e429b5dddf350a4854c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

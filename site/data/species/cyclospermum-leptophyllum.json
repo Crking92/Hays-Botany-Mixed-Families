@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1aa95eda1c9a5a7626d8d77716b1414be43e5af0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 277213244, photo 497769275, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45bef4cf470f259d493722e21a471ac290216d398aa07474a390a29751fccc29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cyclospermum leptophyllum maps to indexed species cyclospermum-leptophyllum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "45bef4cf470f259d493722e21a471ac290216d398aa07474a390a29751fccc29"
+      "sha256": "45bef4cf470f259d493722e21a471ac290216d398aa07474a390a29751fccc29",
+      "display_sha256": "7065e4ab71b080590b381098e0e32a561c2a01e9e7b31b8b6cfab35b050cd65d",
+      "display_blob_sha": "81327106153906287b0fa7e8f4da746bfe99ace1",
+      "display_original_site_sha256": "45bef4cf470f259d493722e21a471ac290216d398aa07474a390a29751fccc29",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyclospermum-leptophyllum/inat-498651300.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7af53cc8f715264da68e812fe0afe0e647934556",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 277712859, photo 498651300, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 06c71fce0b43855b4a87bc07ca32050302d84dbeb26d83e786580915675dea7e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cyclospermum leptophyllum maps to indexed species cyclospermum-leptophyllum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "06c71fce0b43855b4a87bc07ca32050302d84dbeb26d83e786580915675dea7e"
+      "sha256": "06c71fce0b43855b4a87bc07ca32050302d84dbeb26d83e786580915675dea7e",
+      "display_sha256": "50e0ae224579f10454b292939b4c8ef87ea5b0f86bbc4e902c72e2952e8f602f",
+      "display_blob_sha": "2da02c9c005ccb9dfba510a1e7dbf614a305d7cf",
+      "display_original_site_sha256": "06c71fce0b43855b4a87bc07ca32050302d84dbeb26d83e786580915675dea7e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyclospermum-leptophyllum/inat-643994471.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6b0896adce8fc38b90db277cd47aa9aabe107071",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352909243, photo 643994471, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea0544549e655fa1c30e2702bf9e2d6ad77c2d33b89227261fa41616a49032ff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cyclospermum leptophyllum maps to indexed species cyclospermum-leptophyllum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ea0544549e655fa1c30e2702bf9e2d6ad77c2d33b89227261fa41616a49032ff"
+      "sha256": "ea0544549e655fa1c30e2702bf9e2d6ad77c2d33b89227261fa41616a49032ff",
+      "display_sha256": "0456ef442cb030b7ce99087c85a44e9b635fd5040c2bcdba51d2da493d4cf967",
+      "display_blob_sha": "31ece1e44eab233c42b6d9bd6813c2a31b4aedd1",
+      "display_original_site_sha256": "ea0544549e655fa1c30e2702bf9e2d6ad77c2d33b89227261fa41616a49032ff",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyclospermum-leptophyllum/inat-646900365.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3117f5863d1c008299de8f3e3c7f8c39ba94d80c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353993791, photo 646900365, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e104365ea93e8a32813a46747400b80f57b720b30ea726e288ea13345a940dd6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cyclospermum leptophyllum maps to indexed species cyclospermum-leptophyllum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e104365ea93e8a32813a46747400b80f57b720b30ea726e288ea13345a940dd6"
+      "sha256": "e104365ea93e8a32813a46747400b80f57b720b30ea726e288ea13345a940dd6",
+      "display_sha256": "e5a6b3690958f2f0f19bb983c68871e6f65507191e00dc51640e10b82086b561",
+      "display_blob_sha": "a9b14d137f31f75f14c4535061f41f4fbc415cfa",
+      "display_original_site_sha256": "e104365ea93e8a32813a46747400b80f57b720b30ea726e288ea13345a940dd6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyclospermum-leptophyllum/inat-648378823.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "011d6557f21703e950ddc5b3fc623aba1fb697a9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355531778, photo 648378823, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a031dc21fd235865330b8813e4d5d796cd2dfbf3e27377ad136d4c096cc7db3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cyclospermum leptophyllum maps to indexed species cyclospermum-leptophyllum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "3a031dc21fd235865330b8813e4d5d796cd2dfbf3e27377ad136d4c096cc7db3"
+      "sha256": "3a031dc21fd235865330b8813e4d5d796cd2dfbf3e27377ad136d4c096cc7db3",
+      "display_sha256": "618bb0068a0addfebf7eadecf8b9005490db445a26d2bd99ea8d0bd7ef68d612",
+      "display_blob_sha": "1e316de8ff4413a76d063aa636557aee2e895e8b",
+      "display_original_site_sha256": "3a031dc21fd235865330b8813e4d5d796cd2dfbf3e27377ad136d4c096cc7db3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

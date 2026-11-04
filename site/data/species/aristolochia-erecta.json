@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85aabcdae616b91107320cad1dfa581d632367f0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 271615530, photo 488594458, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 076329245786624f96008b672bbb20a210e751150a69baa56d0659fd3373335d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia erecta maps to indexed species aristolochia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "076329245786624f96008b672bbb20a210e751150a69baa56d0659fd3373335d"
+      "sha256": "076329245786624f96008b672bbb20a210e751150a69baa56d0659fd3373335d",
+      "display_sha256": "9db6333a056e41fe01c077239db7a93bb23c9d0ad9da1790360c82f1c124c780",
+      "display_blob_sha": "d64c14db429e274a75ba4307330c233bbf971c36",
+      "display_original_site_sha256": "076329245786624f96008b672bbb20a210e751150a69baa56d0659fd3373335d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-erecta/inat-638261710.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae6b7132066b87f22f0cff3393ba43788fa5cc92",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349856589, photo 638261710, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f28f4d25b0585d9b00f47b62668b240530fb8fb6ca98546e8b4303e15ef0108. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia erecta maps to indexed species aristolochia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "7f28f4d25b0585d9b00f47b62668b240530fb8fb6ca98546e8b4303e15ef0108"
+      "sha256": "7f28f4d25b0585d9b00f47b62668b240530fb8fb6ca98546e8b4303e15ef0108",
+      "display_sha256": "7462d386fd810aca43b02eff124154be7fb438be9c2165e77b85cf418ec9704f",
+      "display_blob_sha": "cadb4e57c1a074816d582a731bcb46beb9d2920f",
+      "display_original_site_sha256": "7f28f4d25b0585d9b00f47b62668b240530fb8fb6ca98546e8b4303e15ef0108",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-erecta/inat-639314997.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "634b8dcb6f3f9a637e4832c06309a6ec78b47250",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350395236, photo 639314997, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 661920cebf2cbb4289fb2e7a65e28e4e97d25145af77e7dd07946196ed88c817. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia erecta maps to indexed species aristolochia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "661920cebf2cbb4289fb2e7a65e28e4e97d25145af77e7dd07946196ed88c817"
+      "sha256": "661920cebf2cbb4289fb2e7a65e28e4e97d25145af77e7dd07946196ed88c817",
+      "display_sha256": "6a4b43024d3bf937ea24248fbbc3a7e6a2d81f58ea7c0d8e3f073f890c2ea025",
+      "display_blob_sha": "471f9dd17f3ec9ef756cb4bb501115e20f3b9947",
+      "display_original_site_sha256": "661920cebf2cbb4289fb2e7a65e28e4e97d25145af77e7dd07946196ed88c817",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-erecta/inat-639331804.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "77b1a6ec366e06980459a130754a06ed4e13be23",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350403154, photo 639331804, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 044996b5cc5bb94c35f4ce2f68f0ebb0dcc2932c049bc9d31c571266ef562bec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia erecta maps to indexed species aristolochia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "044996b5cc5bb94c35f4ce2f68f0ebb0dcc2932c049bc9d31c571266ef562bec"
+      "sha256": "044996b5cc5bb94c35f4ce2f68f0ebb0dcc2932c049bc9d31c571266ef562bec",
+      "display_sha256": "96756b7b6aaed96ccbac718d54db21993577a61d743428654f97712f21dfdd1a",
+      "display_blob_sha": "7c90c74f870ddb54e2d57b5225e49d855a0d0f7c",
+      "display_original_site_sha256": "044996b5cc5bb94c35f4ce2f68f0ebb0dcc2932c049bc9d31c571266ef562bec",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/aristolochia-erecta/inat-660239459.jpg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1cfa44dd0d3e1f29232cfb955d6a89a812ce55c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 361762891, photo 660239459, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fe002c1df13cd34ba32de3b4a4ff031180b3dba3022a03ce7019673682943246. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Aristolochia erecta maps to indexed species aristolochia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "fe002c1df13cd34ba32de3b4a4ff031180b3dba3022a03ce7019673682943246"
+      "sha256": "fe002c1df13cd34ba32de3b4a4ff031180b3dba3022a03ce7019673682943246",
+      "display_sha256": "f2b2a9f280516a7d4b711b63758cade57c59a9238f0e4e6ffbc98e0e84f5b2f0",
+      "display_blob_sha": "45252a122fd99d1066eacade0aaf47d213b8b03d",
+      "display_original_site_sha256": "fe002c1df13cd34ba32de3b4a4ff031180b3dba3022a03ce7019673682943246",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

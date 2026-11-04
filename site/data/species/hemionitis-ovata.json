@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1682a88b11c0da90ac121d26cce4c6c0e019385d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343017427, photo 624747750, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89ff916fd1964b28369ae39dbfb7e245a4a2e8624ed8ef92b8172b3e899f2ad2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea ovata maps to indexed species hemionitis-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "89ff916fd1964b28369ae39dbfb7e245a4a2e8624ed8ef92b8172b3e899f2ad2"
+      "sha256": "89ff916fd1964b28369ae39dbfb7e245a4a2e8624ed8ef92b8172b3e899f2ad2",
+      "display_sha256": "905845e47cb8dc88c7e5c9d239ef2f213cc148fd96497c77c6f89e410ca4af8c",
+      "display_blob_sha": "3ff64c975858c9033ebc97ded07522ebadd8172e",
+      "display_original_site_sha256": "89ff916fd1964b28369ae39dbfb7e245a4a2e8624ed8ef92b8172b3e899f2ad2",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-ovata/inat-627260768.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b13c6ef2480ca2ca1eb74a9b6f542a34d405dc9b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344276963, photo 627260768, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc8240a7f97aec1c24a09d0acd93843c8ef626afc128c107b39a86ddbfe79b18.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea ovata maps to indexed species hemionitis-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "cc8240a7f97aec1c24a09d0acd93843c8ef626afc128c107b39a86ddbfe79b18"
+      "sha256": "cc8240a7f97aec1c24a09d0acd93843c8ef626afc128c107b39a86ddbfe79b18",
+      "display_sha256": "8f310531e8ef77353fa8d268d8a5d8ddeff52e41dfed4cc5a6e4474e6dfb6998",
+      "display_blob_sha": "5c055016fa0be2d23c40a238121f1deef7e4c10b",
+      "display_original_site_sha256": "cc8240a7f97aec1c24a09d0acd93843c8ef626afc128c107b39a86ddbfe79b18",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-ovata/inat-628229570.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "21faada4e54befc33663c8aad57d7ba665db571b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344773947, photo 628229570, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 23cef3c8c28e84a544eb4942c7fc591c8eede82711174b8879d0bccf3df30e5c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea ovata maps to indexed species hemionitis-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "23cef3c8c28e84a544eb4942c7fc591c8eede82711174b8879d0bccf3df30e5c"
+      "sha256": "23cef3c8c28e84a544eb4942c7fc591c8eede82711174b8879d0bccf3df30e5c",
+      "display_sha256": "0b03e5b9531f9d59c4f1c5e71f23d18d72e515d6578ed64199072a559ef8a249",
+      "display_blob_sha": "5c5ffe098e8c1fd8c848aef30a4658a9bf9e5a04",
+      "display_original_site_sha256": "23cef3c8c28e84a544eb4942c7fc591c8eede82711174b8879d0bccf3df30e5c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-ovata/inat-630293392.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1128e23d6e41fa10c54575177eae794e69fa23bd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345824191, photo 630293392, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a3899065923f0fd0e65ce355b3d188d1e3242b2d3ef0686e7dd7c355aa53ff5.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea ovata maps to indexed species hemionitis-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "1a3899065923f0fd0e65ce355b3d188d1e3242b2d3ef0686e7dd7c355aa53ff5"
+      "sha256": "1a3899065923f0fd0e65ce355b3d188d1e3242b2d3ef0686e7dd7c355aa53ff5",
+      "display_sha256": "3a154e9eeafcd1357e916c12c84333be5951e7c15c11b899ad8ff068a01b684a",
+      "display_blob_sha": "7dd57d0dfc26bbc32898ca5a8a4a90c70ead1af4",
+      "display_original_site_sha256": "1a3899065923f0fd0e65ce355b3d188d1e3242b2d3ef0686e7dd7c355aa53ff5",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-ovata/inat-650059014.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "228e89bfc692dbe94cd07daad667076d7eaaef29",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356462034, photo 650059014, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 564b409cb99835df4732c7f1ce7bc057206933532a9eb7b09e188ff6e27d9cb0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea ovata maps to indexed species hemionitis-ovata; specialist morphology and BONAP range deferred.",
-      "sha256": "564b409cb99835df4732c7f1ce7bc057206933532a9eb7b09e188ff6e27d9cb0"
+      "sha256": "564b409cb99835df4732c7f1ce7bc057206933532a9eb7b09e188ff6e27d9cb0",
+      "display_sha256": "83b31b3009d4a868a6a5f22550a8da1c9efeb19708fb51eee1ca635c6e57ff9a",
+      "display_blob_sha": "c3ff008166f4da20758114190890c4a4c516f326",
+      "display_original_site_sha256": "564b409cb99835df4732c7f1ce7bc057206933532a9eb7b09e188ff6e27d9cb0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-ovata/archived-67c478a9924b3bcc.jpg",

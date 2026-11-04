@@ -54,7 +54,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27f7c6553c8c6dfde70505c847dd6121b23ce5aa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -62,7 +62,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343391375, photo 625510065, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a17ed6935cc92965c58badd1523f9d633e3dc8e3b9116d6a15153337bfcaafb6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis dillenii maps to indexed species oxalis-dillenii; specialist morphology and BONAP range deferred.",
-      "sha256": "a17ed6935cc92965c58badd1523f9d633e3dc8e3b9116d6a15153337bfcaafb6"
+      "sha256": "a17ed6935cc92965c58badd1523f9d633e3dc8e3b9116d6a15153337bfcaafb6",
+      "display_sha256": "da5b085a3f6a65d8d20fc7fe1e24d6001d48979dedc27508475014856e221107",
+      "display_blob_sha": "46f31974d6fd4b32478929d9d2b2f686488f51a5",
+      "display_original_site_sha256": "a17ed6935cc92965c58badd1523f9d633e3dc8e3b9116d6a15153337bfcaafb6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-dillenii/inat-628106421.jpg",
@@ -73,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c092405d9766fcef7043c924c42d48ec7ea40e6e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344705659, photo 628106421, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 17d982b22ebd17e6bfed6840702ffa6ee6c5a4acabd5f962e0486b6c7394400e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis dillenii maps to indexed species oxalis-dillenii; specialist morphology and BONAP range deferred.",
-      "sha256": "17d982b22ebd17e6bfed6840702ffa6ee6c5a4acabd5f962e0486b6c7394400e"
+      "sha256": "17d982b22ebd17e6bfed6840702ffa6ee6c5a4acabd5f962e0486b6c7394400e",
+      "display_sha256": "ffc352bfe8a22e55c65e15319c959135ed5fd5bb0542c97cf42b6ad65b26e557",
+      "display_blob_sha": "ec378e9868ae6d7ab8a9c0405327e424873e7216",
+      "display_original_site_sha256": "17d982b22ebd17e6bfed6840702ffa6ee6c5a4acabd5f962e0486b6c7394400e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-dillenii/inat-628540320.jpg",
@@ -92,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "07572239adb4117a81b4262f3186adaf3ec2db1a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344934035, photo 628540320, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9689ec9480bd4fd8d27fac28b166e665c7c95b756fcd5066fc84a9b39c2d2f04. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis dillenii maps to indexed species oxalis-dillenii; specialist morphology and BONAP range deferred.",
-      "sha256": "9689ec9480bd4fd8d27fac28b166e665c7c95b756fcd5066fc84a9b39c2d2f04"
+      "sha256": "9689ec9480bd4fd8d27fac28b166e665c7c95b756fcd5066fc84a9b39c2d2f04",
+      "display_sha256": "1f93377750a573f6aee73ca801058444dda73520381176bce45efad4e2712d70",
+      "display_blob_sha": "3f68d3f7a425bced1b65d6e94d9c3b3af0f7b91d",
+      "display_original_site_sha256": "9689ec9480bd4fd8d27fac28b166e665c7c95b756fcd5066fc84a9b39c2d2f04",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-dillenii/inat-629704925.jpg",
@@ -111,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5d3e6a1c971880825a1623d8a28c22040170a132",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345526180, photo 629704925, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4e056e257933c0df5a0ad6daf329c8e2a89be2f74b51b817904c79635ddb1dcf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis dillenii maps to indexed species oxalis-dillenii; specialist morphology and BONAP range deferred.",
-      "sha256": "4e056e257933c0df5a0ad6daf329c8e2a89be2f74b51b817904c79635ddb1dcf"
+      "sha256": "4e056e257933c0df5a0ad6daf329c8e2a89be2f74b51b817904c79635ddb1dcf",
+      "display_sha256": "06695b7b18072933faf32cc681c12f637793304163eb75b715850f874591dfc0",
+      "display_blob_sha": "ba66601223bc71670dc1dba3cd95c7dad3e6708c",
+      "display_original_site_sha256": "4e056e257933c0df5a0ad6daf329c8e2a89be2f74b51b817904c79635ddb1dcf",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-dillenii/inat-633436688.jpg",
@@ -130,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15b7e9fcd065661589b26d7442f97d513b844f25",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 347412425, photo 633436688, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 288f649fd5a0163e667042f5d0161fb86439a52fc1447495bc800446e5e35c99. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis dillenii maps to indexed species oxalis-dillenii; specialist morphology and BONAP range deferred.",
-      "sha256": "288f649fd5a0163e667042f5d0161fb86439a52fc1447495bc800446e5e35c99"
+      "sha256": "288f649fd5a0163e667042f5d0161fb86439a52fc1447495bc800446e5e35c99",
+      "display_sha256": "0856080d76ecb468125324e8bf25782d4f81d78a1db04d7b404caf439d88f3c0",
+      "display_blob_sha": "dafce1b7a001e0ae0eba86e0e5aa504a0ee65d61",
+      "display_original_site_sha256": "288f649fd5a0163e667042f5d0161fb86439a52fc1447495bc800446e5e35c99",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-dillenii/archived-e06bfc180a2e167e.jpg",

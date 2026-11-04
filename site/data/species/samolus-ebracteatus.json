@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2a52b88cbcf836d784eda07a9a6030aefc0002d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346430273, photo 631487630, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 52d2bf63d52b341f5f7576c0cca54e9dea2c0781c9f0bd3bfb0fb7f84952548f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus ebracteatus maps to indexed species samolus-ebracteatus; specialist morphology and BONAP range deferred.",
-      "sha256": "52d2bf63d52b341f5f7576c0cca54e9dea2c0781c9f0bd3bfb0fb7f84952548f"
+      "sha256": "52d2bf63d52b341f5f7576c0cca54e9dea2c0781c9f0bd3bfb0fb7f84952548f",
+      "display_sha256": "b8d1a94ce56a8c7ea0d6c06ed39c4a51c237514bfe32aa0fe751c03853e7ca11",
+      "display_blob_sha": "66603d9edf1ff119d98d625f7578a49fe5f7f9a3",
+      "display_original_site_sha256": "52d2bf63d52b341f5f7576c0cca54e9dea2c0781c9f0bd3bfb0fb7f84952548f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-ebracteatus/inat-633297839.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "adece252e91aaa5ea30e6c23c6c94f161e688739",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347342677, photo 633297839, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea419f2ff90bbcdecef4c94c6a567e393431ce9ee6a0e6dbcbb5190077abf3f9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus ebracteatus maps to indexed species samolus-ebracteatus; specialist morphology and BONAP range deferred.",
-      "sha256": "ea419f2ff90bbcdecef4c94c6a567e393431ce9ee6a0e6dbcbb5190077abf3f9"
+      "sha256": "ea419f2ff90bbcdecef4c94c6a567e393431ce9ee6a0e6dbcbb5190077abf3f9",
+      "display_sha256": "82ab5040085552c003a9b1c47d6ffbeae8abaee3260b726ad982438b97ee587f",
+      "display_blob_sha": "1a2b40b840e7c895f34d06d9b47cd44a6fc4f566",
+      "display_original_site_sha256": "ea419f2ff90bbcdecef4c94c6a567e393431ce9ee6a0e6dbcbb5190077abf3f9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-ebracteatus/inat-640803830.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e891eb6b81a4ff959aca3de06fd5b511c5402fb3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 351170934, photo 640803830, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 180f9f7ead03666c83b368eed305c1e620809384064cf0a681643556bb65f43a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus ebracteatus maps to indexed species samolus-ebracteatus; specialist morphology and BONAP range deferred.",
-      "sha256": "180f9f7ead03666c83b368eed305c1e620809384064cf0a681643556bb65f43a"
+      "sha256": "180f9f7ead03666c83b368eed305c1e620809384064cf0a681643556bb65f43a",
+      "display_sha256": "67fc301b28e80497de67b4d868bb42b9cdad6ae3a46f9bc5fc3a206ff6f2a5ab",
+      "display_blob_sha": "de5f53af54524e098c68c70da99077855b27514b",
+      "display_original_site_sha256": "180f9f7ead03666c83b368eed305c1e620809384064cf0a681643556bb65f43a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-ebracteatus/inat-644424162.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "653171ab7b15d62791188ef4f6b3c4ca56c0302c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353172290, photo 644424162, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb82e0d7162e45cbff4e5d540e7d8eb2e6c1da17916b3f86c6b97ffa6f493b60.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus ebracteatus maps to indexed species samolus-ebracteatus; specialist morphology and BONAP range deferred.",
-      "sha256": "cb82e0d7162e45cbff4e5d540e7d8eb2e6c1da17916b3f86c6b97ffa6f493b60"
+      "sha256": "cb82e0d7162e45cbff4e5d540e7d8eb2e6c1da17916b3f86c6b97ffa6f493b60",
+      "display_sha256": "5bfc9b0dd24944561ca4cc95572610f37fba2acaabe59667ae8c1715932b1ad0",
+      "display_blob_sha": "cb39a534c5ba0582b7b213418b995a8dd6000462",
+      "display_original_site_sha256": "cb82e0d7162e45cbff4e5d540e7d8eb2e6c1da17916b3f86c6b97ffa6f493b60",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-ebracteatus/inat-648360641.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11e244653bc160fbdc6bfe41c8fe7a7878244c49",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 355520375, photo 648360641, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d71644742d85f01dca3342c77ded51cf3e955d823950b75d640177f40d85432f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus ebracteatus maps to indexed species samolus-ebracteatus; specialist morphology and BONAP range deferred.",
-      "sha256": "d71644742d85f01dca3342c77ded51cf3e955d823950b75d640177f40d85432f"
+      "sha256": "d71644742d85f01dca3342c77ded51cf3e955d823950b75d640177f40d85432f",
+      "display_sha256": "6bb6c16103714eb19ff75f8435c0e38f8daaaea26af355e038ab3c255072c155",
+      "display_blob_sha": "a22e4227012b93701e4b41c7ffa068ee8dbd1729",
+      "display_original_site_sha256": "d71644742d85f01dca3342c77ded51cf3e955d823950b75d640177f40d85432f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-ebracteatus/archived-3ddb86fd487fa99d.jpg",

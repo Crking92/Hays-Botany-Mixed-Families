@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ddcdd239e1ca3ba1689e868e3e723c42fa1781af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 276150971, photo 495988459, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a311178c229855fb4ce8efb8e87c9595fb01cec7f5beece613dd353d137c8a65. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Daucus pusillus maps to indexed species daucus-pusillus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a311178c229855fb4ce8efb8e87c9595fb01cec7f5beece613dd353d137c8a65"
+      "sha256": "a311178c229855fb4ce8efb8e87c9595fb01cec7f5beece613dd353d137c8a65",
+      "display_sha256": "b989c99f8ae714e9af67d1344fe97f9f8431c8b3b477ec8325075c08adcadf65",
+      "display_blob_sha": "f43d74b7e815055829cae46556bcbcd330e1db8b",
+      "display_original_site_sha256": "a311178c229855fb4ce8efb8e87c9595fb01cec7f5beece613dd353d137c8a65",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/daucus-pusillus/inat-640325433.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63c558e15133ebecd6990e5fab736dc4c16255b1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356170316, photo 649514899, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f044be603b396617a214be62e6144facf8562ecfde84699c18305ca356a369a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Daucus pusillus maps to indexed species daucus-pusillus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f044be603b396617a214be62e6144facf8562ecfde84699c18305ca356a369a6"
+      "sha256": "f044be603b396617a214be62e6144facf8562ecfde84699c18305ca356a369a6",
+      "display_sha256": "aaf12edf9f60b1dc4e3cecfe5aaef321c4aa4270793a18bb64b2b411f6ff3e6d",
+      "display_blob_sha": "74ce97097478090b8ffbd290bbf852a032c99f39",
+      "display_original_site_sha256": "f044be603b396617a214be62e6144facf8562ecfde84699c18305ca356a369a6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/daucus-pusillus/inat-652415930.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "c5a6e24086bae9184cb7afbb39735d1876126f43",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 357687488, photo 652415930, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24c758718acb46d7b2fb3113758ca8bea5f0a02da97af6de7f18242a925c69b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Daucus pusillus maps to indexed species daucus-pusillus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "24c758718acb46d7b2fb3113758ca8bea5f0a02da97af6de7f18242a925c69b1"
+      "sha256": "24c758718acb46d7b2fb3113758ca8bea5f0a02da97af6de7f18242a925c69b1",
+      "display_sha256": "8e863364d8107476893a684748156e403714f5772cc17f9123b772dad7d3a779",
+      "display_blob_sha": "a2874d398110d48378a69ae8741e1a932f800365",
+      "display_original_site_sha256": "24c758718acb46d7b2fb3113758ca8bea5f0a02da97af6de7f18242a925c69b1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/daucus-pusillus/inat-663291046.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "98ef833c033da7a965b1d9839fb185b5a086e7ba",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 363371864, photo 663291046, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a5e156d0bcfa1f69fc79afd9ca6cb1efa92d28a7cd6f095ba3efc88b47b32cda. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Daucus pusillus maps to indexed species daucus-pusillus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a5e156d0bcfa1f69fc79afd9ca6cb1efa92d28a7cd6f095ba3efc88b47b32cda"
+      "sha256": "a5e156d0bcfa1f69fc79afd9ca6cb1efa92d28a7cd6f095ba3efc88b47b32cda",
+      "display_sha256": "405473e80330ef992cc4d4cd665cc769b7bb6d35d1849923523acc09f914eb02",
+      "display_blob_sha": "ccf1d5771daeb98d388fc85282c7e68bb37876ae",
+      "display_original_site_sha256": "a5e156d0bcfa1f69fc79afd9ca6cb1efa92d28a7cd6f095ba3efc88b47b32cda",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

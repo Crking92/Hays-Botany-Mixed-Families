@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4303f4ea640d1a16efb7e4e3df36b18e5b16102f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 7078261, photo 9091881, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 488611555af1b3cfd56d2f46a43c183e338cf4c10e069ea8a450ade6b8d4ef06. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Polanisia dodecandra trachysperma maps to indexed species cleome-trachysperma; specialist morphology and BONAP range deferred.",
-      "sha256": "488611555af1b3cfd56d2f46a43c183e338cf4c10e069ea8a450ade6b8d4ef06"
+      "sha256": "488611555af1b3cfd56d2f46a43c183e338cf4c10e069ea8a450ade6b8d4ef06",
+      "display_sha256": "d4afffc8d3c5f50a8c8cfc8d2d161cd42c06b0a5c51add88b5baf07cb3f58bd0",
+      "display_blob_sha": "9500d9ce11a03f5e726007eda0eb5999fad0d9d9",
+      "display_original_site_sha256": "488611555af1b3cfd56d2f46a43c183e338cf4c10e069ea8a450ade6b8d4ef06",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

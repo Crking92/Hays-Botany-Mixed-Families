@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d3b2a326c719243163f55329e3d117ba2b55e8fb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341109357, photo 620892552, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 960a8137aba5816295a3f72641ed1ca34ca72df8c26eadd06423d8dfa1235a3e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Geranium carolinianum maps to indexed species geranium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "960a8137aba5816295a3f72641ed1ca34ca72df8c26eadd06423d8dfa1235a3e"
+      "sha256": "960a8137aba5816295a3f72641ed1ca34ca72df8c26eadd06423d8dfa1235a3e",
+      "display_sha256": "23f0b4236e4a35471155657f91626572f3a3765628b610d72bc920f3de2b522a",
+      "display_blob_sha": "29fa8a3982e0bea98c8d66438fb1a23a11290ac1",
+      "display_original_site_sha256": "960a8137aba5816295a3f72641ed1ca34ca72df8c26eadd06423d8dfa1235a3e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/geranium-carolinianum/inat-620906361.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1f2c9dc01dd272b28d9f442d33935c607dba3756",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343174750, photo 625065615, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4fdcab3feb2116069e2d0771c1d2ad72681a943ecf813a94f60baa6657d28c8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Geranium carolinianum maps to indexed species geranium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "d4fdcab3feb2116069e2d0771c1d2ad72681a943ecf813a94f60baa6657d28c8"
+      "sha256": "d4fdcab3feb2116069e2d0771c1d2ad72681a943ecf813a94f60baa6657d28c8",
+      "display_sha256": "1938b2cca9251af155b690472237dfd953c4e563c835154110a239e618786524",
+      "display_blob_sha": "97310babd3b5eb33d7a4e67ff2778ca4b618d1b1",
+      "display_original_site_sha256": "d4fdcab3feb2116069e2d0771c1d2ad72681a943ecf813a94f60baa6657d28c8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/geranium-carolinianum/inat-626171347.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "ac16bc2fbe7d32ca38c7ecc0baca4fc785ca457b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345418596, photo 629498984, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: c50df1204953426e047f14f719aa6350ab4983a6aa03b184ae7bff9d5fd0453d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Geranium carolinianum maps to indexed species geranium-carolinianum; specialist morphology and BONAP range deferred.",
-      "sha256": "c50df1204953426e047f14f719aa6350ab4983a6aa03b184ae7bff9d5fd0453d"
+      "sha256": "c50df1204953426e047f14f719aa6350ab4983a6aa03b184ae7bff9d5fd0453d",
+      "display_sha256": "8679dfa871dc30bdf4a8db74fa28362e908082df057bf0970e709366108ecf7b",
+      "display_blob_sha": "8f8dd553c766fc349a5ac84a552f233e64c9a0c9",
+      "display_original_site_sha256": "c50df1204953426e047f14f719aa6350ab4983a6aa03b184ae7bff9d5fd0453d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

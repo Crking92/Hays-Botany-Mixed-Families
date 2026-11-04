@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5bcd26bc8b87722c996efae470a0d32c95d82161",
       "role": "Young fern frond detail among litter (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 342247494 contains photo 623210250 under individual cc-by-nc license; original image bytes have SHA256 96d07673a74e304dc6d0c4c44cf73ab954a972d3399047033296242919ceb50e matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron ovatum matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "96d07673a74e304dc6d0c4c44cf73ab954a972d3399047033296242919ceb50e"
+      "sha256": "96d07673a74e304dc6d0c4c44cf73ab954a972d3399047033296242919ceb50e",
+      "display_sha256": "c05455d30da9b81903c7909e1d70d20c003e8e34ad3b8409988d1d3066a47259",
+      "display_blob_sha": "093ec2eeb236fd32e8a8e9149742baee1f97a4df",
+      "display_original_site_sha256": "96d07673a74e304dc6d0c4c44cf73ab954a972d3399047033296242919ceb50e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-ovata/inat-624017095.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "397955e4266283a7feeedcc336ca17229d1f06a6",
       "role": "Fern fronds along a shaded rocky trunk (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 342645095 contains photo 624017095 under individual cc-by-nc license; original image bytes have SHA256 8aee13eb5cda0706508ba0eaff3f0a6dd9e211b05a38aaab73709a919b47f4ef matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron ovatum matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "8aee13eb5cda0706508ba0eaff3f0a6dd9e211b05a38aaab73709a919b47f4ef"
+      "sha256": "8aee13eb5cda0706508ba0eaff3f0a6dd9e211b05a38aaab73709a919b47f4ef",
+      "display_sha256": "31d2a1b9a25769b4331d9de03b44b31b83f0b68dddc2754ab5d1d1e464680e2b",
+      "display_blob_sha": "ed6f47f5b2856a1978e9d1d517308d61990090a0",
+      "display_original_site_sha256": "8aee13eb5cda0706508ba0eaff3f0a6dd9e211b05a38aaab73709a919b47f4ef",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-ovata/inat-625225428.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9615eb55b435bd2d64a83bc659f4c1b4aceb2bf2",
       "role": "Frond form in rocky habitat (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 343251314 contains photo 625225428 under individual cc-by-nc license; original image bytes have SHA256 bc0c8653e6e5853b20bacb59fa46cf68ebe51b8143429da70f74220b7b400cb1 matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron ovatum matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "bc0c8653e6e5853b20bacb59fa46cf68ebe51b8143429da70f74220b7b400cb1"
+      "sha256": "bc0c8653e6e5853b20bacb59fa46cf68ebe51b8143429da70f74220b7b400cb1",
+      "display_sha256": "5f1e444b6eca1a99e7e6fba7f2be0feabd33be9cbe01f2ea5ac908af70530737",
+      "display_blob_sha": "4315fc8fdadc8dc3955594b5e36b10d9e37cc11e",
+      "display_original_site_sha256": "bc0c8653e6e5853b20bacb59fa46cf68ebe51b8143429da70f74220b7b400cb1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-ovata/inat-626103822.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd0a903a88c84b7eacc1f0314741fbcb66a70729",
       "role": "Open fern frond and rocky soil habitat (general fern view; diagnostic anatomy/precise identification deferred)",
-      "modified": "Original unchanged iNaturalist image",
+      "modified": "Resized and recompressed web display copy; source note: Original unchanged iNaturalist image",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first approval with individual source license checked (CC0 or CC BY-NC), original image hash and basic fern subject check. An earlier ZIP media-license string may differ where live iNaturalist now records CC0.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany 2026-11-02 ZIP contact-sheet and live photo-specific iNaturalist source review",
       "source_review_evidence": "Provider live observation 343682922 contains photo 626103822 under individual cc-by-nc license; original image bytes have SHA256 9b070940adee6d858d52c27ff375d575b47ca8fb673ffdd4142e187ad0361213 matching original uploaded ZIP, with true creator attributed.",
       "taxon_review_evidence": "Live iNaturalist taxon pelazoneuron ovatum matches photo's assigned species or documented scientific synonym. Uploaded visual contact sheet shows fern fronds and no obvious mismatched organism; complete morphology later.",
-      "sha256": "9b070940adee6d858d52c27ff375d575b47ca8fb673ffdd4142e187ad0361213"
+      "sha256": "9b070940adee6d858d52c27ff375d575b47ca8fb673ffdd4142e187ad0361213",
+      "display_sha256": "41e922522459a94cb1e0c3baf5e1ed7262dbabf0db83156c79e07da9eef8fc84",
+      "display_blob_sha": "fb3b1abcd7128dee9ba56ba3516b11e5ed14e7fa",
+      "display_original_site_sha256": "9b070940adee6d858d52c27ff375d575b47ca8fb673ffdd4142e187ad0361213",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thelypteris-ovata/archived-462cd0005bad5588.jpg",

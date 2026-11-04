@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9971c983558d51e9b5c00da7e0646810acda0dc4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353074547, photo 644278981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 32159c94e6eca61668b141cd61a47473a8b68a3d82b6a03a83978a39b4a6fd02. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia angustifolia maps to indexed species galphimia-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "32159c94e6eca61668b141cd61a47473a8b68a3d82b6a03a83978a39b4a6fd02"
+      "sha256": "32159c94e6eca61668b141cd61a47473a8b68a3d82b6a03a83978a39b4a6fd02",
+      "display_sha256": "526e069fca1aff164089af51c969108a4a637930ccb7a0e91ac5fcbd6ad0d224",
+      "display_blob_sha": "30bcda3b2fb43db2980621b9db9ede18ff6bad4a",
+      "display_original_site_sha256": "32159c94e6eca61668b141cd61a47473a8b68a3d82b6a03a83978a39b4a6fd02",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-angustifolia/inat-646589385.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e6828d5d9539c735c4cf1ea7ed156c79468a71d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354442134, photo 646589385, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5d83a703d0f7b3c614abe60e230516cc2734a083b0408baab91e974cd7b09b74. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia angustifolia maps to indexed species galphimia-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "5d83a703d0f7b3c614abe60e230516cc2734a083b0408baab91e974cd7b09b74"
+      "sha256": "5d83a703d0f7b3c614abe60e230516cc2734a083b0408baab91e974cd7b09b74",
+      "display_sha256": "229bf86063ae5cfe61bbe06c44f5e1664a7ed5df073f0fda71f7c4b98c36c023",
+      "display_blob_sha": "da8c7abd853f2f280e316f064c7e08cb5d0065dc",
+      "display_original_site_sha256": "5d83a703d0f7b3c614abe60e230516cc2734a083b0408baab91e974cd7b09b74",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-angustifolia/inat-650974977.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5147cb273457d048c88bf615976af4946a93a868",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356946316, photo 650974977, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53296dfe08fa569e2870824ce1455dcb0e1455dae758d5bd63a974985ff67398. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia angustifolia maps to indexed species galphimia-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "53296dfe08fa569e2870824ce1455dcb0e1455dae758d5bd63a974985ff67398"
+      "sha256": "53296dfe08fa569e2870824ce1455dcb0e1455dae758d5bd63a974985ff67398",
+      "display_sha256": "dc7f7399bf96983e14969b55c46c06f67bc50b271d580ab5d5ce0220f47d891f",
+      "display_blob_sha": "84ca9629cbedc57284c500ca95e8b6578afeacf7",
+      "display_original_site_sha256": "53296dfe08fa569e2870824ce1455dcb0e1455dae758d5bd63a974985ff67398",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-angustifolia/inat-682103520.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cf790129897c82ed78d4ec85ac67390dd291075",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 373243530, photo 682103520, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 69b6175773de1c7f0545fd35e6dd5b8a5429cf92e1c6da061d1147ae21725233. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Galphimia angustifolia maps to indexed species galphimia-angustifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "69b6175773de1c7f0545fd35e6dd5b8a5429cf92e1c6da061d1147ae21725233"
+      "sha256": "69b6175773de1c7f0545fd35e6dd5b8a5429cf92e1c6da061d1147ae21725233",
+      "display_sha256": "47d6f17dd469e9852e53c1b53f602e58145c0c664fbfd5778c0baffaf3321403",
+      "display_blob_sha": "117200aec6ba01d807cb0901bb34837f50dcab46",
+      "display_original_site_sha256": "69b6175773de1c7f0545fd35e6dd5b8a5429cf92e1c6da061d1147ae21725233",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galphimia-angustifolia/archived-9c329525a7dac5c8.jpg",

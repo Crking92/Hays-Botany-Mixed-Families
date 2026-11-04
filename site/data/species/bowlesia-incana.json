@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e92e26c9c035cf40220c8cbfba5af32cbdbb1364",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343641154, photo 626053692, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 339bb618c702a634996b1a5d173719f6e9d05fe415bb8e7718f5f855094f38f1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bowlesia incana maps to indexed species bowlesia-incana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "339bb618c702a634996b1a5d173719f6e9d05fe415bb8e7718f5f855094f38f1"
+      "sha256": "339bb618c702a634996b1a5d173719f6e9d05fe415bb8e7718f5f855094f38f1",
+      "display_sha256": "d1c731b3f63b5890d688ca51cb60938796c05f37e719aa079cbfd90253eaf2fe",
+      "display_blob_sha": "cdc04eb572569f7d13f62b2f48a43677ea7342f9",
+      "display_original_site_sha256": "339bb618c702a634996b1a5d173719f6e9d05fe415bb8e7718f5f855094f38f1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bowlesia-incana/inat-630548406.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fdf82e39dd7ff4a286cb7d3f3828f7cdde9614db",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 348128271, photo 634857069, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 71493f9a88a65e1a2f61c008ef4013baefd95d312fd36bcf8b58cc6f61ee093a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bowlesia incana maps to indexed species bowlesia-incana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "71493f9a88a65e1a2f61c008ef4013baefd95d312fd36bcf8b58cc6f61ee093a"
+      "sha256": "71493f9a88a65e1a2f61c008ef4013baefd95d312fd36bcf8b58cc6f61ee093a",
+      "display_sha256": "1acb7d6951f1269632744fe1aadcbdbe7cba1f9b51ef2ba24d2e41bfbeb719ed",
+      "display_blob_sha": "c5805575df2890e2d9335917a5d4d892d9a2910a",
+      "display_original_site_sha256": "71493f9a88a65e1a2f61c008ef4013baefd95d312fd36bcf8b58cc6f61ee093a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bowlesia-incana/inat-640423208.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "854fb9e5cc003a08e39d58421272f218866c7af3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350971530, photo 640423208, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fd0b4e342f63ddb7f9ab2ad20811cc1ce16cf40335651c3c14aaa3c3e1faf2e0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bowlesia incana maps to indexed species bowlesia-incana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "fd0b4e342f63ddb7f9ab2ad20811cc1ce16cf40335651c3c14aaa3c3e1faf2e0"
+      "sha256": "fd0b4e342f63ddb7f9ab2ad20811cc1ce16cf40335651c3c14aaa3c3e1faf2e0",
+      "display_sha256": "23bfe260c20f65378701c8f9e4fba2a899671f9ae179f8aa245e4ab693ec259b",
+      "display_blob_sha": "c98c345f7bdeaa2749562cb1a85cfa0914de9306",
+      "display_original_site_sha256": "fd0b4e342f63ddb7f9ab2ad20811cc1ce16cf40335651c3c14aaa3c3e1faf2e0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bowlesia-incana/inat-644366947.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "729641143b31129474f663d12bacc0d63f74294b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353124903, photo 644366947, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: febb7611424b025dcf3086f3b524fcdaa776104a2fecd980736c730fd44fbfed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Bowlesia incana maps to indexed species bowlesia-incana (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "febb7611424b025dcf3086f3b524fcdaa776104a2fecd980736c730fd44fbfed"
+      "sha256": "febb7611424b025dcf3086f3b524fcdaa776104a2fecd980736c730fd44fbfed",
+      "display_sha256": "37388ee664359c8ec2a6e9767c060df12d73ed9c0d634a23dd90e52e3f7f0ad6",
+      "display_blob_sha": "0b78d8662dcb9d4303404d890aaac8063dd19253",
+      "display_original_site_sha256": "febb7611424b025dcf3086f3b524fcdaa776104a2fecd980736c730fd44fbfed",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

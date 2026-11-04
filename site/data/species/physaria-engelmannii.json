@@ -95,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "98e3b8f45cbc00f3e1016910b2b622b3e51a6439",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 115835617, photo 195502893, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18fa8ba76148a65ecff19767384edf715f9938204cea22ce70fe04c09c7e1847. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria engelmannii maps to indexed species physaria-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "18fa8ba76148a65ecff19767384edf715f9938204cea22ce70fe04c09c7e1847"
+      "sha256": "18fa8ba76148a65ecff19767384edf715f9938204cea22ce70fe04c09c7e1847",
+      "display_sha256": "48b46f31b067474dfaf25109b2c7cf3ad7e373f5783710108c652db5d8f0f013",
+      "display_blob_sha": "bfe86550713899abb51f7347e74f502e376ab859",
+      "display_original_site_sha256": "18fa8ba76148a65ecff19767384edf715f9938204cea22ce70fe04c09c7e1847",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-engelmannii/inat-650503893.jpg",
@@ -114,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "bb538128b0b570a6f4cacfdec460534565588555",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356698043, photo 650503893, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 84fc70fcb0a8ac4e0c29d45ed126b084838c7e64c0b2ce9386e3c8d86635fce4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria engelmannii maps to indexed species physaria-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "84fc70fcb0a8ac4e0c29d45ed126b084838c7e64c0b2ce9386e3c8d86635fce4"
+      "sha256": "84fc70fcb0a8ac4e0c29d45ed126b084838c7e64c0b2ce9386e3c8d86635fce4",
+      "display_sha256": "24fa700abc0001a5a0cdc550559ad72beb6e34194644b901070796b6293206a3",
+      "display_blob_sha": "d4b9290a843560796f6b381c72576d5227d73624",
+      "display_original_site_sha256": "84fc70fcb0a8ac4e0c29d45ed126b084838c7e64c0b2ce9386e3c8d86635fce4",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physaria-engelmannii/inat-68830434.jpeg",
@@ -133,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "55dcadf36d68e54fe0a8b81a8e30ba18770fcd2f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 43377467, photo 68830434, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: acd6589759b0565977d9cd05b6b140b9b2006f77de7c79190b1e6420a2b0b237. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Physaria engelmannii maps to indexed species physaria-engelmannii; specialist morphology and BONAP range deferred.",
-      "sha256": "acd6589759b0565977d9cd05b6b140b9b2006f77de7c79190b1e6420a2b0b237"
+      "sha256": "acd6589759b0565977d9cd05b6b140b9b2006f77de7c79190b1e6420a2b0b237",
+      "display_sha256": "8efa416394d4af70c27e61ab1f8db86f2ed2ae9514a8bc49b57ee4629f107edf",
+      "display_blob_sha": "28b912e6c0f9db3519bc7590ade501198e1f0eab",
+      "display_original_site_sha256": "acd6589759b0565977d9cd05b6b140b9b2006f77de7c79190b1e6420a2b0b237",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

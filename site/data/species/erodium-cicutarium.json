@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c4d4376277c5e2759676612c003be7252afc7698",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342282646, photo 623280053, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53b014ba4bc92ddd31968ca129985a08a9c856081006a7a8ed0a4d695af4aa2d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Erodium cicutarium maps to indexed species erodium-cicutarium; specialist morphology and BONAP range deferred.",
-      "sha256": "53b014ba4bc92ddd31968ca129985a08a9c856081006a7a8ed0a4d695af4aa2d"
+      "sha256": "53b014ba4bc92ddd31968ca129985a08a9c856081006a7a8ed0a4d695af4aa2d",
+      "display_sha256": "8c77955902332db0d264b7f0e5c11555e1e0bf1fc2c2643f08ef808188546dcd",
+      "display_blob_sha": "bed4bf3c17dfb098085092bae8defd7ea1b8215a",
+      "display_original_site_sha256": "53b014ba4bc92ddd31968ca129985a08a9c856081006a7a8ed0a4d695af4aa2d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/erodium-cicutarium/inat-623298035.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3fc5a3286ce49c41842002568139579fc9f7bc18",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342291548, photo 623298035, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a06028d0c519a6f1df55f86f5299a19f66591b3ec739b06dae9ff3a3c24c1c88. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Erodium cicutarium maps to indexed species erodium-cicutarium; specialist morphology and BONAP range deferred.",
-      "sha256": "a06028d0c519a6f1df55f86f5299a19f66591b3ec739b06dae9ff3a3c24c1c88"
+      "sha256": "a06028d0c519a6f1df55f86f5299a19f66591b3ec739b06dae9ff3a3c24c1c88",
+      "display_sha256": "b77d5b2051d883d97899b05dfe56c111c34a8f29c4de052dd9cc38d54f14db72",
+      "display_blob_sha": "9a0972207f385f43dfa45a7db0f7f1b63ca66c40",
+      "display_original_site_sha256": "a06028d0c519a6f1df55f86f5299a19f66591b3ec739b06dae9ff3a3c24c1c88",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/erodium-cicutarium/inat-626775825.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "07ae6866de1b4c6c2aafeba5d3df71048a2817de",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344023325, photo 626775825, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9be1c2d1be1f3bf1a7e247848f0a8861c7dbbf42ccbe1e972d3ba520c40bfe41. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Erodium cicutarium maps to indexed species erodium-cicutarium; specialist morphology and BONAP range deferred.",
-      "sha256": "9be1c2d1be1f3bf1a7e247848f0a8861c7dbbf42ccbe1e972d3ba520c40bfe41"
+      "sha256": "9be1c2d1be1f3bf1a7e247848f0a8861c7dbbf42ccbe1e972d3ba520c40bfe41",
+      "display_sha256": "17fc687e7aebb4d02a014ab8fc233014c86f0025340424a85472ac25782a8f27",
+      "display_blob_sha": "88ebb74900f6d1f96c895b5a01d5bd7230fdc44d",
+      "display_original_site_sha256": "9be1c2d1be1f3bf1a7e247848f0a8861c7dbbf42ccbe1e972d3ba520c40bfe41",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/erodium-cicutarium/inat-626912207.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a292930ddd70269349bcfa71b80bd2657f87472",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344092755, photo 626912207, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 14089d954dfeaa6f54e0539c8a382ba4c126e61fe533fe98f5f511d3945f0f8d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Erodium cicutarium maps to indexed species erodium-cicutarium; specialist morphology and BONAP range deferred.",
-      "sha256": "14089d954dfeaa6f54e0539c8a382ba4c126e61fe533fe98f5f511d3945f0f8d"
+      "sha256": "14089d954dfeaa6f54e0539c8a382ba4c126e61fe533fe98f5f511d3945f0f8d",
+      "display_sha256": "5495abe28f4338f1bcaa9405d7ce12056464aa8466020dc74d19277fa34fb3f3",
+      "display_blob_sha": "1cdda60c6595c5b416e5fa2ac854031a5f54a36f",
+      "display_original_site_sha256": "14089d954dfeaa6f54e0539c8a382ba4c126e61fe533fe98f5f511d3945f0f8d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "342b33854abc7e5d9e5e20d1bd242d284ba6181c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344773700, photo 628229103, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 06ff327a1853c6aa3fea164fb5dfbe5210e23b5ffcc282470ef3d0357247d1c4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea atropurpurea maps to indexed species hemionitis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "06ff327a1853c6aa3fea164fb5dfbe5210e23b5ffcc282470ef3d0357247d1c4"
+      "sha256": "06ff327a1853c6aa3fea164fb5dfbe5210e23b5ffcc282470ef3d0357247d1c4",
+      "display_sha256": "841334e9298e9455a15c3f35d995854b1d9b29116d8577e5cba1d357f3c8b610",
+      "display_blob_sha": "a1bfcfb911d9cb0a3408c2e7169f12c409416e55",
+      "display_original_site_sha256": "06ff327a1853c6aa3fea164fb5dfbe5210e23b5ffcc282470ef3d0357247d1c4",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-atropurpurea/inat-649889951.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "303f91e89f9f7fb217d9993b521b63b98a0f71cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356370294, photo 649889951, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49fc3c10fa24770b8f7a23d0f1cf771b46170cb67a02c5e6ec11904f6cc10f97.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea atropurpurea maps to indexed species hemionitis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "49fc3c10fa24770b8f7a23d0f1cf771b46170cb67a02c5e6ec11904f6cc10f97"
+      "sha256": "49fc3c10fa24770b8f7a23d0f1cf771b46170cb67a02c5e6ec11904f6cc10f97",
+      "display_sha256": "efa82087fa274cc383b71d738d1623db23c281e02b4a7bb29b23cd192bffe126",
+      "display_blob_sha": "18400ed8a7239e0d84055d4ad5e6b334d9b7befc",
+      "display_original_site_sha256": "49fc3c10fa24770b8f7a23d0f1cf771b46170cb67a02c5e6ec11904f6cc10f97",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-atropurpurea/inat-650051086.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b58e9ffdf0f884183b9fb435a4ff79e0b383460d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 356457782, photo 650051086, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 738848a3915cdde42b96c9eae0e02c784a565b0133dd9a7c27809775b34f2f6b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea atropurpurea maps to indexed species hemionitis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "738848a3915cdde42b96c9eae0e02c784a565b0133dd9a7c27809775b34f2f6b"
+      "sha256": "738848a3915cdde42b96c9eae0e02c784a565b0133dd9a7c27809775b34f2f6b",
+      "display_sha256": "14db0c969b5a50068721277bcfba9bb86fae06032bbcca0383de591c4931aedb",
+      "display_blob_sha": "3f8f27ce35dc61cd16de1a525f8ed19dd1ee41d8",
+      "display_original_site_sha256": "738848a3915cdde42b96c9eae0e02c784a565b0133dd9a7c27809775b34f2f6b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-atropurpurea/inat-655141986.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2bf32bb0ca26b9149996595cff823f00855c757",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 359094424, photo 655141986, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4eb9907cbfe9b54cb93429a12ce804da40e98d6e86458c122b4557d4d1adc2b3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea atropurpurea maps to indexed species hemionitis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "4eb9907cbfe9b54cb93429a12ce804da40e98d6e86458c122b4557d4d1adc2b3"
+      "sha256": "4eb9907cbfe9b54cb93429a12ce804da40e98d6e86458c122b4557d4d1adc2b3",
+      "display_sha256": "9ccfc0567608c47e95591ba03437bd01def66d1bc8e3f41d0b5390618245d6ae",
+      "display_blob_sha": "91d6f231ece5c8ac94a2d04d6a448d84a3d848bd",
+      "display_original_site_sha256": "4eb9907cbfe9b54cb93429a12ce804da40e98d6e86458c122b4557d4d1adc2b3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-atropurpurea/inat-657614496.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0c1f4c0d522a4c7663dbb1567deeed69bd9dac0b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 360394512, photo 657614496, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24d21ec46377eb1646fa4b5df29351310aa001d95a93d3a1487341f5b2928b12.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea atropurpurea maps to indexed species hemionitis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "24d21ec46377eb1646fa4b5df29351310aa001d95a93d3a1487341f5b2928b12"
+      "sha256": "24d21ec46377eb1646fa4b5df29351310aa001d95a93d3a1487341f5b2928b12",
+      "display_sha256": "d18236c0b3fb495ccfc22bab495e9bdbd3a48968eb451b0ca29b2570d90ab764",
+      "display_blob_sha": "224ab5d07971615c3cbe3fb7ffde7063da65f367",
+      "display_original_site_sha256": "24d21ec46377eb1646fa4b5df29351310aa001d95a93d3a1487341f5b2928b12",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-atropurpurea/archived-1102682ae19792af.jpg",

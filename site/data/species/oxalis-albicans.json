@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9cda7b0ee36bab3737f92b1ef3c097f10e9b1ba7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 71068178, photo 115646168, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a1c59072223dc49730d9800afd4157f78b4bf96b5d84b23047e64ff5dcca3b96. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis albicans maps to indexed species oxalis-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "a1c59072223dc49730d9800afd4157f78b4bf96b5d84b23047e64ff5dcca3b96"
+      "sha256": "a1c59072223dc49730d9800afd4157f78b4bf96b5d84b23047e64ff5dcca3b96",
+      "display_sha256": "f72a6b498b557549473189a57a4309d1910e406c7c788fc87fb7e41177080fd2",
+      "display_blob_sha": "f417f5a39053b52ccdf2539a55102009f5435bd2",
+      "display_original_site_sha256": "a1c59072223dc49730d9800afd4157f78b4bf96b5d84b23047e64ff5dcca3b96",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-albicans/inat-117032187.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a5f649bc4c98cada392551b2e4fc972d24d6a509",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 71842298, photo 117032187, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ac158310829e7b4f5acea96c77c170c327265918147476c6040341055f02537. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis albicans maps to indexed species oxalis-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "6ac158310829e7b4f5acea96c77c170c327265918147476c6040341055f02537"
+      "sha256": "6ac158310829e7b4f5acea96c77c170c327265918147476c6040341055f02537",
+      "display_sha256": "1e17a883fe38a1ed10ea8d5110a2846c9611a7df679271037bbab7a68b6ef591",
+      "display_blob_sha": "570b5c61ef9d3362dc060cf8f8bf54a0b92f6a5e",
+      "display_original_site_sha256": "6ac158310829e7b4f5acea96c77c170c327265918147476c6040341055f02537",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-albicans/inat-143539657.jpeg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0f6d1f09c56a8991f2840404d1623adae2227472",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 87077857, photo 143539657, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 22470e9a2b294f65f4b71853f56a1dadf331ca4e9f417c54c4374d33a07f9a28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis albicans maps to indexed species oxalis-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "22470e9a2b294f65f4b71853f56a1dadf331ca4e9f417c54c4374d33a07f9a28"
+      "sha256": "22470e9a2b294f65f4b71853f56a1dadf331ca4e9f417c54c4374d33a07f9a28",
+      "display_sha256": "babc78e553ca902f01a7a8033fbeb951ff5eeecaffd9a54ab1878f69b688347c",
+      "display_blob_sha": "5603d45b1a9993dde0f71672c6f74d7223da24ed",
+      "display_original_site_sha256": "22470e9a2b294f65f4b71853f56a1dadf331ca4e9f417c54c4374d33a07f9a28",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-albicans/inat-512699593.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "59baa44f49fb9766b3424d2fea45f71f6438ff3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 285241520, photo 512699593, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c38980ef4aa1efd1a516e70854b25652cafc7242ed0b0662ccaa3fa0df2ed7dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis albicans maps to indexed species oxalis-albicans; specialist morphology and BONAP range deferred.",
-      "sha256": "c38980ef4aa1efd1a516e70854b25652cafc7242ed0b0662ccaa3fa0df2ed7dd"
+      "sha256": "c38980ef4aa1efd1a516e70854b25652cafc7242ed0b0662ccaa3fa0df2ed7dd",
+      "display_sha256": "7068fb1885711962ca6168fbe26310c4718388440bac86b85adac51edf05070f",
+      "display_blob_sha": "ebd2af6c5be21c0878b32c8fc415ebf10b3125ff",
+      "display_original_site_sha256": "c38980ef4aa1efd1a516e70854b25652cafc7242ed0b0662ccaa3fa0df2ed7dd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-albicans/archived-0d04ee651c16cde0.jpg",

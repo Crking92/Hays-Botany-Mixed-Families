@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e4e07cd4ea5d5f201d7470468d43019ae276638",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 208089867, photo 368137763, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f6f24a002dcdb3bafc2c4500a3047e983053ae019ee858df1e27fde81f19ec7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pleopeltis michauxiana maps to indexed species pleopeltis-michauxiana; specialist morphology and BONAP range deferred.",
-      "sha256": "9f6f24a002dcdb3bafc2c4500a3047e983053ae019ee858df1e27fde81f19ec7"
+      "sha256": "9f6f24a002dcdb3bafc2c4500a3047e983053ae019ee858df1e27fde81f19ec7",
+      "display_sha256": "74f499d01f478f3ee4c683def6d99cd9622ad149c7786686b829d92776e33622",
+      "display_blob_sha": "94e188df49514406a5d47e11530689979dc0b843",
+      "display_original_site_sha256": "9f6f24a002dcdb3bafc2c4500a3047e983053ae019ee858df1e27fde81f19ec7",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pleopeltis-michauxiana/inat-373178420.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f66d2cc29a7bd114f9c601ee755e47d8b4b0983",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 211061928, photo 373178420, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cfc4f382bdb16114f6907709c34159e8505abd7e41631aeb4a36af33eec08c6f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pleopeltis michauxiana maps to indexed species pleopeltis-michauxiana; specialist morphology and BONAP range deferred.",
-      "sha256": "cfc4f382bdb16114f6907709c34159e8505abd7e41631aeb4a36af33eec08c6f"
+      "sha256": "cfc4f382bdb16114f6907709c34159e8505abd7e41631aeb4a36af33eec08c6f",
+      "display_sha256": "5e566f9118ef3995fdebde46a306059dd1ea3842a85e3370dce1df1741e4d7d3",
+      "display_blob_sha": "91b22583e8d08c09e03129c5b22576b03b0661a5",
+      "display_original_site_sha256": "cfc4f382bdb16114f6907709c34159e8505abd7e41631aeb4a36af33eec08c6f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pleopeltis-michauxiana/inat-373274951.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a50baa1bdf89a628b935b512c3029d64dafda628",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 211102731, photo 373274951, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 59871d8c4c0474be619585f90075d7ba90af98c6638ca059a1b6bf03cbcd18fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pleopeltis michauxiana maps to indexed species pleopeltis-michauxiana; specialist morphology and BONAP range deferred.",
-      "sha256": "59871d8c4c0474be619585f90075d7ba90af98c6638ca059a1b6bf03cbcd18fd"
+      "sha256": "59871d8c4c0474be619585f90075d7ba90af98c6638ca059a1b6bf03cbcd18fd",
+      "display_sha256": "e8672a6d100edb1155ed3f902447cbf857af8abef9a8486ec4bd2e66adf75681",
+      "display_blob_sha": "75be329c8cf9d51d6dc4b97fe8df6a7b38447abd",
+      "display_original_site_sha256": "59871d8c4c0474be619585f90075d7ba90af98c6638ca059a1b6bf03cbcd18fd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pleopeltis-michauxiana/inat-491811859.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7fd4a4c74a034d91fe5b4ce4577d575b37d8a180",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 273450811, photo 491811859, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9efd92e2610a4dcd9371a88f12b44af243abcaa40a5f7d65e0821eeed1927b6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pleopeltis michauxiana maps to indexed species pleopeltis-michauxiana; specialist morphology and BONAP range deferred.",
-      "sha256": "9efd92e2610a4dcd9371a88f12b44af243abcaa40a5f7d65e0821eeed1927b6a"
+      "sha256": "9efd92e2610a4dcd9371a88f12b44af243abcaa40a5f7d65e0821eeed1927b6a",
+      "display_sha256": "d55f86bbd9089c39623ed13d92b4b9ff01cf961393726e61a6bc0b772aec358d",
+      "display_blob_sha": "89d603d7656861a217c76f149fab00905847f6ad",
+      "display_original_site_sha256": "9efd92e2610a4dcd9371a88f12b44af243abcaa40a5f7d65e0821eeed1927b6a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pleopeltis-michauxiana/inat-623132549.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b25af150f8f943c4f7e5030d3aaa3c0c1e170bb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342208576, photo 623132549, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0e598055c3d603d7e99d3d4d3b245b01922258d6fafc7acb0983ec9748151452. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pleopeltis michauxiana maps to indexed species pleopeltis-michauxiana; specialist morphology and BONAP range deferred.",
-      "sha256": "0e598055c3d603d7e99d3d4d3b245b01922258d6fafc7acb0983ec9748151452"
+      "sha256": "0e598055c3d603d7e99d3d4d3b245b01922258d6fafc7acb0983ec9748151452",
+      "display_sha256": "0897974fd6cc1332ac5339e60f79f14635cbfc16dc2caf082e5e87ee8c853467",
+      "display_blob_sha": "1a2982b3e2ff2069de0011c58c89b3392f03cd1c",
+      "display_original_site_sha256": "0e598055c3d603d7e99d3d4d3b245b01922258d6fafc7acb0983ec9748151452",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pleopeltis-michauxiana/archived-50e8eaf324398b6b.jpg",

@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "313fbd0f371393cbdfe8929fa1c86bc554616853",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 271856880, photo 489047025, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5728835f936ff07bb9f789e4628d0f99e3da11b8a521871e17ef3429a2752c37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sanicula canadensis maps to indexed species sanicula-canadensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5728835f936ff07bb9f789e4628d0f99e3da11b8a521871e17ef3429a2752c37"
+      "sha256": "5728835f936ff07bb9f789e4628d0f99e3da11b8a521871e17ef3429a2752c37",
+      "display_sha256": "dc76c297a886a5506ad2182abc27c60ac90b388dc57c7350891e96c75bc890e3",
+      "display_blob_sha": "649ed40e139ee6540ef12738deea34c3821d6ec9",
+      "display_original_site_sha256": "5728835f936ff07bb9f789e4628d0f99e3da11b8a521871e17ef3429a2752c37",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sanicula-canadensis/inat-647142651.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "f1218c9646ab2449bfbe3e904b004e0d4e053c34",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354769144, photo 647142651, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 056575ae6cef4addf1cc943c9babcfa59ac5011859e5dad986cf43f5b9ab9bb3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sanicula canadensis maps to indexed species sanicula-canadensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "056575ae6cef4addf1cc943c9babcfa59ac5011859e5dad986cf43f5b9ab9bb3"
+      "sha256": "056575ae6cef4addf1cc943c9babcfa59ac5011859e5dad986cf43f5b9ab9bb3",
+      "display_sha256": "2af0d6ea30db8ce139a22cc2edf2126de80e4bc4213c0aeb856487b77ed06d5d",
+      "display_blob_sha": "2eb1ea74ce4812fa3bec1660912b9c97f9a1ba3a",
+      "display_original_site_sha256": "056575ae6cef4addf1cc943c9babcfa59ac5011859e5dad986cf43f5b9ab9bb3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sanicula-canadensis/inat-649427814.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "35cc6f5090fb73fa75aa00b3b07e2e8e14fc6888",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356123138, photo 649427814, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d98a3855c60282e009433908156aac2acd88178570a5258e6b5068c95654b040. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sanicula canadensis maps to indexed species sanicula-canadensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d98a3855c60282e009433908156aac2acd88178570a5258e6b5068c95654b040"
+      "sha256": "d98a3855c60282e009433908156aac2acd88178570a5258e6b5068c95654b040",
+      "display_sha256": "567a746f127cac69babce892ea3efee809e26bfb4ae3bb18d1ce2de3fd28f6be",
+      "display_blob_sha": "6221f5198a5f2d2d44854652eac1b68646fbf161",
+      "display_original_site_sha256": "d98a3855c60282e009433908156aac2acd88178570a5258e6b5068c95654b040",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sanicula-canadensis/inat-660982162.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f504247bcceb63655d929a4eae9ff7022d7f59e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 362158984, photo 660982162, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6617d40240a53dd38bab31812f1c7509bcee295249ca01860bbb95869259a5f0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sanicula canadensis maps to indexed species sanicula-canadensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6617d40240a53dd38bab31812f1c7509bcee295249ca01860bbb95869259a5f0"
+      "sha256": "6617d40240a53dd38bab31812f1c7509bcee295249ca01860bbb95869259a5f0",
+      "display_sha256": "540d130050c4317736352d0573dbdc8379af1af9887afb79e4cdd511232b1f01",
+      "display_blob_sha": "30adc76ed44038cddb70f729d5fc612efb88403e",
+      "display_original_site_sha256": "6617d40240a53dd38bab31812f1c7509bcee295249ca01860bbb95869259a5f0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sanicula-canadensis/inat-666553108.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "17f9ebf10cab5aa58809c14c48f6e8b93b6d8dee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 365098497, photo 666553108, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a184f40c2ee51b932409bba17b26eec7f3a2b52274cbe71ed0b47e6d22ca4366. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sanicula canadensis maps to indexed species sanicula-canadensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a184f40c2ee51b932409bba17b26eec7f3a2b52274cbe71ed0b47e6d22ca4366"
+      "sha256": "a184f40c2ee51b932409bba17b26eec7f3a2b52274cbe71ed0b47e6d22ca4366",
+      "display_sha256": "6d3d5e817e019fc0401dfba37d820d28cc5e61f07ade5e9b453b8d05faafc340",
+      "display_blob_sha": "402818a916c36a92ae6f43a8b74ac9a42e845533",
+      "display_original_site_sha256": "a184f40c2ee51b932409bba17b26eec7f3a2b52274cbe71ed0b47e6d22ca4366",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

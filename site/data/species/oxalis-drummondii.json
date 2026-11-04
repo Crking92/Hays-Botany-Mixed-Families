@@ -37,7 +37,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "747c9b11fd17b8c61c12e57c2a598c0af78f2ee1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -45,7 +45,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345070218, photo 628809449, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8b29ed525dbbc60b02cb427d99132732fb8923e3cfab880ceb4e1450c52fb931. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis drummondii maps to indexed species oxalis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "8b29ed525dbbc60b02cb427d99132732fb8923e3cfab880ceb4e1450c52fb931"
+      "sha256": "8b29ed525dbbc60b02cb427d99132732fb8923e3cfab880ceb4e1450c52fb931",
+      "display_sha256": "aa450c30266f787813d3d5fa0de4ae1ae06624b0efb4070e82e3f1bbf4bf61f9",
+      "display_blob_sha": "a8aadad98449370dcadf1679802561694589bab8",
+      "display_original_site_sha256": "8b29ed525dbbc60b02cb427d99132732fb8923e3cfab880ceb4e1450c52fb931",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-drummondii/inat-643866337.jpg",
@@ -56,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ac0733f6d2bb9dc940aeb1e47128d47e82aec232",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -64,7 +69,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 352830583, photo 643866337, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3c7c89c1462017c947c7b0a84d98dd64e232f7920c0c4fc778a5802630927c32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis drummondii maps to indexed species oxalis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "3c7c89c1462017c947c7b0a84d98dd64e232f7920c0c4fc778a5802630927c32"
+      "sha256": "3c7c89c1462017c947c7b0a84d98dd64e232f7920c0c4fc778a5802630927c32",
+      "display_sha256": "660f991ba8b0b1c44260c3aefc8633833992a023a3d0481b222861053f180756",
+      "display_blob_sha": "9757e372891db00bf7008c04c4404f01865f225c",
+      "display_original_site_sha256": "3c7c89c1462017c947c7b0a84d98dd64e232f7920c0c4fc778a5802630927c32",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-drummondii/inat-645236988.jpg",
@@ -75,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3cf931ad656673e3e0f87d4694c7f7685bb0b16a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -83,7 +93,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 353654983, photo 645236988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80b0a2d37c1a6aae115e70072b4cbcce703c7d8406ce0d90c055042a6889089d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis drummondii maps to indexed species oxalis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "80b0a2d37c1a6aae115e70072b4cbcce703c7d8406ce0d90c055042a6889089d"
+      "sha256": "80b0a2d37c1a6aae115e70072b4cbcce703c7d8406ce0d90c055042a6889089d",
+      "display_sha256": "c6366089f2a3dba2cbeea843dae4113d5918c6c21af2cac6036203adb8fc54f2",
+      "display_blob_sha": "3f9df54d74439d47e6874faf2459b18c5d4ba7ff",
+      "display_original_site_sha256": "80b0a2d37c1a6aae115e70072b4cbcce703c7d8406ce0d90c055042a6889089d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-drummondii/inat-645488976.jpg",
@@ -94,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e38b28b3721218d9562409abf9fd17befdb6f665",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -102,7 +117,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 353802265, photo 645488976, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d61517c1c6cba1eb35847ce10e132c4da8c1e0fbb2c245f5f0613e10fb796c7e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis drummondii maps to indexed species oxalis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "d61517c1c6cba1eb35847ce10e132c4da8c1e0fbb2c245f5f0613e10fb796c7e"
+      "sha256": "d61517c1c6cba1eb35847ce10e132c4da8c1e0fbb2c245f5f0613e10fb796c7e",
+      "display_sha256": "4aa742811f3357db479657726613653344190b37293e671d72bee2186b02ed2e",
+      "display_blob_sha": "50ae0d96fcb14df3ea97249c1b37555e48695aa6",
+      "display_original_site_sha256": "d61517c1c6cba1eb35847ce10e132c4da8c1e0fbb2c245f5f0613e10fb796c7e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-drummondii/inat-646047786.jpg",
@@ -113,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "61b0e2a4d7d56c5b5c38ae7c6c531451ab2afb3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -121,7 +141,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 354110561, photo 646047786, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bc88409226216597c60fc73f000f64f56da12d69ca53c786d5ffe6cabb1a16a3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis drummondii maps to indexed species oxalis-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "bc88409226216597c60fc73f000f64f56da12d69ca53c786d5ffe6cabb1a16a3"
+      "sha256": "bc88409226216597c60fc73f000f64f56da12d69ca53c786d5ffe6cabb1a16a3",
+      "display_sha256": "47191442991564651af707602e3107b8f773cc4f5541c71008d6d3870baa47c4",
+      "display_blob_sha": "849456c94f5351d7cb5b1b6827da5e364913bc96",
+      "display_original_site_sha256": "bc88409226216597c60fc73f000f64f56da12d69ca53c786d5ffe6cabb1a16a3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-drummondii/conrad-public-domain-88ee3545e9f4f671.jpg",

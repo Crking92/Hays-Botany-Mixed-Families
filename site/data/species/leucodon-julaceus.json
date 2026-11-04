@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "67aa1dab272f2c7f50f8b03cbc60145f2a90f56b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353788406, photo 645464886, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 74528891e52046c29d723e1ba25430c9a5c807871fd1f96e89bc5b18114c5a19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Leucodon julaceus maps to indexed species leucodon-julaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "74528891e52046c29d723e1ba25430c9a5c807871fd1f96e89bc5b18114c5a19"
+      "sha256": "74528891e52046c29d723e1ba25430c9a5c807871fd1f96e89bc5b18114c5a19",
+      "display_sha256": "49de090b20ef40a0095b79d7d5fc201d9631de2e7bb895556678fe5fd1ca34f1",
+      "display_blob_sha": "f371bc4445d2a49cfc108b2d946687337d18645a",
+      "display_original_site_sha256": "74528891e52046c29d723e1ba25430c9a5c807871fd1f96e89bc5b18114c5a19",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucodon-julaceus/inat-646560571.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "948a487be9ae97fff3c4982b0d2e277c378d4565",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354425931, photo 646560571, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: feb42527f88efd0f9b43d5695a14cb3adf8afbed08dfed23285244379b502108. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Leucodon julaceus maps to indexed species leucodon-julaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "feb42527f88efd0f9b43d5695a14cb3adf8afbed08dfed23285244379b502108"
+      "sha256": "feb42527f88efd0f9b43d5695a14cb3adf8afbed08dfed23285244379b502108",
+      "display_sha256": "cfb3d5daa4e1d540093ec81105d80f047ad691819ea3a56b39fff10afdfc7520",
+      "display_blob_sha": "fe2cc4448436d42287d99fb21b667f2321ca650f",
+      "display_original_site_sha256": "feb42527f88efd0f9b43d5695a14cb3adf8afbed08dfed23285244379b502108",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucodon-julaceus/inat-646846140.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "33843b82d19bd557b7288b1c7d7bceb18391ccdf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354599046, photo 646846140, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48e58b169ed235513a10307ac0cc99475b093a7931248098119eef1f3f7ab37e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Leucodon julaceus maps to indexed species leucodon-julaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "48e58b169ed235513a10307ac0cc99475b093a7931248098119eef1f3f7ab37e"
+      "sha256": "48e58b169ed235513a10307ac0cc99475b093a7931248098119eef1f3f7ab37e",
+      "display_sha256": "dc22cc94833d4976a97b2da6098d6429699c58198f24f50a32f0dccd9c050571",
+      "display_blob_sha": "178ace9f00c9ad022232f5252157a5c8d5fed5e5",
+      "display_original_site_sha256": "48e58b169ed235513a10307ac0cc99475b093a7931248098119eef1f3f7ab37e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucodon-julaceus/inat-650449758.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "194a8b4af0b3dfa4f39534b8e37cc248b0e6117d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356670512, photo 650449758, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 71527331c854fb7d5ce7250c5e1d2c6177ea17a430f34bc656f68bbc871e15de. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Leucodon julaceus maps to indexed species leucodon-julaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "71527331c854fb7d5ce7250c5e1d2c6177ea17a430f34bc656f68bbc871e15de"
+      "sha256": "71527331c854fb7d5ce7250c5e1d2c6177ea17a430f34bc656f68bbc871e15de",
+      "display_sha256": "1c07b11f5284bd918555d9e766528fc53cac07d79b3087be1c78ad7087cf93e7",
+      "display_blob_sha": "ad4a0ccf48cd25b520d06ed395cd03c9dcdb0127",
+      "display_original_site_sha256": "71527331c854fb7d5ce7250c5e1d2c6177ea17a430f34bc656f68bbc871e15de",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/leucodon-julaceus/inat-655036330.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d58539cdd5998f1b508f28b8a3fafda11044d37c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 359048373, photo 655036330, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: affb7eaee94e7d98801b2eb04c80867365b208c2b0b616821b75641e6e553c12. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Leucodon julaceus maps to indexed species leucodon-julaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "affb7eaee94e7d98801b2eb04c80867365b208c2b0b616821b75641e6e553c12"
+      "sha256": "affb7eaee94e7d98801b2eb04c80867365b208c2b0b616821b75641e6e553c12",
+      "display_sha256": "3df4ba7f042edf12c8cb8338c6d1407d9bd7e3e59c4a5c5f4cef165bb3ac677a",
+      "display_blob_sha": "cda57ee57700bba29d173b71f20d6e065b20188b",
+      "display_original_site_sha256": "affb7eaee94e7d98801b2eb04c80867365b208c2b0b616821b75641e6e553c12",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

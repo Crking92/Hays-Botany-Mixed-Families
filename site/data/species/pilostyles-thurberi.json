@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "70118d943817a2798eb434bc242e70a9eb76fbc1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344277622, photo 627269320, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8308748fb780d7b34fba3b03558a622e35ab41a3b492ebafb57d4692607748ef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pilostyles thurberi maps to indexed species pilostyles-thurberi; specialist morphology and BONAP range deferred.",
-      "sha256": "8308748fb780d7b34fba3b03558a622e35ab41a3b492ebafb57d4692607748ef"
+      "sha256": "8308748fb780d7b34fba3b03558a622e35ab41a3b492ebafb57d4692607748ef",
+      "display_sha256": "299cdc64403d6e828c3f0d835a0b9206848d4658e1d45840b52ff9828c742090",
+      "display_blob_sha": "a4a625246705fa4bafe121f4f3adff8da56f9eb5",
+      "display_original_site_sha256": "8308748fb780d7b34fba3b03558a622e35ab41a3b492ebafb57d4692607748ef",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pilostyles-thurberi/inat-639795340.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d464cb4e263a9d83bd2f7ea79d49da026ffaa079",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350639523, photo 639795340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5353bbe368e52deb5a371d73ed85de1409063c7f49e8f5ff0d353464213a197b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pilostyles thurberi maps to indexed species pilostyles-thurberi; specialist morphology and BONAP range deferred.",
-      "sha256": "5353bbe368e52deb5a371d73ed85de1409063c7f49e8f5ff0d353464213a197b"
+      "sha256": "5353bbe368e52deb5a371d73ed85de1409063c7f49e8f5ff0d353464213a197b",
+      "display_sha256": "c33d20541482a2a0366c215708d146627a46e05fb39a78e8c5560476004fafdc",
+      "display_blob_sha": "960ae504c14e346bfeed3f8139398e0e21587f72",
+      "display_original_site_sha256": "5353bbe368e52deb5a371d73ed85de1409063c7f49e8f5ff0d353464213a197b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pilostyles-thurberi/inat-643353938.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27a8ee8838afd3a5a57c8c20f2c18f5292a76a09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352486173, photo 643353938, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9927edcb41602f70645afd97624d176cd79a6c2d47f95d6b8275a563a4a104cd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pilostyles thurberi maps to indexed species pilostyles-thurberi; specialist morphology and BONAP range deferred.",
-      "sha256": "9927edcb41602f70645afd97624d176cd79a6c2d47f95d6b8275a563a4a104cd"
+      "sha256": "9927edcb41602f70645afd97624d176cd79a6c2d47f95d6b8275a563a4a104cd",
+      "display_sha256": "6979c5204fe670698635024f84a782525548d1defbdf8d71d6e4970e615edfc9",
+      "display_blob_sha": "e8a90715630ac9983a8d386b0cf5b851ecc07885",
+      "display_original_site_sha256": "9927edcb41602f70645afd97624d176cd79a6c2d47f95d6b8275a563a4a104cd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pilostyles-thurberi/inat-669593543.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e72062d1875805c978f951936e03409e2983cb5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 366695247, photo 669593543, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff3d9c598754a298db0df55509a0321ea3376c2f6eb9bbfac57d30fb82e76392. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pilostyles thurberi maps to indexed species pilostyles-thurberi; specialist morphology and BONAP range deferred.",
-      "sha256": "ff3d9c598754a298db0df55509a0321ea3376c2f6eb9bbfac57d30fb82e76392"
+      "sha256": "ff3d9c598754a298db0df55509a0321ea3376c2f6eb9bbfac57d30fb82e76392",
+      "display_sha256": "e013f98128585b74f708d235dd43642bb3098d30d3007d6ca3140e0554789b65",
+      "display_blob_sha": "f857c026c25a8b9b04832c412c33c586167ce46f",
+      "display_original_site_sha256": "ff3d9c598754a298db0df55509a0321ea3376c2f6eb9bbfac57d30fb82e76392",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pilostyles-thurberi/inat-675433586.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "714058a5861b09b28d7718b9c278b50eed1e90ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 369756336, photo 675433586, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b7ee3e9c918903f9c7765bd000f8bab4c3f5b532fc1cfc7f97566258b160af2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pilostyles thurberi maps to indexed species pilostyles-thurberi; specialist morphology and BONAP range deferred.",
-      "sha256": "6b7ee3e9c918903f9c7765bd000f8bab4c3f5b532fc1cfc7f97566258b160af2"
+      "sha256": "6b7ee3e9c918903f9c7765bd000f8bab4c3f5b532fc1cfc7f97566258b160af2",
+      "display_sha256": "d3163fce9c9b8afabd545e2783eae811ac7d7dbb74c31769eae49422be5019ca",
+      "display_blob_sha": "0d4d8797c6fbe9f45086720a6ebe23b01c78cd09",
+      "display_original_site_sha256": "6b7ee3e9c918903f9c7765bd000f8bab4c3f5b532fc1cfc7f97566258b160af2",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

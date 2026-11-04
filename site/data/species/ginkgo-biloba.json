@@ -130,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b866dd773bd53bb0db61ef8d6a82fd4a25eac6ad",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349403760, photo 637373887, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c0431acd4f8cedfb878a4a9cc03012faf63cbf71c302b81925b56bc9f8538108. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Ginkgo biloba maps to indexed species ginkgo-biloba; specialist morphology and BONAP range deferred.",
-      "sha256": "c0431acd4f8cedfb878a4a9cc03012faf63cbf71c302b81925b56bc9f8538108"
+      "sha256": "c0431acd4f8cedfb878a4a9cc03012faf63cbf71c302b81925b56bc9f8538108",
+      "display_sha256": "431d750472e9d652a229d435f9e0f076412513a003c79cb007688709fe275a71",
+      "display_blob_sha": "ee155eb38b8aab831699fdcbe91c2261a8650dfe",
+      "display_original_site_sha256": "c0431acd4f8cedfb878a4a9cc03012faf63cbf71c302b81925b56bc9f8538108",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ginkgo-biloba/inat-725394435.jpg",
@@ -149,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9271bcd986ed67aa8ee51854d33cb0dc0434a661",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 395607915, photo 725394435, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9462869684850c89db953492cadc69b21e04fc66a74411bb3fcd650037bae994. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Ginkgo biloba maps to indexed species ginkgo-biloba; specialist morphology and BONAP range deferred.",
-      "sha256": "9462869684850c89db953492cadc69b21e04fc66a74411bb3fcd650037bae994"
+      "sha256": "9462869684850c89db953492cadc69b21e04fc66a74411bb3fcd650037bae994",
+      "display_sha256": "6037c967d026796061c115108f7616e0ceba7347c3455a46e9640ae2d5f542ca",
+      "display_blob_sha": "65cada311a5365a3641f0c3252d3e980a489bc52",
+      "display_original_site_sha256": "9462869684850c89db953492cadc69b21e04fc66a74411bb3fcd650037bae994",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ginkgo-biloba/inat-741169986.jpg",
@@ -168,7 +178,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "974b063aa68445488051223fa5e8de1f0b551b8c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +186,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 403657634, photo 741169986, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7172e1fe142d17ad6bfb111e0769431ffdf9a7a99dd20fbc8e20662e427a78a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Ginkgo biloba maps to indexed species ginkgo-biloba; specialist morphology and BONAP range deferred.",
-      "sha256": "7172e1fe142d17ad6bfb111e0769431ffdf9a7a99dd20fbc8e20662e427a78a1"
+      "sha256": "7172e1fe142d17ad6bfb111e0769431ffdf9a7a99dd20fbc8e20662e427a78a1",
+      "display_sha256": "8cd9c0caecc5c98923618bd66ff627c21ff2ea07ce6fa93aace15dd530edde51",
+      "display_blob_sha": "7f744cda6f25a055ee43a372742448b08a247f2a",
+      "display_original_site_sha256": "7172e1fe142d17ad6bfb111e0769431ffdf9a7a99dd20fbc8e20662e427a78a1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

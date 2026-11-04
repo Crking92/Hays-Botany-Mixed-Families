@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2d23db074817cf835d751e5f78a4e85d1fbfd05",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 143282359, photo 245713478, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea4512af7f43b63a56619ea8a1bf1f98f4c27ee2601848a56ace820d09ea5bce.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Lygodium japonicum maps to indexed species lygodium-japonicum; specialist morphology and BONAP range deferred.",
-      "sha256": "ea4512af7f43b63a56619ea8a1bf1f98f4c27ee2601848a56ace820d09ea5bce"
+      "sha256": "ea4512af7f43b63a56619ea8a1bf1f98f4c27ee2601848a56ace820d09ea5bce",
+      "display_sha256": "3564de0cf4de0f25191ab3a42328205057500deabb5508476278632b3bc6f121",
+      "display_blob_sha": "ff2ffc9a2e396f26e894d76eabca1f1f11824440",
+      "display_original_site_sha256": "ea4512af7f43b63a56619ea8a1bf1f98f4c27ee2601848a56ace820d09ea5bce",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lygodium-japonicum/inat-621859749.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ab9d7f7cb89c3bb80ab52224372703dfa70c1039",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341580283, photo 621859749, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b421b015706a51ad0b96361e2e1c5e5c6b544dca2bd589af0381b1ef41b7ac08.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Lygodium japonicum maps to indexed species lygodium-japonicum; specialist morphology and BONAP range deferred.",
-      "sha256": "b421b015706a51ad0b96361e2e1c5e5c6b544dca2bd589af0381b1ef41b7ac08"
+      "sha256": "b421b015706a51ad0b96361e2e1c5e5c6b544dca2bd589af0381b1ef41b7ac08",
+      "display_sha256": "0c053268efad761599016992bfc920b59cd85cf824c7e485bb8a3aba147ee86f",
+      "display_blob_sha": "a4ef18112de8290c2afe2339d97d27ac83446573",
+      "display_original_site_sha256": "b421b015706a51ad0b96361e2e1c5e5c6b544dca2bd589af0381b1ef41b7ac08",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lygodium-japonicum/inat-624579389.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "d02a1168ca5881e5a5b85d46b51a1ff3a51c41c0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342659687, photo 624579389, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc0694f554242daa7c204a2cb755aabccda1769f8d53f8e36fc683c02aef38e0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Lygodium japonicum maps to indexed species lygodium-japonicum; specialist morphology and BONAP range deferred.",
-      "sha256": "dc0694f554242daa7c204a2cb755aabccda1769f8d53f8e36fc683c02aef38e0"
+      "sha256": "dc0694f554242daa7c204a2cb755aabccda1769f8d53f8e36fc683c02aef38e0",
+      "display_sha256": "ed7efef0cfb720ce932999b48399ef4448bd722100e10d0664d6323257a4ea44",
+      "display_blob_sha": "faa8aafb4afa8f7ac3deec3558226f30ea56a4bc",
+      "display_original_site_sha256": "dc0694f554242daa7c204a2cb755aabccda1769f8d53f8e36fc683c02aef38e0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lygodium-japonicum/inat-742525528.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2874cd741d1ca66f09c06848f8a588cc663f689",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 404340625, photo 742525528, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0558e17b9bb437261cc86f6bba290673b2a654206d63a9218ff2ee177b987d3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Lygodium japonicum maps to indexed species lygodium-japonicum; specialist morphology and BONAP range deferred.",
-      "sha256": "a0558e17b9bb437261cc86f6bba290673b2a654206d63a9218ff2ee177b987d3"
+      "sha256": "a0558e17b9bb437261cc86f6bba290673b2a654206d63a9218ff2ee177b987d3",
+      "display_sha256": "5a74e98084da2d1edca88fb799cad5596d64f64b1ab5bf48c8c786e42d597e2e",
+      "display_blob_sha": "d7cd0ca35e4e3ee0f01274917f52aedfa193e3ab",
+      "display_original_site_sha256": "a0558e17b9bb437261cc86f6bba290673b2a654206d63a9218ff2ee177b987d3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lygodium-japonicum/archived-7cb60e810b962a92.jpg",

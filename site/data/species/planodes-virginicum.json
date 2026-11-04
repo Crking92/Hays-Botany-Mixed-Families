@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "35e872dd367009f8bde385b67279e8ef1b2c9987",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 70285953, photo 114228765, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f0c00568b758740a6d4b01c807f0b70157d086817f0c55cbdbadf353c1a807c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Planodes virginicum maps to indexed species planodes-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "f0c00568b758740a6d4b01c807f0b70157d086817f0c55cbdbadf353c1a807c0"
+      "sha256": "f0c00568b758740a6d4b01c807f0b70157d086817f0c55cbdbadf353c1a807c0",
+      "display_sha256": "79a1a41d26621636bcec1b654eb7df38c258163bb3c36f6c30f1707503d8eebb",
+      "display_blob_sha": "1bfa948fefd7e3fc2be3ec8ee5e477c1d919fc17",
+      "display_original_site_sha256": "f0c00568b758740a6d4b01c807f0b70157d086817f0c55cbdbadf353c1a807c0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planodes-virginicum/inat-115850196.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1f7307de145d84976e383752e891911d940115c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 71181425, photo 115850196, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7607259f288b79fc98c94f136499fcd4734190af6b51c04012bcaad8ec546d64. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Planodes virginicum maps to indexed species planodes-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "7607259f288b79fc98c94f136499fcd4734190af6b51c04012bcaad8ec546d64"
+      "sha256": "7607259f288b79fc98c94f136499fcd4734190af6b51c04012bcaad8ec546d64",
+      "display_sha256": "737513bccae456012ebb285bd2ef6e20acdbc0d31d48f4ca6a033849af2b836a",
+      "display_blob_sha": "006a02afc94ba8043f8fb96d09b8959d03f9c001",
+      "display_original_site_sha256": "7607259f288b79fc98c94f136499fcd4734190af6b51c04012bcaad8ec546d64",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planodes-virginicum/inat-116222416.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "225aaa5e7b7e5faa4c50cffe17b2d15ab30cad96",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 71388788, photo 116222416, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 979471340a7522bd7964f74f757ca67162401d808f301bfd80480dabc2960c47. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Planodes virginicum maps to indexed species planodes-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "979471340a7522bd7964f74f757ca67162401d808f301bfd80480dabc2960c47"
+      "sha256": "979471340a7522bd7964f74f757ca67162401d808f301bfd80480dabc2960c47",
+      "display_sha256": "db922f817a9b55447d41c9f6d85a0784614213682d61ceb3692f6f7d7b596b4b",
+      "display_blob_sha": "143155ad52d63d5fe6223e7993eaa814ceeede5a",
+      "display_original_site_sha256": "979471340a7522bd7964f74f757ca67162401d808f301bfd80480dabc2960c47",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planodes-virginicum/inat-31665654.jpeg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7d1552bee25acd4849ac07e731f9b7eeafefc0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 20515311, photo 31665654, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a056e3c27c2c24666dab3d69e9bb05cec94d06651a13fa69393511fb6f0518e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Planodes virginicum maps to indexed species planodes-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "a056e3c27c2c24666dab3d69e9bb05cec94d06651a13fa69393511fb6f0518e8"
+      "sha256": "a056e3c27c2c24666dab3d69e9bb05cec94d06651a13fa69393511fb6f0518e8",
+      "display_sha256": "2a81c68cf858777c4d247a6ff0574f52cbedd0dca8a7097ef2c4938e43545e9c",
+      "display_blob_sha": "efadbd15badb0bbc6d380347e6ca2a4b76657e61",
+      "display_original_site_sha256": "a056e3c27c2c24666dab3d69e9bb05cec94d06651a13fa69393511fb6f0518e8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

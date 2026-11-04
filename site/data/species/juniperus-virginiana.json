@@ -92,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "58a86a54bfc73c2dec719bafff442df38ea824df",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 271715482, photo 488780040, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b3840579cc35b2648e8cc7816478c13b0435ab8b426e493c37b6f2cae04ec14f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus virginiana maps to indexed species juniperus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "b3840579cc35b2648e8cc7816478c13b0435ab8b426e493c37b6f2cae04ec14f"
+      "sha256": "b3840579cc35b2648e8cc7816478c13b0435ab8b426e493c37b6f2cae04ec14f",
+      "display_sha256": "d28b83bb1e268149014cba2194e5c27d9d6828f7a197e80546bf3a63c768b32a",
+      "display_blob_sha": "2bfd547ce27baac10447caf6740ba401662dd7d4",
+      "display_original_site_sha256": "b3840579cc35b2648e8cc7816478c13b0435ab8b426e493c37b6f2cae04ec14f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-virginiana/inat-489032901.jpg",
@@ -111,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5a18db5e85952b74f0aea20c0af8191aeb44611e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 271850196, photo 489032901, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 252917fbf323cf3b5629f385e41f61cff8cf23358fed5e03d8082f097792d8c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus virginiana maps to indexed species juniperus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "252917fbf323cf3b5629f385e41f61cff8cf23358fed5e03d8082f097792d8c1"
+      "sha256": "252917fbf323cf3b5629f385e41f61cff8cf23358fed5e03d8082f097792d8c1",
+      "display_sha256": "6a4c332657322d5a987746f4c55290063cd5b2baf87806256550641ef43d226a",
+      "display_blob_sha": "195d3d64e4f32f48d54b753806d150140367c618",
+      "display_original_site_sha256": "252917fbf323cf3b5629f385e41f61cff8cf23358fed5e03d8082f097792d8c1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-virginiana/inat-504767882.jpg",
@@ -130,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "137c7429c4c9130a3ecaa6fcc6f1417e8f7b9fde",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 281013561, photo 504767882, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 460eddb9095a09373e0f30d721379c27bfeb79e9cb94f2b5438b2a8167691b89. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus virginiana maps to indexed species juniperus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "460eddb9095a09373e0f30d721379c27bfeb79e9cb94f2b5438b2a8167691b89"
+      "sha256": "460eddb9095a09373e0f30d721379c27bfeb79e9cb94f2b5438b2a8167691b89",
+      "display_sha256": "5407895e5e50f3b9327d179a9dfafbf06466a1879e07849eb84eca9b58545e47",
+      "display_blob_sha": "b989931a5d4880da112e7105e323ac13b799d1b3",
+      "display_original_site_sha256": "460eddb9095a09373e0f30d721379c27bfeb79e9cb94f2b5438b2a8167691b89",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-virginiana/inat-622612426.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e0c8116f6ca3271657ce252f98443ece659319e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341952017, photo 622612426, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da44d1ad7f125b8fa76a7a816831f69dc4037ee28bb70f9c417e03ebc16556fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus virginiana maps to indexed species juniperus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "da44d1ad7f125b8fa76a7a816831f69dc4037ee28bb70f9c417e03ebc16556fd"
+      "sha256": "da44d1ad7f125b8fa76a7a816831f69dc4037ee28bb70f9c417e03ebc16556fd",
+      "display_sha256": "151c8e74bd2310cb6963360493cdbd5b1d4b807930f7fc49ba2fe92ba65f11ae",
+      "display_blob_sha": "bc85bcd2f17fc33d73a9e204ba3d57e0a9af70ed",
+      "display_original_site_sha256": "da44d1ad7f125b8fa76a7a816831f69dc4037ee28bb70f9c417e03ebc16556fd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juniperus-virginiana/inat-665309306.jpg",
@@ -168,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4ad34802b2cadfdcc3dad6365d97209d37800dd7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +196,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 364444073, photo 665309306, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 37e30eb96cf1e69c40e3312cb9d08ae741ebd84b6f4c33f6db0b2c657a2ad0eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Juniperus virginiana maps to indexed species juniperus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "37e30eb96cf1e69c40e3312cb9d08ae741ebd84b6f4c33f6db0b2c657a2ad0eb"
+      "sha256": "37e30eb96cf1e69c40e3312cb9d08ae741ebd84b6f4c33f6db0b2c657a2ad0eb",
+      "display_sha256": "5655c6a7fd8fed087d038b92ce09235e93da83b9a0a1933de95fa2175e5de09f",
+      "display_blob_sha": "83c8f5421844bdeb9ad3ec12b43b7139719ff60e",
+      "display_original_site_sha256": "37e30eb96cf1e69c40e3312cb9d08ae741ebd84b6f4c33f6db0b2c657a2ad0eb",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

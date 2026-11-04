@@ -86,7 +86,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8c93b0ec437ae32d1592259c853b3218bb60ba36",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +94,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 357723394, photo 652471785, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6edf08029894e7ea563301e799f9be2147001216632332db6ca4bb390151e381. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis stricta maps to indexed species oxalis-stricta; specialist morphology and BONAP range deferred.",
-      "sha256": "6edf08029894e7ea563301e799f9be2147001216632332db6ca4bb390151e381"
+      "sha256": "6edf08029894e7ea563301e799f9be2147001216632332db6ca4bb390151e381",
+      "display_sha256": "f6d8a70dc392646bf4b47ebd170e8e95a792e6101f5d6224ac416b7efaa50294",
+      "display_blob_sha": "38196f91d0e44a5f266e28ed163339ec49e033d9",
+      "display_original_site_sha256": "6edf08029894e7ea563301e799f9be2147001216632332db6ca4bb390151e381",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-stricta/inat-652491216.jpg",
@@ -105,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "67c27e707a2ef6f49b57d67ad0ef26eaf33f3377",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +118,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 357730340, photo 652491216, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4480ce2c153e7f08e85f044565abcb615a6a786e65230a2fc320b96ca43eed0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis stricta maps to indexed species oxalis-stricta; specialist morphology and BONAP range deferred.",
-      "sha256": "d4480ce2c153e7f08e85f044565abcb615a6a786e65230a2fc320b96ca43eed0"
+      "sha256": "d4480ce2c153e7f08e85f044565abcb615a6a786e65230a2fc320b96ca43eed0",
+      "display_sha256": "f4ba1e26aad427cad99c346aab98df0ab7682d97c5275696e9d033629b07b600",
+      "display_blob_sha": "cbbbdd27e69fe05deb74d4c30c92da801cd0c4d4",
+      "display_original_site_sha256": "d4480ce2c153e7f08e85f044565abcb615a6a786e65230a2fc320b96ca43eed0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-stricta/inat-652984704.jpg",
@@ -124,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ca131ebd3de105d5ecb23e69bf4122810c108945",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 357982070, photo 652984704, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b7ba55c39f8dced9db846b2d34b96568284a2c9a5160de19ff7fb5d0c67959b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis stricta maps to indexed species oxalis-stricta; specialist morphology and BONAP range deferred.",
-      "sha256": "6b7ba55c39f8dced9db846b2d34b96568284a2c9a5160de19ff7fb5d0c67959b"
+      "sha256": "6b7ba55c39f8dced9db846b2d34b96568284a2c9a5160de19ff7fb5d0c67959b",
+      "display_sha256": "727319f1c0bdba7501cd112261cda1e662853bf01e2d6f73fc823b1d5a0b4018",
+      "display_blob_sha": "a7baac0b8c6211c871b6527de01eaaeb9df32220",
+      "display_original_site_sha256": "6b7ba55c39f8dced9db846b2d34b96568284a2c9a5160de19ff7fb5d0c67959b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

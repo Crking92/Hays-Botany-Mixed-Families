@@ -74,7 +74,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69d5e01c2415f4b7ebfb2f914b102c0b3a8c4d39",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -82,7 +82,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341141467, photo 620956363, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ab083ab9cd5f564bb8da07df04d7351e17f244634d1fc151372fe43c42d6c08.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus parviflorus maps to indexed species samolus-parviflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "1ab083ab9cd5f564bb8da07df04d7351e17f244634d1fc151372fe43c42d6c08"
+      "sha256": "1ab083ab9cd5f564bb8da07df04d7351e17f244634d1fc151372fe43c42d6c08",
+      "display_sha256": "3d6bda33e5a18fa691697770bfe4f77e3879a7002a797d3028fae007634242c8",
+      "display_blob_sha": "a0aa61e32bfb029e51262b309b1ad1b68a13bd21",
+      "display_original_site_sha256": "1ab083ab9cd5f564bb8da07df04d7351e17f244634d1fc151372fe43c42d6c08",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-parviflorus/inat-623429930.jpg",
@@ -93,7 +98,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "78107c6325dc1dc16ef9702a811deb7c0fa31f38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -101,7 +106,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342355066, photo 623429930, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 943d7857ead1fcb52a2e9137fd7fb9cd5f6aa12b0d756e98994e1e874114ba19.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus parviflorus maps to indexed species samolus-parviflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "943d7857ead1fcb52a2e9137fd7fb9cd5f6aa12b0d756e98994e1e874114ba19"
+      "sha256": "943d7857ead1fcb52a2e9137fd7fb9cd5f6aa12b0d756e98994e1e874114ba19",
+      "display_sha256": "36ef5e8dca73fd678606724b60b1eb3986a64b59ef6228e4c01256ead9ea7f1d",
+      "display_blob_sha": "4c777ab98d98786d243c95c34a1d4dff037a8dbe",
+      "display_original_site_sha256": "943d7857ead1fcb52a2e9137fd7fb9cd5f6aa12b0d756e98994e1e874114ba19",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-parviflorus/inat-632923845.jpg",
@@ -112,7 +122,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c557cf87c099e9a73c5cd7dafb6c3266cf6317a6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +130,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347151505, photo 632923845, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26e6b5ecd2a9837dad23f17281d3a61f2ce4249c625be60c84d1bce6d6d322a8.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus parviflorus maps to indexed species samolus-parviflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "26e6b5ecd2a9837dad23f17281d3a61f2ce4249c625be60c84d1bce6d6d322a8"
+      "sha256": "26e6b5ecd2a9837dad23f17281d3a61f2ce4249c625be60c84d1bce6d6d322a8",
+      "display_sha256": "51cbfcad3777fcdad080a3765fb401538e1908b511bf98ea2515e84b863da88e",
+      "display_blob_sha": "bbfb5219add68204e64e8e6b2f588400775a0d4e",
+      "display_original_site_sha256": "26e6b5ecd2a9837dad23f17281d3a61f2ce4249c625be60c84d1bce6d6d322a8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-parviflorus/inat-637773902.jpg",
@@ -131,7 +146,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b515721b9547321423512bd9a904b708648837e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +154,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349603677, photo 637773902, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c868c088d5fc22f330ca80bf6b0b4876421da46fb18614c579c40727069a63fd.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus parviflorus maps to indexed species samolus-parviflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "c868c088d5fc22f330ca80bf6b0b4876421da46fb18614c579c40727069a63fd"
+      "sha256": "c868c088d5fc22f330ca80bf6b0b4876421da46fb18614c579c40727069a63fd",
+      "display_sha256": "ace2a6c6993138f37eb57f39547516fc6f0c3dfc69b26c3140dd1bfb0cf5fc34",
+      "display_blob_sha": "c5c9adae34239cfef180c9cfb26f9d165ce8f072",
+      "display_original_site_sha256": "c868c088d5fc22f330ca80bf6b0b4876421da46fb18614c579c40727069a63fd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-parviflorus/inat-638402435.jpg",
@@ -150,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa1c90db224a0e37a64b653d08ba3513939ea326",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +178,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349928602, photo 638402435, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 37efcfb45d6f43ca2394a68ef1cc71b1ce9e9c25c89c7ca845b24b9b67abbeda.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Samolus parviflorus maps to indexed species samolus-parviflorus; specialist morphology and BONAP range deferred.",
-      "sha256": "37efcfb45d6f43ca2394a68ef1cc71b1ce9e9c25c89c7ca845b24b9b67abbeda"
+      "sha256": "37efcfb45d6f43ca2394a68ef1cc71b1ce9e9c25c89c7ca845b24b9b67abbeda",
+      "display_sha256": "b4a04ea6be32276b93b9c3493b4afc3c238d0c5877d823f94b04b8e1289a6ed0",
+      "display_blob_sha": "b7fa58492d268f261deaf28d7e84d5bedb94290f",
+      "display_original_site_sha256": "37efcfb45d6f43ca2394a68ef1cc71b1ce9e9c25c89c7ca845b24b9b67abbeda",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/samolus-parviflorus/archived-005b9b7b2dd76019.jpg",

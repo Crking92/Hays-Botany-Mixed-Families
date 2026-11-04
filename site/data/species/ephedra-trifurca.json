@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62b3a9c37d7bffafa0b702a922da2725085f97ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 266463281, photo 478764261, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5bb8ef67e7f3dfbeb281ec22d06b2ea7148659f59bdc389b1715405ecdd57adf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra trifurca maps to indexed species ephedra-trifurca; specialist morphology and BONAP range deferred.",
-      "sha256": "5bb8ef67e7f3dfbeb281ec22d06b2ea7148659f59bdc389b1715405ecdd57adf"
+      "sha256": "5bb8ef67e7f3dfbeb281ec22d06b2ea7148659f59bdc389b1715405ecdd57adf",
+      "display_sha256": "c14b8427e61c2b877fb0948623c8f24cdf4e1b05638c2bc67eb79dd26f2a2ca7",
+      "display_blob_sha": "e85bc7fe982284ef41b218263f23bd6171f3f0c4",
+      "display_original_site_sha256": "5bb8ef67e7f3dfbeb281ec22d06b2ea7148659f59bdc389b1715405ecdd57adf",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ephedra-trifurca/inat-480557239.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb7d78dba8db07ad77c7601aa55d811fc38272fb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 267411368, photo 480557239, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c75204582d49defe64f29f276f07f4c1210ec0651d8b72fde646ea391049ae28. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra trifurca maps to indexed species ephedra-trifurca; specialist morphology and BONAP range deferred.",
-      "sha256": "c75204582d49defe64f29f276f07f4c1210ec0651d8b72fde646ea391049ae28"
+      "sha256": "c75204582d49defe64f29f276f07f4c1210ec0651d8b72fde646ea391049ae28",
+      "display_sha256": "b2259fe8eca752ddcaffa8d93f5d31dd8ca46c192470a52f6e52d4ffbf058470",
+      "display_blob_sha": "f9366d6678f3c4cc5cbf4b2b27bc9493a3075cf4",
+      "display_original_site_sha256": "c75204582d49defe64f29f276f07f4c1210ec0651d8b72fde646ea391049ae28",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ephedra-trifurca/inat-496117344.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bf3eb48b21485d27fe1cf3497870e809298132b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 276235200, photo 496117344, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93f5b2fbdf8c55a0a448d5e22371c588565518c09f08d651f65db74bf584e7d3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra trifurca maps to indexed species ephedra-trifurca; specialist morphology and BONAP range deferred.",
-      "sha256": "93f5b2fbdf8c55a0a448d5e22371c588565518c09f08d651f65db74bf584e7d3"
+      "sha256": "93f5b2fbdf8c55a0a448d5e22371c588565518c09f08d651f65db74bf584e7d3",
+      "display_sha256": "1897566a51b7161c3cdcbef0490535f84d5b7532024567a090f521194c251531",
+      "display_blob_sha": "6d6b6e95c52dd13b172e5b381a09d8c4681f5e0a",
+      "display_original_site_sha256": "93f5b2fbdf8c55a0a448d5e22371c588565518c09f08d651f65db74bf584e7d3",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ephedra-trifurca/inat-533204026.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "955f410eb52595dff34a03d9e2860bb648881eea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 296141454, photo 533204026, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 90374b1e275627242418320819daa584cf1799bf1c3231f8942351f8b691aab1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra trifurca maps to indexed species ephedra-trifurca; specialist morphology and BONAP range deferred.",
-      "sha256": "90374b1e275627242418320819daa584cf1799bf1c3231f8942351f8b691aab1"
+      "sha256": "90374b1e275627242418320819daa584cf1799bf1c3231f8942351f8b691aab1",
+      "display_sha256": "4c31f39e5c895b67a77ca24158bd774cfac7130297007940fee05bfedffd9fe9",
+      "display_blob_sha": "c205c391416ef3770fef9486c757b3ef8504531d",
+      "display_original_site_sha256": "90374b1e275627242418320819daa584cf1799bf1c3231f8942351f8b691aab1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ephedra-trifurca/inat-643844159.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a156a85308c8fbec3f3f9c11acc7397c5c4005b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352816137, photo 643844159, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1cc7bb0c6b6531dacbe810118818dbf6567919094442280604cc8f8918e5ee7e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Ephedra trifurca maps to indexed species ephedra-trifurca; specialist morphology and BONAP range deferred.",
-      "sha256": "1cc7bb0c6b6531dacbe810118818dbf6567919094442280604cc8f8918e5ee7e"
+      "sha256": "1cc7bb0c6b6531dacbe810118818dbf6567919094442280604cc8f8918e5ee7e",
+      "display_sha256": "5ed24637be9b597a2be6f4141d7842e7b9be7e7c4e1d865ee4edc694f9c307df",
+      "display_blob_sha": "4fb2fbfb78db78c4f69855585d5ddec267cac300",
+      "display_original_site_sha256": "1cc7bb0c6b6531dacbe810118818dbf6567919094442280604cc8f8918e5ee7e",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

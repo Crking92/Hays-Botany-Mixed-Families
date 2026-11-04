@@ -63,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f318b770507272b22e014010c58f4b40de59bef5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 22171092, photo 34326385, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 87afa539c760a9a3f3c36b12fa3de54c9b756a850285b4271ba8807528ef6896. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis violacea maps to indexed species oxalis-violacea; specialist morphology and BONAP range deferred.",
-      "sha256": "87afa539c760a9a3f3c36b12fa3de54c9b756a850285b4271ba8807528ef6896"
+      "sha256": "87afa539c760a9a3f3c36b12fa3de54c9b756a850285b4271ba8807528ef6896",
+      "display_sha256": "24c67e6c1be765905e1cb9420af29903938a1e0b1a7bfc0471411fa3b71e0349",
+      "display_blob_sha": "a0c8139247d6c3e014de895c5428a7ce5ce8b1e9",
+      "display_original_site_sha256": "87afa539c760a9a3f3c36b12fa3de54c9b756a850285b4271ba8807528ef6896",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oxalis-violacea/inat-80218581.jpeg",
@@ -82,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "adbdbe920b4744b4e953861ab6e3756528e5c326",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 50519997, photo 80218581, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d95fc2d26e4a07c89a34431e9fc3d54d963aec5da75fbeae89862ff3a56032fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Oxalis violacea maps to indexed species oxalis-violacea; specialist morphology and BONAP range deferred.",
-      "sha256": "d95fc2d26e4a07c89a34431e9fc3d54d963aec5da75fbeae89862ff3a56032fa"
+      "sha256": "d95fc2d26e4a07c89a34431e9fc3d54d963aec5da75fbeae89862ff3a56032fa",
+      "display_sha256": "b9bd4e474ebb714e07ccddc21ad6a80178a4ac9357a68010c76947b3e5d7c2cd",
+      "display_blob_sha": "181651ca6b1df562c1a79ab200cc8ef1ffabab92",
+      "display_original_site_sha256": "d95fc2d26e4a07c89a34431e9fc3d54d963aec5da75fbeae89862ff3a56032fa",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

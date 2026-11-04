@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "66d246e22e2e6ca2048b0145fbad40b9ea34a710",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345980196, photo 630625512, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b13c5898f65735e3273e24d8799ef65e28f5718e84ce73a178d230492bd85f58. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria lanceolata maps to indexed species krameria-lanceolata; specialist morphology and BONAP range deferred.",
-      "sha256": "b13c5898f65735e3273e24d8799ef65e28f5718e84ce73a178d230492bd85f58"
+      "sha256": "b13c5898f65735e3273e24d8799ef65e28f5718e84ce73a178d230492bd85f58",
+      "display_sha256": "9bda38e6258e7565ce4ad856a9dafe8ba5d32ad6c2f9ad8c66d2af9654329667",
+      "display_blob_sha": "82a25eee4b2cb0261ff7ab1fd03f9720250dda40",
+      "display_original_site_sha256": "b13c5898f65735e3273e24d8799ef65e28f5718e84ce73a178d230492bd85f58",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-lanceolata/inat-631626355.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b242e5039f5eeace878c177d9c86f5b09b6dafcf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346500982, photo 631626355, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cfa97529b5c89ae6a5d5ac294ceadafe51ea25b492125ad9448242cf1a4e0d0f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria lanceolata maps to indexed species krameria-lanceolata; specialist morphology and BONAP range deferred.",
-      "sha256": "cfa97529b5c89ae6a5d5ac294ceadafe51ea25b492125ad9448242cf1a4e0d0f"
+      "sha256": "cfa97529b5c89ae6a5d5ac294ceadafe51ea25b492125ad9448242cf1a4e0d0f",
+      "display_sha256": "83419f20e01f884829c848184c4609d753e39316b65c70201709ae725419fa31",
+      "display_blob_sha": "1839ac169f63d0e3efa1005ef4347e1f82172051",
+      "display_original_site_sha256": "cfa97529b5c89ae6a5d5ac294ceadafe51ea25b492125ad9448242cf1a4e0d0f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-lanceolata/inat-632425504.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e05f40fb9e370a8b5101a19338f9f0fa5a927e89",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346904752, photo 632425504, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 866efb733f48e4db615f74642bcf3521fe15577dceea8d4308b71239e0ca3200. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria lanceolata maps to indexed species krameria-lanceolata; specialist morphology and BONAP range deferred.",
-      "sha256": "866efb733f48e4db615f74642bcf3521fe15577dceea8d4308b71239e0ca3200"
+      "sha256": "866efb733f48e4db615f74642bcf3521fe15577dceea8d4308b71239e0ca3200",
+      "display_sha256": "bbf0eea726b53c9adc082b1e347910d874cc079063741e94590901bd2c49bf5d",
+      "display_blob_sha": "14246a39b85d3df51eef3f4b2285266d0227781c",
+      "display_original_site_sha256": "866efb733f48e4db615f74642bcf3521fe15577dceea8d4308b71239e0ca3200",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-lanceolata/inat-633429905.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "5c0352a3cbf136cf7235a1cb4a0c61672426d062",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347408893, photo 633429905, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6c886af7cfb39e3f5223a210afa0612ddfe03ccb9bc58530ba0b5b4ae3adcfca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria lanceolata maps to indexed species krameria-lanceolata; specialist morphology and BONAP range deferred.",
-      "sha256": "6c886af7cfb39e3f5223a210afa0612ddfe03ccb9bc58530ba0b5b4ae3adcfca"
+      "sha256": "6c886af7cfb39e3f5223a210afa0612ddfe03ccb9bc58530ba0b5b4ae3adcfca",
+      "display_sha256": "fe7c17b0d55a9b9ae496cf88dbee237496a6c63b9caacaee9adabb00b96a675a",
+      "display_blob_sha": "41e1ae19dadf28a8ee73b158bb8eb117451b098f",
+      "display_original_site_sha256": "6c886af7cfb39e3f5223a210afa0612ddfe03ccb9bc58530ba0b5b4ae3adcfca",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/krameria-lanceolata/inat-633497048.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "79c1cab89d217d087d8beb27fba296e12652b8e9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347441718, photo 633497048, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 097d849e80f90180516fe0f61d5a662254648bce1a9c0ae714fc838c5a30150f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Krameria lanceolata maps to indexed species krameria-lanceolata; specialist morphology and BONAP range deferred.",
-      "sha256": "097d849e80f90180516fe0f61d5a662254648bce1a9c0ae714fc838c5a30150f"
+      "sha256": "097d849e80f90180516fe0f61d5a662254648bce1a9c0ae714fc838c5a30150f",
+      "display_sha256": "db029891e2555f810848b20e32ccefcaed0427e79cf56dc110032d7f805434a0",
+      "display_blob_sha": "db386f3548e0d987c78099b139486054acecc72c",
+      "display_original_site_sha256": "097d849e80f90180516fe0f61d5a662254648bce1a9c0ae714fc838c5a30150f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

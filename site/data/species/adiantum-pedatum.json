@@ -54,7 +54,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e0edb590fed8b566936a65bc9a45207bae54a548",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -62,7 +62,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347379871, photo 633370898, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a1a1a09aa160e96b50f172fa52ddd2f649574890db4fb052d4fd8eda38cdcbf.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum pedatum maps to indexed species adiantum-pedatum; specialist morphology and BONAP range deferred.",
-      "sha256": "1a1a1a09aa160e96b50f172fa52ddd2f649574890db4fb052d4fd8eda38cdcbf"
+      "sha256": "1a1a1a09aa160e96b50f172fa52ddd2f649574890db4fb052d4fd8eda38cdcbf",
+      "display_sha256": "2fc4520c40ee1b69e09a773260cc19b6d0e5fd99f77d1944f87a2b3229ab67b1",
+      "display_blob_sha": "0a19591d9da527ba671e4e0a4aeaee8fd77e5073",
+      "display_original_site_sha256": "1a1a1a09aa160e96b50f172fa52ddd2f649574890db4fb052d4fd8eda38cdcbf",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-pedatum/inat-633372783.jpg",
@@ -73,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c9154d7ef4195bb8fc49ef9e1b8bfc70b2e43c11",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347380767, photo 633372783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dd7dda364ae75a4d9270fbb7f62e00e6e41e1c835fb10f5ac6f6e8ed741d08f9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum pedatum maps to indexed species adiantum-pedatum; specialist morphology and BONAP range deferred.",
-      "sha256": "dd7dda364ae75a4d9270fbb7f62e00e6e41e1c835fb10f5ac6f6e8ed741d08f9"
+      "sha256": "dd7dda364ae75a4d9270fbb7f62e00e6e41e1c835fb10f5ac6f6e8ed741d08f9",
+      "display_sha256": "c9f4abbcd9d2884a1b35968eba5a2ae6ab71a1073be97e61472aad790a958ca3",
+      "display_blob_sha": "b96d468ce78ecab6fefd5ce27db4a955affae5d5",
+      "display_original_site_sha256": "dd7dda364ae75a4d9270fbb7f62e00e6e41e1c835fb10f5ac6f6e8ed741d08f9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-pedatum/inat-633812076.jpg",
@@ -92,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd0cb3ee71efca80011f6fffb115e3875533ef1a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347601466, photo 633812076, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a3497ec239289d0e2bbb590d53555736b0ccefbf7a0dacf1863c18e717c648d9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum pedatum maps to indexed species adiantum-pedatum; specialist morphology and BONAP range deferred.",
-      "sha256": "a3497ec239289d0e2bbb590d53555736b0ccefbf7a0dacf1863c18e717c648d9"
+      "sha256": "a3497ec239289d0e2bbb590d53555736b0ccefbf7a0dacf1863c18e717c648d9",
+      "display_sha256": "20bd9c6584a80c23878c2ea989b7a8356d94785382afbfbbec3c466c26b68d22",
+      "display_blob_sha": "49666d46b9ed4c120998dfc61ca69453760d7df3",
+      "display_original_site_sha256": "a3497ec239289d0e2bbb590d53555736b0ccefbf7a0dacf1863c18e717c648d9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-pedatum/inat-635812252.jpg",
@@ -111,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c9cfe7181fed2a04043886e22efa77ecd609b9d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348610446, photo 635812252, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf82e4cecc66051e55585c742c82c60e163d559d44cb765480b6d2ecff39c561.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum pedatum maps to indexed species adiantum-pedatum; specialist morphology and BONAP range deferred.",
-      "sha256": "bf82e4cecc66051e55585c742c82c60e163d559d44cb765480b6d2ecff39c561"
+      "sha256": "bf82e4cecc66051e55585c742c82c60e163d559d44cb765480b6d2ecff39c561",
+      "display_sha256": "6230ac6233f5dce848864343999b7ea30d89d8b63f2dda34a42669c5cac51c8b",
+      "display_blob_sha": "6d369224b6c8f9467ae0809711b71252cd9e55f9",
+      "display_original_site_sha256": "bf82e4cecc66051e55585c742c82c60e163d559d44cb765480b6d2ecff39c561",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-pedatum/inat-636690136.jpg",
@@ -130,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2ca147ce7e4473556d1f1b2c30bbe2daf515c04a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349055815, photo 636690136, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d621a9520e3b32adc6b2607ff7c886c2c2b6c428e2e51c2b4105e0aa869a9a65.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Adiantum pedatum maps to indexed species adiantum-pedatum; specialist morphology and BONAP range deferred.",
-      "sha256": "d621a9520e3b32adc6b2607ff7c886c2c2b6c428e2e51c2b4105e0aa869a9a65"
+      "sha256": "d621a9520e3b32adc6b2607ff7c886c2c2b6c428e2e51c2b4105e0aa869a9a65",
+      "display_sha256": "741ec704b55b482a7bbd5d6e215ce96c55a5e9d42d55aaee667bd24589ae5afb",
+      "display_blob_sha": "c8d2ddc6b0050b4296e9c4488772ef337232b481",
+      "display_original_site_sha256": "d621a9520e3b32adc6b2607ff7c886c2c2b6c428e2e51c2b4105e0aa869a9a65",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/adiantum-pedatum/archived-eacdff71cfe67aa8.jpg",

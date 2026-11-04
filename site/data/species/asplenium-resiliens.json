@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4abd680ec685bc0435ef1727da8b01a3c319425a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 79068027, photo 129464994, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 68a0f4099fd3631154ad1fb9322772ca677df08b2235e96ff949fba9306f165f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Asplenium resiliens maps to indexed species asplenium-resiliens; specialist morphology and BONAP range deferred.",
-      "sha256": "68a0f4099fd3631154ad1fb9322772ca677df08b2235e96ff949fba9306f165f"
+      "sha256": "68a0f4099fd3631154ad1fb9322772ca677df08b2235e96ff949fba9306f165f",
+      "display_sha256": "63ccbafa2cbacb69f077ba125bc6bd50d6ef6a9145a4833d0af620fe4b28831c",
+      "display_blob_sha": "2179f0d6dafe9d26eaecdc6d65b24d9cc09d24a7",
+      "display_original_site_sha256": "68a0f4099fd3631154ad1fb9322772ca677df08b2235e96ff949fba9306f165f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asplenium-resiliens/inat-131240745.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b45cff9d9caeee7d113a9e1d7916c429c8a37d6c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 80092097, photo 131240745, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0afb949925baf9a96e6c1b8c13586c68416615cbd06a0d6c12bf16bfb9e9af4a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Asplenium resiliens maps to indexed species asplenium-resiliens; specialist morphology and BONAP range deferred.",
-      "sha256": "0afb949925baf9a96e6c1b8c13586c68416615cbd06a0d6c12bf16bfb9e9af4a"
+      "sha256": "0afb949925baf9a96e6c1b8c13586c68416615cbd06a0d6c12bf16bfb9e9af4a",
+      "display_sha256": "6ac9058e6b61d404c595723590c440a40a91e881bdc804cb9bc01d11b1f20a12",
+      "display_blob_sha": "fdc83f7f1039f955e675a57c64753613f59a4a06",
+      "display_original_site_sha256": "0afb949925baf9a96e6c1b8c13586c68416615cbd06a0d6c12bf16bfb9e9af4a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asplenium-resiliens/inat-201592108.jpeg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "082ec8aeb35d9fce3b5609a7aece87c737f0df01",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 119264850, photo 201592108, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0c3ce7b17d0feaea97e99ec829140e164057a293199154e6b12fa4817aa6c9a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Asplenium resiliens maps to indexed species asplenium-resiliens; specialist morphology and BONAP range deferred.",
-      "sha256": "a0c3ce7b17d0feaea97e99ec829140e164057a293199154e6b12fa4817aa6c9a"
+      "sha256": "a0c3ce7b17d0feaea97e99ec829140e164057a293199154e6b12fa4817aa6c9a",
+      "display_sha256": "15052137557f5d120b1ad38447ecf8a657d51a2f1bb3818ce2586b8d153af470",
+      "display_blob_sha": "77487d9e4cc75c7920614f29bb2293355667e61b",
+      "display_original_site_sha256": "a0c3ce7b17d0feaea97e99ec829140e164057a293199154e6b12fa4817aa6c9a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asplenium-resiliens/inat-201664839.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "04a37e546182bd81bb9569f2225bb5023fb37eec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 119306535, photo 201664839, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4e19f9925ce317e2123f6fcb3d6390008578eef186cd65bdd606b5d2dddc8e6f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Asplenium resiliens maps to indexed species asplenium-resiliens; specialist morphology and BONAP range deferred.",
-      "sha256": "4e19f9925ce317e2123f6fcb3d6390008578eef186cd65bdd606b5d2dddc8e6f"
+      "sha256": "4e19f9925ce317e2123f6fcb3d6390008578eef186cd65bdd606b5d2dddc8e6f",
+      "display_sha256": "8a95aeb773b6095d0fcc3de49b8239dfc1f5f185f4c5c4fc81cdcc8bd314e95d",
+      "display_blob_sha": "3bde3a33713a34b95c755365dd416123da1dadf6",
+      "display_original_site_sha256": "4e19f9925ce317e2123f6fcb3d6390008578eef186cd65bdd606b5d2dddc8e6f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asplenium-resiliens/inat-487583929.jpg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "c5e8afc3761abd2a9db5e1a2c0f693a23cd18b69",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 271083418, photo 487583929, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ee13404036e671ce13e77fb99afc53344fb948b9280cfe59ff87c4afe3adc4c. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Asplenium resiliens maps to indexed species asplenium-resiliens; specialist morphology and BONAP range deferred.",
-      "sha256": "1ee13404036e671ce13e77fb99afc53344fb948b9280cfe59ff87c4afe3adc4c"
+      "sha256": "1ee13404036e671ce13e77fb99afc53344fb948b9280cfe59ff87c4afe3adc4c",
+      "display_sha256": "2acf5fe6cf20449c7e78e1198d601d8e0db32f55824bbecb8b75ed474386da22",
+      "display_blob_sha": "5ee8a311037b338fec66cdd8eac61685c6334ebe",
+      "display_original_site_sha256": "1ee13404036e671ce13e77fb99afc53344fb948b9280cfe59ff87c4afe3adc4c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

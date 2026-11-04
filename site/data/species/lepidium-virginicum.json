@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "17148a826cccf8f2ca6da83ab1200849214b2561",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352163960, photo 642749360, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b45f6a34ecfbc7efd48a93c7312ba0fc82555c1173df75ce3e5cc8bc9e613a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium virginicum maps to indexed species lepidium-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "6b45f6a34ecfbc7efd48a93c7312ba0fc82555c1173df75ce3e5cc8bc9e613a1"
+      "sha256": "6b45f6a34ecfbc7efd48a93c7312ba0fc82555c1173df75ce3e5cc8bc9e613a1",
+      "display_sha256": "cbd171c023040c4f1e28b618bfd042b561664f557d302e2885933a97b4720e71",
+      "display_blob_sha": "6fd9824d72bdaa15a70d314cdc963d87c309baa1",
+      "display_original_site_sha256": "6b45f6a34ecfbc7efd48a93c7312ba0fc82555c1173df75ce3e5cc8bc9e613a1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-virginicum/inat-644485472.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "56c141aea559967f88c80d3152080393148bf2be",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353190905, photo 644485472, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ebec7cdf8b2bcf3db9c0105a4a25e54ed4edf0c761d77dbd69762898908e24d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium virginicum maps to indexed species lepidium-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "1ebec7cdf8b2bcf3db9c0105a4a25e54ed4edf0c761d77dbd69762898908e24d"
+      "sha256": "1ebec7cdf8b2bcf3db9c0105a4a25e54ed4edf0c761d77dbd69762898908e24d",
+      "display_sha256": "c551cc2a8b27027ded05138c0580c92ceb43ff1d5d9c698458512422d5837601",
+      "display_blob_sha": "f1889fbdccba5b0860f53d061aa601908fa7875b",
+      "display_original_site_sha256": "1ebec7cdf8b2bcf3db9c0105a4a25e54ed4edf0c761d77dbd69762898908e24d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-virginicum/inat-646478167.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42326907b5802ba03ce2b9ad8ad7d61b4c362258",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354374789, photo 646478167, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec254ff2e53f6548e39b902a747c0010c1fa67de6915ca7fe5fbc9a1532e2150. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium virginicum maps to indexed species lepidium-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "ec254ff2e53f6548e39b902a747c0010c1fa67de6915ca7fe5fbc9a1532e2150"
+      "sha256": "ec254ff2e53f6548e39b902a747c0010c1fa67de6915ca7fe5fbc9a1532e2150",
+      "display_sha256": "8051fdb86e174bf843be48082991f8175f2207a49800548e7137021a83d31e7e",
+      "display_blob_sha": "492356bef5988d3754681122bf2a9bf05b375ced",
+      "display_original_site_sha256": "ec254ff2e53f6548e39b902a747c0010c1fa67de6915ca7fe5fbc9a1532e2150",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-virginicum/inat-647040788.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a48b1e0c4fc54b82b659ab8455261f93b5bf97af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354711450, photo 647040788, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2feaea264446b277c213536c6326d7ecdf7fa05e8246ccdaf3f2ad4aa4b0da40. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium virginicum maps to indexed species lepidium-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "2feaea264446b277c213536c6326d7ecdf7fa05e8246ccdaf3f2ad4aa4b0da40"
+      "sha256": "2feaea264446b277c213536c6326d7ecdf7fa05e8246ccdaf3f2ad4aa4b0da40",
+      "display_sha256": "94f21be650b09062b3cbc5a61f2cf32ce1729abccc3ebcf703675c23372ee785",
+      "display_blob_sha": "0b42a4228b4aff99070337f2d322dd5c6cd04a7f",
+      "display_original_site_sha256": "2feaea264446b277c213536c6326d7ecdf7fa05e8246ccdaf3f2ad4aa4b0da40",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lepidium-virginicum/inat-647057344.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b4a578466171fa4e73567bb4edde1fb2238584e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354721037, photo 647057344, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de3355cd6b20c66fbfe05830e10e4e43f8cbf1aec70defda4310a89c1bce6dd0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Lepidium virginicum maps to indexed species lepidium-virginicum; specialist morphology and BONAP range deferred.",
-      "sha256": "de3355cd6b20c66fbfe05830e10e4e43f8cbf1aec70defda4310a89c1bce6dd0"
+      "sha256": "de3355cd6b20c66fbfe05830e10e4e43f8cbf1aec70defda4310a89c1bce6dd0",
+      "display_sha256": "8545d0ecedd49496dd2c3ccf2b028076b15596be49ae14c6a3de4a65705dea98",
+      "display_blob_sha": "07fd697c389995c3bde728162d0dc532880d38ac",
+      "display_original_site_sha256": "de3355cd6b20c66fbfe05830e10e4e43f8cbf1aec70defda4310a89c1bce6dd0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

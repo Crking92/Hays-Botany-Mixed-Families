@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5ca2c9fa683ead6ca8197864ce1998f1c4bfe338",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 272673072, photo 490568721, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f3426b3f91a5cab3d585b04052d1e3e54e56bacb88a75f5c114dd97a121139b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Mentzelia oligosperma maps to indexed species mentzelia-oligosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "7f3426b3f91a5cab3d585b04052d1e3e54e56bacb88a75f5c114dd97a121139b"
+      "sha256": "7f3426b3f91a5cab3d585b04052d1e3e54e56bacb88a75f5c114dd97a121139b",
+      "display_sha256": "1f4bd08a0fb0c69856a1ab00c7a7cd92e9648c9f828a814a622b6d4b00ee6dc1",
+      "display_blob_sha": "7e9e083da66983c734421067e6f4f0db5f653bb8",
+      "display_original_site_sha256": "7f3426b3f91a5cab3d585b04052d1e3e54e56bacb88a75f5c114dd97a121139b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mentzelia-oligosperma/inat-506144122.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f5d7aa7dd8b378082918826319cb1c9f3b8c3976",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 270822140, photo 506144122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b2bb00615d8c14fbf56a48457d15bbbd7d393da5a48d21e7c7f0f43110c66ac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Mentzelia oligosperma maps to indexed species mentzelia-oligosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "2b2bb00615d8c14fbf56a48457d15bbbd7d393da5a48d21e7c7f0f43110c66ac"
+      "sha256": "2b2bb00615d8c14fbf56a48457d15bbbd7d393da5a48d21e7c7f0f43110c66ac",
+      "display_sha256": "042855b58ac8505f1430b1e94806b4b551e288e33f1396f56204e5d5c8fd7bcf",
+      "display_blob_sha": "78b1224e900f227542cd78ebdba871c3774d00eb",
+      "display_original_site_sha256": "2b2bb00615d8c14fbf56a48457d15bbbd7d393da5a48d21e7c7f0f43110c66ac",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mentzelia-oligosperma/inat-637959600.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "36a9e090b29b2566e9ccb07971e0d0959974ff5b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349698875, photo 637959600, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0851fdd96dd25b2fa8dcaccc2cd9df538a46719ddbb705e38a5caf5ccdfa7cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Mentzelia oligosperma maps to indexed species mentzelia-oligosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "e0851fdd96dd25b2fa8dcaccc2cd9df538a46719ddbb705e38a5caf5ccdfa7cc"
+      "sha256": "e0851fdd96dd25b2fa8dcaccc2cd9df538a46719ddbb705e38a5caf5ccdfa7cc",
+      "display_sha256": "793b3d5404a59ede24dd79c709bd0dfd6f31a37e93dde5895ec670ded0ba2f27",
+      "display_blob_sha": "204bc4cbe1722337c72ccab49d228002c00afefa",
+      "display_original_site_sha256": "e0851fdd96dd25b2fa8dcaccc2cd9df538a46719ddbb705e38a5caf5ccdfa7cc",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mentzelia-oligosperma/inat-638665109.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "45f60ee7f20b84dfaa0b4681f401577ef6335826",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349695082, photo 638665109, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f94458e7c12c6dd24d82fb9dfc7e9fac542a2025e5ec8d09d115b32c14d5fa5c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Mentzelia oligosperma maps to indexed species mentzelia-oligosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "f94458e7c12c6dd24d82fb9dfc7e9fac542a2025e5ec8d09d115b32c14d5fa5c"
+      "sha256": "f94458e7c12c6dd24d82fb9dfc7e9fac542a2025e5ec8d09d115b32c14d5fa5c",
+      "display_sha256": "2616190355771a7f0d1e7870800471db1da27292643a4699527531579c10ecb2",
+      "display_blob_sha": "4931774e9e6e13fde3d61e0af07e5f12aafc2e49",
+      "display_original_site_sha256": "f94458e7c12c6dd24d82fb9dfc7e9fac542a2025e5ec8d09d115b32c14d5fa5c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mentzelia-oligosperma/inat-670556464.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fc2c8672bf2003b45983e788acbe5bafd2d7a600",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367200202, photo 670556464, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ce167ea6658972b55aebe0931de7f2833b6eee5ca041feaa936f6fec2ed675fe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Mentzelia oligosperma maps to indexed species mentzelia-oligosperma; specialist morphology and BONAP range deferred.",
-      "sha256": "ce167ea6658972b55aebe0931de7f2833b6eee5ca041feaa936f6fec2ed675fe"
+      "sha256": "ce167ea6658972b55aebe0931de7f2833b6eee5ca041feaa936f6fec2ed675fe",
+      "display_sha256": "9e83672483988ee8bd7c6024480cf0802c33f0469df226a1566e2bb1951c6952",
+      "display_blob_sha": "7cda93f2cf57f15bfe03589ba8c95740b07e8142",
+      "display_original_site_sha256": "ce167ea6658972b55aebe0931de7f2833b6eee5ca041feaa936f6fec2ed675fe",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

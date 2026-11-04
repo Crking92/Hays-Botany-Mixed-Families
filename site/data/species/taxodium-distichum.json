@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9ade0512e3828e126c68b6fce8f8f7116e230fb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341515787, photo 621731861, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ff13568e55d5180b495bce094425cfcbb2ad4878465e4efa36626374f7dafef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Taxodium distichum maps to indexed species taxodium-distichum; specialist morphology and BONAP range deferred.",
-      "sha256": "4ff13568e55d5180b495bce094425cfcbb2ad4878465e4efa36626374f7dafef"
+      "sha256": "4ff13568e55d5180b495bce094425cfcbb2ad4878465e4efa36626374f7dafef",
+      "display_sha256": "6759dfe610bf1a844aad9ba33e2ca169cd23f8f296bcc7aa201b9052ed2b89bd",
+      "display_blob_sha": "d3baea1e41438c27b1159a6968ee2bfb57bbdd0b",
+      "display_original_site_sha256": "4ff13568e55d5180b495bce094425cfcbb2ad4878465e4efa36626374f7dafef",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/taxodium-distichum/inat-625518055.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3a8ca6c77a181e9c4e04d986e870abcceb33d1c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343395246, photo 625518055, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c0408a5cf67381f9cc3c9a6cf930797e8dce522b1af848501c86a7ddb56670d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Taxodium distichum maps to indexed species taxodium-distichum; specialist morphology and BONAP range deferred.",
-      "sha256": "5c0408a5cf67381f9cc3c9a6cf930797e8dce522b1af848501c86a7ddb56670d"
+      "sha256": "5c0408a5cf67381f9cc3c9a6cf930797e8dce522b1af848501c86a7ddb56670d",
+      "display_sha256": "ed4e671e8f5c5e74b93ceed0204e0e8495f0d29734e9c57184e52c54ebc769d4",
+      "display_blob_sha": "10fc452d808139ebf4bcc9c888e921364eb72c86",
+      "display_original_site_sha256": "5c0408a5cf67381f9cc3c9a6cf930797e8dce522b1af848501c86a7ddb56670d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/taxodium-distichum/inat-626946415.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "37e6aa9cebf73755dfdd8952c9f7221d6b485dd8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344109460, photo 626946415, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 36b6fa3ab77104f8d511dfaa86b198fa4cedfe593090084bf2ec9d71c1a992f1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Taxodium distichum maps to indexed species taxodium-distichum; specialist morphology and BONAP range deferred.",
-      "sha256": "36b6fa3ab77104f8d511dfaa86b198fa4cedfe593090084bf2ec9d71c1a992f1"
+      "sha256": "36b6fa3ab77104f8d511dfaa86b198fa4cedfe593090084bf2ec9d71c1a992f1",
+      "display_sha256": "98f154614b64447a0eceddee9abd15e91605c35de7715bf0367cbef904a21300",
+      "display_blob_sha": "bd14a8607cd7f1dbbda582e5fc8e72e699c78ada",
+      "display_original_site_sha256": "36b6fa3ab77104f8d511dfaa86b198fa4cedfe593090084bf2ec9d71c1a992f1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/taxodium-distichum/inat-628613582.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ffb454b2c0ad15031f2cee3181deb68846ff9a5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344972609, photo 628613582, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff6b370487402cc85ebc8929ef6d6384f2a36eb8ec2eb8674bf6cdf186ef7622. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Taxodium distichum maps to indexed species taxodium-distichum; specialist morphology and BONAP range deferred.",
-      "sha256": "ff6b370487402cc85ebc8929ef6d6384f2a36eb8ec2eb8674bf6cdf186ef7622"
+      "sha256": "ff6b370487402cc85ebc8929ef6d6384f2a36eb8ec2eb8674bf6cdf186ef7622",
+      "display_sha256": "a232b14704c28822ef7a4a070ecce835d409dc371bcd8df90ba7c158456f736a",
+      "display_blob_sha": "43af73486310b899a034486342e94aa1823f013f",
+      "display_original_site_sha256": "ff6b370487402cc85ebc8929ef6d6384f2a36eb8ec2eb8674bf6cdf186ef7622",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/taxodium-distichum/inat-631850241.jpg",
@@ -164,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9fe793865b51519bce86113c16ca44bb1ffce645",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346613586, photo 631850241, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fd3970f874b3c068c5be4d886d1d0621fbed1d77a62ea920e3f59aa589ea1b25. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Taxodium distichum maps to indexed species taxodium-distichum; specialist morphology and BONAP range deferred.",
-      "sha256": "fd3970f874b3c068c5be4d886d1d0621fbed1d77a62ea920e3f59aa589ea1b25"
+      "sha256": "fd3970f874b3c068c5be4d886d1d0621fbed1d77a62ea920e3f59aa589ea1b25",
+      "display_sha256": "2911d9d20963ba7960bf56151aed7a3a7487f7675e0ea9aabacfefa2217fe426",
+      "display_blob_sha": "e6c99db9d4235242a5d32c42d892e4b53bd399d3",
+      "display_original_site_sha256": "fd3970f874b3c068c5be4d886d1d0621fbed1d77a62ea920e3f59aa589ea1b25",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

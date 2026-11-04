@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b2e15b361e0f2a651e77b414d55bd9186a6bceb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350528434, photo 639578346, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d92a107238672e882da46320a34943e8ba331edd2275b26bf7261990ec274fd2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Paysonia grandiflora maps to indexed species paysonia-grandiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "d92a107238672e882da46320a34943e8ba331edd2275b26bf7261990ec274fd2"
+      "sha256": "d92a107238672e882da46320a34943e8ba331edd2275b26bf7261990ec274fd2",
+      "display_sha256": "2a9cd76172ed91872eab14e103cdb18b6d0c41361998ef220264afacb74b44c1",
+      "display_blob_sha": "ad74e29b152a818b06ad71b62c94abff8f9bb416",
+      "display_original_site_sha256": "d92a107238672e882da46320a34943e8ba331edd2275b26bf7261990ec274fd2",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/paysonia-grandiflora/inat-645022360.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6184571e72cb9debff44c29b34b5e1e2392a703f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353520574, photo 645022360, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 154abc14046a5743e64056da2ccf80a822e362bf1c9a8413a016a6be4ced2b9c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Paysonia grandiflora maps to indexed species paysonia-grandiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "154abc14046a5743e64056da2ccf80a822e362bf1c9a8413a016a6be4ced2b9c"
+      "sha256": "154abc14046a5743e64056da2ccf80a822e362bf1c9a8413a016a6be4ced2b9c",
+      "display_sha256": "952dc9c6261dfe71870e53cb1557c86e1c730e5530e29cab04e085d40207fad5",
+      "display_blob_sha": "07982558b49b423c24440b5491eb57c36d3097c1",
+      "display_original_site_sha256": "154abc14046a5743e64056da2ccf80a822e362bf1c9a8413a016a6be4ced2b9c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

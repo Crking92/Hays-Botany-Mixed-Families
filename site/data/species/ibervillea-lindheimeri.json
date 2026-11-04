@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "007d7b26ef6f7cf823154d61f7fc44d1461d1d19",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342431347, photo 623584805, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: afe8ed87497bce6b47385810f15647cfe8d19c6c791f86d8dcc9a8b71a792056. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Ibervillea lindheimeri maps to indexed species ibervillea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "afe8ed87497bce6b47385810f15647cfe8d19c6c791f86d8dcc9a8b71a792056"
+      "sha256": "afe8ed87497bce6b47385810f15647cfe8d19c6c791f86d8dcc9a8b71a792056",
+      "display_sha256": "9527aa9b8e3c1a4ed35a8d1cecb9dd3a94dfbaed050d351a7925c2b849dd909b",
+      "display_blob_sha": "389f40fa8f1e4242269c71d8fbb1d66c0823728b",
+      "display_original_site_sha256": "afe8ed87497bce6b47385810f15647cfe8d19c6c791f86d8dcc9a8b71a792056",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ibervillea-lindheimeri/inat-627894513.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bbdfc016669b04535ce698ae73efb12360353360",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346893885, photo 632404320, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dbb52232d793d3704e57b7b0aa1bedfc854c72290d7a2a7c6ca0779cfdbf81b6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Ibervillea lindheimeri maps to indexed species ibervillea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "dbb52232d793d3704e57b7b0aa1bedfc854c72290d7a2a7c6ca0779cfdbf81b6"
+      "sha256": "dbb52232d793d3704e57b7b0aa1bedfc854c72290d7a2a7c6ca0779cfdbf81b6",
+      "display_sha256": "8dc6fdb25dabe79d508867579fc7731f9ea1b293f7254f9242b3ad34825df25a",
+      "display_blob_sha": "e1d159cbfb2da3ebee6a24793843f1c4eb3f155e",
+      "display_original_site_sha256": "dbb52232d793d3704e57b7b0aa1bedfc854c72290d7a2a7c6ca0779cfdbf81b6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ibervillea-lindheimeri/inat-637023651.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abbb26efa36a5d655f1bac1342beedc5eb2bf481",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 351551847, photo 641481404, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff00930f302e9844a71c1e39ebbaec85d6fd0dcf9a2433660ac78cfb3c39b41b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Ibervillea lindheimeri maps to indexed species ibervillea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "ff00930f302e9844a71c1e39ebbaec85d6fd0dcf9a2433660ac78cfb3c39b41b"
+      "sha256": "ff00930f302e9844a71c1e39ebbaec85d6fd0dcf9a2433660ac78cfb3c39b41b",
+      "display_sha256": "0a32c9b83f9f17f9c7ac3286ba637330cd5dccbfe156fcc06df09fda240e560d",
+      "display_blob_sha": "4bd483a26015837ab21b4914ea80a5f5a46be094",
+      "display_original_site_sha256": "ff00930f302e9844a71c1e39ebbaec85d6fd0dcf9a2433660ac78cfb3c39b41b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

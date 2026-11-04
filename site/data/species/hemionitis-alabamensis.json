@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4439aeb075f69c2f76ba4bbeb31e9680a6423971",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342360609, photo 623440650, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a51777c1308f72ff8220088c3f11656a6a96cfc1df6c1a8a61d2cc4259741d5.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Myriopteris alabamensis maps to indexed species hemionitis-alabamensis; specialist morphology and BONAP range deferred.",
-      "sha256": "3a51777c1308f72ff8220088c3f11656a6a96cfc1df6c1a8a61d2cc4259741d5"
+      "sha256": "3a51777c1308f72ff8220088c3f11656a6a96cfc1df6c1a8a61d2cc4259741d5",
+      "display_sha256": "1ad1d412e30d7ce54a5ce216efd1fcec9f1710eed0edb4c8196338e51120e9d5",
+      "display_blob_sha": "593973a64ebafdd49a1d802b004c0f3601f48c59",
+      "display_original_site_sha256": "3a51777c1308f72ff8220088c3f11656a6a96cfc1df6c1a8a61d2cc4259741d5",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-alabamensis/inat-624016920.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e57cd14d44eaf8372a9e9a857eee09fc399ad4e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342644947, photo 624016920, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 25e3e1285cf7dd81caf212e8d0b5440b9bc135f7a44aacf7ff1b1fb3af97d7c4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Myriopteris alabamensis maps to indexed species hemionitis-alabamensis; specialist morphology and BONAP range deferred.",
-      "sha256": "25e3e1285cf7dd81caf212e8d0b5440b9bc135f7a44aacf7ff1b1fb3af97d7c4"
+      "sha256": "25e3e1285cf7dd81caf212e8d0b5440b9bc135f7a44aacf7ff1b1fb3af97d7c4",
+      "display_sha256": "ae72a9e705a96354d7024c64c0132e57676ba63006e2db9767c9994aaf61b92e",
+      "display_blob_sha": "418dd2062fd7156685b6860ad1cc75bcf0f53085",
+      "display_original_site_sha256": "25e3e1285cf7dd81caf212e8d0b5440b9bc135f7a44aacf7ff1b1fb3af97d7c4",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-alabamensis/inat-625225069.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c9346fba90988f1e1921c8ce4af2e8e562ee8777",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343251125, photo 625225069, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bdbcc591533bda2a5b58e3494434b6a41a2bbb99385d379a81ea758dfe563fa9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Myriopteris alabamensis maps to indexed species hemionitis-alabamensis; specialist morphology and BONAP range deferred.",
-      "sha256": "bdbcc591533bda2a5b58e3494434b6a41a2bbb99385d379a81ea758dfe563fa9"
+      "sha256": "bdbcc591533bda2a5b58e3494434b6a41a2bbb99385d379a81ea758dfe563fa9",
+      "display_sha256": "34404868f41299146cfab85cd2484026bb03a8d99d07a49d7dc9189371d11dad",
+      "display_blob_sha": "a7454999f7904d7729db5aa721e3b8f2c6fa9d67",
+      "display_original_site_sha256": "bdbcc591533bda2a5b58e3494434b6a41a2bbb99385d379a81ea758dfe563fa9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-alabamensis/inat-627719039.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32463be5e768cf03652a5c09525119e723e8e036",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344508022, photo 627719039, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1c1e55733ad93b9c2b4e17b6c5a225b21dd024ebdbaeffd26e244c85999247d7.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Myriopteris alabamensis maps to indexed species hemionitis-alabamensis; specialist morphology and BONAP range deferred.",
-      "sha256": "1c1e55733ad93b9c2b4e17b6c5a225b21dd024ebdbaeffd26e244c85999247d7"
+      "sha256": "1c1e55733ad93b9c2b4e17b6c5a225b21dd024ebdbaeffd26e244c85999247d7",
+      "display_sha256": "2486a5136754ddc8b859396cf764be41d9f6a1b3e54967b6d2d2c02c8631b2c8",
+      "display_blob_sha": "9dd69f87b375b8bd2edc04a6fc4ca79a0bbbb9eb",
+      "display_original_site_sha256": "1c1e55733ad93b9c2b4e17b6c5a225b21dd024ebdbaeffd26e244c85999247d7",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-alabamensis/inat-630478467.jpg",

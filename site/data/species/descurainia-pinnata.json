@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "38c72826eaff19bc300679c3a62e8663699d8b8e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 265839519, photo 477572518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49e82992b62c289c839c35b97724783313bce70073644de2076e8a55b02ea0e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Descurainia pinnata maps to indexed species descurainia-pinnata; specialist morphology and BONAP range deferred.",
-      "sha256": "49e82992b62c289c839c35b97724783313bce70073644de2076e8a55b02ea0e5"
+      "sha256": "49e82992b62c289c839c35b97724783313bce70073644de2076e8a55b02ea0e5",
+      "display_sha256": "b912b58a9761e111aaa1e37be1b2bb96ce742b7cb005a92c061e7229745fa2cb",
+      "display_blob_sha": "abfcf8ecb4ba05406c711d8148823d8bfb5acfd6",
+      "display_original_site_sha256": "49e82992b62c289c839c35b97724783313bce70073644de2076e8a55b02ea0e5",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/descurainia-pinnata/inat-481177834.jpeg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "37402a569191a8bdb2a1ed3773e91e5edc18ae1f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 267735225, photo 481177834, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: d46924f24c5526bde9139f2108476b5c6ca5709d00475b2f16bcc97b73a70e76. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Descurainia pinnata maps to indexed species descurainia-pinnata; specialist morphology and BONAP range deferred.",
-      "sha256": "d46924f24c5526bde9139f2108476b5c6ca5709d00475b2f16bcc97b73a70e76"
+      "sha256": "d46924f24c5526bde9139f2108476b5c6ca5709d00475b2f16bcc97b73a70e76",
+      "display_sha256": "5daa09612f0b08b614b6efa664067a3b533077ca24371bf0866c10c57ddb5da4",
+      "display_blob_sha": "8c77bea34798161821cd46909ee1d69cb69ba006",
+      "display_original_site_sha256": "d46924f24c5526bde9139f2108476b5c6ca5709d00475b2f16bcc97b73a70e76",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/descurainia-pinnata/inat-624114031.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "babbf02b9d2d3a6981d77bda8dbcd5674a6f58af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342693292, photo 624114031, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6efc3301f5857449001abc200816fa77b35347c79194d818002c7ac4aebb75db. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Descurainia pinnata maps to indexed species descurainia-pinnata; specialist morphology and BONAP range deferred.",
-      "sha256": "6efc3301f5857449001abc200816fa77b35347c79194d818002c7ac4aebb75db"
+      "sha256": "6efc3301f5857449001abc200816fa77b35347c79194d818002c7ac4aebb75db",
+      "display_sha256": "2931aafe1a450f600bf8ddaf5dc8bfecf03162c3bb5e8847e80b55845199f49d",
+      "display_blob_sha": "919d84b28219ce070c84139cb5de3c84b4e60c16",
+      "display_original_site_sha256": "6efc3301f5857449001abc200816fa77b35347c79194d818002c7ac4aebb75db",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/descurainia-pinnata/inat-624294533.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aaac49f2371d33f912de0fc60fd36d5d04fdaab4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342791594, photo 624294533, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e88509862872971f171d71713b8c7abea37993e8897e7f69a847f4841a73e991. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Descurainia pinnata maps to indexed species descurainia-pinnata; specialist morphology and BONAP range deferred.",
-      "sha256": "e88509862872971f171d71713b8c7abea37993e8897e7f69a847f4841a73e991"
+      "sha256": "e88509862872971f171d71713b8c7abea37993e8897e7f69a847f4841a73e991",
+      "display_sha256": "db07a38d72d09c61deecb3a1f2d605116ee80490e1751bfcb5146a8bba293942",
+      "display_blob_sha": "e1c0a65c11694f9a96f1fc2d2f4c25f9c818fb1e",
+      "display_original_site_sha256": "e88509862872971f171d71713b8c7abea37993e8897e7f69a847f4841a73e991",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/descurainia-pinnata/inat-62804995.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5afaca787850a5ca821a38ab520c596bac49cfd8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 39578879, photo 62804995, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 51639a53b5598c6f375f2c7bc19fd98f6ffbbeb1b3adf09337c42e589fd3ca4c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Descurainia pinnata maps to indexed species descurainia-pinnata; specialist morphology and BONAP range deferred.",
-      "sha256": "51639a53b5598c6f375f2c7bc19fd98f6ffbbeb1b3adf09337c42e589fd3ca4c"
+      "sha256": "51639a53b5598c6f375f2c7bc19fd98f6ffbbeb1b3adf09337c42e589fd3ca4c",
+      "display_sha256": "e307953a89e275c92cc6725f55540aaa057ac5b08fec20705250a30d72253de7",
+      "display_blob_sha": "272005afd8fa650d7e7bba73d255a3931ce41499",
+      "display_original_site_sha256": "51639a53b5598c6f375f2c7bc19fd98f6ffbbeb1b3adf09337c42e589fd3ca4c",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

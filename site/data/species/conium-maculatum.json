@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7dec5c3605af1df1e84e3abf9dd3f5414f7dd9a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 268616981, photo 482858614, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e8def6461e68da5ae3b0809a40d131f18c8d9a331217a167e163b3c4745d2b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Conium maculatum maps to indexed species conium-maculatum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8e8def6461e68da5ae3b0809a40d131f18c8d9a331217a167e163b3c4745d2b9"
+      "sha256": "8e8def6461e68da5ae3b0809a40d131f18c8d9a331217a167e163b3c4745d2b9",
+      "display_sha256": "89b94171d8bc14505f1c4910708830a008d537f72a622e8cd6c1c7cc99cc61ff",
+      "display_blob_sha": "38d5a8bc49d13e08f11d2f4cd25aebf0879c5e5d",
+      "display_original_site_sha256": "8e8def6461e68da5ae3b0809a40d131f18c8d9a331217a167e163b3c4745d2b9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/conium-maculatum/inat-489106563.jpeg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "09054fa78828570494dd921a427490d058049716",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 271888691, photo 489106563, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 123863e8f5a97ef95b4eb2fa0030b9ef40c40868bc52dd6cf35131510ce0699a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Conium maculatum maps to indexed species conium-maculatum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "123863e8f5a97ef95b4eb2fa0030b9ef40c40868bc52dd6cf35131510ce0699a"
+      "sha256": "123863e8f5a97ef95b4eb2fa0030b9ef40c40868bc52dd6cf35131510ce0699a",
+      "display_sha256": "30bd00ec63e9b8e10c968aca16cc39ff553115a390c0757c580f5bcc9885d782",
+      "display_blob_sha": "5dc3579ccf880bcaea3ccea4c0dfc7d0194d7dcc",
+      "display_original_site_sha256": "123863e8f5a97ef95b4eb2fa0030b9ef40c40868bc52dd6cf35131510ce0699a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/conium-maculatum/inat-627355747.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8043ccebd8f33b4b4e3b0c0e760ac2de3cd9bb17",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344321121, photo 627355747, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e458baf42d861914249b6d89ce653eea262c0f7ae337c8e950b7e9826019ffd4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Conium maculatum maps to indexed species conium-maculatum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e458baf42d861914249b6d89ce653eea262c0f7ae337c8e950b7e9826019ffd4"
+      "sha256": "e458baf42d861914249b6d89ce653eea262c0f7ae337c8e950b7e9826019ffd4",
+      "display_sha256": "2d23d6aa0212765fa3065ac5836d552b8bfe7b7d6af66d4a8efa6dbadae7b3f7",
+      "display_blob_sha": "a56c8cc6d5062e8009da54cc269628c56409b38b",
+      "display_original_site_sha256": "e458baf42d861914249b6d89ce653eea262c0f7ae337c8e950b7e9826019ffd4",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/conium-maculatum/inat-635793899.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "edf6cc2ceddef2ebfab8630f678b8ed7d6b2a467",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 348602275, photo 635793899, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6522ce6299baf096f228b8bf9f6fb683487f1d20b3ee56ce62d4f2beb79634e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Conium maculatum maps to indexed species conium-maculatum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6522ce6299baf096f228b8bf9f6fb683487f1d20b3ee56ce62d4f2beb79634e1"
+      "sha256": "6522ce6299baf096f228b8bf9f6fb683487f1d20b3ee56ce62d4f2beb79634e1",
+      "display_sha256": "3abded1fb547a1303a841316a2d047df1007720d26adfe7d9561aed0546b3d25",
+      "display_blob_sha": "f27ec7ed592eb416040347b6941ac9a88c4d465c",
+      "display_original_site_sha256": "6522ce6299baf096f228b8bf9f6fb683487f1d20b3ee56ce62d4f2beb79634e1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/conium-maculatum/inat-650045235.jpg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e9cd7aceb78fcd8ab435cc789fe8a2b2b474cada",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356454607, photo 650045235, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c99166554a0396e266e7773f8453461df76444facfccb923effff7b769d0961. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Conium maculatum maps to indexed species conium-maculatum (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5c99166554a0396e266e7773f8453461df76444facfccb923effff7b769d0961"
+      "sha256": "5c99166554a0396e266e7773f8453461df76444facfccb923effff7b769d0961",
+      "display_sha256": "3ffa6ffe49cae521be23aa0bf365124c176685d303292402f0b3cb213ee1eeb8",
+      "display_blob_sha": "1b5b6cad4dfadf914709a69a1ff56c76d34277c8",
+      "display_original_site_sha256": "5c99166554a0396e266e7773f8453461df76444facfccb923effff7b769d0961",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

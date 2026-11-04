@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ad7577248842c7483e00077e5d76515f2ea23d23",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346232816, photo 631097343, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 54be8e507261563ae14956df12bc8587089dc881e29392088f02cd8741143b67. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Sedum nuttallii maps to indexed species sedum-nuttallii; specialist morphology and BONAP range deferred.",
-      "sha256": "54be8e507261563ae14956df12bc8587089dc881e29392088f02cd8741143b67"
+      "sha256": "54be8e507261563ae14956df12bc8587089dc881e29392088f02cd8741143b67",
+      "display_sha256": "b06667522b746102428123c57cf25cea435c6b09ba33755cd649a1fded6dbd09",
+      "display_blob_sha": "dd3f582938b530ce811b5abd48f5d663d76a4865",
+      "display_original_site_sha256": "54be8e507261563ae14956df12bc8587089dc881e29392088f02cd8741143b67",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sedum-nuttallii/inat-635235639.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0e34ce5f140d11048cb58c9b85814b531bcb70b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352825657, photo 643858404, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6682b800368f2733ebed3cc8cac8560417b58d979e23616b8a5dd30692ee55af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Sedum nuttallii maps to indexed species sedum-nuttallii; specialist morphology and BONAP range deferred.",
-      "sha256": "6682b800368f2733ebed3cc8cac8560417b58d979e23616b8a5dd30692ee55af"
+      "sha256": "6682b800368f2733ebed3cc8cac8560417b58d979e23616b8a5dd30692ee55af",
+      "display_sha256": "9b6e8c24a4d72fa2718512e7dd2ad1b4b21e25b48f4e0e96e171a7452a0d463c",
+      "display_blob_sha": "ad61d487dd19162b270c7af5732f273bb48dc410",
+      "display_original_site_sha256": "6682b800368f2733ebed3cc8cac8560417b58d979e23616b8a5dd30692ee55af",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sedum-nuttallii/inat-644010010.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5e8143ec9276d548c102738890f483bcb641caca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352919324, photo 644010010, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6dd59dfbaf738c89d61e70043b8ef64a9f4a52e71d2079041157909e7784bf6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Sedum nuttallii maps to indexed species sedum-nuttallii; specialist morphology and BONAP range deferred.",
-      "sha256": "a6dd59dfbaf738c89d61e70043b8ef64a9f4a52e71d2079041157909e7784bf6"
+      "sha256": "a6dd59dfbaf738c89d61e70043b8ef64a9f4a52e71d2079041157909e7784bf6",
+      "display_sha256": "2209d8d456f1df0bcb45415c549f9c685b0e882d1baa3f0186616690df02a9c0",
+      "display_blob_sha": "8ac2c8c9272ec39f8c697b0dba4cb3b39d659666",
+      "display_original_site_sha256": "a6dd59dfbaf738c89d61e70043b8ef64a9f4a52e71d2079041157909e7784bf6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sedum-nuttallii/inat-645148839.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bf80c884a77289cd7e0724b508cb842f02f0308d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353590019, photo 645148839, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1725e2bbfe1f42418976017a8e56491316bb35728466d03a3a88eff53d2d630. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Sedum nuttallii maps to indexed species sedum-nuttallii; specialist morphology and BONAP range deferred.",
-      "sha256": "d1725e2bbfe1f42418976017a8e56491316bb35728466d03a3a88eff53d2d630"
+      "sha256": "d1725e2bbfe1f42418976017a8e56491316bb35728466d03a3a88eff53d2d630",
+      "display_sha256": "f31cc3051b875c67658eda3c4fe2d78560f317abf8f1c322a24cf8d8b6bd29c1",
+      "display_blob_sha": "562f05d630572e003c7124db2d792000a8a97bc4",
+      "display_original_site_sha256": "d1725e2bbfe1f42418976017a8e56491316bb35728466d03a3a88eff53d2d630",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

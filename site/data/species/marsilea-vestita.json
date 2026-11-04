@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b9ab88df51f85b6e72ed7ad4430ab7dd26b3af97",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 70971432, photo 115470271, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b8aa874231d030ceeb2356ee7e9af76f96ccceed40e29f8b8b411d58d3ee5a43. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea vestita maps to indexed species marsilea-vestita; specialist morphology and BONAP range deferred.",
-      "sha256": "b8aa874231d030ceeb2356ee7e9af76f96ccceed40e29f8b8b411d58d3ee5a43"
+      "sha256": "b8aa874231d030ceeb2356ee7e9af76f96ccceed40e29f8b8b411d58d3ee5a43",
+      "display_sha256": "bb6217bf76d5ab6ce9229eff7b728eb60bdb39924e306532a846658e82b5a6cb",
+      "display_blob_sha": "8acd9af975ab7dd4aca6149f45d1e1469ca35437",
+      "display_original_site_sha256": "b8aa874231d030ceeb2356ee7e9af76f96ccceed40e29f8b8b411d58d3ee5a43",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-vestita/inat-115845222.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d4f1aaea228413022f18a39e891dcab75f4ed46e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 71178700, photo 115845222, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c63de6e8d2c64cadda967269c37383ca37bae54213dd1cd086b328178c3fbd29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea vestita maps to indexed species marsilea-vestita; specialist morphology and BONAP range deferred.",
-      "sha256": "c63de6e8d2c64cadda967269c37383ca37bae54213dd1cd086b328178c3fbd29"
+      "sha256": "c63de6e8d2c64cadda967269c37383ca37bae54213dd1cd086b328178c3fbd29",
+      "display_sha256": "16832a9450738ef7cd126ac21e4378e63b5f243a84b68dd6ad008d2d3fbd1d4d",
+      "display_blob_sha": "75a26556fbe9b6d986da01297804d69839c2ac6a",
+      "display_original_site_sha256": "c63de6e8d2c64cadda967269c37383ca37bae54213dd1cd086b328178c3fbd29",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-vestita/inat-670649800.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "506296a2865e8b4824bd5756f1ee7e00bcc50545",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367248159, photo 670649800, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f466f9879bb5561d7a9482195beeb3e1b475c18cf7e69c249761eba5c79a8fc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea vestita maps to indexed species marsilea-vestita; specialist morphology and BONAP range deferred.",
-      "sha256": "7f466f9879bb5561d7a9482195beeb3e1b475c18cf7e69c249761eba5c79a8fc"
+      "sha256": "7f466f9879bb5561d7a9482195beeb3e1b475c18cf7e69c249761eba5c79a8fc",
+      "display_sha256": "f4b8f4384682496b7901828ef728dea3ad3fde837ff78d3b73bc25cb542eb24a",
+      "display_blob_sha": "98dae86fd1fb0842180d22aecf263ede78ecdb77",
+      "display_original_site_sha256": "7f466f9879bb5561d7a9482195beeb3e1b475c18cf7e69c249761eba5c79a8fc",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-vestita/inat-69089979.jpeg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "87ef3508cde3189f636abd75616426ffccae6981",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 47727079, photo 75708122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 180e355208dd62b431680ca8897060206e1b503c43314a36cab852622c6450bd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Marsilea vestita maps to indexed species marsilea-vestita; specialist morphology and BONAP range deferred.",
-      "sha256": "180e355208dd62b431680ca8897060206e1b503c43314a36cab852622c6450bd"
+      "sha256": "180e355208dd62b431680ca8897060206e1b503c43314a36cab852622c6450bd",
+      "display_sha256": "2247d3d404a1df79c220852b6b1962aaa00371badac4fa4ae9dcc8dffba5b2c0",
+      "display_blob_sha": "cda5f50e00a478fb1f023e6c0bd3c065028fff6b",
+      "display_original_site_sha256": "180e355208dd62b431680ca8897060206e1b503c43314a36cab852622c6450bd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/marsilea-vestita/archived-80bf819518ed7838.jpg",

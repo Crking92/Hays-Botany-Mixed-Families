@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa19491e8e02072f5d0e1d794bec564042da6916",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 340996377, photo 620658451, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0eadf935e02794fd7ec83246750605068b3918ff4a53b6b38f16687c88a0a48a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Fouquieria splendens maps to indexed species fouquieria-splendens; specialist morphology and BONAP range deferred.",
-      "sha256": "0eadf935e02794fd7ec83246750605068b3918ff4a53b6b38f16687c88a0a48a"
+      "sha256": "0eadf935e02794fd7ec83246750605068b3918ff4a53b6b38f16687c88a0a48a",
+      "display_sha256": "29bfa6b97cb441b6078619402fe8ac7983bd8acc45d0f3e9a2869eeeef2371df",
+      "display_blob_sha": "8578da077d99190bd9dc20a39298b63fee8200df",
+      "display_original_site_sha256": "0eadf935e02794fd7ec83246750605068b3918ff4a53b6b38f16687c88a0a48a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fouquieria-splendens/inat-620673960.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6fc5851142cd5fb6c6586deccdd0ce1ca50667d0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341003559, photo 620673960, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 512005106b830598987ed0c0394ef97ceeb7d52cc7515fd3361a4865c05460a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Fouquieria splendens maps to indexed species fouquieria-splendens; specialist morphology and BONAP range deferred.",
-      "sha256": "512005106b830598987ed0c0394ef97ceeb7d52cc7515fd3361a4865c05460a6"
+      "sha256": "512005106b830598987ed0c0394ef97ceeb7d52cc7515fd3361a4865c05460a6",
+      "display_sha256": "23f1d99cf5ab6c10085f124825db2e900dabb49c59e77af88dc0949cb785c4f9",
+      "display_blob_sha": "19183740b28e203d76f7596c6ae300970128ae7a",
+      "display_original_site_sha256": "512005106b830598987ed0c0394ef97ceeb7d52cc7515fd3361a4865c05460a6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fouquieria-splendens/inat-620912322.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "521a4e8b58c8e8095cf06f20f2cd19667f8286b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341118995, photo 620912322, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4810964a7802e771f9ac45ffb847960f93988c0b29cf48f250c6d879bac768b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Fouquieria splendens maps to indexed species fouquieria-splendens; specialist morphology and BONAP range deferred.",
-      "sha256": "4810964a7802e771f9ac45ffb847960f93988c0b29cf48f250c6d879bac768b1"
+      "sha256": "4810964a7802e771f9ac45ffb847960f93988c0b29cf48f250c6d879bac768b1",
+      "display_sha256": "70725ca31e5d4de2c3d87c79c3edddefef54f4c9df5c51cb4d3c44100f788f11",
+      "display_blob_sha": "0bf91b90d21c384603966b770c92a62351226b1e",
+      "display_original_site_sha256": "4810964a7802e771f9ac45ffb847960f93988c0b29cf48f250c6d879bac768b1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fouquieria-splendens/inat-648807479.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7e11a0c51500ce35fc855178f27a7b0a14fac30",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355776645, photo 648807479, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e849bef83b3709af57140f6cc76e727bcd937854ca642db0f8a56b1a312c389b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Fouquieria splendens maps to indexed species fouquieria-splendens; specialist morphology and BONAP range deferred.",
-      "sha256": "e849bef83b3709af57140f6cc76e727bcd937854ca642db0f8a56b1a312c389b"
+      "sha256": "e849bef83b3709af57140f6cc76e727bcd937854ca642db0f8a56b1a312c389b",
+      "display_sha256": "797a780a622d301b4796d5ae856e5d3fd21707cad7bab7b35972421224fc52cf",
+      "display_blob_sha": "23c494385df120395f240f62f5bb90fe9ed4b614",
+      "display_original_site_sha256": "e849bef83b3709af57140f6cc76e727bcd937854ca642db0f8a56b1a312c389b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fouquieria-splendens/inat-665813627.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "f79fc03e639835a3c2edea04eb5f45b96513a8e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 364710699, photo 665813627, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2cb1291e34f7a9ccfff78a90189cd29db70d69dcda06c001b85d6dcb682f2151. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Fouquieria splendens maps to indexed species fouquieria-splendens; specialist morphology and BONAP range deferred.",
-      "sha256": "2cb1291e34f7a9ccfff78a90189cd29db70d69dcda06c001b85d6dcb682f2151"
+      "sha256": "2cb1291e34f7a9ccfff78a90189cd29db70d69dcda06c001b85d6dcb682f2151",
+      "display_sha256": "2e242197065060bf49573eababff585919604c6ce4b6273b602565566ff92fae",
+      "display_blob_sha": "d2dd07fa5496b85e28aad1841c4aabbbdb31c54c",
+      "display_original_site_sha256": "2cb1291e34f7a9ccfff78a90189cd29db70d69dcda06c001b85d6dcb682f2151",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

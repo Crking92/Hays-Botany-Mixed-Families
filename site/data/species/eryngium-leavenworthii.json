@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "911b97a21601e5773ab39ceabda871c20df566be",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 264746832, photo 475422562, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5154146f2cf0ad06278abc43bdc3d99206ae57f93855073b94a9eeb9d4fd9f62. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Eryngium leavenworthii maps to indexed species eryngium-leavenworthii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5154146f2cf0ad06278abc43bdc3d99206ae57f93855073b94a9eeb9d4fd9f62"
+      "sha256": "5154146f2cf0ad06278abc43bdc3d99206ae57f93855073b94a9eeb9d4fd9f62",
+      "display_sha256": "24f9bb4cfeef02f54789aece886997967c0d102b037ad859f3cd28995b0bb367",
+      "display_blob_sha": "04abf182b4d0a36ab399e942fb338fea27524e46",
+      "display_original_site_sha256": "5154146f2cf0ad06278abc43bdc3d99206ae57f93855073b94a9eeb9d4fd9f62",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eryngium-leavenworthii/inat-476463298.jpg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d6d8ff531f3ef2a195a19d93c3d2effbc96f78f4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 265274440, photo 476463298, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb976b5989c47f9c82fe90a4bb9734263047828e4f73ecd72d5cd3bcb1799fe1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Eryngium leavenworthii maps to indexed species eryngium-leavenworthii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cb976b5989c47f9c82fe90a4bb9734263047828e4f73ecd72d5cd3bcb1799fe1"
+      "sha256": "cb976b5989c47f9c82fe90a4bb9734263047828e4f73ecd72d5cd3bcb1799fe1",
+      "display_sha256": "e76519c3adc0c5984b406bfa903a0eb480cb201646034486c3b81527bca95467",
+      "display_blob_sha": "39910a453270d43dac00c8eb8514acdc9eaf24fd",
+      "display_original_site_sha256": "cb976b5989c47f9c82fe90a4bb9734263047828e4f73ecd72d5cd3bcb1799fe1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eryngium-leavenworthii/inat-675307900.jpg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5299429db8807a54dace28e365c8f1cb6f0f9d28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 369688813, photo 675307900, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6cdc87f4de14c9a4bfacdffa60296d147a360909a7befe56f4455238fab57766. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Eryngium leavenworthii maps to indexed species eryngium-leavenworthii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6cdc87f4de14c9a4bfacdffa60296d147a360909a7befe56f4455238fab57766"
+      "sha256": "6cdc87f4de14c9a4bfacdffa60296d147a360909a7befe56f4455238fab57766",
+      "display_sha256": "2ae74cd3527937cb0d8ed548afe504fef644c6173c843fd2d6d198f7c49845cb",
+      "display_blob_sha": "45c8aad59006e2bff54d58d1e553a8d69ac8043f",
+      "display_original_site_sha256": "6cdc87f4de14c9a4bfacdffa60296d147a360909a7befe56f4455238fab57766",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eryngium-leavenworthii/inat-676093845.jpg",
@@ -121,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0c32a6519f0d7407d5ada3dea5e5318d25783fbe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 370101223, photo 676093845, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d3c4bd9adec2fa1d45cbcc9fb1d84827aef959af7fddaf498be6a3e6d09340f9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Eryngium leavenworthii maps to indexed species eryngium-leavenworthii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d3c4bd9adec2fa1d45cbcc9fb1d84827aef959af7fddaf498be6a3e6d09340f9"
+      "sha256": "d3c4bd9adec2fa1d45cbcc9fb1d84827aef959af7fddaf498be6a3e6d09340f9",
+      "display_sha256": "2ae69b3d14ecad02d719a998fe84524981adbdddea6e3ffd3a93d08c7036b3f0",
+      "display_blob_sha": "79b3476f9b3d56b80963c795c6177179d7e24d56",
+      "display_original_site_sha256": "d3c4bd9adec2fa1d45cbcc9fb1d84827aef959af7fddaf498be6a3e6d09340f9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eryngium-leavenworthii/inat-701813867.jpg",
@@ -140,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c5b8e7621fb692a8838b7e20179b7dbe5eb3344",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 383447370, photo 701813867, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 64becda30e54e018d9a981e0d6ee873ae9f88aae0e1a9cf589a10f7805782c9f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Eryngium leavenworthii maps to indexed species eryngium-leavenworthii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "64becda30e54e018d9a981e0d6ee873ae9f88aae0e1a9cf589a10f7805782c9f"
+      "sha256": "64becda30e54e018d9a981e0d6ee873ae9f88aae0e1a9cf589a10f7805782c9f",
+      "display_sha256": "07f95aa1d38c1bf598312cf71979dd9f237bff83f1495c82bf96c8b3da39e077",
+      "display_blob_sha": "b317c6d5f273e98a3af82f31fadd91a469d97162",
+      "display_original_site_sha256": "64becda30e54e018d9a981e0d6ee873ae9f88aae0e1a9cf589a10f7805782c9f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

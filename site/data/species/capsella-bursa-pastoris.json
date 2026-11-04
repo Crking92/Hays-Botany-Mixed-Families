@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ac60c328c7abc2a94a84f6533c563ca26e1cbe4d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341109390, photo 620892626, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4f74b66b87a6128b2e9e89d0047ea7b07bdf1c0491d7bfb42ca83b7d947a3350. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Capsella bursa-pastoris maps to indexed species capsella-bursa-pastoris; specialist morphology and BONAP range deferred.",
-      "sha256": "4f74b66b87a6128b2e9e89d0047ea7b07bdf1c0491d7bfb42ca83b7d947a3350"
+      "sha256": "4f74b66b87a6128b2e9e89d0047ea7b07bdf1c0491d7bfb42ca83b7d947a3350",
+      "display_sha256": "4a8b78b9032cd65ec80cdbef006e131297b565862013c16514e96c6e0dc72ff4",
+      "display_blob_sha": "a2cab1bad1b37c05c5ff4e33ac1d9402bfcb6f2a",
+      "display_original_site_sha256": "4f74b66b87a6128b2e9e89d0047ea7b07bdf1c0491d7bfb42ca83b7d947a3350",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsella-bursa-pastoris/inat-622675494.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d4d3f194a88aeb1a1421ea2b551bcb85f9d677d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341982785, photo 622675494, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 56b5019268af951ee14bba83deebc3e39830501f3ea02dc105cad94459d82010. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Capsella bursa-pastoris maps to indexed species capsella-bursa-pastoris; specialist morphology and BONAP range deferred.",
-      "sha256": "56b5019268af951ee14bba83deebc3e39830501f3ea02dc105cad94459d82010"
+      "sha256": "56b5019268af951ee14bba83deebc3e39830501f3ea02dc105cad94459d82010",
+      "display_sha256": "cfd6324e1aa86b6fde5709c13a2010207fad24c88f84095c93f8963c239929ce",
+      "display_blob_sha": "343d43de1f2c0a02a49c9203c8b22bd7e9d86b6e",
+      "display_original_site_sha256": "56b5019268af951ee14bba83deebc3e39830501f3ea02dc105cad94459d82010",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsella-bursa-pastoris/inat-623734348.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d390e83c5202cba2021894ee3db5379ca471ba10",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342504535, photo 623734348, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93513437243cce9ce50b7637bb6071dd1ba2c861fbb8c2211ec72f45443a45b1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Capsella bursa-pastoris maps to indexed species capsella-bursa-pastoris; specialist morphology and BONAP range deferred.",
-      "sha256": "93513437243cce9ce50b7637bb6071dd1ba2c861fbb8c2211ec72f45443a45b1"
+      "sha256": "93513437243cce9ce50b7637bb6071dd1ba2c861fbb8c2211ec72f45443a45b1",
+      "display_sha256": "d8bbd04802d3ba601e342c2ad0f7919b12c862a76e3831ab51015df3fd8cac0a",
+      "display_blob_sha": "0b035b265772b375896d315a3eb316acfa7512ce",
+      "display_original_site_sha256": "93513437243cce9ce50b7637bb6071dd1ba2c861fbb8c2211ec72f45443a45b1",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsella-bursa-pastoris/inat-624364340.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d3d3890ac451682694bde6b85046d543aa5bd1c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342826031, photo 624364340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ef38d66a30ef875a8198363a4b36d1015f63f5a251eae484b571b70be9cd4307. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Capsella bursa-pastoris maps to indexed species capsella-bursa-pastoris; specialist morphology and BONAP range deferred.",
-      "sha256": "ef38d66a30ef875a8198363a4b36d1015f63f5a251eae484b571b70be9cd4307"
+      "sha256": "ef38d66a30ef875a8198363a4b36d1015f63f5a251eae484b571b70be9cd4307",
+      "display_sha256": "ebc13a68e3bd48131f8296e5c151f0de0d39951a28bd134c64ee5a5442204f45",
+      "display_blob_sha": "55fd17baee2cd7398a33a302ab11606a48564d78",
+      "display_original_site_sha256": "ef38d66a30ef875a8198363a4b36d1015f63f5a251eae484b571b70be9cd4307",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsella-bursa-pastoris/inat-628226747.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b48f9848859006be5e6c58115ccddd46d20eaaa2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344772384, photo 628226747, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e52ecb9811c1620e6f13d355b8225b6d96f7d56e0e72f216f9ed9415349f8146. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Capsella bursa-pastoris maps to indexed species capsella-bursa-pastoris; specialist morphology and BONAP range deferred.",
-      "sha256": "e52ecb9811c1620e6f13d355b8225b6d96f7d56e0e72f216f9ed9415349f8146"
+      "sha256": "e52ecb9811c1620e6f13d355b8225b6d96f7d56e0e72f216f9ed9415349f8146",
+      "display_sha256": "34a88c2b48f1ea2c6a0291aded6c409737e4e3e4d2f3879625042921b38df10f",
+      "display_blob_sha": "374cd518f27feafaa1c3c6eb8710da2a0833dac7",
+      "display_original_site_sha256": "e52ecb9811c1620e6f13d355b8225b6d96f7d56e0e72f216f9ed9415349f8146",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

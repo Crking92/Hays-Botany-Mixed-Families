@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a1c8c848e78e494f8fc38dfc36309e8d5868a016",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 273234950, photo 491466713, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24ab6fa66328e54a7ae66885352ff87eb4c0a9175ce8e63b1a71f82e92456281. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita pepo maps to indexed species cucurbita-pepo; specialist morphology and BONAP range deferred.",
-      "sha256": "24ab6fa66328e54a7ae66885352ff87eb4c0a9175ce8e63b1a71f82e92456281"
+      "sha256": "24ab6fa66328e54a7ae66885352ff87eb4c0a9175ce8e63b1a71f82e92456281",
+      "display_sha256": "d75baeca89f2b8d17a1c8bc2cc869b395d225442e48287a0a7ea664aec4adce7",
+      "display_blob_sha": "5c3ded23312673db18da0a09a97ccea9e90f662e",
+      "display_original_site_sha256": "24ab6fa66328e54a7ae66885352ff87eb4c0a9175ce8e63b1a71f82e92456281",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-pepo/inat-494671909.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62d22f24e1d285f4f0bbbf525205ec6511bd04cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 275264325, photo 494671909, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d81781874a42904938419d5baacd642bf99ab18a3d75c472e7d147239c9bdb6b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita pepo maps to indexed species cucurbita-pepo; specialist morphology and BONAP range deferred.",
-      "sha256": "d81781874a42904938419d5baacd642bf99ab18a3d75c472e7d147239c9bdb6b"
+      "sha256": "d81781874a42904938419d5baacd642bf99ab18a3d75c472e7d147239c9bdb6b",
+      "display_sha256": "e863f74416135661c95d8324d559708c0f49c52d99ee6a6b38a9314522853964",
+      "display_blob_sha": "6dc4684d4cf3a719f606a8d6baf3dd7f74080e90",
+      "display_original_site_sha256": "d81781874a42904938419d5baacd642bf99ab18a3d75c472e7d147239c9bdb6b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-pepo/inat-495140846.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "24ce30e610babfe104afaf519b92bebb0769d7d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 275572082, photo 495140846, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9048548bc0d3c42813ad01c7f4691c57a2a0f4f555b21dfdc035102dd629bcbd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita pepo maps to indexed species cucurbita-pepo; specialist morphology and BONAP range deferred.",
-      "sha256": "9048548bc0d3c42813ad01c7f4691c57a2a0f4f555b21dfdc035102dd629bcbd"
+      "sha256": "9048548bc0d3c42813ad01c7f4691c57a2a0f4f555b21dfdc035102dd629bcbd",
+      "display_sha256": "7bebb54247ca1b216e57ed34e1035e23f36bddadf11c3e64104f516b5cf89244",
+      "display_blob_sha": "a33cd5b6dee376febc91bd7b1ddf6dc602d14266",
+      "display_original_site_sha256": "9048548bc0d3c42813ad01c7f4691c57a2a0f4f555b21dfdc035102dd629bcbd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-pepo/inat-508130052.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1d81be299542614a972be2f6f3d882723c5a6d7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 282809190, photo 508130052, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 559b3428287d2cd912c08a6b7705ae403beba6f353ae991e1ec5a33579667826. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita pepo maps to indexed species cucurbita-pepo; specialist morphology and BONAP range deferred.",
-      "sha256": "559b3428287d2cd912c08a6b7705ae403beba6f353ae991e1ec5a33579667826"
+      "sha256": "559b3428287d2cd912c08a6b7705ae403beba6f353ae991e1ec5a33579667826",
+      "display_sha256": "7dee8bd64bfce550e7c041de0ceaec30c591260fa2a73737fb1aeed0337cca17",
+      "display_blob_sha": "86241e16a6a349e71e72a762100e4949f1093b02",
+      "display_original_site_sha256": "559b3428287d2cd912c08a6b7705ae403beba6f353ae991e1ec5a33579667826",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-pepo/inat-68557517.jpg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c84163d5db9caab6a79d39af424399de297196a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 43191650, photo 68557517, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ba1e31b62cd8de114af138dface283c2bf68039f953c1dc2dfc8757dc8894063. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita pepo maps to indexed species cucurbita-pepo; specialist morphology and BONAP range deferred.",
-      "sha256": "ba1e31b62cd8de114af138dface283c2bf68039f953c1dc2dfc8757dc8894063"
+      "sha256": "ba1e31b62cd8de114af138dface283c2bf68039f953c1dc2dfc8757dc8894063",
+      "display_sha256": "bb522a03c1c250c0c81861c4cda2537274c8f1f043082a5eb034bc7768648c67",
+      "display_blob_sha": "4c9219614f8d74833752205213d045f12140fbd2",
+      "display_original_site_sha256": "ba1e31b62cd8de114af138dface283c2bf68039f953c1dc2dfc8757dc8894063",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

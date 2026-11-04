@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c2aef0d7e0c7ae23be9510eb68a0db7af4ac1ecc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344500090, photo 627704231, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aefa61e9e14ae43ff39178ab00438ad33a42025fe5a6d11008f1f324abc977fc.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea wrightiana maps to indexed species hemionitis-wrightiana; specialist morphology and BONAP range deferred.",
-      "sha256": "aefa61e9e14ae43ff39178ab00438ad33a42025fe5a6d11008f1f324abc977fc"
+      "sha256": "aefa61e9e14ae43ff39178ab00438ad33a42025fe5a6d11008f1f324abc977fc",
+      "display_sha256": "4272b00336513beef416e05b6486a0d1ece9a2d543ee826f140e329e3e2555a7",
+      "display_blob_sha": "075ad647b726de4e47b0ea879259175ed310c82b",
+      "display_original_site_sha256": "aefa61e9e14ae43ff39178ab00438ad33a42025fe5a6d11008f1f324abc977fc",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-wrightiana/inat-628137576.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00df20653f9454cc8909326456e12bab74780f80",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344722177, photo 628137576, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5766850845d7baa0cc72e8d41ae31ee33f5bde291755a84d03eae8c8f93cae8.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea wrightiana maps to indexed species hemionitis-wrightiana; specialist morphology and BONAP range deferred.",
-      "sha256": "e5766850845d7baa0cc72e8d41ae31ee33f5bde291755a84d03eae8c8f93cae8"
+      "sha256": "e5766850845d7baa0cc72e8d41ae31ee33f5bde291755a84d03eae8c8f93cae8",
+      "display_sha256": "602ae3f7e186b725a5110cce05dd2d31c3077fecb25b9e4fadde24bbee125248",
+      "display_blob_sha": "24653a3fbb7b7ab885fbc9184d2a080188bf487b",
+      "display_original_site_sha256": "e5766850845d7baa0cc72e8d41ae31ee33f5bde291755a84d03eae8c8f93cae8",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-wrightiana/inat-628182794.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d2b5220866c85c5da00e30ffd9ceec6e46b6fce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344722292, photo 628182794, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9920fdb87e4f8d1a07a84ebdc8ac3883667f9d300f1d0929f8c22fcb74d3e711.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea wrightiana maps to indexed species hemionitis-wrightiana; specialist morphology and BONAP range deferred.",
-      "sha256": "9920fdb87e4f8d1a07a84ebdc8ac3883667f9d300f1d0929f8c22fcb74d3e711"
+      "sha256": "9920fdb87e4f8d1a07a84ebdc8ac3883667f9d300f1d0929f8c22fcb74d3e711",
+      "display_sha256": "7cfdee72cc04e252198628b233fc2cb496875aeb755751b82d4ed3a5eff96686",
+      "display_blob_sha": "adaddeb25cd56e8c42628b98c9d4181bae106d43",
+      "display_original_site_sha256": "9920fdb87e4f8d1a07a84ebdc8ac3883667f9d300f1d0929f8c22fcb74d3e711",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-wrightiana/inat-630234585.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1d663158efaeec446e1793eb03e8690b4b8a0892",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345795670, photo 630234585, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8f26bd3ce2ad0caecb9c22a0cf924377d67b5718a0bb9aee185946f1b69a2f14.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea wrightiana maps to indexed species hemionitis-wrightiana; specialist morphology and BONAP range deferred.",
-      "sha256": "8f26bd3ce2ad0caecb9c22a0cf924377d67b5718a0bb9aee185946f1b69a2f14"
+      "sha256": "8f26bd3ce2ad0caecb9c22a0cf924377d67b5718a0bb9aee185946f1b69a2f14",
+      "display_sha256": "f7a0c22136e1d6d0f3091d0dc0c1904a23188b1a791efd4571fda8233bca995c",
+      "display_blob_sha": "be5a2694896aaf4c6a6b98de5f4e3521ba639618",
+      "display_original_site_sha256": "8f26bd3ce2ad0caecb9c22a0cf924377d67b5718a0bb9aee185946f1b69a2f14",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-wrightiana/inat-631228314.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "cdc7cf6e2cc011776ed217f2b221d8c69d9a60e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346296973, photo 631228314, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 01c813b06293856cd3bbf538519247fcf31ce2ac5017179c84b2681b5dd18515.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pellaea wrightiana maps to indexed species hemionitis-wrightiana; specialist morphology and BONAP range deferred.",
-      "sha256": "01c813b06293856cd3bbf538519247fcf31ce2ac5017179c84b2681b5dd18515"
+      "sha256": "01c813b06293856cd3bbf538519247fcf31ce2ac5017179c84b2681b5dd18515",
+      "display_sha256": "cccfdfa2c39cc92cebb87101022d7375b79a384aabc57daa9d2e4b28564ede60",
+      "display_blob_sha": "2a17f9fe318b02eaa6b36d464cd185e8a730a48e",
+      "display_original_site_sha256": "01c813b06293856cd3bbf538519247fcf31ce2ac5017179c84b2681b5dd18515",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hemionitis-wrightiana/archived-49466e669079584a.jpg",

@@ -92,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e86e298870220587f4750a50428ca4b4b8d07dcb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344972176, photo 628612743, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3114da8ddb43fedf20a992399a3abb8f1871641ea30e20737853a3905a7f8403. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita foetidissima maps to indexed species cucurbita-foetidissima; specialist morphology and BONAP range deferred.",
-      "sha256": "3114da8ddb43fedf20a992399a3abb8f1871641ea30e20737853a3905a7f8403"
+      "sha256": "3114da8ddb43fedf20a992399a3abb8f1871641ea30e20737853a3905a7f8403",
+      "display_sha256": "5d392421b607219fe0d66db252f17b0a176a1a7773d605f51a63d7e3ba151e5f",
+      "display_blob_sha": "bc927f5e19f4403a60eb1f83687eb94fa59ca116",
+      "display_original_site_sha256": "3114da8ddb43fedf20a992399a3abb8f1871641ea30e20737853a3905a7f8403",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-foetidissima/inat-630288305.jpg",
@@ -111,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "340bfb0811aa437b28c522073d4d8bdc57decc0e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345821781, photo 630288305, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63a64743b4edda451d4dc030c60e3f4760e0682f9f488e96f1dc250cac168d48. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita foetidissima maps to indexed species cucurbita-foetidissima; specialist morphology and BONAP range deferred.",
-      "sha256": "63a64743b4edda451d4dc030c60e3f4760e0682f9f488e96f1dc250cac168d48"
+      "sha256": "63a64743b4edda451d4dc030c60e3f4760e0682f9f488e96f1dc250cac168d48",
+      "display_sha256": "0da8639b71ba4c111ea431aa40fa997cb54ab55c12810871dc9b4c1ae8694512",
+      "display_blob_sha": "69ccc40bf91d2e01878489d04b003359870c9390",
+      "display_original_site_sha256": "63a64743b4edda451d4dc030c60e3f4760e0682f9f488e96f1dc250cac168d48",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-foetidissima/inat-631480038.jpg",
@@ -130,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cfb17f337ae1ae2b8913b34e3288d5b1f13541e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346426347, photo 631480038, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c0aa0d9a08cb81cfd521be9c55798de141f428690781c9618b8103d9f39e7166. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita foetidissima maps to indexed species cucurbita-foetidissima; specialist morphology and BONAP range deferred.",
-      "sha256": "c0aa0d9a08cb81cfd521be9c55798de141f428690781c9618b8103d9f39e7166"
+      "sha256": "c0aa0d9a08cb81cfd521be9c55798de141f428690781c9618b8103d9f39e7166",
+      "display_sha256": "ded9e2ecd24cc0c1ea3cee9c381b7e99e40f99ecf6b8aafcca0bc73fb46d007a",
+      "display_blob_sha": "e75bd408ebf5f45168563a694b8b6386dd4fcdbf",
+      "display_original_site_sha256": "c0aa0d9a08cb81cfd521be9c55798de141f428690781c9618b8103d9f39e7166",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-foetidissima/inat-634030134.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "985cfc575b3de2262352c02f2db8ce3d20db861a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345401273, photo 634030134, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 57bce574a12b9ad938c8cb1f914b74d6bd509d32e2ce84c6fa63fc8e32fc0e13. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita foetidissima maps to indexed species cucurbita-foetidissima; specialist morphology and BONAP range deferred.",
-      "sha256": "57bce574a12b9ad938c8cb1f914b74d6bd509d32e2ce84c6fa63fc8e32fc0e13"
+      "sha256": "57bce574a12b9ad938c8cb1f914b74d6bd509d32e2ce84c6fa63fc8e32fc0e13",
+      "display_sha256": "a823229af249eba07cbe52d3210210a71ef52a925f164f9196fa7ae57dc4a556",
+      "display_blob_sha": "2aaf650c1db298cda0f97529c62c43279dd29144",
+      "display_original_site_sha256": "57bce574a12b9ad938c8cb1f914b74d6bd509d32e2ce84c6fa63fc8e32fc0e13",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucurbita-foetidissima/inat-660108095.jpg",
@@ -168,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7bb64db8cb0748a09e979ebd66348d7756d87786",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +196,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 361689796, photo 660108095, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5212c886dc51a85cc9a3cec4aa6ebbf6ef2341317e3b482e98904a32934ea83f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucurbita foetidissima maps to indexed species cucurbita-foetidissima; specialist morphology and BONAP range deferred.",
-      "sha256": "5212c886dc51a85cc9a3cec4aa6ebbf6ef2341317e3b482e98904a32934ea83f"
+      "sha256": "5212c886dc51a85cc9a3cec4aa6ebbf6ef2341317e3b482e98904a32934ea83f",
+      "display_sha256": "381d77c54c64df7b348b6c692c95eb0939d0f490aa9872f174c20bced2992244",
+      "display_blob_sha": "c1d194c98af4d4c154097cf04b923d273ae5e994",
+      "display_original_site_sha256": "5212c886dc51a85cc9a3cec4aa6ebbf6ef2341317e3b482e98904a32934ea83f",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

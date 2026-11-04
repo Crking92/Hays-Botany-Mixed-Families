@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4396a3945ead05ef9aeb9baf4c22334827fe41a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343746028, photo 626231830, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4e4f74ec079e08a6360167fee51c12ef8a903fefc36660bb1f6154487d0b52ea. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus echinata maps to indexed species pinus-echinata; specialist morphology and BONAP range deferred.",
-      "sha256": "4e4f74ec079e08a6360167fee51c12ef8a903fefc36660bb1f6154487d0b52ea"
+      "sha256": "4e4f74ec079e08a6360167fee51c12ef8a903fefc36660bb1f6154487d0b52ea",
+      "display_sha256": "5a24feea73a71414e4ae7946d30af94a64d366a6628384dd43e990b5119bc508",
+      "display_blob_sha": "f6fb56e3a0999d8bf89008b4cf1f27e57d37a829",
+      "display_original_site_sha256": "4e4f74ec079e08a6360167fee51c12ef8a903fefc36660bb1f6154487d0b52ea",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-echinata/inat-627049874.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f39ead54c6e83803e3224bbfdfbff98f33f40334",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344164250, photo 627049874, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec26cc5c74288ffd5f714ee5c241f90bd151b9162fcf90cb207ab34da8c96ac6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus echinata maps to indexed species pinus-echinata; specialist morphology and BONAP range deferred.",
-      "sha256": "ec26cc5c74288ffd5f714ee5c241f90bd151b9162fcf90cb207ab34da8c96ac6"
+      "sha256": "ec26cc5c74288ffd5f714ee5c241f90bd151b9162fcf90cb207ab34da8c96ac6",
+      "display_sha256": "8e0e92c8d2018c99148064d46f309bff81991c53b890e0c8fa35f39c04a2cf34",
+      "display_blob_sha": "eab4d924603696890972ca3ef15c483dfb09e6b2",
+      "display_original_site_sha256": "ec26cc5c74288ffd5f714ee5c241f90bd151b9162fcf90cb207ab34da8c96ac6",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-echinata/inat-649096794.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0686195ef03043659a6bf8ddf155f8985bae7ba7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 355938484, photo 649096794, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 23fad89ac21be5daf9ecb8b17a0eab7890844c0d2b4e78cf8a2511f56010b9ac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus echinata maps to indexed species pinus-echinata; specialist morphology and BONAP range deferred.",
-      "sha256": "23fad89ac21be5daf9ecb8b17a0eab7890844c0d2b4e78cf8a2511f56010b9ac"
+      "sha256": "23fad89ac21be5daf9ecb8b17a0eab7890844c0d2b4e78cf8a2511f56010b9ac",
+      "display_sha256": "fe4292b73ab6847c8d7143baccc74f47be5567f1e29de6a633c231d71a695e46",
+      "display_blob_sha": "7d01ef639434f3b4e894f33e436a439ac6acf05e",
+      "display_original_site_sha256": "23fad89ac21be5daf9ecb8b17a0eab7890844c0d2b4e78cf8a2511f56010b9ac",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pinus-echinata/archived-ca40b6138ca4dca3.jpg",

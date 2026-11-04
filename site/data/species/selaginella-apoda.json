@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "50940b45ae360412bf3a26f655287bbe39210748",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 207450698, photo 366943340, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9a0a939de7677c9571399c43386fb89b8407b05aaefb0a5f9e6c81c086ce0ad9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Selaginella apoda maps to indexed species selaginella-apoda; specialist morphology and BONAP range deferred.",
-      "sha256": "9a0a939de7677c9571399c43386fb89b8407b05aaefb0a5f9e6c81c086ce0ad9"
+      "sha256": "9a0a939de7677c9571399c43386fb89b8407b05aaefb0a5f9e6c81c086ce0ad9",
+      "display_sha256": "ff873d41ebe1258261588893f5cbc679bbebaba8dc4e9a133b60387ef42dff17",
+      "display_blob_sha": "f6d1cb61659b064bb9b913b53f6c3ad2e66add67",
+      "display_original_site_sha256": "9a0a939de7677c9571399c43386fb89b8407b05aaefb0a5f9e6c81c086ce0ad9",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/selaginella-apoda/archived-0ed0ff814250f5da.jpg",

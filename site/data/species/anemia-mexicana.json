@@ -41,7 +41,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "26451f9c0a006c2ab14ce0d62766a4ac8acf45d5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -49,7 +49,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343199986, photo 625117805, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad8facfe8267b698ae84678bbdb7ef1e8f45683f34367b6abb26b0c9793d29fd.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemia mexicana maps to indexed species anemia-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "ad8facfe8267b698ae84678bbdb7ef1e8f45683f34367b6abb26b0c9793d29fd"
+      "sha256": "ad8facfe8267b698ae84678bbdb7ef1e8f45683f34367b6abb26b0c9793d29fd",
+      "display_sha256": "a28302abb94ff1a6a76d0d2cedfb2e17d1e9163963fd7c33c2fc64ee502dd72c",
+      "display_blob_sha": "bbb1860caffcb882b0b5cb5fd86c427491b73357",
+      "display_original_site_sha256": "ad8facfe8267b698ae84678bbdb7ef1e8f45683f34367b6abb26b0c9793d29fd",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemia-mexicana/inat-627260916.jpg",
@@ -60,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a0360949f233be2e2467a096f706c77422f367d6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -68,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344276967, photo 627260916, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c89e61523a7a028ccaa7c29423fb47ee8d8471d5f282a01c58be3e5641e8892.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemia mexicana maps to indexed species anemia-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "2c89e61523a7a028ccaa7c29423fb47ee8d8471d5f282a01c58be3e5641e8892"
+      "sha256": "2c89e61523a7a028ccaa7c29423fb47ee8d8471d5f282a01c58be3e5641e8892",
+      "display_sha256": "e40d924934c1d60d7a6dc0accbf9f373c7952c5dfce356d78d883d43f641952d",
+      "display_blob_sha": "4cf40c865fadd3c8f7bab759bd6634064cc79ae4",
+      "display_original_site_sha256": "2c89e61523a7a028ccaa7c29423fb47ee8d8471d5f282a01c58be3e5641e8892",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemia-mexicana/inat-630290324.jpg",
@@ -79,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e7b692902af8875e2e7ce38ab14e9aaff71d6b4c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345822704, photo 630290324, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ef51f6a6d8ca5643f561fde991adb17608d7bc5f567c55d1d9680383d8d2fd2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemia mexicana maps to indexed species anemia-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "7ef51f6a6d8ca5643f561fde991adb17608d7bc5f567c55d1d9680383d8d2fd2"
+      "sha256": "7ef51f6a6d8ca5643f561fde991adb17608d7bc5f567c55d1d9680383d8d2fd2",
+      "display_sha256": "923624b5a439ba0c26e09cf68d2408a50261c0a612dd11281fed76bedf64d805",
+      "display_blob_sha": "bdd71bdd2b0d7ba5479bc86945073ff3f31d465e",
+      "display_original_site_sha256": "7ef51f6a6d8ca5643f561fde991adb17608d7bc5f567c55d1d9680383d8d2fd2",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemia-mexicana/inat-633424416.jpg",
@@ -98,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7d8faf6ee7c0425bd0e7422f8ab3f986d9c91191",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347408642, photo 633424416, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 889ae9b9ea8621309c3aea362a2b0d934bc05c82e9c085029c42422341fc462d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemia mexicana maps to indexed species anemia-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "889ae9b9ea8621309c3aea362a2b0d934bc05c82e9c085029c42422341fc462d"
+      "sha256": "889ae9b9ea8621309c3aea362a2b0d934bc05c82e9c085029c42422341fc462d",
+      "display_sha256": "9e2975ee43325b165fb855afbf69465a5afe1bd076165b55b03cf8d23fddadf2",
+      "display_blob_sha": "76c0480c20cf6095dcab757efba15f5a2c07fa2b",
+      "display_original_site_sha256": "889ae9b9ea8621309c3aea362a2b0d934bc05c82e9c085029c42422341fc462d",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemia-mexicana/inat-634043823.jpg",
@@ -117,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "519a6ff9631207b3f903077885b31b9d309efb47",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347717823, photo 634043823, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 148009ff657b7cd852513c69b7f66a36b06b2de3e77e2ef4b6fdabd40d52cd7a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Anemia mexicana maps to indexed species anemia-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "148009ff657b7cd852513c69b7f66a36b06b2de3e77e2ef4b6fdabd40d52cd7a"
+      "sha256": "148009ff657b7cd852513c69b7f66a36b06b2de3e77e2ef4b6fdabd40d52cd7a",
+      "display_sha256": "a89c11c409e19a6a3fa36022c5c23f639ebd2ceda35f9188211e8d210ffe9f00",
+      "display_blob_sha": "5062bfd7ea9480e5222977ab0afe1a07e52b0184",
+      "display_original_site_sha256": "148009ff657b7cd852513c69b7f66a36b06b2de3e77e2ef4b6fdabd40d52cd7a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/anemia-mexicana/archived-a69de37c3faa4246.jpg",

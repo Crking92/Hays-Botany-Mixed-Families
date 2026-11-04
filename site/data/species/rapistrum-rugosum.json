@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ef7b3238989303ecfc28be8546a2fe6f62e3aefc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341728145, photo 622162759, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b05423b9d56dd8162a7db85f7e4aaedc64d9804ce0fb970ebb661a5cc27f4569. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Rapistrum rugosum maps to indexed species rapistrum-rugosum; specialist morphology and BONAP range deferred.",
-      "sha256": "b05423b9d56dd8162a7db85f7e4aaedc64d9804ce0fb970ebb661a5cc27f4569"
+      "sha256": "b05423b9d56dd8162a7db85f7e4aaedc64d9804ce0fb970ebb661a5cc27f4569",
+      "display_sha256": "656419c7db0278038a3c991a68be6606e3a762eb924b374682646616ba579a67",
+      "display_blob_sha": "67f3aa1e96100439ce0fdd27456bced986d15732",
+      "display_original_site_sha256": "b05423b9d56dd8162a7db85f7e4aaedc64d9804ce0fb970ebb661a5cc27f4569",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rapistrum-rugosum/inat-622689497.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d253669357b9ac118ae03eecc83efc0517cd19e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341989361, photo 622689497, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e61558e41b07b86e5016ea6cc18234ef1b9b34ad79a6f8b8039309bf124598d2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Rapistrum rugosum maps to indexed species rapistrum-rugosum; specialist morphology and BONAP range deferred.",
-      "sha256": "e61558e41b07b86e5016ea6cc18234ef1b9b34ad79a6f8b8039309bf124598d2"
+      "sha256": "e61558e41b07b86e5016ea6cc18234ef1b9b34ad79a6f8b8039309bf124598d2",
+      "display_sha256": "75b7cc5ab4bc30d0161146b49c46593b473a394de98a4d7befd36cd2bbc00d36",
+      "display_blob_sha": "5495ce9fbe5c71a8e724a6179f9eeadec9512625",
+      "display_original_site_sha256": "e61558e41b07b86e5016ea6cc18234ef1b9b34ad79a6f8b8039309bf124598d2",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rapistrum-rugosum/inat-623936525.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1579fe0d25fdfaf415155c0a6d74de3b6e8ccb12",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342605231, photo 623936525, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5cdec3d29e0cdc686e13c6c78bfd39ee0859ad87e36eab1f637184c6981123dc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Rapistrum rugosum maps to indexed species rapistrum-rugosum; specialist morphology and BONAP range deferred.",
-      "sha256": "5cdec3d29e0cdc686e13c6c78bfd39ee0859ad87e36eab1f637184c6981123dc"
+      "sha256": "5cdec3d29e0cdc686e13c6c78bfd39ee0859ad87e36eab1f637184c6981123dc",
+      "display_sha256": "2844e99064072379da6d6013e06241740bea740f9756ce1f4d3cdab2e9eca119",
+      "display_blob_sha": "b4b3cf545ffa142b359744525a33d0c80cb6dcc6",
+      "display_original_site_sha256": "5cdec3d29e0cdc686e13c6c78bfd39ee0859ad87e36eab1f637184c6981123dc",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rapistrum-rugosum/inat-624783234.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5ebd9d58ec29994ed7c2ebbefa93706f2b3c9e1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343034441, photo 624783234, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca9fb798cc105427b495a1ca548f136ddb215e48ee6fc8318ddca1ccb2ea5ab0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Rapistrum rugosum maps to indexed species rapistrum-rugosum; specialist morphology and BONAP range deferred.",
-      "sha256": "ca9fb798cc105427b495a1ca548f136ddb215e48ee6fc8318ddca1ccb2ea5ab0"
+      "sha256": "ca9fb798cc105427b495a1ca548f136ddb215e48ee6fc8318ddca1ccb2ea5ab0",
+      "display_sha256": "6e44833ca53709b156e00e401daa5ff1c5404ce51550764cced5e54ff3cc8ef7",
+      "display_blob_sha": "053c0620e783655dbe99f014d48b93d445b53051",
+      "display_original_site_sha256": "ca9fb798cc105427b495a1ca548f136ddb215e48ee6fc8318ddca1ccb2ea5ab0",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rapistrum-rugosum/inat-625327846.jpg",

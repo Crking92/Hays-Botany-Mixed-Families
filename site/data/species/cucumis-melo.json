@@ -33,7 +33,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ed285c387dc54acb1647e7e349a8a364ebca26dc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -41,7 +41,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354791454, photo 647182800, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1e10accd55824b26304c2dd2cfc7735a667f628dbb461611cce17757956a07a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucumis melo maps to indexed species cucumis-melo; specialist morphology and BONAP range deferred.",
-      "sha256": "d1e10accd55824b26304c2dd2cfc7735a667f628dbb461611cce17757956a07a"
+      "sha256": "d1e10accd55824b26304c2dd2cfc7735a667f628dbb461611cce17757956a07a",
+      "display_sha256": "1750cbfa3358b92d0da292230760d73f36cff572a7a8b743ff758290772c8abf",
+      "display_blob_sha": "d19402ae6ffd4a0ef7c9c465e8a2f77fb606c950",
+      "display_original_site_sha256": "d1e10accd55824b26304c2dd2cfc7735a667f628dbb461611cce17757956a07a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucumis-melo/inat-651048756.jpg",
@@ -52,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99787180e7cb305398e1b9b1a9b74eff54051851",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356985341, photo 651048756, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4be05dea3c4fecc09e00a550dd06c137d66030cfe8f026607bdbe37bda7d8c90. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucumis melo maps to indexed species cucumis-melo; specialist morphology and BONAP range deferred.",
-      "sha256": "4be05dea3c4fecc09e00a550dd06c137d66030cfe8f026607bdbe37bda7d8c90"
+      "sha256": "4be05dea3c4fecc09e00a550dd06c137d66030cfe8f026607bdbe37bda7d8c90",
+      "display_sha256": "53a8d14183b9b207aacf45eff0d28419522c2ac220fdd26048c33fba0b361b13",
+      "display_blob_sha": "82f6e27993078128306b4c0700ea2901453e8a9a",
+      "display_original_site_sha256": "4be05dea3c4fecc09e00a550dd06c137d66030cfe8f026607bdbe37bda7d8c90",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucumis-melo/inat-667435786.jpg",
@@ -71,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "807fb55df20ee9b0df1ccb09992d97faa89a4cf0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 365559668, photo 667435786, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bbb4c4053ebe46a9c8bd3a9cf5b319b577232ee0dd61d38452f6e52c74a25a99. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucumis melo maps to indexed species cucumis-melo; specialist morphology and BONAP range deferred.",
-      "sha256": "bbb4c4053ebe46a9c8bd3a9cf5b319b577232ee0dd61d38452f6e52c74a25a99"
+      "sha256": "bbb4c4053ebe46a9c8bd3a9cf5b319b577232ee0dd61d38452f6e52c74a25a99",
+      "display_sha256": "0b7d4703db5f3fa20fdc388c3c51bcbfc99135ad7ccca9fe35202765f425d1cd",
+      "display_blob_sha": "b02cc7a58be6f961d2034fdef5120407f0f524f4",
+      "display_original_site_sha256": "bbb4c4053ebe46a9c8bd3a9cf5b319b577232ee0dd61d38452f6e52c74a25a99",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucumis-melo/inat-667438973.jpg",
@@ -90,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d874a5b81d2a4de67824d52f6679e8b2a73f7c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 365561386, photo 667438973, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a1c77ba7d477d33a11c042875cf8b7c244b18f1f506f6cfe25413e0ba65a5bf7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucumis melo maps to indexed species cucumis-melo; specialist morphology and BONAP range deferred.",
-      "sha256": "a1c77ba7d477d33a11c042875cf8b7c244b18f1f506f6cfe25413e0ba65a5bf7"
+      "sha256": "a1c77ba7d477d33a11c042875cf8b7c244b18f1f506f6cfe25413e0ba65a5bf7",
+      "display_sha256": "4bc736fd2be143b676893321189b0d3f513334acfc257d0eb333250f44e5bbc6",
+      "display_blob_sha": "4d82d0eb02e39f94f1792272d67a82661e9eb072",
+      "display_original_site_sha256": "a1c77ba7d477d33a11c042875cf8b7c244b18f1f506f6cfe25413e0ba65a5bf7",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cucumis-melo/inat-70733132.jpeg",
@@ -109,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "278c08de466433b22ae653321fc3bbbef542cb81",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 44615859, photo 70733132, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2f502d4204da596777af9b1473f567855b390ec1e01b05ad2e4b68f5dd89bcf2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cucumis melo maps to indexed species cucumis-melo; specialist morphology and BONAP range deferred.",
-      "sha256": "2f502d4204da596777af9b1473f567855b390ec1e01b05ad2e4b68f5dd89bcf2"
+      "sha256": "2f502d4204da596777af9b1473f567855b390ec1e01b05ad2e4b68f5dd89bcf2",
+      "display_sha256": "2c86f500c4f6153a1deaa04b7f7d2b42c98c31134e7709bac15c9abe4fbd369e",
+      "display_blob_sha": "c8d89fd2dc84b9819324aa0e1433a9bd4c58424e",
+      "display_original_site_sha256": "2f502d4204da596777af9b1473f567855b390ec1e01b05ad2e4b68f5dd89bcf2",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

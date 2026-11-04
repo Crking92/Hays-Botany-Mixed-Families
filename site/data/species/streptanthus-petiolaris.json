@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cb76a3b2587eb4b92465e834873c33d6386857e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349881830, photo 638319730, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6131a2feda53f7e5ce9157f542ade6285bee0295d126728875f5f11fba410b4b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Streptanthus petiolaris maps to indexed species streptanthus-petiolaris; specialist morphology and BONAP range deferred.",
-      "sha256": "6131a2feda53f7e5ce9157f542ade6285bee0295d126728875f5f11fba410b4b"
+      "sha256": "6131a2feda53f7e5ce9157f542ade6285bee0295d126728875f5f11fba410b4b",
+      "display_sha256": "7aa1e1b11d81bf64105900440b9b876b56a156f47d1465b22f9950b4a2a15735",
+      "display_blob_sha": "4e0032ae256946f02dbf7041f26ed1011ced2cf5",
+      "display_original_site_sha256": "6131a2feda53f7e5ce9157f542ade6285bee0295d126728875f5f11fba410b4b",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/streptanthus-petiolaris/inat-643200027.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cf08ff8f592e2d7d546bc0598134f6636d8fc01b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356126836, photo 649435055, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ae158d9135ed07f368be96b36fa7a8cc4e35a38aa94dbac765f03cc92a0a204a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Streptanthus petiolaris maps to indexed species streptanthus-petiolaris; specialist morphology and BONAP range deferred.",
-      "sha256": "ae158d9135ed07f368be96b36fa7a8cc4e35a38aa94dbac765f03cc92a0a204a"
+      "sha256": "ae158d9135ed07f368be96b36fa7a8cc4e35a38aa94dbac765f03cc92a0a204a",
+      "display_sha256": "e26a6e4810a997c999a8fc80a763baf23d6a132a1d97660ac5c76f07f2700cd2",
+      "display_blob_sha": "f9a769cb8946e873c4486595b13f14ce8248601a",
+      "display_original_site_sha256": "ae158d9135ed07f368be96b36fa7a8cc4e35a38aa94dbac765f03cc92a0a204a",
+      "display_original_archive_commit": "898c417b6e064240be23c45897a6061311aa814e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
