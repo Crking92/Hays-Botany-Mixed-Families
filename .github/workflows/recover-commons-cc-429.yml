@@ -1,4 +1,4 @@
-name: Recover verified Commons CC BY photos held on HTTP 429
+name: Retry archived Pinus CC BY photos with verified Flickr author aliases
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 530e2598324ea30ee48f81e75fa459c10affc29e
+          ref: fccb595d1ff2a55898aaa6e7c4a8a3eff12d854a
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
