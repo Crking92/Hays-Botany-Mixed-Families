@@ -73,3 +73,5 @@ jobs:
           gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/verify-existing-site-gallery.yml/dispatches" -f ref=main >/dev/null
 
 # Run again with supported CC BY-SA 2.0 France and documented author-public-domain rights.
+
+# Retry with source-proven federal section 105 public-domain photo checks.

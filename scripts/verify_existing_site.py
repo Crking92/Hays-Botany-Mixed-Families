@@ -80,7 +80,14 @@ def local_audit():
                        and photo.get("license_url")=="https://creativecommons.org/publicdomain/mark/1.0/"
                        and "PUBLIC DOMAIN (AUTHOR RELEASED)" in str(photo.get("source_review_evidence") or "")
                        and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:"))
-            require(bool(ALLOWED.fullmatch(label)) or author_pd,
+            federal_public_domain=(
+                label=="PUBLIC DOMAIN (U.S. FEDERAL WORK)"
+                and photo.get("license_url")=="https://www.copyright.gov/title17/92chap1.html#105"
+                and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                and "PUBLIC DOMAIN (U.S. FEDERAL WORK)" in str(photo.get("source_review_evidence") or "")
+                and bool(photo.get("creator"))
+            )
+            require(bool(ALLOWED.fullmatch(label)) or author_pd or federal_public_domain,
                     sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery links to private-review-only image")
