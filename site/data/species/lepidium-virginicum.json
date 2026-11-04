@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/lepidium-virginicum/archived-5ec57ef738230e1c.jpg",
+      "creator": "Robert H. Mohlenbrock",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lepidium_virginicum.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "a1b0b915fc9053d8965fcb9b4796b30cec8e9dda",
+      "role": "Provisional recognition: inflorescence and developing flat round fruits visible; leaf differences not fully shown",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (U.S. FEDERAL WORK) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/2/24/Lepidium_virginicum.jpg; image fingerprint distance 0; archived source SHA a1b0b915fc9053d8965fcb9b4796b30cec8e9dda; exact image source https://commons.wikimedia.org/wiki/File:Lepidium_virginicum.jpg",
+      "taxon_review_evidence": "Original species record Lepidium virginicum linked to an original image and matching current commons photo of source taxon Lepidium virginicum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5ec57ef738230e1cc4442d4251359a2058d84315ffe0a2cd45d08e3c90a3a8db"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "33629b32f3d49cd0ca6fea565cb0821dc38eb72e1489c517ed130761246d2525",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

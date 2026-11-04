@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 101,
-  "photo_count": 414,
+  "photo_species": 102,
+  "photo_count": 415,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -98,8 +98,8 @@
       "first_src": "media/lepidium-austrinum/archived-5fb9b2e77a78cec5.jpg"
     },
     "lepidium-virginicum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lepidium-virginicum/archived-5ec57ef738230e1c.jpg"
     },
     "nasturtium-officinale": {
       "count": 1,

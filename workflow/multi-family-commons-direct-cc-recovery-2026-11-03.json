@@ -1,55 +1,39 @@
 {
   "repository": "Crking92/Hays-Botany-Mixed-Families",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:01:33.385007+00:00",
+  "checked_at": "2026-11-04T01:05:37.805787+00:00",
   "source_files": 170,
-  "historical_cc0_deed_holds": 3,
+  "historical_cc0_deed_holds": 4,
   "selection_window": 15,
-  "candidate_pool_with_usable_source_identifiers": 2,
+  "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 2,
+  "selected_candidates": 1,
   "selected_by_lane": {
-    "commons": 2
+    "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 167,
-    "previous_cc0_recheck_decision_preserved": 1
+    "not_a_prior_cc0_deed_hold": 166,
+    "previous_cc0_recheck_decision_preserved": 3
   },
-  "new_installed": 2,
+  "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "pinus-echinata",
-      "family": "Pinaceae",
-      "filename": "commons-pinus-echinata.jpg",
-      "original_path": "content/taxa/Pinaceae/Pinus/pinus-echinata/images/commons-pinus-echinata.jpg",
-      "archive_path": "migration/private-original-photo-holds/Pinaceae/Pinus/pinus-echinata/images/commons-pinus-echinata.jpg",
-      "git_blob_sha": "83fee84b339ba84b9dc9a4b4cd5b98eea561b0bc",
+      "species_id": "lepidium-virginicum",
+      "family": "Brassicaceae",
+      "filename": "commons-lepidium-virginicum.jpg",
+      "original_path": "content/taxa/Brassicaceae/Lepidium/lepidium-virginicum/images/commons-lepidium-virginicum.jpg",
+      "archive_path": "migration/private-original-photo-holds/Brassicaceae/Lepidium/lepidium-virginicum/images/commons-lepidium-virginicum.jpg",
+      "git_blob_sha": "a1b0b915fc9053d8965fcb9b4796b30cec8e9dda",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "John B. from Highland Park, NJ, United States",
-      "license": "CC BY 2.0",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_echinata_conelet_and_leaves.jpg",
-      "taxon": "Pinus echinata",
-      "src": "media/pinus-echinata/archived-ca40b6138ca4dca3.jpg",
-      "sha256": "ca40b6138ca4dca30d17144ddd0a1edae6d01ae036fe8ac8822956caed47de76"
-    },
-    {
-      "species_id": "pinus-taeda",
-      "family": "Pinaceae",
-      "filename": "commons-pinus-taeda.jpg",
-      "original_path": "content/taxa/Pinaceae/Pinus/pinus-taeda/images/commons-pinus-taeda.jpg",
-      "archive_path": "migration/private-original-photo-holds/Pinaceae/Pinus/pinus-taeda/images/commons-pinus-taeda.jpg",
-      "git_blob_sha": "7f49d09b21ccefb0c6f7c8d0800ddfd1426f839a",
-      "lane": "commons",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "rutlo on Flickr",
-      "license": "CC BY 2.0",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_taeda_Bastrop2.jpg",
-      "taxon": "Pinus taeda",
-      "src": "media/pinus-taeda/archived-1652c88d73eeddd9.jpg",
-      "sha256": "1652c88d73eeddd920ce92076fd1483997b358b075ee3855b96d5cdc094da9f9"
+      "creator": "Robert H. Mohlenbrock",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lepidium_virginicum.jpg",
+      "taxon": "Lepidium virginicum",
+      "src": "media/lepidium-virginicum/archived-5ec57ef738230e1c.jpg",
+      "sha256": "5ec57ef738230e1cc4442d4251359a2058d84315ffe0a2cd45d08e3c90a3a8db"
     }
   ],
   "previous_batches": [
@@ -76,11 +60,51 @@
           "sha256": "3aeb81dda946f7e7b071f4d2503f034ce15c4d10bba9d588839e1950ee0a2e5d"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:01:33.385007+00:00",
+      "selected_candidates": 2,
+      "new_installed": 2,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "pinus-echinata",
+          "family": "Pinaceae",
+          "filename": "commons-pinus-echinata.jpg",
+          "original_path": "content/taxa/Pinaceae/Pinus/pinus-echinata/images/commons-pinus-echinata.jpg",
+          "archive_path": "migration/private-original-photo-holds/Pinaceae/Pinus/pinus-echinata/images/commons-pinus-echinata.jpg",
+          "git_blob_sha": "83fee84b339ba84b9dc9a4b4cd5b98eea561b0bc",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "John B. from Highland Park, NJ, United States",
+          "license": "CC BY 2.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_echinata_conelet_and_leaves.jpg",
+          "taxon": "Pinus echinata",
+          "src": "media/pinus-echinata/archived-ca40b6138ca4dca3.jpg",
+          "sha256": "ca40b6138ca4dca30d17144ddd0a1edae6d01ae036fe8ac8822956caed47de76"
+        },
+        {
+          "species_id": "pinus-taeda",
+          "family": "Pinaceae",
+          "filename": "commons-pinus-taeda.jpg",
+          "original_path": "content/taxa/Pinaceae/Pinus/pinus-taeda/images/commons-pinus-taeda.jpg",
+          "archive_path": "migration/private-original-photo-holds/Pinaceae/Pinus/pinus-taeda/images/commons-pinus-taeda.jpg",
+          "git_blob_sha": "7f49d09b21ccefb0c6f7c8d0800ddfd1426f839a",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "rutlo on Flickr",
+          "license": "CC BY 2.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_taeda_Bastrop2.jpg",
+          "taxon": "Pinus taeda",
+          "src": "media/pinus-taeda/archived-1652c88d73eeddd9.jpg",
+          "sha256": "1652c88d73eeddd920ce92076fd1483997b358b075ee3855b96d5cdc094da9f9"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 3,
+  "cumulative_installed": 4,
   "cumulative_held_reviewed": 0
 }
