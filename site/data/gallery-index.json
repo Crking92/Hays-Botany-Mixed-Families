@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 99,
-  "photo_count": 360,
+  "photo_species": 100,
+  "photo_count": 361,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -130,8 +130,8 @@
       "first_src": "media/physaria-recurvata/archived-a342250c472f8946.jpg"
     },
     "physaria-sessilis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/physaria-sessilis/archived-306dbbfc77093013.jpg"
     },
     "planodes-virginicum": {
       "count": 1,

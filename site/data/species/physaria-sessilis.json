@@ -39,8 +39,28 @@
     "names": [],
     "differences": "The leaf attachment is the first-look cue: sessilis = sessile. Use that before diving into fruit details."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/physaria-sessilis/archived-306dbbfc77093013.jpg",
+      "creator": "MBG",
+      "source_page": "https://www.gbif.org/occurrence/4907024415",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_blob_sha": "d1bda1b19d65090f834b45643dce5d93fa434d92",
+      "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact original GBIF occurrence 4907024415, individual media https://images.mobot.org/tropicosimages5/detailimages/TropicosImagesVol5/101757000/29A61A2B-5443-4C58-A6FF-6451AE6119AE.jpg, image-specific rights https://creativecommons.org/licenses/by-nc-sa/3.0/, original per-photo institutional credit 'MBG', current GBIF media credit 'MBG', original archive image SHA validated and dHash distance 0; archived source SHA d1bda1b19d65090f834b45643dce5d93fa434d92; exact image source https://www.gbif.org/occurrence/4907024415",
+      "taxon_review_evidence": "Original species record Physaria sessilis linked to an original image and matching current institutional-gbif photo of source taxon Physaria sessilis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "306dbbfc77093013d5b2e649f0e321520445dab9275c206670db736118b2aa6f"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "21eb753c1296d4a2ab209d7d2869015382f1a7d9da69f4a2de8afaf3f6e07e97",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

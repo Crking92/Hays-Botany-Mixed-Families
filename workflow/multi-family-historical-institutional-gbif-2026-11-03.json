@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Mixed-Families",
+  "batch_key": "MULTIFAMILY_HISTORICAL_INSTITUTIONAL_GBIF_2026-11-03",
+  "checked_at": "2026-11-04T00:20:32.117551+00:00",
+  "source_files": 170,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "gbif": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 169
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "physaria-sessilis",
+      "family": "Brassicaceae",
+      "filename": "gbif-first-4907024415-b0cb31ecdb.jpg",
+      "original_path": "content/taxa/Brassicaceae/Physaria/physaria-sessilis/images/gbif-first-4907024415-b0cb31ecdb.jpg",
+      "archive_path": "migration/private-original-photo-holds/Brassicaceae/Physaria/physaria-sessilis/images/gbif-first-4907024415-b0cb31ecdb.jpg",
+      "git_blob_sha": "d1bda1b19d65090f834b45643dce5d93fa434d92",
+      "lane": "gbif",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "MBG",
+      "license": "CC BY-NC-SA 3.0",
+      "source_page": "https://www.gbif.org/occurrence/4907024415",
+      "taxon": "Physaria sessilis",
+      "src": "media/physaria-sessilis/archived-306dbbfc77093013.jpg",
+      "sha256": "306dbbfc77093013d5b2e649f0e321520445dab9275c206670db736118b2aa6f"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
