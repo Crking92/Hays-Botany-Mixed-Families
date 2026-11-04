@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 104,
-  "photo_count": 505,
+  "photo_species": 105,
+  "photo_count": 520,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -70,15 +70,15 @@
       "first_src": "media/pilostyles-thurberi/archived-845efd0f57bc992b.jpg"
     },
     "aristolochia-erecta": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/aristolochia-erecta/inat-488594458.jpg"
     },
     "aristolochia-serpentaria": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/aristolochia-serpentaria/archived-7213d33a11a855ab.jpg"
     },
     "asplenium-resiliens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/asplenium-resiliens/asplenium-resiliens-habit-commons.jpg"
     },
     "capsella-bursa-pastoris": {

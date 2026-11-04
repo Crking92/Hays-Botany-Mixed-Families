@@ -153,8 +153,8 @@
       "genus": "Aristolochia",
       "scientific_name": "Aristolochia erecta",
       "common_name": "Swanflower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "aristolochia-serpentaria",
@@ -162,7 +162,7 @@
       "genus": "Aristolochia",
       "scientific_name": "Aristolochia serpentaria",
       "common_name": "Virginia snakeroot / Virginia Dutchman's pipe",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -171,7 +171,7 @@
       "genus": "Asplenium",
       "scientific_name": "Asplenium resiliens",
       "common_name": "Blackstem spleenwort",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
