@@ -106,7 +106,8 @@ def main():
             attribution=str(photo.get("attribution") or "").strip()
             attribution_origin="live iNaturalist API"
             if not attribution or attribution.lower() in {"no rights reserved","some rights reserved"}:
-                attribution=str((m.get("source_metadata_credits",{}).get(str(pid)) or {}).get("name") or "").strip()
+                original_credit=m.get("source_metadata_credits",{}).get(str(pid))
+                attribution=str((original_credit.get("name") if isinstance(original_credit,dict) else original_credit) or "").strip()
                 attribution_origin="original user ZIP credit record"
                 if not attribution:raise ValueError("Neither live provider nor original ZIP establishes creator credit")
             if len(attribution)>400:raise ValueError("Unreasonable credit length")
