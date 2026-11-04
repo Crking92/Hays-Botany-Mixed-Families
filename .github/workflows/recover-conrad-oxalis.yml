@@ -1,4 +1,5 @@
 name: Publish archived Jim Conrad public-domain Oxalis photo pair
+# Diagnose previously unreported gallery attribution assertion before publication
 on:
   push:
     branches: [main]
