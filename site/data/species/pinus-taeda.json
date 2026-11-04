@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 38103156, photo 60512214, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93690279816452fef5346a7f8c9a4fd6de648c3ace27d900af8e2214bc13707c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Pinus taeda maps to indexed species pinus-taeda; specialist morphology and BONAP range deferred.",
       "sha256": "93690279816452fef5346a7f8c9a4fd6de648c3ace27d900af8e2214bc13707c"
+    },
+    {
+      "src": "media/pinus-taeda/archived-1652c88d73eeddd9.jpg",
+      "creator": "rutlo on Flickr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pinus_taeda_Bastrop2.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "7f49d09b21ccefb0c6f7c8d0800ddfd1426f839a",
+      "role": "Provisional loblolly pine tree habit, Texas Lost Pines source; needle fascicles and cones need macro photo",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY 2.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/f/f4/Pinus_taeda_Bastrop2.jpg; image fingerprint distance 0; archived source SHA 7f49d09b21ccefb0c6f7c8d0800ddfd1426f839a; exact image source https://commons.wikimedia.org/wiki/File:Pinus_taeda_Bastrop2.jpg",
+      "taxon_review_evidence": "Original species record Pinus taeda linked to an original image and matching current commons photo of source taxon Pinus taeda. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "1652c88d73eeddd920ce92076fd1483997b358b075ee3855b96d5cdc094da9f9"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

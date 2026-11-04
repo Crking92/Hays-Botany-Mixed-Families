@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 101,
-  "photo_count": 412,
+  "photo_count": 414,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -310,11 +310,11 @@
       "first_src": "media/oxalis-violacea/oxalis-violacea-fritzflohrreynolds-habit.jpg"
     },
     "pinus-echinata": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/pinus-echinata/inat-621069105.jpg"
     },
     "pinus-taeda": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pinus-taeda/inat-60510121.jpg"
     },
     "rhinotropis-lindheimeri": {
