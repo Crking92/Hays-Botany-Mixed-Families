@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 100,
-  "photo_count": 361,
+  "photo_count": 391,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -162,15 +162,15 @@
       "first_src": null
     },
     "sedum-nuttallii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sedum-nuttallii/archived-3d2eb4954c815145.jpg"
     },
     "cucumis-melo": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cucumis-melo/cucumis-melo-starr-080815-9781.jpg"
     },
     "cucurbita-foetidissima": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/cucurbita-foetidissima/cucurbita-foetidissima-fruit-leaf-vine-commons.jpg"
     },
     "cucurbita-melopepo": {
@@ -178,15 +178,15 @@
       "first_src": "media/cucurbita-melopepo/archived-a97861c631517e95.jpg"
     },
     "cucurbita-pepo": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/cucurbita-pepo/cucurbita-pepo-straightneck-habit-commons.jpg"
     },
     "ibervillea-lindheimeri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ibervillea-lindheimeri/archived-05a3075f27bd4ad8.jpg"
     },
     "melothria-pendula": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/melothria-pendula/archived-cb57397774f9f2fc.jpg"
     },
     "juniperus-ashei": {
