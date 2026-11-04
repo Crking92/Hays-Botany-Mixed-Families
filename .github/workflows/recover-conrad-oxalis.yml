@@ -1,0 +1,85 @@
+name: Publish archived Jim Conrad public-domain Oxalis photo pair
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/recover-conrad-oxalis.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: hays-Hays-Botany-Mixed-Families-photo-publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Recover original historical source branch without modifying it
+        run: |
+          git fetch origin staging/original-source-transfer
+          git worktree add "$RUNNER_TEMP/original-archive" origin/staging/original-source-transfer
+      - name: Publish exact-hash photographs under Jim Conrad's own public-domain dedication
+        run: |
+          python3 -m py_compile scripts/recover_archived_conrad_oxalis.py
+          python3 scripts/recover_archived_conrad_oxalis.py "$RUNNER_TEMP/original-archive"
+          python3 scripts/build_collection_preview.py
+          git diff --check
+      - name: Commit all images, species records and gallery indexes together, refusing conflicting changes
+        id: save
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/media/oxalis-drummondii site/data/species/oxalis-drummondii.json site/data/collection-index.json site/data/gallery-index.json
+          if git diff --cached --quiet; then
+            echo 'published=false' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$(git rev-parse HEAD)" ]; then
+            echo 'Concurrent ZIP/publisher change detected; no stale index overwritten' >&2
+            exit 1
+          fi
+          git diff --cached --check
+          git commit -m 'Publish Jim Conrad public-domain original Oxalis photos with credits'
+          git push origin HEAD:main
+          echo 'published=true' >> "$GITHUB_OUTPUT"
+      - name: Build Pages for newly published photos
+        if: steps.save.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Check exact public photo bytes and creator/license records
+        if: steps.save.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request
+          from pathlib import Path
+          base='https://crking92.github.io/Hays-Botany-Mixed-Families/site/'
+          root=Path('site')
+          def fetch(rel):
+              with urllib.request.urlopen(urllib.request.Request(base+rel,headers={'User-Agent':'HaysBotanyOxalisPublicPhotoVerification/1.0'}),timeout=25) as r:
+                  assert r.status==200
+                  return r.read()
+          expected=(root/'data/gallery-index.json').read_bytes()
+          for i in range(45):
+              try:
+                  if fetch('data/gallery-index.json')==expected:break
+              except Exception:pass
+              time.sleep(10)
+          else:raise RuntimeError('New indexed gallery not yet deployed')
+          card=json.loads(fetch('data/species/oxalis-drummondii.json'))
+          verified=0
+          for p in card['verified_photos']:
+              if not p['src'].startswith('media/oxalis-drummondii/conrad-public-domain-'):continue
+              assert fetch(p['src'])==(root/p['src']).read_bytes()
+              assert p['creator']=='Jim Conrad' and p['license']=='Public Domain (photographer dedication)'
+              assert p['license_url']=='https://www.backyardnature.net/j/copyrite.htm'
+              verified+=1
+          assert verified==2
+          print('PUBLIC_OXALIS_PHOTOS_LIVE_WITH_CREDITS',verified)
+          PY
