@@ -1807,5 +1807,18 @@
     "Source unavailable: HTTP Error 429: Too Many Requests": 1
   },
   "cumulative_installed": 85,
-  "cumulative_held_reviewed": 36
+  "cumulative_held_reviewed": 36,
+  "owner_20261103_hold_closures": {
+    "policy": "Keep unverified or taxon-mismatched photos off all public family sites; owner requested no further retry. Preserve original provenance for audit; do not delete source files.",
+    "records": [
+      {
+        "git_blob_sha": "3a91d66d4ab1094685e53ac13b3ae449a66c7d0b",
+        "species_id": "paysonia-grandiflora",
+        "filename": "paysonia-grandiflora-provisional-face.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Historical plate source license/rights for exact archived image not independently validated",
+        "original_archived_preserved": true
+      }
+    ]
+  }
 }
