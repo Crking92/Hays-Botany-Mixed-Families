@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
-  "photo_species": 102,
-  "photo_count": 493,
+  "photo_species": 104,
+  "photo_count": 505,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -66,8 +66,8 @@
       "first_src": "media/vesper-macrorhizus/archived-2e14f0c13e2f09e0.jpg"
     },
     "pilostyles-thurberi": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/pilostyles-thurberi/archived-845efd0f57bc992b.jpg"
     },
     "aristolochia-erecta": {
       "count": 0,
@@ -266,7 +266,7 @@
       "first_src": "media/cottsia-gracilis/archived-c1aaa4bb73ecc746.jpg"
     },
     "galphimia-angustifolia": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/galphimia-angustifolia/inat-636851871.jpg"
     },
     "galphimia-gracilis": {
@@ -326,8 +326,8 @@
       "first_src": "media/rhinotropis-lindheimeri-var-lindheimeri/archived-20f38ca111529df7.jpg"
     },
     "senega-alba": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/senega-alba/archived-0bc12e3b90e4a068.jpg"
     },
     "senega-lutea": {
       "count": 1,
@@ -346,7 +346,7 @@
       "first_src": "media/lysimachia-arvensis/inat-630651169.jpg"
     },
     "samolus-ebracteatus": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/samolus-ebracteatus/inat-631487630.jpg"
     },
     "samolus-parviflorus": {

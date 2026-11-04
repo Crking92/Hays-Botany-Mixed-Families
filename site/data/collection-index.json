@@ -144,8 +144,8 @@
       "genus": "Pilostyles",
       "scientific_name": "Pilostyles thurberi",
       "common_name": "Thurber's stemsucker",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "aristolochia-erecta",
@@ -594,7 +594,7 @@
       "genus": "Galphimia",
       "scientific_name": "Galphimia angustifolia",
       "common_name": "Narrowleaf goldshower",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -729,8 +729,8 @@
       "genus": "Senega",
       "scientific_name": "Senega alba",
       "common_name": "White milkwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "senega-lutea",
@@ -774,7 +774,7 @@
       "genus": "Samolus",
       "scientific_name": "Samolus ebracteatus",
       "common_name": "Limewater brookweed",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
