@@ -34,7 +34,7 @@ for row in idx["entries"]:
             assert p["creator"]=="Jim Conrad" and p["license_url"]=="https://www.backyardnature.net/j/copyrite.htm"
             assert p["source_page"]=="https://www.backyardnature.net/n/h/drumm-ox.htm"
         else:
-            assert p["license_url"].startswith("https://creativecommons.org/")
+            assert p["license_url"].startswith("https://creativecommons.org/"),(sid,src,p["license"],p["license_url"])
         assert p["private_rights_review_only"] is False
         is_nc=p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
         assert p["noncommercial_only"] is is_nc
