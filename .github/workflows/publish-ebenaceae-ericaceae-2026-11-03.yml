@@ -1,4 +1,5 @@
 name: Publish source-verified Ebenaceae–Ericaceae ZIP general photos
+# Retry after repairing exact compressed metadata transfer; no additional ZIP upload required.
 on:
   push:
     branches: [main]
