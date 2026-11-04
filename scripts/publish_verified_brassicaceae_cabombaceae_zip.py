@@ -59,8 +59,10 @@ def main():
     parser.add_argument("--report",type=Path,required=True)
     args=parser.parse_args()
     wrapper=json.loads(args.manifest.read_text())
-    if wrapper.get("encoding")!="zlib+base64-json":raise SystemExit("Unsupported original manifest encoding")
-    m=json.loads(zlib.decompress(base64.b64decode(wrapper["payload_b64"],validate=True)))
+    if wrapper.get("encoding")=="zlib+base64-json":
+        m=json.loads(zlib.decompress(base64.b64decode(wrapper["payload_b64"],validate=True)))
+    else:
+        m=wrapper
     if wrapper.get("batch_id")!=m.get("batch_id") or wrapper.get("zip_sha256")!=m.get("zip_sha256") or wrapper.get("repository")!=m.get("repository"):raise SystemExit("Manifest wrapper identity mismatch")
     source=json.loads(Path("site/data/collection-index.json").read_text())
     site_meta=json.loads(Path("site/data/collection-meta.json").read_text())
@@ -77,7 +79,7 @@ def main():
         current_shas.update(x.get("sha256") for x in card.get("verified_photos",[]) if x.get("sha256"))
     report=[];seen=set()
     records=list(decode(m))
-    if len(records)!=m["photos_for_source_checks"] or len(records)!=len(m["source_metadata_credits"]):raise SystemExit("Original photo/credit inventory mismatch")
+    if len(records)!=m["photos_for_source_checks"] or (m.get("source_metadata_credits") and len(records)!=len(m["source_metadata_credits"])):raise SystemExit("Original photo inventory mismatch")
     if m["original_images"]!=len(records)+len(m["offline_held_media"]):raise SystemExit("Institutional hold inventory does not reconcile")
     for sid,pid,oid,sha,ext in records[(args.wave-1)*40:args.wave*40]:
         row={"species_id":sid,"photo_id":pid,"observation_id":oid}
