@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 105,
-  "photo_count": 560,
+  "photo_count": 585,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -42,27 +42,27 @@
       "first_src": "media/eryngium-leavenworthii/archived-804f24954e82f4aa.jpg"
     },
     "eryngium-yuccifolium": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/eryngium-yuccifolium/eryngium-yuccifolium-provisional-face.jpg"
     },
     "polytaenia-nuttallii": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/polytaenia-nuttallii/archived-dc71542c7e6dab43.jpg"
     },
     "polytaenia-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/polytaenia-texana/archived-ffc4425b5bb9c4d0.jpg"
     },
     "sanicula-canadensis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/sanicula-canadensis/archived-5e3c1d652e5d7e40.jpg"
     },
     "torilis-arvensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/torilis-arvensis/archived-45d88dd3ea771fb7.jpg"
     },
     "vesper-macrorhizus": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/vesper-macrorhizus/archived-2e14f0c13e2f09e0.jpg"
     },
     "pilostyles-thurberi": {
