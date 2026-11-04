@@ -33,6 +33,9 @@ for row in idx["entries"]:
         if p["license"]=="Public Domain (photographer dedication)":
             assert p["creator"]=="Jim Conrad" and p["license_url"]=="https://www.backyardnature.net/j/copyrite.htm"
             assert p["source_page"]=="https://www.backyardnature.net/n/h/drumm-ox.htm"
+        elif p["license"]=="PUBLIC DOMAIN (U.S. FEDERAL WORK)":
+            assert p["license_url"]=="https://www.copyright.gov/title17/92chap1.html#105"
+            assert p["creator"] and p["source_page"].startswith("https://commons.wikimedia.org/wiki/File:")
         else:
             assert p["license_url"].startswith("https://creativecommons.org/"),(sid,src,p["license"],p["license_url"])
         assert p["private_rights_review_only"] is False
