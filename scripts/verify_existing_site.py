@@ -13,7 +13,7 @@ from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
-ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: US)?)", re.I)
+ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: US| FR)?)", re.I)
 
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))
@@ -73,8 +73,15 @@ def local_audit():
                     sid + ": published photo differs from its archived Git blob")
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
-            require(bool(ALLOWED.fullmatch(photo["license"])),
-                    sid + ": unknown/non-public photo license: " + photo["license"])
+            # The exact historical source proof is required for author-released
+            # public-domain labels that do not match our CC code grammar.
+            label=photo["license"]
+            author_pd=(label=="PUBLIC DOMAIN (AUTHOR RELEASED)"
+                       and photo.get("license_url")=="https://creativecommons.org/publicdomain/mark/1.0/"
+                       and "PUBLIC DOMAIN (AUTHOR RELEASED)" in str(photo.get("source_review_evidence") or "")
+                       and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:"))
+            require(bool(ALLOWED.fullmatch(label)) or author_pd,
+                    sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery links to private-review-only image")
             nc=photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
