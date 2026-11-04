@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 105,
   "photo_species": 102,
-  "photo_count": 415,
+  "photo_count": 417,
   "entries": {
     "atrema-americanum": {
       "count": 1,
@@ -158,7 +158,7 @@
       "first_src": "media/cleome-dodecandra/archived-2f66a6b668ff68b5.jpg"
     },
     "cleome-trachysperma": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cleome-trachysperma/archived-68ef18c8e0188489.jpg"
     },
     "sedum-nuttallii": {
