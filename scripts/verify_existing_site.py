@@ -87,7 +87,14 @@ def local_audit():
                 and "PUBLIC DOMAIN (U.S. FEDERAL WORK)" in str(photo.get("source_review_evidence") or "")
                 and bool(photo.get("creator"))
             )
-            require(bool(ALLOWED.fullmatch(label)) or author_pd or federal_public_domain,
+            conrad_public_domain=(
+                label=="Public Domain (photographer dedication)"
+                and photo.get("creator")=="Jim Conrad"
+                and photo.get("license_url")=="https://www.backyardnature.net/j/copyrite.htm"
+                and photo.get("source_page","").startswith("https://www.backyardnature.net/")
+                and "dedicates his own photos to public domain" in str(photo.get("source_review_evidence") or "")
+            )
+            require(bool(ALLOWED.fullmatch(label)) or author_pd or federal_public_domain or conrad_public_domain,
                     sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery links to private-review-only image")
