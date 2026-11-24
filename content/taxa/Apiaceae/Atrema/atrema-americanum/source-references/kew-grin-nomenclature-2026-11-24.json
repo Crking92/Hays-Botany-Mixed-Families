@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_nomenclatural_crosswalk",
+  "review_date": "2026-11-24",
+  "species_id": "atrema-americanum",
+  "original_record": "content/taxa/Apiaceae/Atrema/atrema-americanum/species.json",
+  "sources": [
+    {
+      "authority": "Kew Plants of the World Online (based on Flora of North America 2024)",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:838497-1",
+      "accepted_name": "Atrema americanum DC.",
+      "synonyms": [
+        "Bifora americana (DC.) A.Gray",
+        "Anidrum americanum (DC.) Kuntze"
+      ]
+    },
+    {
+      "authority": "USDA ARS GRIN-Global",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=416944",
+      "catalog_display_name": "Atrema americana DC.",
+      "synonym_list_includes": "Bifora americana"
+    }
+  ],
+  "finding": "These records refer to the same taxon concept and an older alternate genus; Kew currently accepts Atrema americanum. GRIN displays Atrema americana with a differing epithet ending. Retain preferred project name pending explicit nomenclatural orthography check; do not create a duplicate species.",
+  "status": "HISTORICAL_GENUS_CROSSWALK_RESOLVED_EPITHET_ORTHOGRAPHY_CONFLICT_RECORDED",
+  "morphology_gap": "The sources consulted here do not supply a detailed diagnostic character treatment; retain existing generic look-here-first as provisional and do not infer achenes/mericarps without exact named flora reference.",
+  "bonap_status": "DEFERRED_BY_OWNER",
+  "preservation": "Additive research; existing species and photographs unchanged"
+}
